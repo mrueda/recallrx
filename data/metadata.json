@@ -9,11 +9,46 @@
       "product_code_systems": [
         "CN"
       ],
-      "records": 157
+      "records": 157,
+      "status": "active"
+    },
+    {
+      "authority": "INFARMED",
+      "code": "pt",
+      "flag": "🇵🇹",
+      "iso2": "PT",
+      "name": "Portugal",
+      "product_code_systems": [
+        "AIM"
+      ],
+      "records": 0,
+      "status": "planned"
+    },
+    {
+      "authority": "ANSM",
+      "code": "fr",
+      "flag": "🇫🇷",
+      "iso2": "FR",
+      "name": "France",
+      "product_code_systems": [
+        "CIP"
+      ],
+      "records": 0,
+      "status": "planned"
+    },
+    {
+      "authority": "Ministeri de Salut",
+      "code": "ad",
+      "flag": "🇦🇩",
+      "iso2": "AD",
+      "name": "Andorra",
+      "product_code_systems": [],
+      "records": 0,
+      "status": "planned"
     }
   ],
   "default_country": "es",
-  "generated_at": "2026-07-11T17:34:46+00:00",
+  "generated_at": "2026-07-11T17:43:55+00:00",
   "record_count": 157,
   "sources": [
     "es_aemps"

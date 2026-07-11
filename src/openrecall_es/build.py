@@ -47,18 +47,27 @@ def build_dataset(output: Path, sources: list[str] | None = None, config_path: P
     selected_sources = sources or enabled_sources(config)
     http = HttpClient()
     all_reports: list[dict[str, Any]] = []
+    reports_by_country: dict[str, list[dict[str, Any]]] = {}
     records_by_country: dict[str, list[RecallRecord]] = {}
 
     for source in selected_sources:
         adapter = create_adapter(source, http=http, config=config)
         records, report = adapter.build()
+        country = adapter.country.lower()
+        report = {**report, "country": country}
         all_reports.append(report)
-        records_by_country.setdefault(adapter.country.lower(), []).extend(records)
+        reports_by_country.setdefault(country, []).append(report)
+        records_by_country.setdefault(country, []).extend(records)
 
     countries = []
-    for country, records in sorted(records_by_country.items()):
+    configured_countries = list(config.get("countries", {}))
+    all_country_codes = configured_countries + [
+        country for country in sorted(records_by_country) if country not in configured_countries
+    ]
+    for country in all_country_codes:
+        records = records_by_country.get(country, [])
         info = country_info(config, country)
-        write_country(output, country, records, all_reports, info)
+        write_country(output, country, records, reports_by_country.get(country, []), info)
         countries.append({**info, "records": len(records)})
 
     metadata = {

@@ -6,6 +6,7 @@
     records: [],
     search: null,
     metadata: null,
+    authority: "AEMPS",
   };
 
   const els = {
@@ -15,6 +16,8 @@
     dateFrom: document.getElementById("dateFrom"),
     dateTo: document.getElementById("dateTo"),
     sortMode: document.getElementById("sortMode"),
+    manufacturer: document.getElementById("manufacturerFilter"),
+    recallClass: document.getElementById("classFilter"),
     years: document.getElementById("yearFilters"),
     clear: document.getElementById("clearButton"),
     exactOnly: document.getElementById("exactOnly"),
@@ -46,11 +49,15 @@
     els.dateFrom.addEventListener("change", render);
     els.dateTo.addEventListener("change", render);
     els.sortMode.addEventListener("change", render);
+    els.manufacturer.addEventListener("change", render);
+    els.recallClass.addEventListener("change", render);
     els.countries.addEventListener("keydown", onCountryKeydown);
     els.clear.addEventListener("click", function () {
       els.input.value = "";
       els.dateFrom.value = "";
       els.dateTo.value = "";
+      els.manufacturer.value = "";
+      els.recallClass.value = "";
       clearYearButtons();
       els.input.focus();
       render();
@@ -63,7 +70,7 @@
     if (!["ArrowLeft", "ArrowRight", "Home", "End"].includes(event.key)) {
       return;
     }
-    const buttons = Array.from(els.countries.querySelectorAll(".country-button"));
+    const buttons = Array.from(els.countries.querySelectorAll(".country-button:not(:disabled)"));
     if (!buttons.length) {
       return;
     }
@@ -88,22 +95,33 @@
   function configureCountries(countries, defaultCountry) {
     els.countries.innerHTML = "";
     countries.forEach(function (country) {
+      const disabled = country.status === "planned" || Number(country.records || 0) === 0;
       const button = document.createElement("button");
       button.type = "button";
-      button.className = "country-button";
+      button.className = disabled ? "country-button country-button--disabled" : "country-button";
       button.dataset.country = country.code;
       button.setAttribute("role", "tab");
       button.setAttribute("aria-label", formatCountryOption(country));
+      button.disabled = disabled;
+      button.title = disabled ? `${formatCountryOption(country)} próximamente` : formatCountryOption(country);
       button.innerHTML = [
         `<span class="country-button__flag" aria-hidden="true">${country.flag || country.iso2 || country.code.toUpperCase()}</span>`,
         `<span class="country-button__label">${country.iso2 || country.code.toUpperCase()}</span>`,
+        disabled ? '<span class="country-button__status">Próx.</span>' : "",
       ].join("");
       button.addEventListener("click", async function () {
-        await loadCountry(country.code);
+        if (!disabled) {
+          await loadCountry(country.code);
+        }
       });
       els.countries.appendChild(button);
     });
-    state.country = defaultCountry || (countries[0] ? countries[0].code : "es");
+    const activeCountries = countries.filter(function (country) {
+      return country.status !== "planned" && Number(country.records || 0) > 0;
+    });
+    state.country = activeCountries.some(function (country) { return country.code === defaultCountry; })
+      ? defaultCountry
+      : (activeCountries[0] ? activeCountries[0].code : "es");
     updateCountryButtons();
   }
 
@@ -122,10 +140,12 @@
     ]);
     state.records = records;
     state.search = createSearch(records);
+    state.authority = countryMetadata.authority || countryMetadata.name || country.toUpperCase();
+    renderFacets(records);
     renderYearFilters(records);
     els.headerLastUpdate.textContent = formatDateTime(countryMetadata.generated_at);
     els.lastUpdate.textContent = formatDateTime(countryMetadata.generated_at);
-    els.authority.textContent = countryMetadata.authority || countryMetadata.name || country.toUpperCase();
+    els.authority.textContent = state.authority;
     els.status.textContent = `${records.length} retiradas indexadas`;
     updateCountryButtons();
     render();
@@ -171,6 +191,48 @@
     });
   }
 
+  function renderFacets(records) {
+    populateSelect(
+      els.manufacturer,
+      "Todos los laboratorios",
+      countValues(records.map(function (record) { return record.manufacturer || ""; }))
+    );
+    populateSelect(
+      els.recallClass,
+      "Todas las clases",
+      countValues(records.map(function (record) {
+        return record.recall_class ? `Clase ${record.recall_class}` : "";
+      }))
+    );
+  }
+
+  function countValues(values) {
+    const counts = new Map();
+    values.filter(Boolean).forEach(function (value) {
+      counts.set(value, (counts.get(value) || 0) + 1);
+    });
+    return Array.from(counts.entries()).sort(function (left, right) {
+      if (right[1] !== left[1]) {
+        return right[1] - left[1];
+      }
+      return left[0].localeCompare(right[0]);
+    });
+  }
+
+  function populateSelect(select, label, entries) {
+    select.innerHTML = "";
+    const all = document.createElement("option");
+    all.value = "";
+    all.textContent = label;
+    select.appendChild(all);
+    entries.forEach(function (entry) {
+      const option = document.createElement("option");
+      option.value = entry[0];
+      option.textContent = `${entry[0]} (${entry[1]})`;
+      select.appendChild(option);
+    });
+  }
+
   function clearYearButtons() {
     els.years.querySelectorAll(".year-button").forEach(function (button) {
       button.setAttribute("aria-pressed", "false");
@@ -209,7 +271,7 @@
     if (!results.length) {
       const empty = document.createElement("p");
       empty.className = "empty";
-      empty.textContent = "No se encontró ninguna retirada coincidente en los registros indexados de la AEMPS.";
+      empty.textContent = `No se encontró ninguna retirada coincidente en los registros indexados de ${state.authority}.`;
       els.results.appendChild(empty);
       return;
     }
@@ -221,7 +283,7 @@
   function filteredResults(query) {
     const base = query ? searchRecords(query) : state.records.map(withBrowseMatch);
     return sortResults(base.filter(function (result) {
-      return recordInDateRange(result.record);
+      return recordInDateRange(result.record) && recordMatchesFacets(result.record);
     }));
   }
 
@@ -232,6 +294,16 @@
     }
     if (els.dateTo.value && date > els.dateTo.value) {
       return false;
+    }
+    return true;
+  }
+
+  function recordMatchesFacets(record) {
+    if (els.manufacturer.value && record.manufacturer !== els.manufacturer.value) {
+      return false;
+    }
+    if (els.recallClass.value) {
+      return `Clase ${record.recall_class || ""}` === els.recallClass.value;
     }
     return true;
   }

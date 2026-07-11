@@ -1,0 +1,14 @@
+{
+  "authority": "INFARMED",
+  "code": "pt",
+  "country": "PT",
+  "flag": "🇵🇹",
+  "generated_at": "2026-07-11T17:43:55+00:00",
+  "iso2": "PT",
+  "name": "Portugal",
+  "product_code_systems": [
+    "AIM"
+  ],
+  "record_count": 0,
+  "status": "planned"
+}

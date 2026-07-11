@@ -8,7 +8,35 @@
       "name": "España",
       "authority": "AEMPS",
       "flag": "🇪🇸",
+      "status": "active",
       "product_code_systems": ["CN"]
+    },
+    "pt": {
+      "code": "pt",
+      "iso2": "PT",
+      "name": "Portugal",
+      "authority": "INFARMED",
+      "flag": "🇵🇹",
+      "status": "planned",
+      "product_code_systems": ["AIM"]
+    },
+    "fr": {
+      "code": "fr",
+      "iso2": "FR",
+      "name": "France",
+      "authority": "ANSM",
+      "flag": "🇫🇷",
+      "status": "planned",
+      "product_code_systems": ["CIP"]
+    },
+    "ad": {
+      "code": "ad",
+      "iso2": "AD",
+      "name": "Andorra",
+      "authority": "Ministeri de Salut",
+      "flag": "🇦🇩",
+      "status": "planned",
+      "product_code_systems": []
     }
   },
   "sources": [
