@@ -3,7 +3,7 @@ requires = ["setuptools>=69"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "openrecall-es"
+name = "openrecall"
 version = "0.1.0"
 description = "Static, country-extensible pharmaceutical recall index starting with AEMPS Spain."
 readme = "README.md"

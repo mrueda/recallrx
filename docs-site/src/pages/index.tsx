@@ -42,20 +42,23 @@ export default function Home() {
 
   return (
     <Layout
-      title="OpenRecall ES"
+      title="OpenRecall"
       description="Static, country-extensible medicine recall search">
       <main className={styles.page}>
         <section className={styles.hero}>
           <div className={styles.heroGrid}>
             <div className={styles.copy}>
-              <p className={styles.kicker}>OpenRecall ES</p>
+              <p className={styles.kicker}>OpenRecall</p>
               <h1>Searchable medicine recalls from official public sources.</h1>
               <p className={styles.lede}>
-                OpenRecall ES turns AEMPS recall pages and PDFs into a static
+                OpenRecall turns AEMPS recall pages and PDFs into a static
                 JSON dataset and browser search app. The first adapter targets
                 Spain, while the schema is designed for future country sources.
               </p>
               <div className={styles.actions}>
+                <Link className="button button--primary button--lg" to="/app">
+                  Open live search
+                </Link>
                 <Link className="button button--primary button--lg" to="/docs/overview">
                   Read the docs
                 </Link>
@@ -70,7 +73,7 @@ export default function Home() {
 
             <div className={styles.indexPanel} aria-label="OpenRecall country index preview">
               <Link className={styles.identity} to="/docs/overview">
-                <img className={styles.logo} src={logoUrl} alt="OpenRecall ES logo" />
+                <img className={styles.logo} src={logoUrl} alt="OpenRecall logo" />
                 <span>OpenRecall index</span>
               </Link>
               <div className={styles.tablePreview} aria-hidden="true">

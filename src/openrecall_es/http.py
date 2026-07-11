@@ -8,7 +8,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 
-DEFAULT_USER_AGENT = "OpenRecall-ES/0.1 (+https://github.com/openrecall/openrecall-es)"
+DEFAULT_USER_AGENT = "OpenRecall/0.1 (+https://github.com/mrueda/openrecall)"
 
 
 @dataclass

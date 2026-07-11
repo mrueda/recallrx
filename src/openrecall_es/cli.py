@@ -15,6 +15,7 @@ def main(argv: list[str] | None = None) -> None:
 
     build_parser = subparsers.add_parser("build", help="Build static recall data")
     build_parser.add_argument("--output", type=Path, default=Path("data"))
+    build_parser.add_argument("--config", type=Path, default=Path("openrecall.config.json"))
     build_parser.add_argument("--source", action="append", dest="sources")
 
     validate_parser = subparsers.add_parser("validate", help="Validate generated data")
@@ -27,7 +28,7 @@ def main(argv: list[str] | None = None) -> None:
 
     args = parser.parse_args(argv)
     if args.command == "build":
-        metadata = build_dataset(args.output, sources=args.sources)
+        metadata = build_dataset(args.output, sources=args.sources, config_path=args.config)
         print(f"Built {metadata['record_count']} records into {args.output}")
     elif args.command == "validate":
         errors = validate_dataset(args.root)

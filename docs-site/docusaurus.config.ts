@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'OpenRecall ES Docs',
+  title: 'OpenRecall Docs',
   tagline: 'Static, country-extensible medicine recall search',
   url: 'https://mrueda.github.io',
   baseUrl: '/openrecall/',
@@ -52,9 +52,9 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'OpenRecall ES',
+      title: 'OpenRecall',
       logo: {
-        alt: 'OpenRecall ES logo',
+        alt: 'OpenRecall logo',
         src: 'img/openrecall-logo.svg',
       },
       items: [

@@ -11,9 +11,40 @@ from openrecall_es.http import HttpClient
 from openrecall_es.models import RecallRecord
 
 
-def build_dataset(output: Path, sources: list[str] | None = None) -> dict[str, Any]:
+DEFAULT_CONFIG_PATH = Path("openrecall.config.json")
+
+
+def load_config(path: Path | None = None) -> dict[str, Any]:
+    config_path = path or DEFAULT_CONFIG_PATH
+    if config_path.exists():
+        return json.loads(config_path.read_text(encoding="utf-8"))
+    return {
+        "default_country": "es",
+        "countries": {},
+        "sources": [{"name": source, "country": source.split("_", 1)[0], "enabled": True} for source in DEFAULT_SOURCES],
+    }
+
+
+def enabled_sources(config: dict[str, Any]) -> list[str]:
+    sources = config.get("sources", [])
+    selected = [source["name"] for source in sources if source.get("enabled", True)]
+    return selected or DEFAULT_SOURCES
+
+
+def country_info(config: dict[str, Any], country: str) -> dict[str, Any]:
+    info = dict(config.get("countries", {}).get(country, {}))
+    info.setdefault("code", country)
+    info.setdefault("iso2", country.upper())
+    info.setdefault("name", country.upper())
+    info.setdefault("authority", "")
+    info.setdefault("flag", "")
+    return info
+
+
+def build_dataset(output: Path, sources: list[str] | None = None, config_path: Path | None = None) -> dict[str, Any]:
     output.mkdir(parents=True, exist_ok=True)
-    selected_sources = sources or DEFAULT_SOURCES
+    config = load_config(config_path)
+    selected_sources = sources or enabled_sources(config)
     http = HttpClient()
     all_reports: list[dict[str, Any]] = []
     records_by_country: dict[str, list[RecallRecord]] = {}
@@ -26,12 +57,14 @@ def build_dataset(output: Path, sources: list[str] | None = None) -> dict[str, A
 
     countries = []
     for country, records in sorted(records_by_country.items()):
-        write_country(output, country, records, all_reports)
-        countries.append({"code": country, "records": len(records)})
+        info = country_info(config, country)
+        write_country(output, country, records, all_reports, info)
+        countries.append({**info, "records": len(records)})
 
     metadata = {
         "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
         "countries": countries,
+        "default_country": config.get("default_country", countries[0]["code"] if countries else None),
         "sources": selected_sources,
         "record_count": sum(item["records"] for item in countries),
     }
@@ -39,7 +72,14 @@ def build_dataset(output: Path, sources: list[str] | None = None) -> dict[str, A
     return metadata
 
 
-def write_country(output: Path, country: str, records: list[RecallRecord], reports: list[dict[str, Any]]) -> None:
+def write_country(
+    output: Path,
+    country: str,
+    records: list[RecallRecord],
+    reports: list[dict[str, Any]],
+    info: dict[str, Any] | None = None,
+) -> None:
+    info = info or {"code": country, "iso2": country.upper(), "name": country.upper(), "authority": "", "flag": ""}
     base = output / "countries" / country
     if base.exists():
         shutil.rmtree(base)
@@ -55,6 +95,7 @@ def write_country(output: Path, country: str, records: list[RecallRecord], repor
     write_json(
         base / "metadata.json",
         {
+            **info,
             "country": country.upper(),
             "record_count": len(records),
             "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),

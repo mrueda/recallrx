@@ -1,6 +1,6 @@
 # Operations
 
-OpenRecall ES is designed to run as a scheduled static data pipeline.
+OpenRecall is designed to run as a scheduled static data pipeline.
 
 ## Daily update
 

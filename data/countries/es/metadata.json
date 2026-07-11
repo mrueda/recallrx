@@ -1,5 +1,13 @@
 {
+  "authority": "AEMPS",
+  "code": "es",
   "country": "ES",
+  "flag": "🇪🇸",
   "generated_at": "2026-07-11T00:00:00+00:00",
+  "iso2": "ES",
+  "name": "España",
+  "product_code_systems": [
+    "CN"
+  ],
   "record_count": 1
 }

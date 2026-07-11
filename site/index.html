@@ -3,22 +3,20 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>OpenRecall ES</title>
+    <title>OpenRecall</title>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
     <main class="app-shell">
       <header class="topbar">
         <div>
-          <h1>OpenRecall ES</h1>
+          <h1>OpenRecall</h1>
           <p id="datasetStatus">Cargando datos de retiradas...</p>
         </div>
-        <label class="country-picker">
+        <div class="country-picker" aria-label="Cambiar país">
           <span>País</span>
-          <select id="countrySelect" disabled>
-            <option value="es">España - AEMPS</option>
-          </select>
-        </label>
+          <div id="countryButtons" class="country-buttons" role="tablist" aria-label="Países disponibles"></div>
+        </div>
       </header>
 
       <section class="search-panel" aria-label="Búsqueda de retiradas">
@@ -43,7 +41,7 @@
           <span>última actualización</span>
         </div>
         <div>
-          <strong>AEMPS</strong>
+          <strong id="sourceAuthority">AEMPS</strong>
           <span>fuente oficial enlazada</span>
         </div>
       </section>

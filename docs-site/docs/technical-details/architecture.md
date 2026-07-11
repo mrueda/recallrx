@@ -1,6 +1,6 @@
 # Architecture
 
-OpenRecall ES has two static outputs: the recall search app and this
+OpenRecall has two static outputs: the recall search app and this
 documentation site.
 
 <div className="dataFlow">

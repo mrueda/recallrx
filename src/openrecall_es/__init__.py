@@ -1,4 +1,4 @@
-"""OpenRecall ES static recall dataset builder."""
+"""OpenRecall static recall dataset builder."""
 
 __all__ = ["__version__"]
 

@@ -12,11 +12,13 @@
     status: document.getElementById("datasetStatus"),
     country: document.getElementById("countrySelect"),
     input: document.getElementById("searchInput"),
+    countries: document.getElementById("countryButtons"),
     clear: document.getElementById("clearButton"),
     exactOnly: document.getElementById("exactOnly"),
     showWarnings: document.getElementById("showWarnings"),
     count: document.getElementById("resultCount"),
     lastUpdate: document.getElementById("lastUpdate"),
+    authority: document.getElementById("sourceAuthority"),
     results: document.getElementById("results"),
     template: document.getElementById("resultTemplate"),
   };
@@ -27,7 +29,7 @@
     bindEvents();
     try {
       state.metadata = await fetchJson("data/metadata.json");
-      configureCountries(state.metadata.countries || []);
+      configureCountries(state.metadata.countries || [], state.metadata.default_country);
       await loadCountry(state.country);
     } catch (error) {
       showError("No se pudieron cargar los datos estáticos.");
@@ -37,6 +39,7 @@
 
   function bindEvents() {
     els.input.addEventListener("input", render);
+    els.countries.addEventListener("keydown", onCountryKeydown);
     els.clear.addEventListener("click", function () {
       els.input.value = "";
       els.input.focus();
@@ -44,21 +47,61 @@
     });
     els.exactOnly.addEventListener("change", render);
     els.showWarnings.addEventListener("change", render);
-    els.country.addEventListener("change", async function () {
-      await loadCountry(els.country.value);
-    });
   }
 
-  function configureCountries(countries) {
-    els.country.innerHTML = "";
+  async function onCountryKeydown(event) {
+    if (!["ArrowLeft", "ArrowRight", "Home", "End"].includes(event.key)) {
+      return;
+    }
+    const buttons = Array.from(els.countries.querySelectorAll(".country-button"));
+    if (!buttons.length) {
+      return;
+    }
+    event.preventDefault();
+    const current = Math.max(0, buttons.findIndex(function (button) {
+      return button.dataset.country === state.country;
+    }));
+    let next = current;
+    if (event.key === "ArrowLeft") {
+      next = current === 0 ? buttons.length - 1 : current - 1;
+    } else if (event.key === "ArrowRight") {
+      next = current === buttons.length - 1 ? 0 : current + 1;
+    } else if (event.key === "Home") {
+      next = 0;
+    } else if (event.key === "End") {
+      next = buttons.length - 1;
+    }
+    buttons[next].focus();
+    await loadCountry(buttons[next].dataset.country);
+  }
+
+  function configureCountries(countries, defaultCountry) {
+    els.countries.innerHTML = "";
     countries.forEach(function (country) {
-      const option = document.createElement("option");
-      option.value = country.code;
-      option.textContent = country.code === "es" ? "España - AEMPS" : country.code.toUpperCase();
-      els.country.appendChild(option);
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "country-button";
+      button.dataset.country = country.code;
+      button.setAttribute("role", "tab");
+      button.setAttribute("aria-label", formatCountryOption(country));
+      button.innerHTML = [
+        `<span class="country-button__flag" aria-hidden="true">${country.flag || country.iso2 || country.code.toUpperCase()}</span>`,
+        `<span class="country-button__label">${country.iso2 || country.code.toUpperCase()}</span>`,
+      ].join("");
+      button.addEventListener("click", async function () {
+        await loadCountry(country.code);
+      });
+      els.countries.appendChild(button);
     });
-    els.country.disabled = countries.length < 2;
-    state.country = countries[0] ? countries[0].code : "es";
+    state.country = defaultCountry || (countries[0] ? countries[0].code : "es");
+    updateCountryButtons();
+  }
+
+  function formatCountryOption(country) {
+    const flag = country.flag ? `${country.flag} ` : "";
+    const name = country.name || country.iso2 || country.code.toUpperCase();
+    const authority = country.authority ? ` - ${country.authority}` : "";
+    return `${flag}${name}${authority}`;
   }
 
   async function loadCountry(country) {
@@ -70,8 +113,18 @@
     state.records = records;
     state.search = createSearch(records);
     els.lastUpdate.textContent = formatDateTime(countryMetadata.generated_at);
+    els.authority.textContent = countryMetadata.authority || countryMetadata.name || country.toUpperCase();
     els.status.textContent = `${records.length} retiradas indexadas`;
+    updateCountryButtons();
     render();
+  }
+
+  function updateCountryButtons() {
+    els.countries.querySelectorAll(".country-button").forEach(function (button) {
+      const active = button.dataset.country === state.country;
+      button.setAttribute("aria-selected", active ? "true" : "false");
+      button.tabIndex = active ? 0 : -1;
+    });
   }
 
   function createSearch(records) {

@@ -61,6 +61,12 @@
   flex-wrap: wrap;
 }
 
+.actions :global(.button--primary:first-child) {
+  border-color: #006d77;
+  background: #006d77;
+  box-shadow: 0 12px 28px rgba(0, 109, 119, 0.22);
+}
+
 .indexPanel {
   display: grid;
   gap: 1rem;

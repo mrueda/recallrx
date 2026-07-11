@@ -58,13 +58,52 @@ h1 {
   font-size: 0.9rem;
 }
 
-select,
+.country-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
+.country-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--ink);
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.country-button:hover,
+.country-button:focus {
+  border-color: var(--primary);
+  background: #f0fffd;
+}
+
+.country-button[aria-selected="true"] {
+  border-color: var(--primary);
+  background: var(--primary);
+  color: #fff;
+}
+
+.country-button__flag {
+  font-size: 1.3rem;
+  line-height: 1;
+}
+
+.country-button__label {
+  font-weight: 700;
+}
+
 input,
 button {
   font: inherit;
 }
 
-select,
 input[type="search"] {
   width: 100%;
   min-height: 44px;
@@ -248,6 +287,10 @@ dd {
   .topbar,
   .result-card__header {
     display: grid;
+  }
+
+  .country-buttons {
+    justify-content: flex-start;
   }
 
   .search-row,

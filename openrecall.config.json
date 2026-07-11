@@ -1,0 +1,20 @@
+{
+  "default_country": "es",
+  "countries": {
+    "es": {
+      "code": "es",
+      "iso2": "ES",
+      "name": "España",
+      "authority": "AEMPS",
+      "flag": "🇪🇸",
+      "product_code_systems": ["CN"]
+    }
+  },
+  "sources": [
+    {
+      "name": "es_aemps",
+      "country": "es",
+      "enabled": true
+    }
+  ]
+}

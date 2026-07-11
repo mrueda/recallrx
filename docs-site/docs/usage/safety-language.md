@@ -1,6 +1,6 @@
 # Safety Language
 
-OpenRecall ES must not tell users that a medicine is safe.
+OpenRecall must not tell users that a medicine is safe.
 
 The correct empty-result wording in the public app is:
 

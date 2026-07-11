@@ -1,8 +1,14 @@
 # Overview
 
-OpenRecall ES is a static, open-source index of medicine recalls from official
+OpenRecall is a static, open-source index of medicine recalls from official
 public sources. The first source is Spain's AEMPS, and the code is structured
 so additional countries can be added through source adapters.
+
+<div className="button-row">
+  <a className="button button--primary button--lg" href="/openrecall/app">
+    Open the live recall search app
+  </a>
+</div>
 
 The project converts recall pages and PDFs into normalized JSON datasets that
 can be searched from a static website. It does not require a backend, database

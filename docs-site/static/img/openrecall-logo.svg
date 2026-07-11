@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
-  <title id="title">OpenRecall ES logo</title>
+  <title id="title">OpenRecall logo</title>
   <desc id="desc">A shield with a searchable medicine recall index.</desc>
   <rect width="96" height="96" rx="20" fill="#f8fafc"/>
   <path d="M48 12 76 22v22c0 18-11.6 31.7-28 40-16.4-8.3-28-22-28-40V22l28-10Z" fill="#006d77"/>
