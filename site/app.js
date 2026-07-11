@@ -19,6 +19,7 @@
     manufacturer: document.getElementById("manufacturerFilter"),
     recallClass: document.getElementById("classFilter"),
     years: document.getElementById("yearFilters"),
+    activeFilters: document.getElementById("activeFilters"),
     clear: document.getElementById("clearButton"),
     exactOnly: document.getElementById("exactOnly"),
     showWarnings: document.getElementById("showWarnings"),
@@ -51,6 +52,7 @@
     els.sortMode.addEventListener("change", render);
     els.manufacturer.addEventListener("change", render);
     els.recallClass.addEventListener("change", render);
+    els.activeFilters.addEventListener("click", onActiveFilterClick);
     els.countries.addEventListener("keydown", onCountryKeydown);
     els.clear.addEventListener("click", function () {
       els.input.value = "";
@@ -267,6 +269,7 @@
     const query = els.input.value.trim();
     const results = filteredResults(query);
     els.count.textContent = String(results.length);
+    renderActiveFilters(query);
     els.results.innerHTML = "";
     if (!results.length) {
       const empty = document.createElement("p");
@@ -278,6 +281,89 @@
     results.slice(0, 100).forEach(function (result) {
       els.results.appendChild(renderRecord(result.record, result.match));
     });
+  }
+
+  function renderActiveFilters(query) {
+    const filters = activeFilters(query);
+    els.activeFilters.innerHTML = "";
+    if (!filters.length) {
+      return;
+    }
+    filters.forEach(function (filter) {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "filter-chip";
+      button.dataset.filter = filter.key;
+      button.innerHTML = `<span>${filter.label}</span><strong aria-hidden="true">×</strong>`;
+      button.setAttribute("aria-label", `Quitar filtro ${filter.label}`);
+      els.activeFilters.appendChild(button);
+    });
+    const clear = document.createElement("button");
+    clear.type = "button";
+    clear.className = "filter-chip filter-chip--clear";
+    clear.dataset.filter = "all";
+    clear.textContent = "Limpiar todo";
+    els.activeFilters.appendChild(clear);
+  }
+
+  function activeFilters(query) {
+    const filters = [];
+    if (query) {
+      filters.push({ key: "query", label: `Texto: ${query}` });
+    }
+    if (els.dateFrom.value) {
+      filters.push({ key: "dateFrom", label: `Desde: ${formatDate(els.dateFrom.value)}` });
+    }
+    if (els.dateTo.value) {
+      filters.push({ key: "dateTo", label: `Hasta: ${formatDate(els.dateTo.value)}` });
+    }
+    if (els.manufacturer.value) {
+      filters.push({ key: "manufacturer", label: `Lab: ${els.manufacturer.value}` });
+    }
+    if (els.recallClass.value) {
+      filters.push({ key: "class", label: els.recallClass.value });
+    }
+    if (els.exactOnly.checked) {
+      filters.push({ key: "exact", label: "Exactas" });
+    }
+    return filters;
+  }
+
+  function onActiveFilterClick(event) {
+    const button = event.target.closest(".filter-chip");
+    if (!button) {
+      return;
+    }
+    removeFilter(button.dataset.filter);
+    render();
+  }
+
+  function removeFilter(filter) {
+    if (filter === "all") {
+      els.input.value = "";
+      els.dateFrom.value = "";
+      els.dateTo.value = "";
+      els.manufacturer.value = "";
+      els.recallClass.value = "";
+      els.exactOnly.checked = false;
+      clearYearButtons();
+      return;
+    }
+    if (filter === "query") {
+      els.input.value = "";
+    } else if (filter === "dateFrom") {
+      els.dateFrom.value = "";
+      clearYearButtons();
+    } else if (filter === "dateTo") {
+      els.dateTo.value = "";
+      clearYearButtons();
+    } else if (filter === "manufacturer") {
+      els.manufacturer.value = "";
+    } else if (filter === "class") {
+      els.recallClass.value = "";
+    } else if (filter === "exact") {
+      els.exactOnly.checked = false;
+    }
   }
 
   function filteredResults(query) {
@@ -379,18 +465,19 @@
 
   function renderRecord(record, match) {
     const fragment = els.template.content.cloneNode(true);
+    const card = fragment.querySelector(".result-card");
+    card.dataset.class = record.recall_class || "unknown";
+    fragment.querySelector('[data-field="alert"]').textContent = record.local_id || record.id;
+    fragment.querySelector('[data-field="date"]').textContent = formatDate(record.date);
+    fragment.querySelector('[data-field="match"]').textContent = match;
     fragment.querySelector("h2").textContent = record.medicine || record.local_id;
-    fragment.querySelector(".meta").textContent = [
-      record.local_id,
-      formatDate(record.date),
-      record.recall_class ? `Clase ${record.recall_class}` : null,
-      match,
-    ].filter(Boolean).join(" · ");
-    fragment.querySelector(".confidence").textContent = `${Math.round((record.confidence || 0) * 100)}%`;
+    fragment.querySelector('[data-field="manufacturer"]').textContent = record.manufacturer || "Laboratorio no extraído";
+    fragment.querySelector('[data-field="class"]').textContent = record.recall_class ? `Clase ${record.recall_class}` : "Sin clase";
+    fragment.querySelector('[data-field="parse"]').textContent = parseStatus(record);
     fragment.querySelector('[data-field="codes"]').textContent = formatCodes(record.product_codes);
     fragment.querySelector('[data-field="lots"]').textContent = (record.lots || []).join(", ") || "-";
-    fragment.querySelector('[data-field="manufacturer"]').textContent = record.manufacturer || "-";
     fragment.querySelector('[data-field="reason"]').textContent = record.reason || "-";
+    fragment.querySelector('[data-field="confidence"]').textContent = `${Math.round((record.confidence || 0) * 100)}%`;
 
     const warnings = fragment.querySelector(".warnings");
     warnings.textContent = els.showWarnings.checked && record.warnings && record.warnings.length
@@ -405,6 +492,17 @@
       pdf.remove();
     }
     return fragment;
+  }
+
+  function parseStatus(record) {
+    const warnings = record.warnings || [];
+    if (!warnings.length) {
+      return "Completo";
+    }
+    if (warnings.some(function (warning) { return warning.startsWith("missing_"); })) {
+      return "Revisar";
+    }
+    return "Extraído";
   }
 
   function withMatch(record, match) {

@@ -283,6 +283,45 @@ button:focus {
   color: var(--muted);
 }
 
+.active-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  min-height: 0;
+  margin-top: 12px;
+}
+
+.filter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  min-height: 32px;
+  border: 1px solid #b7d7d3;
+  border-radius: 999px;
+  background: #eefaf8;
+  color: var(--primary-dark);
+  padding: 4px 10px;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.filter-chip:hover,
+.filter-chip:focus {
+  border-color: var(--primary);
+  background: #def7f3;
+}
+
+.filter-chip strong {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.filter-chip--clear {
+  border-color: var(--line);
+  background: #fff;
+  color: var(--muted);
+}
+
 .summary-strip {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -312,7 +351,31 @@ button:focus {
 }
 
 .result-card {
-  padding: 18px;
+  position: relative;
+  overflow: hidden;
+  padding: 16px 18px 16px 22px;
+}
+
+.result-card::before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 5px;
+  background: #94a3b8;
+  content: "";
+}
+
+.result-card[data-class="1"]::before {
+  background: #b42318;
+}
+
+.result-card[data-class="2"]::before {
+  background: #b7791f;
+}
+
+.result-card[data-class="3"]::before {
+  background: #006d77;
 }
 
 .result-card__header {
@@ -322,6 +385,32 @@ button:focus {
   align-items: start;
 }
 
+.result-card__meta-line,
+.result-card__badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  align-items: center;
+}
+
+.result-card__meta-line {
+  margin-bottom: 5px;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.result-card__meta-line span:not(:last-child)::after {
+  margin-left: 7px;
+  color: #b6c0ca;
+  content: "/";
+}
+
+.result-card__badges {
+  flex: 0 0 auto;
+  justify-content: flex-end;
+}
+
 .result-card h2 {
   margin: 0;
   font-size: 1.15rem;
@@ -329,17 +418,29 @@ button:focus {
 }
 
 .meta {
-  margin: 4px 0 0;
+  margin: 5px 0 0;
   color: var(--muted);
+  font-weight: 700;
 }
 
-.confidence {
-  flex: 0 0 auto;
+.class-badge,
+.parse-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
   border: 1px solid var(--line);
   border-radius: 999px;
+  background: #fff;
   color: var(--primary-dark);
   padding: 4px 10px;
   font-size: 0.85rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.parse-badge {
+  color: #334155;
+  font-weight: 700;
 }
 
 .fields {

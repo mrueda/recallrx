@@ -64,6 +64,7 @@
           <label><input type="checkbox" id="exactOnly"> Solo coincidencias exactas</label>
           <label><input type="checkbox" id="showWarnings" checked> Mostrar avisos de extracción</label>
         </div>
+        <div id="activeFilters" class="active-filters" aria-live="polite"></div>
       </section>
 
       <section class="summary-strip" aria-live="polite">
@@ -88,16 +89,24 @@
       <article class="result-card">
         <div class="result-card__header">
           <div>
+            <div class="result-card__meta-line">
+              <span data-field="alert"></span>
+              <span data-field="date"></span>
+              <span data-field="match"></span>
+            </div>
             <h2></h2>
-            <p class="meta"></p>
+            <p class="meta" data-field="manufacturer"></p>
           </div>
-          <span class="confidence"></span>
+          <div class="result-card__badges">
+            <span class="class-badge" data-field="class"></span>
+            <span class="parse-badge" data-field="parse"></span>
+          </div>
         </div>
         <dl class="fields">
           <div><dt>CN</dt><dd data-field="codes"></dd></div>
           <div><dt>Lotes</dt><dd data-field="lots"></dd></div>
-          <div><dt>Laboratorio</dt><dd data-field="manufacturer"></dd></div>
           <div><dt>Motivo</dt><dd data-field="reason"></dd></div>
+          <div><dt>Confianza</dt><dd data-field="confidence"></dd></div>
         </dl>
         <p class="warnings"></p>
         <div class="links">
