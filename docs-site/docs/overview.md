@@ -22,6 +22,7 @@ server, account system, or cloud runtime.
 - Country-aware normalized recall schema.
 - Static JSON output for GitHub Pages.
 - Browser search over medicine name, product code, lot, recall id, and reason.
+- Date browsing with year chips and explicit date ranges.
 - GitHub Actions for tests, data updates, and documentation builds.
 
 ## Non-goals

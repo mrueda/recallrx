@@ -59,6 +59,11 @@ const config: Config = {
       },
       items: [
         {
+          to: '/app',
+          label: 'Live Search',
+          position: 'left',
+        },
+        {
           type: 'docSidebar',
           sidebarId: 'docsSidebar',
           position: 'left',

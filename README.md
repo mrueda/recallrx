@@ -113,6 +113,7 @@ commit downloaded PDFs.
 The current source flow is:
 
 - Discover candidates through the public AEMPS search endpoint.
+- Use broad recall and year-qualified discovery queries.
 - Parse AEMPS detail pages as the primary source.
 - Accept human-medicine recall IDs such as `R_21/2026`.
 - Reject veterinary alerts, cosmetics, product-safety notices, and general news.

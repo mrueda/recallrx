@@ -7,8 +7,10 @@ endpoint:
 https://www.aemps.gob.es/wp-json/aemps-search/v1/search
 ```
 
-It uses query variants such as `Nº alerta`, pages through results with
-`page=N`, and filters candidates after parsing.
+It uses broad query variants such as `Nº alerta`, `Retirada medicamento lote`,
+and `defecto calidad medicamento`, plus year-qualified query variants. The
+collector pages through results with `page=N`, removes obvious non-human
+medicine candidates, and filters again after parsing the detail page.
 
 ## Filtering
 

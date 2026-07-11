@@ -10,9 +10,12 @@
 
   const els = {
     status: document.getElementById("datasetStatus"),
-    country: document.getElementById("countrySelect"),
     input: document.getElementById("searchInput"),
     countries: document.getElementById("countryButtons"),
+    dateFrom: document.getElementById("dateFrom"),
+    dateTo: document.getElementById("dateTo"),
+    sortMode: document.getElementById("sortMode"),
+    years: document.getElementById("yearFilters"),
     clear: document.getElementById("clearButton"),
     exactOnly: document.getElementById("exactOnly"),
     showWarnings: document.getElementById("showWarnings"),
@@ -39,9 +42,15 @@
 
   function bindEvents() {
     els.input.addEventListener("input", render);
+    els.dateFrom.addEventListener("change", render);
+    els.dateTo.addEventListener("change", render);
+    els.sortMode.addEventListener("change", render);
     els.countries.addEventListener("keydown", onCountryKeydown);
     els.clear.addEventListener("click", function () {
       els.input.value = "";
+      els.dateFrom.value = "";
+      els.dateTo.value = "";
+      clearYearButtons();
       els.input.focus();
       render();
     });
@@ -112,6 +121,7 @@
     ]);
     state.records = records;
     state.search = createSearch(records);
+    renderYearFilters(records);
     els.lastUpdate.textContent = formatDateTime(countryMetadata.generated_at);
     els.authority.textContent = countryMetadata.authority || countryMetadata.name || country.toUpperCase();
     els.status.textContent = `${records.length} retiradas indexadas`;
@@ -124,6 +134,44 @@
       const active = button.dataset.country === state.country;
       button.setAttribute("aria-selected", active ? "true" : "false");
       button.tabIndex = active ? 0 : -1;
+    });
+  }
+
+  function renderYearFilters(records) {
+    const years = Array.from(new Set(records.map(function (record) {
+      return String(record.date || "").slice(0, 4);
+    }).filter(Boolean))).sort().reverse();
+    els.years.innerHTML = "";
+    years.forEach(function (year) {
+      const count = records.filter(function (record) {
+        return String(record.date || "").startsWith(year);
+      }).length;
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "year-button";
+      button.dataset.year = year;
+      button.setAttribute("aria-pressed", "false");
+      button.textContent = `${year} (${count})`;
+      button.addEventListener("click", function () {
+        const selected = button.getAttribute("aria-pressed") === "true";
+        clearYearButtons();
+        if (selected) {
+          els.dateFrom.value = "";
+          els.dateTo.value = "";
+        } else {
+          button.setAttribute("aria-pressed", "true");
+          els.dateFrom.value = `${year}-01-01`;
+          els.dateTo.value = `${year}-12-31`;
+        }
+        render();
+      });
+      els.years.appendChild(button);
+    });
+  }
+
+  function clearYearButtons() {
+    els.years.querySelectorAll(".year-button").forEach(function (button) {
+      button.setAttribute("aria-pressed", "false");
     });
   }
 
@@ -153,7 +201,7 @@
 
   function render() {
     const query = els.input.value.trim();
-    const results = query ? searchRecords(query) : state.records.slice(0, 25).map(withBrowseMatch);
+    const results = filteredResults(query);
     els.count.textContent = String(results.length);
     els.results.innerHTML = "";
     if (!results.length) {
@@ -163,8 +211,37 @@
       els.results.appendChild(empty);
       return;
     }
-    results.slice(0, 50).forEach(function (result) {
+    results.slice(0, 100).forEach(function (result) {
       els.results.appendChild(renderRecord(result.record, result.match));
+    });
+  }
+
+  function filteredResults(query) {
+    const base = query ? searchRecords(query) : state.records.map(withBrowseMatch);
+    return sortResults(base.filter(function (result) {
+      return recordInDateRange(result.record);
+    }));
+  }
+
+  function recordInDateRange(record) {
+    const date = record.date || "";
+    if (els.dateFrom.value && date < els.dateFrom.value) {
+      return false;
+    }
+    if (els.dateTo.value && date > els.dateTo.value) {
+      return false;
+    }
+    return true;
+  }
+
+  function sortResults(results) {
+    const direction = els.sortMode.value === "oldest" ? 1 : -1;
+    return results.slice().sort(function (left, right) {
+      const byDate = String(left.record.date || "").localeCompare(String(right.record.date || ""));
+      if (byDate !== 0) {
+        return byDate * direction;
+      }
+      return String(left.record.id || "").localeCompare(String(right.record.id || "")) * direction;
     });
   }
 
@@ -189,6 +266,14 @@
       const codes = record.product_codes || [];
       if (codes.some(function (code) { return code.value === digits && digits.length > 0; })) {
         matches.push(withMatch(record, "CN exacto"));
+        return;
+      }
+      if (record.date === query) {
+        matches.push(withMatch(record, "fecha exacta"));
+        return;
+      }
+      if (record.date && record.date.startsWith(query) && /^\d{4}(-\d{2})?$/.test(query)) {
+        matches.push(withMatch(record, "fecha"));
         return;
       }
       if ((record.lots || []).some(function (lot) { return normalize(lot) === normalized; })) {

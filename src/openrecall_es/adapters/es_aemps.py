@@ -16,10 +16,16 @@ from openrecall_es.text import clean_text, fold, parse_spanish_date, unique
 
 AEMPS_SEARCH_URL = "https://www.aemps.gob.es/wp-json/aemps-search/v1/search"
 AEMPS_BASE_URL = "https://www.aemps.gob.es"
-DISCOVERY_QUERIES = [
+BASE_DISCOVERY_QUERIES = [
     "Nº alerta",
+    "Formato pdf Nº alerta",
     "Marca comercial Lote",
     "Producto Medicamento Lote",
+    "Retirada medicamento lote",
+    "Retirada del mercado medicamento",
+    "defecto calidad medicamento",
+    "Marca comercial presentación código nacional",
+    "Medidas cautelares adoptadas",
 ]
 
 
@@ -60,14 +66,32 @@ class AempsSpainAdapter:
             "accepted": len(records),
             "rejected": self.rejected,
             "warnings": self.warnings,
-            "discovery_queries": DISCOVERY_QUERIES,
+            "discovery_queries": self.discovery_queries(),
         }
         return records, report
+
+    def discovery_queries(self) -> list[str]:
+        queries = list(BASE_DISCOVERY_QUERIES)
+        for year in self.discovery_years():
+            queries.extend(
+                [
+                    f"Nº alerta medicamento {year}",
+                    f"retirada medicamento lote {year}",
+                    f"defecto calidad medicamento {year}",
+                ]
+            )
+        return unique(queries)
+
+    def discovery_years(self) -> list[int]:
+        from datetime import datetime
+
+        current_year = datetime.now().year
+        return list(range(current_year, 2018, -1))
 
     def discover(self) -> list[Candidate]:
         seen: set[str] = set()
         candidates: list[Candidate] = []
-        for query in DISCOVERY_QUERIES:
+        for query in self.discovery_queries():
             page = 1
             while page <= self.max_pages:
                 payload = self.http.get_json(
@@ -77,6 +101,8 @@ class AempsSpainAdapter:
                 if not isinstance(payload, list) or not payload:
                     break
                 for item in payload:
+                    if not self._candidate_could_be_recall(item):
+                        continue
                     url = clean_text(item.get("url", ""))
                     if not url or url in seen:
                         continue
@@ -93,6 +119,25 @@ class AempsSpainAdapter:
                     break
                 page += 1
         return candidates
+
+    def _candidate_could_be_recall(self, item: dict) -> bool:
+        text = fold(" ".join([str(item.get("title", "")), str(item.get("excerpt", "")), str(item.get("url", ""))]))
+        positive = (
+            "n alerta" in text
+            or "formato pdf" in text
+            or "retirada" in text
+            or "defecto de calidad" in text
+            or "medicamentosusohumano" in text
+        )
+        negative = (
+            "vdc" in text
+            or "veterinario" in text
+            or "cosmetico" in text
+            or "cosmeticos" in text
+            or "productos sanitarios" in text
+            or "producto sanitario" in text
+        )
+        return positive and not negative
 
     def parse_html(self, html: str, source_url: str) -> RecallRecord | None:
         soup = BeautifulSoup(html, "html.parser")

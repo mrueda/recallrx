@@ -100,11 +100,14 @@ h1 {
 }
 
 input,
+select,
 button {
   font: inherit;
 }
 
-input[type="search"] {
+input[type="search"],
+input[type="date"],
+select {
   width: 100%;
   min-height: 44px;
   border: 1px solid var(--line);
@@ -137,6 +140,45 @@ input[type="search"] {
   display: grid;
   grid-template-columns: 1fr auto;
   gap: 10px;
+}
+
+.date-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.date-row label {
+  display: grid;
+  gap: 5px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.year-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.year-button {
+  min-height: 34px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--ink);
+  padding: 4px 11px;
+}
+
+.year-button:hover,
+.year-button:focus,
+.year-button[aria-pressed="true"] {
+  border-color: var(--primary);
+  background: var(--primary);
+  color: #fff;
 }
 
 button {
@@ -294,6 +336,7 @@ dd {
   }
 
   .search-row,
+  .date-row,
   .summary-strip,
   .fields {
     grid-template-columns: 1fr;

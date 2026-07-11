@@ -41,3 +41,13 @@ def test_rejects_veterinary_alerts():
     )
 
     assert record is None
+
+
+def test_discovery_queries_include_broad_recall_terms():
+    adapter = AempsSpainAdapter(http=DummyHttp())
+
+    queries = adapter.discovery_queries()
+
+    assert "Retirada medicamento lote" in queries
+    assert "defecto calidad medicamento" in queries
+    assert any(query.startswith("Nº alerta medicamento ") for query in queries)

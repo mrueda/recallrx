@@ -3,7 +3,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './app.module.css';
 
 export default function AppPage() {
-  const searchUrl = useBaseUrl('/search/');
+  const searchUrl = useBaseUrl('/search/index.html');
 
   return (
     <Layout

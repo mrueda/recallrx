@@ -22,9 +22,27 @@
       <section class="search-panel" aria-label="Búsqueda de retiradas">
         <label for="searchInput">Buscar por medicamento, CN, lote o alerta</label>
         <div class="search-row">
-          <input id="searchInput" type="search" autocomplete="off" placeholder="Ej. 755215, R_21/2026, ABC123">
+          <input id="searchInput" type="search" autocomplete="off" placeholder="Ej. 755215, R_21/2026, ABC123, 2026-06-03">
           <button id="clearButton" type="button" title="Limpiar búsqueda">Limpiar</button>
         </div>
+        <div class="date-row">
+          <label>
+            <span>Desde</span>
+            <input id="dateFrom" type="date">
+          </label>
+          <label>
+            <span>Hasta</span>
+            <input id="dateTo" type="date">
+          </label>
+          <label>
+            <span>Orden</span>
+            <select id="sortMode">
+              <option value="newest">Más recientes</option>
+              <option value="oldest">Más antiguas</option>
+            </select>
+          </label>
+        </div>
+        <div id="yearFilters" class="year-filters" aria-label="Filtrar por año"></div>
         <div class="filters" role="group" aria-label="Filtros de búsqueda">
           <label><input type="checkbox" id="exactOnly"> Solo coincidencias exactas</label>
           <label><input type="checkbox" id="showWarnings" checked> Mostrar avisos de extracción</label>
