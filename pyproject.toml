@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openrecall-es"
+version = "0.1.0"
+description = "Static, country-extensible pharmaceutical recall index starting with AEMPS Spain."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+  "beautifulsoup4>=4.12",
+  "pdfplumber>=0.11",
+  "requests>=2.31",
+]
+
+[project.optional-dependencies]
+test = [
+  "pytest>=8",
+  "requests-mock>=1.12",
+]
+
+[project.scripts]
+openrecall = "openrecall_es.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>OpenRecall ES</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <h1>OpenRecall ES</h1>
+          <p id="datasetStatus">Cargando datos de retiradas...</p>
+        </div>
+        <label class="country-picker">
+          <span>País</span>
+          <select id="countrySelect" disabled>
+            <option value="es">España - AEMPS</option>
+          </select>
+        </label>
+      </header>
+
+      <section class="search-panel" aria-label="Búsqueda de retiradas">
+        <label for="searchInput">Buscar por medicamento, CN, lote o alerta</label>
+        <div class="search-row">
+          <input id="searchInput" type="search" autocomplete="off" placeholder="Ej. 755215, R_21/2026, ABC123">
+          <button id="clearButton" type="button" title="Limpiar búsqueda">Limpiar</button>
+        </div>
+        <div class="filters" role="group" aria-label="Filtros de búsqueda">
+          <label><input type="checkbox" id="exactOnly"> Solo coincidencias exactas</label>
+          <label><input type="checkbox" id="showWarnings" checked> Mostrar avisos de extracción</label>
+        </div>
+      </section>
+
+      <section class="summary-strip" aria-live="polite">
+        <div>
+          <strong id="resultCount">0</strong>
+          <span>resultados</span>
+        </div>
+        <div>
+          <strong id="lastUpdate">-</strong>
+          <span>última actualización</span>
+        </div>
+        <div>
+          <strong>AEMPS</strong>
+          <span>fuente oficial enlazada</span>
+        </div>
+      </section>
+
+      <section id="results" class="results" aria-live="polite"></section>
+    </main>
+
+    <template id="resultTemplate">
+      <article class="result-card">
+        <div class="result-card__header">
+          <div>
+            <h2></h2>
+            <p class="meta"></p>
+          </div>
+          <span class="confidence"></span>
+        </div>
+        <dl class="fields">
+          <div><dt>CN</dt><dd data-field="codes"></dd></div>
+          <div><dt>Lotes</dt><dd data-field="lots"></dd></div>
+          <div><dt>Laboratorio</dt><dd data-field="manufacturer"></dd></div>
+          <div><dt>Motivo</dt><dd data-field="reason"></dd></div>
+        </dl>
+        <p class="warnings"></p>
+        <div class="links">
+          <a data-field="source" target="_blank" rel="noopener noreferrer">AEMPS</a>
+          <a data-field="pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="vendor/minisearch.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

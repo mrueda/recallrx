@@ -1,0 +1,117 @@
+:root {
+  --ifm-color-primary: #006d77;
+  --ifm-color-primary-dark: #075b63;
+  --ifm-color-primary-darker: #064d54;
+  --ifm-color-primary-darkest: #083f45;
+  --ifm-color-primary-light: #11828c;
+  --ifm-color-primary-lighter: #2298a2;
+  --ifm-color-primary-lightest: #83c5be;
+  --ifm-code-font-size: 95%;
+  --ifm-heading-letter-spacing: 0;
+  --or-ink: #111827;
+  --or-muted: #4b5563;
+  --or-line: rgba(0, 109, 119, 0.18);
+  --or-wash: #ecfeff;
+  --or-accent: #eab308;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #83c5be;
+  --ifm-color-primary-dark: #5fb2ac;
+  --ifm-color-primary-darker: #3f9f99;
+  --ifm-color-primary-darkest: #0f766e;
+  --ifm-color-primary-light: #a7d8d2;
+  --ifm-color-primary-lighter: #c7ebe7;
+  --ifm-color-primary-lightest: #e6fffb;
+}
+
+.markdown img {
+  max-width: 100%;
+  height: auto;
+}
+
+.markdown figure {
+  margin: 1.5rem auto 2rem;
+  text-align: center;
+}
+
+.markdown figure img {
+  display: block;
+  margin: 0 auto 0.65rem;
+}
+
+.markdown figcaption {
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.theme-doc-sidebar-container {
+  border-right: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.navbar__logo {
+  align-items: center;
+  background: rgba(255, 255, 255, 0.94);
+  border-radius: 999px;
+  box-shadow: 0 1px 8px rgba(17, 24, 39, 0.14);
+  display: inline-flex;
+  height: 34px;
+  justify-content: center;
+  margin-right: 0.45rem;
+  padding: 3px;
+  width: 34px;
+}
+
+.navbar__logo img {
+  height: 28px;
+  width: 28px;
+}
+
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.dataFlow {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 2rem;
+}
+
+.dataFlow span,
+.schemaPill {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  background: var(--ifm-background-surface-color);
+  padding: 0.75rem;
+  text-align: center;
+  font-weight: 700;
+}
+
+.schemaGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.schemaPill {
+  text-align: left;
+}
+
+.schemaPill strong {
+  display: block;
+  color: var(--ifm-color-primary);
+}
+
+@media (max-width: 768px) {
+  .dataFlow,
+  .schemaGrid {
+    grid-template-columns: 1fr;
+  }
+}

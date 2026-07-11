@@ -1,0 +1,18 @@
+{
+  "reports": [
+    {
+      "accepted": 1,
+      "candidates": 1,
+      "discovery_queries": [
+        "Nº alerta",
+        "Marca comercial Lote",
+        "Producto Medicamento Lote"
+      ],
+      "rejected": [],
+      "source": "es_aemps",
+      "warnings": [
+        "seed dataset; live update workflow regenerates this file"
+      ]
+    }
+  ]
+}

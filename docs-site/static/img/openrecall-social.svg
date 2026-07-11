@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f5f7fa"/>
+  <path d="M0 500h1200v130H0z" fill="#006d77"/>
+  <circle cx="950" cy="165" r="112" fill="#83c5be"/>
+  <rect x="96" y="96" width="240" height="240" rx="48" fill="#ffffff"/>
+  <path d="M216 132 286 158v58c0 46-29 80-70 100-41-20-70-54-70-100v-58l70-26Z" fill="#006d77"/>
+  <path d="M198 190h36v22h22v36h-22v22h-36v-22h-22v-36h22v-22Z" fill="#ffffff"/>
+  <text x="390" y="210" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700" fill="#18202a">OpenRecall ES</text>
+  <text x="392" y="292" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#617082">Static, searchable AEMPS medicine recalls</text>
+  <text x="392" y="548" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#ffffff">Country-extensible JSON datasets for public recall notices</text>
+</svg>

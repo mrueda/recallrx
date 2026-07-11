@@ -1,0 +1,29 @@
+[
+  {
+    "authority": "AEMPS",
+    "confidence": 0.84,
+    "country": "ES",
+    "date": "2026-06-03",
+    "id": "ES_AEMPS_R_21_2026",
+    "local_id": "R_21/2026",
+    "lots": [
+      "ABC123"
+    ],
+    "manufacturer": "ALCON HEALTHCARE, S.A.",
+    "medicine": "OCULOTECT 50 mg/ml COLIRIO EN SOLUCION, 1 frasco de 10 ml",
+    "pdf_url": "https://www.aemps.gob.es/informa/alertas/medicamentosUsoHumano/2026/docs/R21_2026.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "755215"
+      }
+    ],
+    "publication_date": "2026-06-04",
+    "reason": "Defecto de calidad que no supone un riesgo vital para el paciente",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/oculotect-50-mg-ml-colirio-en-solucion-1-frasco-de-10-ml-nr-61982-cn-755215/",
+    "warnings": [
+      "seed_record"
+    ]
+  }
+]
