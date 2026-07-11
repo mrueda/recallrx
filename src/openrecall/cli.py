@@ -5,8 +5,8 @@ import shutil
 import sys
 from pathlib import Path
 
-from openrecall_es.build import build_dataset
-from openrecall_es.validate import validate_dataset
+from openrecall.build import build_dataset
+from openrecall.validate import validate_dataset
 
 
 def main(argv: list[str] | None = None) -> None:

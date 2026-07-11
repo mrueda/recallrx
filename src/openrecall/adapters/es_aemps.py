@@ -11,10 +11,10 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-from openrecall_es.adapters.base import Candidate
-from openrecall_es.http import HttpClient
-from openrecall_es.models import ProductCode, RecallRecord
-from openrecall_es.text import clean_text, fold, parse_spanish_date, unique
+from openrecall.adapters.base import Candidate
+from openrecall.http import HttpClient
+from openrecall.models import ProductCode, RecallRecord
+from openrecall.text import clean_text, fold, parse_spanish_date, unique
 
 
 AEMPS_SEARCH_URL = "https://www.aemps.gob.es/wp-json/aemps-search/v1/search"

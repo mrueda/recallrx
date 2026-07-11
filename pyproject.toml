@@ -22,7 +22,7 @@ test = [
 ]
 
 [project.scripts]
-openrecall = "openrecall_es.cli:main"
+openrecall = "openrecall.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]

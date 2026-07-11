@@ -37,13 +37,13 @@ jobs:
         run: pytest
 
       - name: Compile Python files
-        run: python -m py_compile src/openrecall_es/*.py src/openrecall_es/adapters/*.py tests/*.py
+        run: python -m py_compile src/openrecall/*.py src/openrecall/adapters/*.py tests/*.py
 
       - name: Validate seed data
-        run: python -m openrecall_es validate data
+        run: python -m openrecall validate data
 
       - name: Check frontend JavaScript
         run: node --check site/app.js
 
       - name: Build static app
-        run: python -m openrecall_es dist
+        run: python -m openrecall dist

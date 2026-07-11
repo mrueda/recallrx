@@ -3,7 +3,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Protocol
 
-from openrecall_es.models import RecallRecord
+from openrecall.models import RecallRecord
 
 
 @dataclass(frozen=True)

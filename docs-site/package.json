@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "build:app": "PYTHONPATH=../src python3 -m openrecall_es dist --site ../site --data ../data --output static/app",
+    "build:app": "PYTHONPATH=../src python3 -m openrecall dist --site ../site --data ../data --output static/app",
     "prestart": "npm run build:app",
     "start": "NODE_OPTIONS=--max-old-space-size=4096 docusaurus start",
     "prebuild": "npm run build:app",

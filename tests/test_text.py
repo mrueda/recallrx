@@ -1,4 +1,4 @@
-from openrecall_es.text import parse_spanish_date
+from openrecall.text import parse_spanish_date
 
 
 def test_parse_spanish_word_date():

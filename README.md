@@ -56,19 +56,19 @@ python3 -m pip install -e ".[test]"
 Validate the bundled seed dataset:
 
 ```bash
-python3 -m openrecall_es validate data
+python3 -m openrecall validate data
 ```
 
 Build fresh recall data with the Python collector:
 
 ```bash
-python3 -m openrecall_es build --output data
+python3 -m openrecall build --output data
 ```
 
 Build the static deploy directory:
 
 ```bash
-python3 -m openrecall_es dist
+python3 -m openrecall dist
 ```
 
 Serve the static app locally:
@@ -131,14 +131,14 @@ pytest
 Run bytecode and frontend checks:
 
 ```bash
-python3 -m py_compile src/openrecall_es/*.py src/openrecall_es/adapters/*.py
+python3 -m py_compile src/openrecall/*.py src/openrecall/adapters/*.py
 node --check site/app.js
 ```
 
 Validate static data:
 
 ```bash
-python3 -m openrecall_es validate data
+python3 -m openrecall validate data
 ```
 
 Run the docs checks:

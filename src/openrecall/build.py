@@ -6,9 +6,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-from openrecall_es.adapters.registry import DEFAULT_SOURCES, create_adapter
-from openrecall_es.http import HttpClient
-from openrecall_es.models import RecallRecord
+from openrecall.adapters.registry import DEFAULT_SOURCES, create_adapter
+from openrecall.http import HttpClient
+from openrecall.models import RecallRecord
 
 
 DEFAULT_CONFIG_PATH = Path("openrecall.config.json")

@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-from openrecall_es.adapters.es_aemps import AempsSpainAdapter
-from openrecall_es.http import HttpClient
+from openrecall.adapters.es_aemps import AempsSpainAdapter
+from openrecall.http import HttpClient
 
 
 def create_adapter(name: str, http: HttpClient, config: dict | None = None):

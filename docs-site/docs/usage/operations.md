@@ -8,8 +8,8 @@ The dataset update workflow runs the Python collector, validates the generated
 JSON, and commits changes only when the `data/` directory changes.
 
 ```bash
-python -m openrecall_es build --output data
-python -m openrecall_es validate data
+python -m openrecall build --output data
+python -m openrecall validate data
 ```
 
 The collector uses Python HTTP requests rather than `wget`, so it can set a
