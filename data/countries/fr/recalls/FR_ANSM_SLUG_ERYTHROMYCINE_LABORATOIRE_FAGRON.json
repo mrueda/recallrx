@@ -1,0 +1,28 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des officines et établissements de santé",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-02-06",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ERYTHROMYCINE_LABORATOIRE_FAGRON",
+  "local_id": "SLUG_ERYTHROMYCINE_LABORATOIRE_FAGRON",
+  "lots": [],
+  "manufacturer": "Laboratoire Fagron",
+  "medicine": "Erythromycine",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-02-06",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Erythromycine – Laboratoire Fagron"
+  },
+  "reason": "Erythromycine – Laboratoire Fagron RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 06/02/2026 A+ A- Niveau de rappel : en direct auprès des officines et établissements de santé Le laboratoire Fagron procède, par mesure de précaution, au rappel des lots mentionnés ci-dessous de la matière première à usage pharmaceutique \"Erythromycine\" » fabriquée par Sm Biomed : Erythromycine 10 g 24D11-B07-001104 25B12-B05-012195 25B12-B05-013165 Erythromycine 25 g 24A22-B01-239100 24D11-B07-001101 24D11-B07-006406 25B12-B05-009388 25B12-B05-016124 Erythromycine 100 g 24A22-B01-240301 24D11-B07-001098 24D11-B07-006401 25B12-B05-009388 25B12-B05-016123 Ce rappel fait suite à l’émission d’une déclaration de non-conformité aux Bonnes pratiques de fabrication du site de fabrication Sm Biomed.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/erythromycine-laboratoire-fagron",
+  "warnings": [
+    "missing_cip",
+    "missing_lot"
+  ]
+}

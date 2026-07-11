@@ -1,0 +1,29 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam estes lotes de medicamento em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução. Os doentes que estejam a utilizar medicamentos pertencentes a este lote não devem interromper o tratamento. Logo que possível, devem contactar o médico para que este possa analisar a necessidade ou não da substituição por um medicamento alternativo.",
+  "authority": "INFARMED",
+  "confidence": 0.78,
+  "country": "PT",
+  "date": "2026-04-17",
+  "expiry_dates": [],
+  "id": "PT_INFARMED_CI_038_CD_550_20_001_2026",
+  "local_id": "CI 038/CD/550.20.001",
+  "lots": [],
+  "manufacturer": "Bayer Portugal",
+  "medicine": "Gastrografina, solução gastroentérica e Urografina, solução injetável",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-04-13",
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária de lotes | Gastrografina, solução gastroentérica e Urografina, solução injetável"
+  },
+  "reason": "A empresa Bayer Portugal, Lda. irá proceder à recolha voluntária dos lotes indicados na tabela seguinte referentes aos medicamentos Gastrografina, solução gastroentérica, 0.76 g/ml, 100 ml (n.º de registo 8575902) e Urografina, solução injetável, 76% 100 ml (n.º de registo 8564732) , por ter sido detetada uma impureza acima do limite aceitável.",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12928032",
+  "warnings": [
+    "missing_registration_number",
+    "missing_lot"
+  ]
+}

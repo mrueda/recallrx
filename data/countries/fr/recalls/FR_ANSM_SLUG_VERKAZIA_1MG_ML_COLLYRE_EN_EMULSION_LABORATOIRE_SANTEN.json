@@ -1,0 +1,33 @@
+{
+  "actions": "Ce rappel fait suite à la mise en évidence d'un sous dosage en principe actif (ciclosporine) durant les études de stabilité dû à un phénomène de cristallisation de la ciclosporine. Le laboratoire précise qu’à ce jour aucun cas de pharmacovigilance, en lien avec le défaut qualité, n’a été rapporté. Niveau de retrait : officines et circuit de distribution Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - ",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2026-03-11",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_VERKAZIA_1MG_ML_COLLYRE_EN_EMULSION_LABORATOIRE_SANTEN",
+  "local_id": "SLUG_VERKAZIA_1MG_ML_COLLYRE_EN_EMULSION_LABORATOIRE_SANTEN",
+  "lots": [
+    "4T98AC",
+    "4T98Q"
+  ],
+  "manufacturer": "Laboratoire Santen (MED 26/A011)",
+  "medicine": "Verkazia 1mg/mL, collyre en émulsion",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930172032"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2026-03-11",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Verkazia 1mg/mL, collyre en émulsion – Laboratoire Santen (MED 26/A011)"
+  },
+  "reason": "Verkazia 1mg/mL, collyre en émulsion – Laboratoire Santen (MED 26/A011) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 11/03/2026 A+ A- Niveau de retrait : officines et circuit de distribution Le laboratoire Santen procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots de la spécialité pharmaceutique mentionnée ci-dessous : Verkazia 1mg/mL, collyre en émulsion (0,3 ml en récipient unidose (PEBD), boîte de 120 ) – CIP 34009 301 720 3 2 Lot 4T98AC (péremption 12/2026) Lot 4T98Q (péremption 12/2026) Ce rappel fait suite à la mise en évidence d'un sous dosage en principe actif (ciclosporine) durant les études de stabilité dû à un phénomène de cristallisation de la ciclosporine.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/verkazia-1mg-ml-collyre-en-emulsion-laboratoire-santen",
+  "warnings": []
+}

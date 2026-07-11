@@ -7,19 +7,19 @@ const userLinks = [
     label: 'Search',
     title: 'Open the recall search app',
     text: 'Search by medicine name, product code, lot, alert id, year, or date range.',
-    url: 'https://mrueda.github.io/openrecall/app/',
+    url: 'https://mrueda.github.io/recallrx/app/',
   },
   {
     label: 'Understand',
     title: 'Read the user guide',
-    text: 'Learn what the results mean, how source links work, and what OpenRecall does not claim.',
-    url: '/openrecall/docs/usage/quickstart',
+    text: 'Learn what the results mean, how source links work, and what RecallRx does not claim.',
+    url: '/recallrx/docs/usage/quickstart',
   },
   {
     label: 'Safety',
     title: 'Safety language',
-    text: 'Use official AEMPS links for decisions and treat OpenRecall as an index, not medical advice.',
-    url: '/openrecall/docs/usage/safety-language',
+    text: 'Use official source links for decisions and treat RecallRx as an index, not medical advice.',
+    url: '/recallrx/docs/usage/safety-language',
   },
 ];
 
@@ -28,41 +28,41 @@ const developerLinks = [
     label: 'Architecture',
     title: 'How it works',
     text: 'Review the static app, country-aware datasets, and source adapter boundaries.',
-    url: '/openrecall/docs/technical-details/architecture',
+    url: '/recallrx/docs/technical-details/architecture',
   },
   {
     label: 'Schema',
     title: 'Normalized data model',
     text: 'Inspect the recall record contract used by the frontend and future country sources.',
-    url: '/openrecall/docs/technical-details/data-schema',
+    url: '/recallrx/docs/technical-details/data-schema',
   },
   {
     label: 'Extend',
     title: 'Add another country',
     text: 'Implement a new source adapter while keeping the browser app contract stable.',
-    url: '/openrecall/docs/technical-details/source-adapters',
+    url: '/recallrx/docs/technical-details/source-adapters',
   },
 ];
 
 const rows = [
   ['ES', 'AEMPS', 'R_21/2026', 'CN 755215'],
-  ['US', 'FDA', 'planned', 'NDC'],
-  ['UK', 'MHRA', 'planned', 'PL'],
-  ['CA', 'Health Canada', 'planned', 'DIN'],
+  ['PT', 'INFARMED', 'CI 054/CD', 'AIM 2621696'],
+  ['FR', 'ANSM', 'Rappel produit', 'CIP 3400955062400'],
+  ['AD', 'Salut', 'planned', 'source needed'],
 ];
 
 export default function Home() {
-  const logoUrl = useBaseUrl('/img/openrecall-logo.svg');
+  const logoUrl = useBaseUrl('/img/recallrx-logo.svg');
 
   return (
     <Layout
-      title="OpenRecall"
+      title="RecallRx"
       description="Static, country-extensible medicine recall search">
       <main className={styles.page}>
         <section className={styles.hero}>
           <div className={styles.heroGrid}>
             <div className={styles.copy}>
-              <p className={styles.kicker}>OpenRecall</p>
+              <p className={styles.kicker}>RecallRx</p>
               <h1>Find medicine recalls from official public sources.</h1>
               <p className={styles.lede}>
                 Start with the live search app. The documentation is split into
@@ -70,7 +70,7 @@ export default function Home() {
                 for maintaining the collector and adding countries.
               </p>
               <div className={styles.actions}>
-                <a className="button button--primary button--lg" href="https://mrueda.github.io/openrecall/app/">
+                <a className="button button--primary button--lg" href="https://mrueda.github.io/recallrx/app/">
                   Open live search
                 </a>
                 <a className="button button--secondary button--lg" href="#user-docs">
@@ -82,9 +82,9 @@ export default function Home() {
               </div>
             </div>
 
-            <div className={styles.indexPanel} aria-label="OpenRecall country index preview">
-              <a className={styles.identity} href="https://mrueda.github.io/openrecall/app/">
-                <img className={styles.logo} src={logoUrl} alt="OpenRecall logo" />
+            <div className={styles.indexPanel} aria-label="RecallRx country index preview">
+              <a className={styles.identity} href="https://mrueda.github.io/recallrx/app/">
+                <img className={styles.logo} src={logoUrl} alt="RecallRx logo" />
                 <span>Live recall index</span>
               </a>
               <div className={styles.tablePreview} aria-hidden="true">
@@ -124,7 +124,7 @@ export default function Home() {
         <section className={styles.sections} id="developer-docs" aria-labelledby="developer-heading">
           <div className={styles.sectionHeader}>
             <p>Developer docs</p>
-            <h2 id="developer-heading">Maintain and extend OpenRecall.</h2>
+            <h2 id="developer-heading">Maintain and extend RecallRx.</h2>
           </div>
           <div className={styles.grid}>
             {developerLinks.map((feature) => (

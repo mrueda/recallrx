@@ -1,9 +1,9 @@
 # Use the App
 
-OpenRecall is meant to start with the live search app:
+RecallRx is meant to start with the live search app:
 
 <div className="button-row">
-  <a className="button button--primary button--lg" href="https://mrueda.github.io/openrecall/app/">
+  <a className="button button--primary button--lg" href="https://mrueda.github.io/recallrx/app/">
     Open live search
   </a>
 </div>
@@ -24,7 +24,7 @@ countries are available.
 
 Use year chips for broad browsing and the date range fields for narrower review.
 The app searches the indexed dataset only, so a missing result means no matching
-record was found in the current OpenRecall data.
+record was found in the current RecallRx data.
 
 ## Developer Setup
 

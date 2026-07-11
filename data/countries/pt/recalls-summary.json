@@ -1,1 +1,783 @@
-[]
+[
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2026-06-03",
+    "id": "PT_INFARMED_CI_054_CD_550_20_001_2026",
+    "local_id": "CI 054/CD/550.20.001",
+    "lots": [
+      "E1743",
+      "F1257",
+      "E1744"
+    ],
+    "manufacturer": "Generis Farmacêutica",
+    "medicine": "Aciclovir Labesfal e Aciclovir Livixone 50 mg/g creme",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "2621696"
+      },
+      {
+        "system": "AIM",
+        "value": "2621795"
+      },
+      {
+        "system": "AIM",
+        "value": "5224688"
+      }
+    ],
+    "publication_date": "2026-06-01",
+    "reason": "A empresa Generis Farmacêutica, S.A. irá proceder à recolha voluntária dos lotes abaixo listados na sequência de ter sido detetada uma alteração ao nível da consistência do creme que impacta com a aplicação do mesmo.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13121773",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2026-04-17",
+    "id": "PT_INFARMED_CI_038_CD_550_20_001_2026",
+    "local_id": "CI 038/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Bayer Portugal",
+    "medicine": "Gastrografina, solução gastroentérica e Urografina, solução injetável",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-04-13",
+    "reason": "A empresa Bayer Portugal, Lda. irá proceder à recolha voluntária dos lotes indicados na tabela seguinte referentes aos medicamentos Gastrografina, solução gastroentérica, 0.76 g/ml, 100 ml (n.º de registo 8575902) e Urografina, solução injetável, 76% 100 ml (n.º de registo 8564732) , por ter sido detetada uma impureza acima do limite aceitável.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12928032",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2026-04-02",
+    "id": "PT_INFARMED_CI_036_CD_550_20_001_2026",
+    "local_id": "CI 036/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Satis-Radioisótopos e Protecções Contra Sobretensões Eléctricas, Lda",
+    "medicine": "Visipaque 320, Iodixanol e Omnipaque 350, Io-hexol",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5850813"
+      },
+      {
+        "system": "AIM",
+        "value": "5850920"
+      }
+    ],
+    "publication_date": "2026-04-01",
+    "reason": "Por terem sido detetadas partículas nas embalagens de acondicionamento primário de polipropileno de 100 mL, o Infarmed ordena a recolha dos lotes n.º 17244652 (validade 26/07/2028) e n.º 17303308 (validade: 15/08/2028) do medicamento Visipaque 320, Iodixanol, 652 mg/mL, Solução injetável, com o número de registo 5850813, e dos lotes n.º 17277208 (validade: 25/07/2028) e n.º. 17340558 (validade: 30/11/2028) do medicamento Omnipaque 350, Io-hexol, 755 mg/mL, Solução injetável , com o número de registo 5850920, do titular de autorização de introdução no mercado Satis-Radioisótopos e Protecções Contra Sobretensões Eléctricas, Lda.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12667112",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2026-03-30",
+    "id": "PT_INFARMED_CI_034_CD_550_20_001_2026",
+    "local_id": "CI 034/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Chiesi Farmaceutici",
+    "medicine": "Curosurf (Poractante alfa) - 120 mg-1.5 ml, suspensão para instilação endotraqueobrônquica",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "2139889"
+      }
+    ],
+    "publication_date": "2026-03-30",
+    "reason": "A empresa Chiesi Farmaceutici, S.p.A. irá proceder à recolha voluntária, na sequência de ter sido identificado falhas no controlo ambiental da produção do medicamento. dos lotes n.º 1204472 (prazo de validade 04/2026) e n.º 1212392 (prazo de validade 07/2026), do medicamento Curosurf (Poractante alfa), 120 mg/1.5 ml, Suspensão para instalação endotraqueobrônquica, nº de registo 2139889 - 1 frasco para injetáveis 1,5 ml.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12659868",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2026-03-20",
+    "id": "PT_INFARMED_CI_030_CD_550_20_001_2026",
+    "local_id": "CI 030/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Santen Oy",
+    "medicine": "Ikervis (Ciclosporina) 1 mg-ml (colírio, emulsão, Lote 4T92C)",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-03-17",
+    "reason": "Por terem sido detetados valores fora da especificação para a substância ativa ciclosporina, o Infarmed determina a recolha do lote 4T92C, prazo de validade 31/12/2026, do medicamento Ikervis (Ciclosporina), 1 mg/ml, colírio, emulsão n.º de registo 5672266, 30 unidades de recipiente, unidose de 0,3 ml, do titular de autorização de introdução no mercado Santen Oy.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12596631",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2026-03-20",
+    "id": "PT_INFARMED_CI_029_CD_550_20_001_2026",
+    "local_id": "CI 029/CD/550.20.001",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Recolha voluntária do mercado de vários lotes de Sertralina toLife",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-03-16",
+    "reason": "A Towa Pharmaceutical, S.A. irá proceder à recolha voluntária dos lotes indicados na tabela em anexo, referentes aos medicamentos Sertralina toLife 50 mg, comprimidos revestidos por película e Sertralina toLife 100 mg, comprimidos revestidos por película (vários lotes), por ter sido detetada uma impureza acima do limite aceitável.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12596578",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2026-03-11",
+    "id": "PT_INFARMED_CI_027_CD_550_20_001_2026",
+    "local_id": "CI 027/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Air Liquide Medicinal",
+    "medicine": "Oxigénio Medicinal Air Liquide Medicinal, 100% gás medicinal comprimido",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-03-10",
+    "reason": null,
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12579297",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2026-02-26",
+    "id": "PT_INFARMED_CI_019_CD_550_20_001_2026",
+    "local_id": "CI 019/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Faes Farma Portugal",
+    "medicine": "Bilaxten (bilastina), 6 mg-ml, colírio",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5843834"
+      }
+    ],
+    "publication_date": "2026-02-26",
+    "reason": "A empresa Faes Farma Portugal, S.A. irá proceder à recolha voluntária dos lotes n.º 313170B, com a validade 01/2027 e n.º 341790B, com a validade 01/2028 do medicamento Bilaxten (bilastina), 6 mg/ml, colírio, nº de registo 5843834 - frasco de 5 ml, por ter sido detetado partículas visíveis na solução dos respetivos colírios.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12542806",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2026-02-25",
+    "id": "PT_INFARMED_CI_017_CD_550_20_001_2026",
+    "local_id": "CI 017/CD/550.20.001",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Lergonix (bilastina), colírio, 6 mg-ml",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5843750"
+      }
+    ],
+    "publication_date": "2026-02-24",
+    "reason": "A empresa A. Menarini Portugal Farmacêutica, S.A. , irá proceder à recolha voluntária dos lotes n.º 295610A com a validade 06/2026 e nº 341780A com a validade 01/2028 , do medicamento Lergonix (bilastina), 6 mg/ml, colírio , com o número de registo 5843750, por ter sido detetado partículas visíveis na solução dos respetivos colírios.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12541960",
+    "warnings": [
+      "missing_lot",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2026-01-26",
+    "id": "PT_INFARMED_CI_009_CD_550_20_001_2026",
+    "local_id": "CI 009/CD/550.20.001",
+    "lots": [
+      "1218778"
+    ],
+    "manufacturer": "Chiesi Farmaceutici",
+    "medicine": "Lamzede (velmanase alfa), pó para solução para perfusão, 10 mg",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": null,
+    "reason": "A empresa Chiesi Farmaceutici, S.p.A irá proceder à recolha voluntária do lote nº 1218778 (val: 03/2026) do medicamento Lamzede, velmanase alfa 10 mg, Pó para solução para perfusão, nº de registo: 5830377 em virtude de ter sido detetado um resultado fora de especificação no teor agregados proteicos no âmbito de um estudo de estabilidade.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12376787",
+    "warnings": [
+      "missing_registration_number"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2026-01-23",
+    "id": "PT_INFARMED_CI_008_CD_550_20_001_2026",
+    "local_id": "CI 008/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Pharmanovia",
+    "medicine": "Tenormin (atenolol), 50 e 100 mg, comprimidos revestidos por película",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-01-23",
+    "reason": "A empresa Pharmanovia irá proceder à recolha voluntária de vários lotes dos medicamentos Tenormin, Atenolol 50 mg e 100 mg comprimidos revestidos por película , conforme indicado na Tabela infra, por ter sido detetada a omissão no Resumo das Características do Medicamento e no Folheto Informativo, a referência à reação adversa \"depressão\".",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12373861",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2026-01-23",
+    "id": "PT_INFARMED_CI_007_CD_550_20_001_2026",
+    "local_id": "CI 007/CD/550.20.001",
+    "lots": [
+      "24FN075A",
+      "24GN087A",
+      "24GN088A",
+      "24GN089A",
+      "24BN144A",
+      "24BN145A",
+      "24BN146A",
+      "24FN080A",
+      "24FN081A"
+    ],
+    "manufacturer": null,
+    "medicine": "Sertralina toLife 50 mg e 100 mg, comprimidos revestidos por película",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5035977"
+      },
+      {
+        "system": "AIM",
+        "value": "5036025"
+      }
+    ],
+    "publication_date": "2026-01-23",
+    "reason": "A Towa Pharmaceutical, S.A. irá proceder à recolha voluntária dos lotes indicados na tabela seguinte referentes aos medicamentos Sertralina toLife 50 mg Comprimidos revestidos por película e Sertralina toLife 100 mg Comprimidos revestidos por película (vários lotes), por ter sido detetada uma impureza acima do limite aceitável.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12373786",
+    "warnings": [
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2026-01-06",
+    "id": "PT_INFARMED_CI_001_CD_550_20_001_2026",
+    "local_id": "CI 001/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Amdipharm Ltd",
+    "medicine": "Recolha voluntária dos medicamentos Myrelez (Lanreotida | 60 mg, 90 mg e 120 mg | Solução injetável em seringa pré-cheia",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-01-04",
+    "reason": "A empresa Amdipharm Ltd irá proceder à recolha voluntária dos lotes dos medicamentos listados em anexo, por terem sido detetadas deficiências (não conformidades) nas Boas Práticas de Fabrico (GMP), nomeadamente a nível de validação de processos assépticos, monitorização ambiental, microbiologia, inspeção visual de partículas, deficiência no registo de dados e nas instalações.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12277719",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-12-12",
+    "id": "PT_INFARMED_CI_139_CD_550_20_001_2025",
+    "local_id": "CI 139/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Towa Pharmaceutical",
+    "medicine": "Duloxetina toLife, 60mg, cápsula gastrorresistente",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2025-12-11",
+    "reason": "A empresa Towa Pharmaceutical, S.A., irá proceder à recolha voluntária do lote n.º 231452 , com a validade 31/07/2026 , do medicamento Duloxetina toLife (Duloxetina), 60mg, cápsula gastrorresistente por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12138669",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-12-09",
+    "id": "PT_INFARMED_CI_137_CD_550_20_001_2025",
+    "local_id": "CI 137/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Medac Gesellschaft fur klinische Spezialpraparate mbH - Sucursal em Portugal",
+    "medicine": "Metex PEN 17,5 mg-0,35ml, solução injetável caneta pré-cheia",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5618715"
+      }
+    ],
+    "publication_date": "2025-12-09",
+    "reason": "A empresa Medac Gesellschaft fur klinische Spezialpraparate mbH - Sucursal em Portugal, irá proceder à recolha voluntária do lote n.º H250475AA, com a validade 07/2027, do medicamento Metex PEN (Metotrexato), Solução injetável em caneta pré-cheia, 17,5 mg/0,35ml, com o número de registo 5618715, por ter sido detetado um defeito na seringa que compromete a integridade e esterilidade do produto.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12114093",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-11-12",
+    "id": "PT_INFARMED_CI_126_CD_550_20_001_2025",
+    "local_id": "CI 126/CD/550.20.001",
+    "lots": [
+      "22AN113A"
+    ],
+    "manufacturer": "Towa Pharmaceutical",
+    "medicine": "Paroxetina toLife 20 mg, comprimido revestido por película",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5212287"
+      }
+    ],
+    "publication_date": "2025-11-04",
+    "reason": "A empresa Towa Pharmaceutical, S.A., irá proceder à recolha voluntária do lote abaixo indicado do medicamento Paroxetina toLife 20 mg Comprimidos, comprimido revestido por película, 60 unidade(s) , por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11969305",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-10-23",
+    "id": "PT_INFARMED_CI_123_CD_550_20_001_2025",
+    "local_id": "CI 123/CD/550.20.001",
+    "lots": [
+      "230281",
+      "230224",
+      "231146",
+      "231519",
+      "240179",
+      "232301",
+      "240941"
+    ],
+    "manufacturer": "Bluepharma Genéricos - Comércio de Medicamentos S",
+    "medicine": "Recolha de lotes do medicamento Duloxetina Bluepharma, duloxetina, cápsula gastrorresistente",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5666730"
+      },
+      {
+        "system": "AIM",
+        "value": "5666755"
+      }
+    ],
+    "publication_date": "2025-10-23",
+    "reason": "Por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza, o Infarmed determina a recolha dos lotes abaixo indicados do medicamento Duloxetina Bluepharma, Duloxetina, cápsula gastrorresistente, nas dosagens de 30mg e 60mg , do titular de autorização de introdução no mercado Bluepharma Genéricos - Comércio de Medicamentos S.A.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11847575",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-10-09",
+    "id": "PT_INFARMED_CI_119_CD_550_20_001_2025",
+    "local_id": "CI 119/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "B",
+    "medicine": "Lipoplus, Associação, emulsão para perfusão",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2025-10-09",
+    "reason": "Por ter sido identificado a existência de aglomerados subvisuais, o Infarmed determina a recolha do lote n.º 243118081 do medicamento Lipoplus, Associação, emulsão para perfusão, n.º 5234588, com a validade 06/2026, do titular de autorização de introdução no mercado B. Braun Medical.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11750476",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-10-08",
+    "id": "PT_INFARMED_CI_118_CD_550_20_001_2025",
+    "local_id": "CI 118/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Boehringer Ingelheim Portugal",
+    "medicine": "Nolotil 2000 mg/5 ml, solução injetável",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "8512202"
+      }
+    ],
+    "publication_date": "2025-10-07",
+    "reason": "A empresa Boehringer Ingelheim Portugal, Lda, irá proceder à recolha voluntária do lote n.º R1335 , com a validade 05/2028 , do medicamento Nolotil (Metamizol magnésico) 2000mg/5ml, solução injetável , com o número de registo 8512202, por ter sido detetada a presença de fragmentos de vidro de ampolas e pó na embalagem secundária do medicamento.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11744636",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-09-29",
+    "id": "PT_INFARMED_CI_110_CD_550_20_001_2025",
+    "local_id": "CI 110/CD/550.20.001",
+    "lots": [
+      "231579",
+      "231435"
+    ],
+    "manufacturer": "Towa Pharmaceutical",
+    "medicine": "Duloxetina toLife, cápsula gastrorresistente, 30 mg e 60 mg",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5634670"
+      },
+      {
+        "system": "AIM",
+        "value": "5634738"
+      }
+    ],
+    "publication_date": "2025-09-25",
+    "reason": "A empresa Towa Pharmaceutical, S.A., irá proceder à recolha voluntária dos lotes abaixo indicados de medicamentos Duloxetina toLife, Duloxetina, cápsula gastrorresistente, nas dosagens de 30mg e 60mg por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11668606",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-09-02",
+    "id": "PT_INFARMED_CI_100_CD_550_20_001_2025",
+    "local_id": "CI 100/CD/550.20.001",
+    "lots": [
+      "F0017",
+      "F0016",
+      "F0012",
+      "F0019"
+    ],
+    "manufacturer": "LEF - Laboratório de Estudos Farmacêuticos em representação do Titular de Autorização de Introdução no Mercado (Amdipharm Limited)",
+    "medicine": "Ludiomil, Maprotilina, 25 mg, 50 mg e 75 mg, comprimidos revestidos por película",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "9416065"
+      },
+      {
+        "system": "AIM",
+        "value": "9416081"
+      },
+      {
+        "system": "AIM",
+        "value": "9416040"
+      }
+    ],
+    "publication_date": "2025-08-13",
+    "reason": "A empresa LEF - Laboratório de Estudos Farmacêuticos em representação do Titular de Autorização de Introdução no Mercado (Amdipharm Limited) irá proceder à recolha voluntária dos lotes indicados na tabela seguinte referentes aos medicamentos Ludiomil, Maprotilina 25 mg, 50 mg e 75 mg, Comprimidos revestidos por película, do titular de autorização de introdução no mercado - Amdipharm Ltd. por ter sido detetada uma impureza acima do limite aceitável.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11571107",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-08-28",
+    "id": "PT_INFARMED_CI_104_CD_550_20_001_2025",
+    "local_id": "CI 104/CD/550.20.001",
+    "lots": [
+      "22JN063A",
+      "23BN039A",
+      "23GN083A",
+      "23LN100A",
+      "22JN065A",
+      "22LN124A",
+      "23GN085A",
+      "22JN062A",
+      "23AN127A",
+      "23GN082A",
+      "23LN099A",
+      "22LN125A",
+      "23GN084A",
+      "23GN086A",
+      "23GN087A",
+      "23JN024A"
+    ],
+    "manufacturer": "confirmou a presença deste defeito de qualidade nos lotes indicados",
+    "medicine": "Sertralina toLife 50 mg e 100 mg, comprimidos revestidos por película",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5035977"
+      },
+      {
+        "system": "AIM",
+        "value": "5036025"
+      }
+    ],
+    "publication_date": "2025-08-28",
+    "reason": "A Towa Pharmaceutical, S.A. irá proceder à recolha voluntária dos lotes indicados na tabela seguinte referentes aos medicamentos Sertralina toLife 50 mg e 100 mg, Comprimidos revestidos por película (vários lotes), por ter sido detetada uma impureza acima do limite aceitável.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11567974",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-08-28",
+    "id": "PT_INFARMED_CI_101_CD_550_20_001_2025",
+    "local_id": "CI 101/CD/550.20.001",
+    "lots": [
+      "23KN052A",
+      "23KN053AP",
+      "23IN031A",
+      "23KN055A",
+      "24BN143A",
+      "24HN067A",
+      "23KN052B",
+      "23IN032A",
+      "23KN054A"
+    ],
+    "manufacturer": "confirmou a presença deste defeito de qualidade nos lotes indicados",
+    "medicine": "Sertralina Generis 50 mg e 100 mg, comprimidos revestidos por película",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "4884888"
+      },
+      {
+        "system": "AIM",
+        "value": "4884680"
+      },
+      {
+        "system": "AIM",
+        "value": "4885182"
+      }
+    ],
+    "publication_date": "2025-08-26",
+    "reason": "A Generis Farmacêutica, S.A. irá proceder à recolha voluntária dos lotes indicados na tabela seguinte referentes aos medicamentos Sertralina Generis 50 mg e 100 mg, Comprimidos revestidos por película (vários lotes), por ter sido detetada uma impureza acima do limite aceitável.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11567323",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-08-13",
+    "id": "PT_INFARMED_CI_095_CD_550_20_001_2025",
+    "local_id": "CI 095/CD/550.20.001",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Recolha de vários lotes dos medicamentos Dorcilfree, Demax e Oftacilox colírios multidose | Retificação da Circular Informativa N.º 087/CD/550.20.001 de 18/07/2025",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2025-07-18",
+    "reason": "A presente Circular retifica a Circular Informativa N.º 087/CD/550.20.001 de 18/07/2025, de forma a incluir mais um número de registo: CNP 5782073 do lote 4V14C do medicamento Dorcilfree. Na sequência de ter sido detetado o risco de contaminação microbiana em lotes dos medicamentos Dorcilfree®, Demax® e Oftacilox® Colírios Multidose, decorrente de inspeção realizada pela agência francesa (ANSM) ao fabricante dos mesmos, como medida de precaução, o Infarmed ordena a recolha imediata dos lotes constantes na tabela em anexo. Face ao exposto:",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11551901",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-08-08",
+    "id": "PT_INFARMED_CI_096_CD_550_20_001_2025",
+    "local_id": "CI 096/CD/550.20.001",
+    "lots": [
+      "24BN150A",
+      "24IN128A",
+      "24KN015A",
+      "24KN014A"
+    ],
+    "manufacturer": "Generis Farmacêutica",
+    "medicine": "Fluoxetina Generis 20 mg (cápsulas)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "4582284"
+      }
+    ],
+    "publication_date": "2025-08-07",
+    "reason": "A empresa Generis Farmacêutica, S.A. irá proceder à recolha voluntária dos lotes abaixo indicados de medicamento Fluoxetina Generis 20 mg Cápsulas por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11547643",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-08-04",
+    "id": "PT_INFARMED_CI_092_CD_550_20_001_2025",
+    "local_id": "CI 092/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Towa Pharmaceutical",
+    "medicine": "Fluoxetina toLife (20 mg cápsulas)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5223284"
+      }
+    ],
+    "publication_date": "2025-08-01",
+    "reason": "A empresa Towa Pharmaceutical, S.A., irá proceder à recolha voluntária do lote n.º 23KN163A do medicamento Fluoxetina toLife 20 mg cápsulas, cápsula, 60 unidade(s) , com o número de registo 5223284, por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11534036",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-07-21",
+    "id": "PT_INFARMED_CI_089_CD_550_20_001_2025",
+    "local_id": "CI 089/CD/550.20.001",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Recolha voluntária | Lorazepam Labesfal, 1 mg, comprimido, 60 unidades (lote n.º E1314)",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2025-07-18",
+    "reason": "A empresa Generis Farmacêutica S.A. irá proceder à recolha voluntária do lote n.º E1314 do medicamento Lorazepam Labesfal, 1 mg, comprimido, 60 unidades, n.º de registo 5615927 em virtude de ter sido detetado um resultado fora de especificação no parâmetro doseamento no âmbito de um estudo de estabilidade.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11476652",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-07-18",
+    "id": "PT_INFARMED_CI_088_CD_550_20_001_2025",
+    "local_id": "CI 088/CD/550.20.001",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Zaditen (cetotifeno), 0,25 mg/ml, colírio, solução (frasco 5 ml)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "3520186"
+      }
+    ],
+    "publication_date": "2025-07-18",
+    "reason": "A empresa Théa Portugal S.A. irá proceder à recolha voluntária do Lote nº 4V64, prazo de validade 30/09/2026 do medicamento Zaditen (cetotifeno), 0,25 mg/ml, colírio, solução (frasco 5 ml), nº de registo 3520186 - colírio, solução, frasco de 5 ml, por medida de precaução na sequência de ter sido detetado o risco de contaminação microbiana deste lote.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11472134",
+    "warnings": [
+      "missing_lot",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-07-15",
+    "id": "PT_INFARMED_CI_086_CD_550_20_001_2025",
+    "local_id": "CI 086/CD/550.20.001",
+    "lots": [
+      "A001A"
+    ],
+    "manufacturer": null,
+    "medicine": "Recolha voluntária de lote do medicamento Telmisartan Alter Genéricos, 80 mg",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5439773"
+      }
+    ],
+    "publication_date": "2025-07-14",
+    "reason": "A empresa Alter Genéricos – Comercialização de Produtos Genéricos Lda. irá proceder à recolha voluntária do Lote nº A001A, prazo de validade 02/2027 do medicamento Telmisartan Alter Genéricos, 80 mg, nº de registo 5439773- apresentação de 28 comprimidos, por terem sido detetados valores fora de especificação no ensaio de dissolução, durante os estudos de estabilidade.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11451662",
+    "warnings": [
+      "missing_manufacturer"
+    ]
+  }
+]

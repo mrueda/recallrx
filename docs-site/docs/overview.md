@@ -1,49 +1,49 @@
 # Overview
 
-OpenRecall is a live search app for medicine recalls indexed from official
+RecallRx is a live search app for medicine recalls indexed from official
 public sources. Start with the app, then use these docs when you need to
 understand the results or maintain the dataset.
 
 <div className="button-row">
-  <a className="button button--primary button--lg" href="https://mrueda.github.io/openrecall/app/">
+  <a className="button button--primary button--lg" href="https://mrueda.github.io/recallrx/app/">
     Open the live recall search app
   </a>
 </div>
 
-The first source is Spain's AEMPS. The app and data model are country-aware, so
-additional authorities can be added without changing how users search.
+The active sources are Spain/AEMPS, Portugal/INFARMED, and France/ANSM. The app
+and data model are country-aware, so additional authorities can be added without
+changing how users search.
 
 ## For Users
 
 - Search by medicine name, product code, lot, alert id, year, or date range.
-- Switch countries from the app header when more datasets are available.
+- Switch countries from the app header.
 - Open official source pages and PDFs from every result when available.
 - Treat warnings as a prompt to verify the original record.
 
-OpenRecall is an index. It does not replace advice from health authorities,
+RecallRx is an index. It does not replace advice from health authorities,
 clinicians, pharmacists, or official product notices.
 
 ## For Developers
 
-- Python collector for AEMPS search and recall detail pages.
+- Python collectors for official country authority pages.
 - HTML-first parsing with transient PDF fallback when required fields are
   missing.
 - Country-aware normalized recall schema.
 - Static JSON output for GitHub Pages.
 - Static browser app over medicine name, product code, lot, recall id, reason,
   and dates.
-- Manual GitHub Actions for tests and documentation builds.
+- Manual GitHub Actions for tests and daily documentation/data builds.
 
 ## Non-goals
 
 - Safety certification or product safety claims.
 - User accounts, authentication, or an admin panel.
 - Server-side APIs or hosted databases.
-- CIMA enrichment, GS1 DataMatrix scanning, or international collectors in the
-  first MVP.
+- Safety scoring, product recommendations, or user-submitted medical advice.
 
 ## Trust model
 
-OpenRecall indexes official records. Every result must link back to the
+RecallRx indexes official records. Every result must link back to the
 original source page and PDF when available. A missing result only means no
 matching record was found in the indexed dataset.

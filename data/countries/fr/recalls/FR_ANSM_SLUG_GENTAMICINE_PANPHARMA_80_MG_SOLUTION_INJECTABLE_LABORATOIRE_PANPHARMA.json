@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2026-02-09",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_GENTAMICINE_PANPHARMA_80_MG_SOLUTION_INJECTABLE_LABORATOIRE_PANPHARMA",
+  "local_id": "SLUG_GENTAMICINE_PANPHARMA_80_MG_SOLUTION_INJECTABLE_LABORATOIRE_PANPHARMA",
+  "lots": [
+    "40306",
+    "40306A"
+  ],
+  "manufacturer": "Laboratoire Panpharma (MED26/B006)",
+  "medicine": "Gentamicine Panpharma 80 mg, solution injectable",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400935120489"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2026-02-09",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Gentamicine Panpharma 80 mg, solution injectable – Laboratoire Panpharma (MED26/B006)"
+  },
+  "reason": "Lot 40306 - Péremption 07/2027 Lot 40306A - Péremption 07/2027 Ce rappel fait suite à la mise en évidence de la possible contamination particulaire de certaines ampoules.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/gentamicine-panpharma-80-mg-solution-injectable-laboratoire-panpharma",
+  "warnings": []
+}

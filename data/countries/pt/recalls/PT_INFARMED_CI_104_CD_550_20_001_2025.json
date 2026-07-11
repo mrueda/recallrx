@@ -1,0 +1,61 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam estes lotes de medicamentos em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução. Os doentes que estejam a utilizar medicamentos pertencentes a este(s) lote(s) não devem interromper o tratamento. Logo que possível, devem contactar o médico para que este possa analisar a necessidade ou não da substituição por um medicamento alternativo. O Conselho Diretivo (Rui Santos Ivo)",
+  "authority": "INFARMED",
+  "confidence": 0.9,
+  "country": "PT",
+  "date": "2025-08-28",
+  "expiry_dates": [
+    "31/10/2025",
+    "28/02/2026",
+    "31/07/2026",
+    "31/01/2027",
+    "31/12/2025",
+    "31/01/2026",
+    "31/12/2026",
+    "31/10/2026"
+  ],
+  "id": "PT_INFARMED_CI_104_CD_550_20_001_2025",
+  "local_id": "CI 104/CD/550.20.001",
+  "lots": [
+    "22JN063A",
+    "23BN039A",
+    "23GN083A",
+    "23LN100A",
+    "22JN065A",
+    "22LN124A",
+    "23GN085A",
+    "22JN062A",
+    "23AN127A",
+    "23GN082A",
+    "23LN099A",
+    "22LN125A",
+    "23GN084A",
+    "23GN086A",
+    "23GN087A",
+    "23JN024A"
+  ],
+  "manufacturer": "confirmou a presença deste defeito de qualidade nos lotes indicados",
+  "medicine": "Sertralina toLife 50 mg e 100 mg, comprimidos revestidos por película",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "5035977"
+    },
+    {
+      "system": "AIM",
+      "value": "5036025"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-08-28",
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária de lotes do medicamento Sertralina toLife 50 mg e 100 mg, comprimidos revestidos por película"
+  },
+  "reason": "A Towa Pharmaceutical, S.A. irá proceder à recolha voluntária dos lotes indicados na tabela seguinte referentes aos medicamentos Sertralina toLife 50 mg e 100 mg, Comprimidos revestidos por película (vários lotes), por ter sido detetada uma impureza acima do limite aceitável.",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11567974",
+  "warnings": []
+}

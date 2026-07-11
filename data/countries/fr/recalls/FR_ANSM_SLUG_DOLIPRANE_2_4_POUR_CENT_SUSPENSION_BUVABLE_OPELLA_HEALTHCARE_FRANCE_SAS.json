@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé, circuit de distribution pharmaceutique et patients. Les pharmaciens d'officine sont invités, dans la mesure du possible, à prendre contact avec les patients ayant reçu une ou plusieurs boîtes des lots concernés : les patients détenant une (des) boîte(s) des lots concernés par le rappel doivent rapporter la (les) boîte(s) (pipette + flacon non vide) en pharmacie pour procéder à un échange par une boîte d'un autre lot. Ces lots ont été distribués aux officines et hôpitaux entre novembre 2025 et février 2026. Pour toute information médicale, contacter pour la métropole et les DROM-COM : 0801 907 577 (Service et appel gratuits). Coordonnées du laboratoire : Opella Healthcare France 157 avenue Charles de Gaulle 92200 Neuilly sur Seine. Lire",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-02-23",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_DOLIPRANE_2_4_POUR_CENT_SUSPENSION_BUVABLE_OPELLA_HEALTHCARE_FRANCE_SAS",
+  "local_id": "SLUG_DOLIPRANE_2_4_POUR_CENT_SUSPENSION_BUVABLE_OPELLA_HEALTHCARE_FRANCE_SAS",
+  "lots": [],
+  "manufacturer": "Opella Healthcare France SAS (MED 26/A008/B008)",
+  "medicine": "Doliprane 2,4 Pour cent, suspension buvable",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400934615467"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2026-02-23",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Doliprane 2,4 Pour cent, suspension buvable – Opella Healthcare France SAS (MED 26/A008/B008)"
+  },
+  "reason": "Ce rappel fait suite à la mise en évidence d'un défaut affectant la pipette fournie avec le flacon de DOLIPRANE 2,4 POUR CENT, suspension buvable : les graduations des pipettes de certains flacons peuvent s'effacer progressivement, après un rinçage à l'eau tiède ou chaude.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/doliprane-2-4-pour-cent-suspension-buvable-opella-healthcare-france-sas",
+  "warnings": [
+    "missing_lot"
+  ]
+}

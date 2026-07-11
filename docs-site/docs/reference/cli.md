@@ -5,7 +5,7 @@ Run commands from the repository root.
 ## Build data
 
 ```bash
-python3 -m openrecall build --output data
+python3 -m recallrx build --output data
 ```
 
 Options:
@@ -16,7 +16,7 @@ Options:
 ## Validate data
 
 ```bash
-python3 -m openrecall validate data
+python3 -m recallrx validate data
 ```
 
 Validation checks required fields, country-scoped ids, detail records, summary
@@ -25,7 +25,7 @@ records, indexes, and that PDFs were not committed.
 ## Build static app
 
 ```bash
-python3 -m openrecall dist
+python3 -m recallrx dist
 ```
 
 Options:

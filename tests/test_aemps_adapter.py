@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from openrecall.adapters.es_aemps import AempsSpainAdapter
+from recallrx.adapters.es_aemps import AempsSpainAdapter
 
 
 class DummyHttp:

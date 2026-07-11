@@ -1,11 +1,11 @@
 # Architecture
 
-OpenRecall has two static outputs: the recall search app and this
+RecallRx has two static outputs: the recall search app and this
 documentation site.
 
 <div className="dataFlow">
-  <span>AEMPS</span>
-  <span>Python adapter</span>
+  <span>Official sources</span>
+  <span>Country adapters</span>
   <span>Normalized JSON</span>
   <span>Static search UI</span>
   <span>GitHub Pages</span>

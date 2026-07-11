@@ -1,1 +1,739 @@
-[]
+[
+  {
+    "authority": "ANSM",
+    "confidence": 0.9,
+    "country": "FR",
+    "date": "2026-07-10",
+    "id": "FR_ANSM_SLUG_CHLORAPREP_SOLUTION_POUR_APPLICATION_CUTANEE_60_AMPOULES_EN_VERRE_DE_1_ML_AVEC_A",
+    "local_id": "SLUG_CHLORAPREP_SOLUTION_POUR_APPLICATION_CUTANEE_60_AMPOULES_EN_VERRE_DE_1_ML_AVEC_A",
+    "lots": [
+      "5175366",
+      "5200357",
+      "5200358",
+      "5231317",
+      "5265230",
+      "5265232",
+      "5270791",
+      "5296191",
+      "5297630",
+      "5323848",
+      "5324390",
+      "5351181"
+    ],
+    "manufacturer": "Becton Dickinson France",
+    "medicine": "Chloraprep, solution pour application cutanée 60 ampoules en verre de 1 ml avec applicateur",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400955062400"
+      }
+    ],
+    "publication_date": "2026-07-10",
+    "reason": "Chloraprep, solution pour application cutanée 60 ampoules en verre de 1 ml avec applicateur – Becton Dickinson France RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 10/07/2026 A+ A- Niveau de rappel : en direct auprès des établissements de santé destinataires des lots Le laboratoire Becton Dickinson France procède, en accord avec l'ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la spécialité : Chloraprep, solution pour application cutanée 60 ampoules en verre de 1 ml avec applicateur – CIP 34009 550 624 00 Lot 5175366 – péremption le 30/06/2028 Lot 5200357 – péremption le 31/07/2028 Lot 5200358 – péremption le 31/07/2028 Lot 5231317 – péremption le 31/08/2028 Lot 5265230 – péremption le 30/09/2028 Lot 5265232 – péremption le 30/09/2028 Lot 5270791 – péremption l",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/chloraprep-solution-pour-application-cutanee-60-ampoules-en-verre-de-1-ml-avec-applicateur-becton-dickinson-france",
+    "warnings": []
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.9,
+    "country": "FR",
+    "date": "2026-05-29",
+    "id": "FR_ANSM_SLUG_CHLORAPREP_SOLUTION_POUR_APPLICATION_CUTANEE_60_AMPOULES_EN_VERRE_DE_1_ML_ET_20",
+    "local_id": "SLUG_CHLORAPREP_SOLUTION_POUR_APPLICATION_CUTANEE_60_AMPOULES_EN_VERRE_DE_1_ML_ET_20",
+    "lots": [
+      "Date",
+      "objet"
+    ],
+    "manufacturer": "Becton Dickinson France",
+    "medicine": "Chloraprep, solution pour application cutanée 60 ampoules en verre de 1 ml et 20 ampoules en verre de 1,5 ml avec applicateur",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400955062400"
+      },
+      {
+        "system": "CIP",
+        "value": "3400926990336"
+      }
+    ],
+    "publication_date": "2026-05-29",
+    "reason": "Chloraprep, solution pour application cutanée 60 ampoules en verre de 1 ml et 20 ampoules en verre de 1,5 ml avec applicateur – Becton Dickinson France RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/05/2026 A+ A- Niveau de rappel : en direct auprès des établissements de santé destinataires du lot Le laboratoire Becton Dickinson France procède, en accord avec l'ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous des spécialités : Chloraprep, solution pour application cutanée 60 ampoules en verre de 1 ml avec applicateur – CIP 34009 550 624 00 Chloraprep, solution pour application cutanée 20 ampoules en verre de 1,5 ml Frepp avec applicateur – CIP 34009 269 903 36 Liste des lots concernés Code Produit BD Code CIP Nom du Produit Numéro de lot Date de péremption 930901 3",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/chloraprep-solution-pour-application-cutanee-60-ampoules-en-verre-de-1-ml-et-20-ampoules-en-verre-de-1-5-ml-avec-applicateur-becton-dickinson-france",
+    "warnings": []
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-05-27",
+    "id": "FR_ANSM_SLUG_EFAVIRENZ_EMTRICITABINE_TENOFOVIR_DISOPROXIL_600_MG_200_MG_245_MG_LABORATOIRES_B",
+    "local_id": "SLUG_EFAVIRENZ_EMTRICITABINE_TENOFOVIR_DISOPROXIL_600_MG_200_MG_245_MG_LABORATOIRES_B",
+    "lots": [
+      "118561",
+      "107938",
+      "112858"
+    ],
+    "manufacturer": "Laboratoires Biogaran et EG Labo (MED26/A015/B015)",
+    "medicine": "Efavirenz/Emtricitabine/Ténofovir Disoproxil 600 mg/200 mg/245 mg",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-05-27",
+    "reason": "Efavirenz/Emtricitabine/Ténofovir Disoproxil 600 mg/200 mg/245 mg – Laboratoires Biogaran et EG Labo (MED26/A015/B015) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 27/05/2026 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Les laboratoires Biogaran et EG Labo procèdent, à la demande de l’ANSM, au rappel des lots mentionnés ci-dessous des spécialités : Efavirenz/Emtricitabine/Ténofovir Disoproxil Biogaran 600 mg/200 mg/245 mg, comprimé pelliculé boîte de 30 (CIP : 3400930117514) Lot 118561 (péremption 06/2028) Efavirenz/Emtricitabine/Ténofovir Disoproxil EG 600 mg/200 mg/245 mg, comprimé pelliculé boîte de 30 (CIP : 3400930117583) Lot 107938 (péremption 10/2026) Lot 112858 (péremption 09/2027) Ce rappel fait suite à la décision de la Comm",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/efavirenz-emtricitabine-tenofovir-disoproxil-600-mg-200-mg-245-mg-laboratoires-biogaran-et-eg-labo",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-05-20",
+    "id": "FR_ANSM_SLUG_FLEBOGAMMA_DIF_50_MG_ML_SOLUTION_POUR_PERFUSION_LABORATOIRE_GRIFOLS_FRANCE",
+    "local_id": "SLUG_FLEBOGAMMA_DIF_50_MG_ML_SOLUTION_POUR_PERFUSION_LABORATOIRE_GRIFOLS_FRANCE",
+    "lots": [
+      "mentionn"
+    ],
+    "manufacturer": "Laboratoire Grifols France",
+    "medicine": "Flebogamma DIF 50 mg/ml, solution pour perfusion",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-05-20",
+    "reason": "Les réactions allergiques et d’hypersensibilité constituent un risque identifié des médicaments à base d’immunoglobulines et sont décrites dans le résumé des caractéristiques du produit.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/flebogamma-dif-50-mg-ml-solution-pour-perfusion-laboratoire-grifols-france",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-05-12",
+    "id": "FR_ANSM_SLUG_GAMUNEX_100_MG_ML_SOLUTION_POUR_PERFUSION_LABORATOIRE_GRIFOLS_FRANCE",
+    "local_id": "SLUG_GAMUNEX_100_MG_ML_SOLUTION_POUR_PERFUSION_LABORATOIRE_GRIFOLS_FRANCE",
+    "lots": [
+      "mentionn",
+      "J04K120133"
+    ],
+    "manufacturer": "Laboratoire Grifols France",
+    "medicine": "Gamunex 100 mg/mL, solution pour perfusion",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-05-12",
+    "reason": "Gamunex 100 mg/mL, solution pour perfusion – Laboratoire Grifols France RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 12/05/2026 A+ A- Niveau de rappel : en direct auprès des établissements concernés Le laboratoire Grifols France procède, en accord avec l'ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : Gamunex 100 mg/mL, solution pour perfusion – flacon de 200 mL (CIP : 34009 301 696 2 9) Lot J04K120133 (péremption 09/2028) Ce rappel fait suite à une augmentation des cas de réactions allergiques ou d’hypersensibilité, principalement non graves, rapportés pour ce lot.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/gamunex-100-mg-ml-solution-pour-perfusion-laboratoire-grifols-france",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.9,
+    "country": "FR",
+    "date": "2026-04-30",
+    "id": "FR_ANSM_SLUG_LARMES_ARTIFICIELLES_MARTINET_5_6_MG_0_4_ML_COLLYRE_EN_SOLUTION_EN_RECIPIENT_UNI",
+    "local_id": "SLUG_LARMES_ARTIFICIELLES_MARTINET_5_6_MG_0_4_ML_COLLYRE_EN_SOLUTION_EN_RECIPIENT_UNI",
+    "lots": [
+      "2X25",
+      "2X26"
+    ],
+    "manufacturer": "Laboratoire Teofarma (MED26/A014/B014)",
+    "medicine": "Larmes artificielles Martinet 5,6 mg/0,4 ml, collyre en solution en récipient unidose",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400936908154"
+      }
+    ],
+    "publication_date": "2026-04-30",
+    "reason": "Larmes artificielles Martinet 5,6 mg/0,4 ml, collyre en solution en récipient unidose – Laboratoire Teofarma (MED26/A014/B014) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 30/04/2026 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Teofarma procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la spécialité : Larmes artificielles Martinet 5,6 mg/0,4 ml, collyre en solution en récipient unidose - 20 récipients unidose (CIP 34009 369 081 5 4) Lot 2X25, péremption 05/2028 Lot 2X26, péremption 05/2028 Ce rappel fait suite à l'identification d’un risque potentiel de contamination microbienne de ces lots, après la découverte d’un résultat non conforme chez le fabricant lors de la ",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/larmes-artificielles-martinet-5-6-mg-0-4-ml-collyre-en-solution-en-recipient-unidose-laboratoire-teofarma",
+    "warnings": []
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-04-29",
+    "id": "FR_ANSM_SLUG_POCHES_NOMINATIVES_DE_NUTRITION_PARENTERALE_PREPARATIONS_MAGISTRALES_BAXTER_FACO",
+    "local_id": "SLUG_POCHES_NOMINATIVES_DE_NUTRITION_PARENTERALE_PREPARATIONS_MAGISTRALES_BAXTER_FACO",
+    "lots": [],
+    "manufacturer": "Baxter Façonnage",
+    "medicine": "Poches nominatives de nutrition parentérale (préparations magistrales)",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-04-29",
+    "reason": "Poches nominatives de nutrition parentérale (préparations magistrales) – Baxter Façonnage RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/04/2026 A+ A- Niveau de rappel : en direct auprès des deux établissements concernés Le laboratoire Baxter Façonnage procède, par mesure de précaution, au rappel des Poches nominatives de nutrition parentérale (préparations magistrales) fabriquées le 23 avril 2026 sur le site de Montpellier mentionnées ci-dessous : 04 M 6 113 F02 778 04 M 6 113 F02 779 04 M 6 113 F02 780 04 M 6 113 F02 781 04 M 6 113 F02 782 04 M 6 113 F02 783 04 M 6 113 F02 784 04 M 6 113 F02 785 Ce rappel, réalisé le 27 avril 2026 en direct auprès des établissement concernés, fait suite à l’identification lors de la lecture quotidienne des prélèvements environnementaux, d’une contaminati",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/poches-nominatives-de-nutrition-parenterale-preparations-magistrales-baxter-faconnage",
+    "warnings": [
+      "missing_cip",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-04-28",
+    "id": "FR_ANSM_SLUG_ATROPINE_1_POUR_CENT_FAURE_COLLYRE_EN_SOLUTION_EN_RECIPIENT_UNIDOSE_LABORATOIRES",
+    "local_id": "SLUG_ATROPINE_1_POUR_CENT_FAURE_COLLYRE_EN_SOLUTION_EN_RECIPIENT_UNIDOSE_LABORATOIRES",
+    "lots": [
+      "mentionn",
+      "2X27",
+      "concern"
+    ],
+    "manufacturer": "Laboratoires Europhta",
+    "medicine": "Atropine 1 pour cent Faure, collyre en solution en récipient unidose",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-04-28",
+    "reason": "Les laboratoires Europhta procèdent, en accord avec l’ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : Atropine 1 pour cent faure, collyre en solution en récipient unidose - 100 récipients unidose (CIP : 34009 322 763 2 5) Lot 2X27 - péremption 06/2027 Ce rappel fait suite à l'identification d’un risque potentiel de contamination microbienne du lot 2X27 d’Atropine 1% Faure après la découverte d’un résultat non conforme chez le fabricant lors de la revalidation de la ligne de production.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/atropine-1-pour-cent-faure-collyre-en-solution-en-recipient-unidose-laboratoires-europhta",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-04-17",
+    "id": "FR_ANSM_SLUG_MAAT013_MICROBIOTE_FECAL_ALLOGENIQUE_POOL_SUSPENSION_RECTALE_CLINIGEN_HEALTHCARE",
+    "local_id": "SLUG_MAAT013_MICROBIOTE_FECAL_ALLOGENIQUE_POOL_SUSPENSION_RECTALE_CLINIGEN_HEALTHCARE",
+    "lots": [
+      "7P010"
+    ],
+    "manufacturer": "Clinigen Healthcare France",
+    "medicine": "MaaT013, microbiote fécal allogénique, pool, suspension rectale",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-04-17",
+    "reason": "03/03/2028) Ce rappel fait suite à la mise en évidence d’une non-conformité concernant le processus de sélection d’un donneur impliqué dans les collectes de selles utilisées pour la fabrication de lots de MaaT013.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/maat013-microbiote-fecal-allogenique-pool-suspension-rectale-clinigen-healthcare-france",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.9,
+    "country": "FR",
+    "date": "2026-03-26",
+    "id": "FR_ANSM_SLUG_OMNIPAQUE_350_MG_DI_ML_SOLUTION_INJECTABLE_ET_VISIPAQUE_320_MG_DI_ML_SOLUTION_IN",
+    "local_id": "SLUG_OMNIPAQUE_350_MG_DI_ML_SOLUTION_INJECTABLE_ET_VISIPAQUE_320_MG_DI_ML_SOLUTION_IN",
+    "lots": [
+      "objet",
+      "17324090",
+      "17361386",
+      "17364400",
+      "17364401",
+      "17264301",
+      "17264302",
+      "17302277",
+      "17323156"
+    ],
+    "manufacturer": "Laboratoire GE Healthcare SAS (MED 26/B013)",
+    "medicine": "Omnipaque 350 mg d'I/mL, solution injectable et Visipaque 320 mg d'I/mL, solution injectable",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400956238811"
+      },
+      {
+        "system": "CIP",
+        "value": "3400935201317"
+      }
+    ],
+    "publication_date": "2026-03-26",
+    "reason": "Le Laboratoire GE Healthcare SAS procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous des spécialités pharmaceutiques : Omnipaque 350 mg d'I/mL, solution injectable – flacon de 100 mL (CIP 34009 562 388 1 1) Lot 17324090 (Exp oct.-28) Lot 17361386 (Exp oct.-28) Lot 17364400 (Exp oct.-28) Lot 17364401 (Exp nov.-28) Visipaque 320 mg d'I/mL, solution injectable – flacon de 100 mL (CIP 34009 352 013 1 7) Lot 17264301 (Exp août-28) Lot 17264302 (Exp juil.-28) Lot 17302277 (Exp août-28) Lot 17323156 (Exp août-28) Ce rappel fait suite à la mise en évidence de particules adhérentes à la paroi interne de certains flacons de 100 mL.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/omnipaque-350-mg-di-ml-solution-injectable-et-visipaque-320-mg-di-ml-solution-injectable-laboratoire-ge-healthcare-sas",
+    "warnings": []
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-03-25",
+    "id": "FR_ANSM_SLUG_RIVAROXABAN_VIATRIS_20_MG_COMPRIME_PELLICULE_LABORATOIRE_VIATRIS_SANTE",
+    "local_id": "SLUG_RIVAROXABAN_VIATRIS_20_MG_COMPRIME_PELLICULE_LABORATOIRE_VIATRIS_SANTE",
+    "lots": [
+      "mentionn",
+      "concern",
+      "dans"
+    ],
+    "manufacturer": "Laboratoire Viatris Santé (MED26/A013/B012)",
+    "medicine": "Rivaroxaban Viatris 20 mg, comprimé pelliculé",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-03-25",
+    "reason": "Rivaroxaban Viatris 20 mg, comprimé pelliculé – Laboratoire Viatris Santé (MED26/A013/B012) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 25/03/2026 A+ A- Niveau de rappel : officines, établissements de santé, circuit de distribution pharmaceutique et patients Le laboratoire Viatris Santé procède, en accord avec l’ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : Rivaroxaban Viatris 20 mg, comprimé pelliculé - boite de 28 comprimés – CIP : 3400930276211 N° de lot : 8212020, péremption 07/2028 Ce rappel fait suite à la mise en évidence de la présence en très faible quantité de quétiapine (< 0,048 mg/par comprimé) dans les comprimés du seul lot concerné de Rivaroxaban Viatris 20 mg, comprimé pelliculé.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/rivaroxaban-viatris-20-mg-comprime-pellicule-laboratoire-viatris-sante",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.9,
+    "country": "FR",
+    "date": "2026-03-19",
+    "id": "FR_ANSM_SLUG_CUROSURF_120_MG_1_5_ML_SUSPENSION_POUR_INSTILLATION_ENDOTRACHEOBRONCHIQUE_LABORA",
+    "local_id": "SLUG_CUROSURF_120_MG_1_5_ML_SUSPENSION_POUR_INSTILLATION_ENDOTRACHEOBRONCHIQUE_LABORA",
+    "lots": [
+      "mentionn",
+      "1204229",
+      "est"
+    ],
+    "manufacturer": "Laboratoire Chiesi SAS",
+    "medicine": "Curosurf 120 mg/1,5 ml, suspension pour instillation endotrachéobronchique",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400955775201"
+      }
+    ],
+    "publication_date": "2026-03-19",
+    "reason": "Curosurf 120 mg/1,5 ml, suspension pour instillation endotrachéobronchique – Laboratoire Chiesi SAS RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 19/03/2026 A+ A- Niveau de rappel : directement auprès des établissements hospitaliers concernés Le Laboratoire Chiesi SAS procède, en accord avec l’ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité Curosurf 120 mg/1,5 ml, suspension pour instillation endotrachéobronchique - boîte de 1 flacon (CIP 34009 557 752 0 1) Lot 1204229 (Exp 04/2026) Ce rappel fait suite à une déviation désormais résolue, observée lors de la revue du suivi environnemental du site de production de la spécialité.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/curosurf-120-mg-1-5-ml-suspension-pour-instillation-endotracheobronchique-laboratoire-chiesi-sas",
+    "warnings": []
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.9,
+    "country": "FR",
+    "date": "2026-03-17",
+    "id": "FR_ANSM_SLUG_CUROSURF_240_MG_3_ML_SUSPENSION_POUR_INSTILLATION_ENDOTRACHEOBRONCHIQUE_LABORATO",
+    "local_id": "SLUG_CUROSURF_240_MG_3_ML_SUSPENSION_POUR_INSTILLATION_ENDOTRACHEOBRONCHIQUE_LABORATO",
+    "lots": [
+      "effectu",
+      "mentionn",
+      "1211845",
+      "est"
+    ],
+    "manufacturer": "Laboratoire Chiesi SAS",
+    "medicine": "Curosurf 240 mg/3 ml, suspension pour instillation endotrachéobronchique",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400955775379"
+      }
+    ],
+    "publication_date": "2026-03-17",
+    "reason": "Curosurf 240 mg/3 ml, suspension pour instillation endotrachéobronchique – Laboratoire Chiesi SAS RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 17/03/2026 A+ A- Rappel de lot effectué en direct auprès des établissements hospitaliers concernés Le Laboratoire Chiesi SAS procède, en accord avec l’ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité Curosurf 240 mg/3 ml, suspension pour instillation endotrachéobronchique - boîte de 1 flacon (CIP 34009 557 753 7 9) Lot 1211845 (Exp 07/2026) Ce rappel fait suite à une déviation désormais résolue, observée lors de la revue du suivi environnemental du site de production de la spécialité.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/curosurf-240-mg-3-ml-suspension-pour-instillation-endotracheobronchique-laboratoire-chiesi-sas",
+    "warnings": []
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.9,
+    "country": "FR",
+    "date": "2026-03-16",
+    "id": "FR_ANSM_SLUG_POLYSILANE_UPSA_GEL_ORAL_EN_SACHET_DOSE_LABORATOIRE_UPSA_SAS",
+    "local_id": "SLUG_POLYSILANE_UPSA_GEL_ORAL_EN_SACHET_DOSE_LABORATOIRE_UPSA_SAS",
+    "lots": [
+      "Date"
+    ],
+    "manufacturer": "Laboratoire Upsa SAS (MED26/A012/B011)",
+    "medicine": "Polysilane Upsa, gel oral en sachet-dose",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400933657598"
+      }
+    ],
+    "publication_date": "2026-03-16",
+    "reason": "Liste des lots concernés N° de lot Date de péremption C009 Mars 2026 C010 Avril 2026 C011 Avril 2026 C012 Mai 2026 C013 Mai 2026 C014 Mai 2026 C015 Mai 2026 C016 Septembre 2026 C017 Octobre 2026 C018 Octobre 2026 C019 Novembre 2026 F001 Décembre 2026 F002 Décembre 2026 F003 Décembre 2026 F004 Février 2027 F005 Février 2027 F006 Février 2027 F007 Mars 2027 F008 Mars 2027 F009 Mars 2027 F010 Avril 2027 F011 Septembre 2027 F012 Octobre 2027 F013 Octobre 2027 F014 Octobre 2027 F015 Octobre 2027 F016 Novembre 2027 F017 Novembre 2027 L002 Mars 2028 L007 Mai 2028 L008 Mai 2028 L009 Juin 2028 L012 Août 2028 L013 Août 2028 L014 Août 2028 L015 Août 2028 L016 Septembre 2028 L017 Septembre 2028 L018 Septembre 2028 L019 Octobre 2028 Ce rappel fait suite à la mise en évidence d’une possible présence de ",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/polysilane-upsa-gel-oral-en-sachet-dose-laboratoire-upsa-sas",
+    "warnings": []
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.9,
+    "country": "FR",
+    "date": "2026-03-11",
+    "id": "FR_ANSM_SLUG_VERKAZIA_1MG_ML_COLLYRE_EN_EMULSION_LABORATOIRE_SANTEN",
+    "local_id": "SLUG_VERKAZIA_1MG_ML_COLLYRE_EN_EMULSION_LABORATOIRE_SANTEN",
+    "lots": [
+      "4T98AC",
+      "4T98Q"
+    ],
+    "manufacturer": "Laboratoire Santen (MED 26/A011)",
+    "medicine": "Verkazia 1mg/mL, collyre en émulsion",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400930172032"
+      }
+    ],
+    "publication_date": "2026-03-11",
+    "reason": "Verkazia 1mg/mL, collyre en émulsion – Laboratoire Santen (MED 26/A011) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 11/03/2026 A+ A- Niveau de retrait : officines et circuit de distribution Le laboratoire Santen procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots de la spécialité pharmaceutique mentionnée ci-dessous : Verkazia 1mg/mL, collyre en émulsion (0,3 ml en récipient unidose (PEBD), boîte de 120 ) – CIP 34009 301 720 3 2 Lot 4T98AC (péremption 12/2026) Lot 4T98Q (péremption 12/2026) Ce rappel fait suite à la mise en évidence d'un sous dosage en principe actif (ciclosporine) durant les études de stabilité dû à un phénomène de cristallisation de la ciclosporine.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/verkazia-1mg-ml-collyre-en-emulsion-laboratoire-santen",
+    "warnings": []
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-03-03",
+    "id": "FR_ANSM_SLUG_GASTROGRAFINE_370_MG_DIODE_ML_SOLUTION_BUVABLE_OU_RECTALE_ET_RADIOSELECTAN_URINA",
+    "local_id": "SLUG_GASTROGRAFINE_370_MG_DIODE_ML_SOLUTION_BUVABLE_OU_RECTALE_ET_RADIOSELECTAN_URINA",
+    "lots": [
+      "MA04JLK",
+      "MA04LPB",
+      "MA04MVC",
+      "MA04NVE",
+      "MA04REF",
+      "MA04THH",
+      "MA04TJ6",
+      "MA04TJ7",
+      "MA04HP5",
+      "MA04HP0"
+    ],
+    "manufacturer": "Laboratoire Bayer Healthcare SAS (MED 26/A009/B009 et MED 26/A010/B010)",
+    "medicine": "Gastrografine 370 mg d'iode/mL, solution buvable ou rectale et Radioselectan urinaire 30 pour cent (146 mg d'Iode/ml), solution injectable",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-03-03",
+    "reason": "Gastrografine 370 mg d'iode/mL, solution buvable ou rectale et Radioselectan urinaire 30 pour cent (146 mg d'Iode/ml), solution injectable – Laboratoire Bayer Healthcare SAS (MED 26/A009/B009 et MED 26/A010/B010) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 03/03/2026 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Bayer Healthcare SAS procède, en accord avec l’ANSM et par mesure de précaution, au rappel de tous les lots actuellement sur le marché, des spécialités mentionnées ci-dessous : Gastrografine 370 mg d'iode/mL, solution buvable ou rectale (CIP : 34009 300 808 3 2) Lot MA04JLK - 04/2026 Lot MA04LPB - 07/2026 Lot MA04MVC - 09/2026 Lot MA04NVE - 11/2026 Lot MA04REF - 03/2027 Lot MA04THH - 05/2027 Lot MA04TJ6 - 05/202",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/gastrografine-370-mg-diode-ml-solution-buvable-ou-rectale-et-radioselectan-urinaire-30-pour-cent-146-mg-diode-ml-solution-injectable-laboratoire-bayer-healthcare-sas",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-02-23",
+    "id": "FR_ANSM_SLUG_DOLIPRANE_2_4_POUR_CENT_SUSPENSION_BUVABLE_OPELLA_HEALTHCARE_FRANCE_SAS",
+    "local_id": "SLUG_DOLIPRANE_2_4_POUR_CENT_SUSPENSION_BUVABLE_OPELLA_HEALTHCARE_FRANCE_SAS",
+    "lots": [],
+    "manufacturer": "Opella Healthcare France SAS (MED 26/A008/B008)",
+    "medicine": "Doliprane 2,4 Pour cent, suspension buvable",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400934615467"
+      }
+    ],
+    "publication_date": "2026-02-23",
+    "reason": "Ce rappel fait suite à la mise en évidence d'un défaut affectant la pipette fournie avec le flacon de DOLIPRANE 2,4 POUR CENT, suspension buvable : les graduations des pipettes de certains flacons peuvent s'effacer progressivement, après un rinçage à l'eau tiède ou chaude.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/doliprane-2-4-pour-cent-suspension-buvable-opella-healthcare-france-sas",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.9,
+    "country": "FR",
+    "date": "2026-02-20",
+    "id": "FR_ANSM_SLUG_CLAIRYG_50_MG_ML_SOLUTION_POUR_PERFUSION_FORMAT_2_5_G_50_ML_LABORATOIRE_LFB_BIOM",
+    "local_id": "SLUG_CLAIRYG_50_MG_ML_SOLUTION_POUR_PERFUSION_FORMAT_2_5_G_50_ML_LABORATOIRE_LFB_BIOM",
+    "lots": [
+      "mentionn",
+      "24L05162",
+      "objet"
+    ],
+    "manufacturer": "Laboratoire LFB - Biomédicaments",
+    "medicine": "Clairyg 50 mg/mL solution pour perfusion (format 2,5 g/50 mL)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400957618735"
+      }
+    ],
+    "publication_date": "2026-02-20",
+    "reason": "Clairyg 50 mg/mL solution pour perfusion (format 2,5 g/50 mL) – Laboratoire LFB - Biomédicaments RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 20/02/2026 A+ A- Niveau de rappel : en direct auprès des établissements hospitaliers concernés Le laboratoire LFB - Biomédicaments procède, en accord avec l'ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : Clairyg 50 mg/mL solution pour perfusion pour son format 2,5 g/50 mL (CIP 34009 576 187 3 5) Lot 24L05162 – EXP 03/2026 Ce rappel fait suite à la mise en évidence d’une teneur en aluminium supérieure de 4% à la valeur limite définie pour cette spécialité, à trois mois de la péremption du lot.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/clairyg-50-mg-ml-solution-pour-perfusion-format-2-5-g-50-ml-laboratoire-lfb-biomedicaments",
+    "warnings": []
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-02-19",
+    "id": "FR_ANSM_SLUG_POCHES_DE_NUTRITION_PARENTERALE_PREPARATIONS_MAGISTRALES_NOMINATIVES_BAXTER_FACO",
+    "local_id": "SLUG_POCHES_DE_NUTRITION_PARENTERALE_PREPARATIONS_MAGISTRALES_NOMINATIVES_BAXTER_FACO",
+    "lots": [],
+    "manufacturer": "Baxter Façonnage",
+    "medicine": "Poches de nutrition parentérale (préparations magistrales nominatives)",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-02-19",
+    "reason": "Ce rappel, réalisé le 17 février en direct auprès des établissement concernés, fait suite à l’identification lors de la lecture quotidienne des prélèvements environnementaux d’une contamination sur un prélèvement.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/poches-de-nutrition-parenterale-preparations-magistrales-nominatives-baxter-faconnage-1",
+    "warnings": [
+      "missing_cip",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-02-19",
+    "id": "FR_ANSM_SLUG_ACIDE_TRANEXAMIQUE_TILLOMED_0_5_G_5_ML_SOLUTION_INJECTABLE_MEDIPHA_SANTE",
+    "local_id": "SLUG_ACIDE_TRANEXAMIQUE_TILLOMED_0_5_G_5_ML_SOLUTION_INJECTABLE_MEDIPHA_SANTE",
+    "lots": [
+      "mentionn",
+      "ayant",
+      "est"
+    ],
+    "manufacturer": "Medipha Santé",
+    "medicine": "Acide tranexamique Tillomed 0,5 g/5 mL, solution injectable",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-02-19",
+    "reason": "Acide tranexamique Tillomed 0,5 g/5 mL, solution injectable – Medipha Santé RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 19/02/2026 A+ A- Niveau de rappel : établissements de santé Le laboratoire Medipha Santé procéde en accord avec l’ANSM et par mesure de précaution au rappel du lot mentionné ci-dessous de la spécialité : Acide tranexamique Tillomed 0,5 g/5 mL, solution injectable (Boîte de 10 ampoules – 100 mg/mL) CIP : 34009 550 981 6 4 Lot : TR0172405A (Date de péremption : 08/2026) Ce rappel fait suite à la détection de particules visibles à l’œil nu dans des lots non destinés au marché français.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/acide-tranexamique-tillomed-0-5-g-5-ml-solution-injectable-medipha-sante",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-02-11",
+    "id": "FR_ANSM_SLUG_BIFONAZOLE_SUBSTIPHARM_1_CREME_LABORATOIRE_SUBSTIPHARM",
+    "local_id": "SLUG_BIFONAZOLE_SUBSTIPHARM_1_CREME_LABORATOIRE_SUBSTIPHARM",
+    "lots": [
+      "mentionn",
+      "H0125"
+    ],
+    "manufacturer": "Laboratoire Substipharm (MED26/A007/B007)",
+    "medicine": "Bifonazole Substipharm 1 %, crème",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-02-11",
+    "reason": "04/2027) Ce rappel fait suite à la mise en évidence, lors des études de stabilité, de teneurs en bifonazole et en alcool benzylique à des taux inférieurs aux limites définies pour le produit fini.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/bifonazole-substipharm-1-creme-laboratoire-substipharm",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-02-10",
+    "id": "FR_ANSM_SLUG_ERYTHROMYCINE_BASE_MICRONISEE_LABORATOIRE_INRESA",
+    "local_id": "SLUG_ERYTHROMYCINE_BASE_MICRONISEE_LABORATOIRE_INRESA",
+    "lots": [
+      "25001739006",
+      "25001739004",
+      "25001739003"
+    ],
+    "manufacturer": "Laboratoire Inresa",
+    "medicine": "Erythromycine base micronisée",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-02-10",
+    "reason": "Erythromycine base micronisée – Laboratoire Inresa RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 10/02/2026 A+ A- Niveau de rappel : en direct auprès des officines et établissements de santé destinataires d’un des lots objet du rappel Le laboratoire Inresa procède, en accord avec l'ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la matière première à usage pharmaceutique \"Erythromycine base micronisée\" fabriquée par Sm Biomed : Erythromycine base micronisée 10g (référence INRESA : 11407-10) Lot 25001739006, date de péremption 31/12/2026 Erythromycine base micronisée 50g (référence INRESA : 11407-50) Lot 25001739004, date de péremption 31/12/2026 Erythromycine base micronisée 100g (référence INRESA : 11407-100) Lot 25001739003, date de péremption 31/12/2026 Ce ra",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/erythromycine-base-micronisee-laboratoire-inresa",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.9,
+    "country": "FR",
+    "date": "2026-02-09",
+    "id": "FR_ANSM_SLUG_GENTAMICINE_PANPHARMA_80_MG_SOLUTION_INJECTABLE_LABORATOIRE_PANPHARMA",
+    "local_id": "SLUG_GENTAMICINE_PANPHARMA_80_MG_SOLUTION_INJECTABLE_LABORATOIRE_PANPHARMA",
+    "lots": [
+      "40306",
+      "40306A"
+    ],
+    "manufacturer": "Laboratoire Panpharma (MED26/B006)",
+    "medicine": "Gentamicine Panpharma 80 mg, solution injectable",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400935120489"
+      }
+    ],
+    "publication_date": "2026-02-09",
+    "reason": "Lot 40306 - Péremption 07/2027 Lot 40306A - Péremption 07/2027 Ce rappel fait suite à la mise en évidence de la possible contamination particulaire de certaines ampoules.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/gentamicine-panpharma-80-mg-solution-injectable-laboratoire-panpharma",
+    "warnings": []
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-02-06",
+    "id": "FR_ANSM_SLUG_ZELDOX_40_MG_GELULE_LABORATOIRE_INTSEL_CHIMOS",
+    "local_id": "SLUG_ZELDOX_40_MG_GELULE_LABORATOIRE_INTSEL_CHIMOS",
+    "lots": [
+      "mentionn",
+      "GY4755",
+      "est"
+    ],
+    "manufacturer": "Laboratoire Intsel Chimos",
+    "medicine": "Zeldox 40 mg, gélule",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-02-06",
+    "reason": "Zeldox 40 mg, gélule – Laboratoire Intsel Chimos RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 06/02/2026 A+ A- Niveau de rappel : établissements de santé Le Laboratoire Intsel Chimos procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité suivante disponible en France dans le cadre d'autorisations d'accès compassionnel : Zeldox 40mg, gélule (boîte de 100 gélules) Lot GY4755 (péremption 31/12/2026) Motif du retrait : ce rappel fait suite à la mise en évidence d’un résultat hors spécification obtenu sur le principe actif utilisé.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/zeldox-40-mg-gelule-laboratoire-intsel-chimos",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-02-06",
+    "id": "FR_ANSM_SLUG_ERYTHROMYCINE_LABORATOIRE_FAGRON",
+    "local_id": "SLUG_ERYTHROMYCINE_LABORATOIRE_FAGRON",
+    "lots": [],
+    "manufacturer": "Laboratoire Fagron",
+    "medicine": "Erythromycine",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-02-06",
+    "reason": "Erythromycine – Laboratoire Fagron RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 06/02/2026 A+ A- Niveau de rappel : en direct auprès des officines et établissements de santé Le laboratoire Fagron procède, par mesure de précaution, au rappel des lots mentionnés ci-dessous de la matière première à usage pharmaceutique \"Erythromycine\" » fabriquée par Sm Biomed : Erythromycine 10 g 24D11-B07-001104 25B12-B05-012195 25B12-B05-013165 Erythromycine 25 g 24A22-B01-239100 24D11-B07-001101 24D11-B07-006406 25B12-B05-009388 25B12-B05-016124 Erythromycine 100 g 24A22-B01-240301 24D11-B07-001098 24D11-B07-006401 25B12-B05-009388 25B12-B05-016123 Ce rappel fait suite à l’émission d’une déclaration de non-conformité aux Bonnes pratiques de fabrication du site de fabrication Sm Biomed.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/erythromycine-laboratoire-fagron",
+    "warnings": [
+      "missing_cip",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-02-05",
+    "id": "FR_ANSM_SLUG_ZELDOX_20MG_40MG_ET_60MG_GELULE_LABORATOIRE_INRESA",
+    "local_id": "SLUG_ZELDOX_20MG_40MG_ET_60MG_GELULE_LABORATOIRE_INRESA",
+    "lots": [
+      "HC3919",
+      "LD6832",
+      "GY4755",
+      "HW1299",
+      "GY4704",
+      "est"
+    ],
+    "manufacturer": "Laboratoire Inresa",
+    "medicine": "Zeldox 20mg, 40mg et 60mg, gélule",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-02-05",
+    "reason": "Zeldox 20mg, 40mg et 60mg, gélule – Laboratoire Inresa RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 05/02/2026 A+ A- Niveau de rappel : Etablissements de santé Le Laboratoire INRESA procède, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous des spécialités suivantes disponibles en France dans le cadre d'autorisations d'accès compassionnel : Zeldox 20mg, gélule (boîte de 100 gélules) Lot HC3919 (péremption 31/12/2026) Lot LD6832 (péremption 31/03/2027) Zeldox 40mg, gélule (boîte de 100 gélules) Lot GY4755 (péremption 31/12/2026) Lot HW1299 (péremption 31/03/2027) Zeldox 60mg, gélule (boîte de 100 gélules) Lot GY4704 (péremption 31/12/2026) Motif du retrait : ce rappel fait suite à la mise en évidence d’un résultat hors spécification obtenu sur le principe actif utilisé.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/zeldox-20mg-40mg-et-60mg-gelule-laboratoire-inresa",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-02-02",
+    "id": "FR_ANSM_SLUG_INNOHEP_2_500_UI_ANTI_XA_0_25_ML_SOLUTION_INJECTABLE_EN_SERINGUE_PREREMPLIE_LABO",
+    "local_id": "SLUG_INNOHEP_2_500_UI_ANTI_XA_0_25_ML_SOLUTION_INJECTABLE_EN_SERINGUE_PREREMPLIE_LABO",
+    "lots": [
+      "mentionn",
+      "D46686"
+    ],
+    "manufacturer": "Laboratoires Leo (MED26/A006/B005)",
+    "medicine": "Innohep 2 500 UI anti-Xa/0,25 ml, solution injectable en seringue préremplie",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-02-02",
+    "reason": "09/2028) Ce rappel fait suite à la mise en évidence d’une seringue d’Innohep 3 500 UI anti-Xa/0,35 ml dans une boîte d’Innohep 2 500 UI anti-Xa/0,25 ml.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/innohep-2-500-ui-anti-xa-0-25-ml-solution-injectable-en-seringue-preremplie-laboratoires-leo",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-01-27",
+    "id": "FR_ANSM_SLUG_STROMECTOL_3MG_COMPRIME_ET_MECTIZAN_3MG_COMPRIME_MSD_FRANCE",
+    "local_id": "SLUG_STROMECTOL_3MG_COMPRIME_ET_MECTIZAN_3MG_COMPRIME_MSD_FRANCE",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Stromectol 3mg, comprimé et Mectizan 3mg, comprimé - MSD France (MED 26/A005/B004)",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-01-27",
+    "reason": "Stromectol 3 mg, comprimé (boite de 4 comprimés, CIP : 34009 352 388 5 6) Y013030 _ Péremption 30/04/2026 Y016860 _ Péremption 30/09/2026 Y019726 _ Péremption 30/09/2026 Z009255 _ Péremption 30/04/2027 Stromectol 3 mg, comprimé (boite de 20 comprimés, CIP : 34009 352 389 1 7) Y007053 _ Péremption 31/03/2026 Y013032 _ Péremption 30/04/2026 Mectrizan 3 mg, comprimé (flacon de 500 comprimés, CIP : 34009 343 368 5 0) X016734 _ Péremption 28/02/2026 A000248 _ Péremption 30/04/2026 B000379 _ Péremption 31/10/2026 B000390 _ Péremption 31/10/2026 Y020543 _ Péremption 31/12/2027 Y020701 _ Péremption 31/12/2027 Ce rappel fait suite à la présence potentielle d’environ 0,2 % de comprimés dont la teneur en principe actif dépasse la spécification.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/stromectol-3mg-comprime-et-mectizan-3mg-comprime-msd-france",
+    "warnings": [
+      "missing_cip",
+      "missing_lot",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-01-26",
+    "id": "FR_ANSM_SLUG_LACTEOL_340_MG_POUDRE_POUR_SUSPENSION_BUVABLE_EN_SACHET_DOSE_LABORATOIRE_DSM_FIR",
+    "local_id": "SLUG_LACTEOL_340_MG_POUDRE_POUR_SUSPENSION_BUVABLE_EN_SACHET_DOSE_LABORATOIRE_DSM_FIR",
+    "lots": [
+      "mentionn",
+      "247037",
+      "entrainant"
+    ],
+    "manufacturer": "Laboratoire DSM-Firmenich Houdan S.A.S (MED26/A004/B003)",
+    "medicine": "Lacteol 340 mg, poudre pour suspension buvable en sachet-dose",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-01-26",
+    "reason": "Lot 247037 (Date de péremption : 31/03/2027) Ce rappel fait suite à la mise en évidence d’un défaut de scellage de certains sachets de ce lot entrainant la prise en masse de la poudre contenue dans ces sachets.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/lacteol-340-mg-poudre-pour-suspension-buvable-en-sachet-dose-laboratoire-dsm-firmenich-houdan-s-a-s",
+    "warnings": [
+      "missing_cip"
+    ]
+  }
+]

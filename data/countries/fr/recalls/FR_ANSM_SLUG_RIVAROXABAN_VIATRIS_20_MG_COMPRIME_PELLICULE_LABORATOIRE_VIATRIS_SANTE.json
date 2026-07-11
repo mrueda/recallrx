@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé, circuit de distribution pharmaceutique et patients",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-03-25",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_RIVAROXABAN_VIATRIS_20_MG_COMPRIME_PELLICULE_LABORATOIRE_VIATRIS_SANTE",
+  "local_id": "SLUG_RIVAROXABAN_VIATRIS_20_MG_COMPRIME_PELLICULE_LABORATOIRE_VIATRIS_SANTE",
+  "lots": [
+    "mentionn",
+    "concern",
+    "dans"
+  ],
+  "manufacturer": "Laboratoire Viatris Santé (MED26/A013/B012)",
+  "medicine": "Rivaroxaban Viatris 20 mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-03-25",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Rivaroxaban Viatris 20 mg, comprimé pelliculé – Laboratoire Viatris Santé (MED26/A013/B012)"
+  },
+  "reason": "Rivaroxaban Viatris 20 mg, comprimé pelliculé – Laboratoire Viatris Santé (MED26/A013/B012) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 25/03/2026 A+ A- Niveau de rappel : officines, établissements de santé, circuit de distribution pharmaceutique et patients Le laboratoire Viatris Santé procède, en accord avec l’ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : Rivaroxaban Viatris 20 mg, comprimé pelliculé - boite de 28 comprimés – CIP : 3400930276211 N° de lot : 8212020, péremption 07/2028 Ce rappel fait suite à la mise en évidence de la présence en très faible quantité de quétiapine (< 0,048 mg/par comprimé) dans les comprimés du seul lot concerné de Rivaroxaban Viatris 20 mg, comprimé pelliculé.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/rivaroxaban-viatris-20-mg-comprime-pellicule-laboratoire-viatris-sante",
+  "warnings": [
+    "missing_cip"
+  ]
+}

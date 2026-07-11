@@ -1,10 +1,10 @@
 {
-  "name": "openrecall-docs",
+  "name": "recallrx-docs",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "build:app": "PYTHONPATH=../src python3 -m openrecall dist --site ../site --data ../data --output static/app",
+    "build:app": "PYTHONPATH=../src python3 -m recallrx dist --site ../site --data ../data --output static/app",
     "prestart": "npm run build:app",
     "start": "NODE_OPTIONS=--max-old-space-size=4096 docusaurus start",
     "prebuild": "npm run build:app",

@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-01-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_STROMECTOL_3MG_COMPRIME_ET_MECTIZAN_3MG_COMPRIME_MSD_FRANCE",
+  "local_id": "SLUG_STROMECTOL_3MG_COMPRIME_ET_MECTIZAN_3MG_COMPRIME_MSD_FRANCE",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Stromectol 3mg, comprimé et Mectizan 3mg, comprimé - MSD France (MED 26/A005/B004)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-01-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Stromectol 3mg, comprimé et Mectizan 3mg, comprimé - MSD France (MED 26/A005/B004)"
+  },
+  "reason": "Stromectol 3 mg, comprimé (boite de 4 comprimés, CIP : 34009 352 388 5 6) Y013030 _ Péremption 30/04/2026 Y016860 _ Péremption 30/09/2026 Y019726 _ Péremption 30/09/2026 Z009255 _ Péremption 30/04/2027 Stromectol 3 mg, comprimé (boite de 20 comprimés, CIP : 34009 352 389 1 7) Y007053 _ Péremption 31/03/2026 Y013032 _ Péremption 30/04/2026 Mectrizan 3 mg, comprimé (flacon de 500 comprimés, CIP : 34009 343 368 5 0) X016734 _ Péremption 28/02/2026 A000248 _ Péremption 30/04/2026 B000379 _ Péremption 31/10/2026 B000390 _ Péremption 31/10/2026 Y020543 _ Péremption 31/12/2027 Y020701 _ Péremption 31/12/2027 Ce rappel fait suite à la présence potentielle d’environ 0,2 % de comprimés dont la teneur en principe actif dépasse la spécification.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/stromectol-3mg-comprime-et-mectizan-3mg-comprime-msd-france",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

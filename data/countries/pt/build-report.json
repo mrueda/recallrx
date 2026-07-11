@@ -1,3 +1,64 @@
 {
-  "reports": []
+  "reports": [
+    {
+      "accepted": 29,
+      "candidates": 39,
+      "country": "pt",
+      "pages": 7,
+      "rejected": [
+        {
+          "reason": "not_human_medicine_recall",
+          "title": "Suspensão imediata da comercialização e retirada do mercado | Produtos cosméticos da Pessoa responsável FBeauty, Lda.",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13172881"
+        },
+        {
+          "reason": "not_human_medicine_recall",
+          "title": "Suspensão imediata da comercialização e retirada do mercado | Calmidine",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13152616"
+        },
+        {
+          "reason": "not_human_medicine_recall",
+          "title": "Suspensão imediata da comercialização e retirada do mercado do produto \"DIVES MED / Glow X9 Biorevitalization Peel 4ml\"",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12657839"
+        },
+        {
+          "reason": "not_human_medicine_recall",
+          "title": "Suspensão imediata e recolha voluntária de lotes | Água Pura (Evoluderm)",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12588241"
+        },
+        {
+          "reason": "not_human_medicine_recall",
+          "title": "Suspensão imediata da comercialização e retirada do mercado: \"Boderm Crotamiton Plus Body Lotion\"",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12577841"
+        },
+        {
+          "reason": "not_human_medicine_recall",
+          "title": "Suspensão da comercialização e retirada do mercado de produtos cosméticos indevidamente qualificados (AGA Álcool e Géneros Alimentares)",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12249535"
+        },
+        {
+          "reason": "not_human_medicine_recall",
+          "title": "Suspensão da Comercialização e Retirada do Mercado | Carpi Cosméticos / SeiBellaBrasil",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11968041"
+        },
+        {
+          "reason": "not_human_medicine_recall",
+          "title": "Suspensão e recolha voluntária do lote de seringas Cardio Natur (Jiangsu Kanghua Medical Equipment Co., Ltd.)",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11842146"
+        },
+        {
+          "reason": "not_human_medicine_recall",
+          "title": "Recolha de lotes do sistema de peróxido a 3% para a desinfeção de lentes de contacto (DISOP, S.A.)",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11546421"
+        },
+        {
+          "reason": "not_human_medicine_recall",
+          "title": "Suspensão da comercialização e retirada do mercado de todos os produtos cosméticos da Gold Spell Portugal Lda.",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11450853"
+        }
+      ],
+      "source": "pt_infarmed",
+      "warnings": []
+    }
+  ]
 }

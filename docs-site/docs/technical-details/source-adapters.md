@@ -21,7 +21,7 @@ steps.
 
 To add a new source:
 
-1. Create a new adapter under `src/openrecall/adapters/`.
+1. Create a new adapter under `src/recallrx/adapters/`.
 2. Normalize records into the shared `RecallRecord` model.
 3. Add the adapter to the source registry.
 4. Add fixtures and tests for source-specific parsing.

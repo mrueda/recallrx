@@ -3,6 +3,8 @@
 ## MVP
 
 - Spain/AEMPS human-medicine recalls.
+- Portugal/INFARMED medicine recalls.
+- France/ANSM medicine product recalls.
 - Static JSON dataset.
 - Static browser search.
 - Daily GitHub Actions update.
@@ -13,7 +15,7 @@
 - Broader historical backfill validation.
 - CIMA enrichment for Spanish medicine metadata.
 - GS1 DataMatrix decoding and CN lookup.
-- Additional country adapters such as FDA, MHRA, Health Canada, and TGA.
+- Additional country adapters such as Andorra, FDA, MHRA, Health Canada, and TGA.
 
 ## Later
 

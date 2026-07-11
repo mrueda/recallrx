@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from openrecall.cli import build_dist
+from recallrx.cli import build_dist
 
 
 def test_dist_copies_site_and_data(tmp_path):

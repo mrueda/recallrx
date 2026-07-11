@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : établissements de santé",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-02-19",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ACIDE_TRANEXAMIQUE_TILLOMED_0_5_G_5_ML_SOLUTION_INJECTABLE_MEDIPHA_SANTE",
+  "local_id": "SLUG_ACIDE_TRANEXAMIQUE_TILLOMED_0_5_G_5_ML_SOLUTION_INJECTABLE_MEDIPHA_SANTE",
+  "lots": [
+    "mentionn",
+    "ayant",
+    "est"
+  ],
+  "manufacturer": "Medipha Santé",
+  "medicine": "Acide tranexamique Tillomed 0,5 g/5 mL, solution injectable",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-02-19",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Acide tranexamique Tillomed 0,5 g/5 mL, solution injectable – Medipha Santé"
+  },
+  "reason": "Acide tranexamique Tillomed 0,5 g/5 mL, solution injectable – Medipha Santé RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 19/02/2026 A+ A- Niveau de rappel : établissements de santé Le laboratoire Medipha Santé procéde en accord avec l’ANSM et par mesure de précaution au rappel du lot mentionné ci-dessous de la spécialité : Acide tranexamique Tillomed 0,5 g/5 mL, solution injectable (Boîte de 10 ampoules – 100 mg/mL) CIP : 34009 550 981 6 4 Lot : TR0172405A (Date de péremption : 08/2026) Ce rappel fait suite à la détection de particules visibles à l’œil nu dans des lots non destinés au marché français.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/acide-tranexamique-tillomed-0-5-g-5-ml-solution-injectable-medipha-sante",
+  "warnings": [
+    "missing_cip"
+  ]
+}

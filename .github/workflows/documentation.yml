@@ -40,13 +40,13 @@ jobs:
           python -m pip install -e .
 
       - name: Build fresh recall data
-        run: python -m openrecall build --output data --config openrecall.config.json
+        run: python -m recallrx build --output data --config recallrx.config.json
 
       - name: Validate fresh recall data
-        run: python -m openrecall validate data
+        run: python -m recallrx validate data
 
       - name: Build live search app for docs site
-        run: python -m openrecall dist --output docs-site/static/app
+        run: python -m recallrx dist --output docs-site/static/app
 
       - name: Install docs dependencies
         working-directory: docs-site

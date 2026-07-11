@@ -5,12 +5,12 @@ import type * as Preset from '@docusaurus/preset-classic';
 const isProduction = process.env.NODE_ENV === 'production';
 
 const config: Config = {
-  title: 'OpenRecall Docs',
+  title: 'RecallRx Docs',
   tagline: 'Static, country-extensible medicine recall search',
   url: 'https://mrueda.github.io',
-  baseUrl: '/openrecall/',
+  baseUrl: '/recallrx/',
   organizationName: 'mrueda',
-  projectName: 'openrecall',
+  projectName: 'recallrx',
   onBrokenLinks: 'warn',
   markdown: {
     hooks: {
@@ -51,19 +51,19 @@ const config: Config = {
       ]
     : [],
   themeConfig: {
-    image: 'img/openrecall-social.svg',
+    image: 'img/recallrx-social.svg',
     colorMode: {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'OpenRecall',
+      title: 'RecallRx',
       logo: {
-        alt: 'OpenRecall logo',
-        src: 'img/openrecall-logo.svg',
+        alt: 'RecallRx logo',
+        src: 'img/recallrx-logo.svg',
       },
       items: [
         {
-          href: 'https://mrueda.github.io/openrecall/app/',
+          href: 'https://mrueda.github.io/recallrx/app/',
           label: 'Live Search',
           position: 'left',
         },
@@ -79,7 +79,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/mrueda/openrecall',
+          href: 'https://github.com/mrueda/recallrx',
           label: 'GitHub',
           position: 'right',
         },
@@ -93,7 +93,7 @@ const config: Config = {
           items: [
             {
               label: 'Live Search',
-              href: 'https://mrueda.github.io/openrecall/app/',
+              href: 'https://mrueda.github.io/recallrx/app/',
             },
             {
               label: 'Use the App',
@@ -127,11 +127,11 @@ const config: Config = {
           items: [
             {
               label: 'Repository',
-              href: 'https://github.com/mrueda/openrecall',
+              href: 'https://github.com/mrueda/recallrx',
             },
             {
               label: 'License',
-              href: 'https://github.com/mrueda/openrecall/blob/main/LICENSE',
+              href: 'https://github.com/mrueda/recallrx/blob/main/LICENSE',
             },
           ],
         },

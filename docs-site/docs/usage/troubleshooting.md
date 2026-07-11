@@ -5,7 +5,7 @@
 Check whether AEMPS changed the search endpoint or result shape:
 
 ```bash
-python3 -m openrecall build --output /tmp/openrecall-data
+python3 -m recallrx build --output /tmp/recallrx-data
 ```
 
 Then inspect the generated build report.
@@ -22,7 +22,7 @@ Build `dist/` and serve that directory rather than opening `site/index.html`
 directly:
 
 ```bash
-python3 -m openrecall dist
+python3 -m recallrx dist
 python3 -m http.server 8000 --directory dist
 ```
 

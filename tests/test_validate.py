@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from openrecall.validate import validate_dataset
+from recallrx.validate import validate_dataset
 
 
 def test_seed_dataset_validates():

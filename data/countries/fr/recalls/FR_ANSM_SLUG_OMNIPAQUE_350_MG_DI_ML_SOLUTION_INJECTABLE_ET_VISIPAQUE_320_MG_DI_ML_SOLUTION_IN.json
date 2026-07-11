@@ -1,0 +1,44 @@
+{
+  "actions": "Niveau de rappel : établissements de santé et circuit de distribution pharmaceutique, ainsi qu'en direct auprès des professionnels de santé ayant reçu un lot objet du rappel.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2026-03-26",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OMNIPAQUE_350_MG_DI_ML_SOLUTION_INJECTABLE_ET_VISIPAQUE_320_MG_DI_ML_SOLUTION_IN",
+  "local_id": "SLUG_OMNIPAQUE_350_MG_DI_ML_SOLUTION_INJECTABLE_ET_VISIPAQUE_320_MG_DI_ML_SOLUTION_IN",
+  "lots": [
+    "objet",
+    "17324090",
+    "17361386",
+    "17364400",
+    "17364401",
+    "17264301",
+    "17264302",
+    "17302277",
+    "17323156"
+  ],
+  "manufacturer": "Laboratoire GE Healthcare SAS (MED 26/B013)",
+  "medicine": "Omnipaque 350 mg d'I/mL, solution injectable et Visipaque 320 mg d'I/mL, solution injectable",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400956238811"
+    },
+    {
+      "system": "CIP",
+      "value": "3400935201317"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2026-03-26",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Omnipaque 350 mg d'I/mL, solution injectable et Visipaque 320 mg d'I/mL, solution injectable – Laboratoire GE Healthcare SAS (MED 26/B013)"
+  },
+  "reason": "Le Laboratoire GE Healthcare SAS procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous des spécialités pharmaceutiques : Omnipaque 350 mg d'I/mL, solution injectable – flacon de 100 mL (CIP 34009 562 388 1 1) Lot 17324090 (Exp oct.-28) Lot 17361386 (Exp oct.-28) Lot 17364400 (Exp oct.-28) Lot 17364401 (Exp nov.-28) Visipaque 320 mg d'I/mL, solution injectable – flacon de 100 mL (CIP 34009 352 013 1 7) Lot 17264301 (Exp août-28) Lot 17264302 (Exp juil.-28) Lot 17302277 (Exp août-28) Lot 17323156 (Exp août-28) Ce rappel fait suite à la mise en évidence de particules adhérentes à la paroi interne de certains flacons de 100 mL.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/omnipaque-350-mg-di-ml-solution-injectable-et-visipaque-320-mg-di-ml-solution-injectable-laboratoire-ge-healthcare-sas",
+  "warnings": []
+}

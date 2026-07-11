@@ -1,6 +1,6 @@
 # Operations
 
-OpenRecall is designed to run as a scheduled static data pipeline.
+RecallRx is designed to run as a scheduled static data pipeline.
 
 ## Daily update
 
@@ -8,13 +8,13 @@ The dataset update workflow runs the Python collector, validates the generated
 JSON, and commits changes only when the `data/` directory changes.
 
 ```bash
-python -m openrecall build --output data
-python -m openrecall validate data
+python -m recallrx build --output data
+python -m recallrx validate data
 ```
 
-The collector uses Python HTTP requests rather than `wget`, so it can set a
-clear user agent, retry transient failures, page through AEMPS search results,
-parse HTML, and fall back to PDFs when needed.
+The collectors use Python HTTP requests rather than `wget`, so they can set a
+clear user agent, retry transient failures, page through authority search
+results, parse HTML, and fall back to PDFs when needed.
 
 ## Deployment
 
@@ -26,8 +26,8 @@ validated without replacing the search app deployment.
 
 When a scheduled update changes many records, inspect:
 
-- `data/countries/es/build-report.json`
+- `data/countries/<country>/build-report.json`
 - rejected candidate counts
 - parser warnings on accepted records
 - changes to `recalls-summary.json`
-- any new missing `CN`, lot, date, or reason fields
+- any new missing product-code, lot, date, or reason fields

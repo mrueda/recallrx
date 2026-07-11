@@ -21,8 +21,8 @@
       "product_code_systems": [
         "AIM"
       ],
-      "records": 0,
-      "status": "planned"
+      "records": 29,
+      "status": "active"
     },
     {
       "authority": "ANSM",
@@ -33,8 +33,8 @@
       "product_code_systems": [
         "CIP"
       ],
-      "records": 0,
-      "status": "planned"
+      "records": 29,
+      "status": "active"
     },
     {
       "authority": "Ministeri de Salut",
@@ -48,9 +48,11 @@
     }
   ],
   "default_country": "es",
-  "generated_at": "2026-07-11T17:43:55+00:00",
-  "record_count": 157,
+  "generated_at": "2026-07-11T18:19:04+00:00",
+  "record_count": 215,
   "sources": [
-    "es_aemps"
+    "es_aemps",
+    "pt_infarmed",
+    "fr_ansm"
   ]
 }
