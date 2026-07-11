@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-11-03",
+  "expiry_dates": [
+    "31",
+    "07",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_31_2023",
+  "local_id": "R_31/2023",
+  "lots": [
+    "HAD3165D"
+  ],
+  "manufacturer": "SUN PHARMACEUTICAL INDUSTRIES EUROPE B.V. – Polarisavenue, 87, Hoofddorp, 2132 JH, Holanda",
+  "medicine": "Temozolomida SUN 5 mg capsulas duras EFG, 5 cápsulas (NR: 111697013, CN: 696525)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "696525"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-11-03",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el test de contenido durante los análisis de las muestras en estabilidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/temozolomida-sun-5-mg-capsulas-duras-efg-5-capsulas-nr-111697013-cn-696525/",
+  "warnings": []
+}

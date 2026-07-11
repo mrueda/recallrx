@@ -1,0 +1,41 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-07-28",
+  "expiry_dates": [
+    "Lote: C97093",
+    "fecha de caducidad 31",
+    "01",
+    "2026 Lote: C97323",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_23_2025",
+  "local_id": "R_23/2025",
+  "lots": [
+    "C97093",
+    "fecha de caducidad 31",
+    "01",
+    "2026"
+  ],
+  "manufacturer": "LABORATORIOS LEO PHARMA, S.A. – C/ Via Layetana, 33, 7 planta(Barcelona)",
+  "medicine": "FUCIDINE 250 mg COMPRIMIDOS RECUBIERTOS CON PELICULA , 10 comprimidos (NR: 39143, CN: 697148)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "697148"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-07-29",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en impurezas detectado en estudios de estabilidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/fucidine-250-mg-comprimidos-recubiertos-con-pelicula-10-comprimidos-nr-39143-cn-697148/",
+  "warnings": []
+}

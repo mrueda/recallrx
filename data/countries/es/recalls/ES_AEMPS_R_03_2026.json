@@ -1,0 +1,54 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-01-20",
+  "expiry_dates": [
+    "PALMEUX 100 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EN JERINGA PRECARGADA EFG",
+    "1 jeringa precargada + 2 agujas (NR: 86755",
+    "CN: 733736) Lote: 4301969 Lote: 4301980 Lote: 4400671 Lote: 4401262 Lote: 4401362 Lote: 4500278 Lote: 4500286R4 Lote: 4500677 Lote: 4500823 Lote: 4501299 PALMEUX 150 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EN JERINGA PRECARGADA EFG",
+    "1 jeringa precargada + 2 agujas (NR: 86754",
+    "CN: 733735) Lote: 4400380 Lote: 4401472 Lote: 4401545 Lote: 4500511 Lote: 4500926 Lote: 4501374 PALMEUX 50 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EN JERINGA PRECARGADA EFG",
+    "1 jeringa precargada + 2 agujas (NR: 86753",
+    "CN: 733734) Lote: 4400378 Lote: 4400379 Lote: 4401270 Lote: 4401429 Lote: 4401474 PALMEUX 75 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EN JERINGA PRECARGADA EFG",
+    "1 jeringa precargada + 2 agujas (NR: 86756",
+    "CN: 733737) Lote: 4400716 Lote: 4401438 Lote: 4500175"
+  ],
+  "id": "ES_AEMPS_R_03_2026",
+  "local_id": "R_03/2026",
+  "lots": [
+    "4301969"
+  ],
+  "manufacturer": "AMDIPHARM LIMITED – Temple Chambers. 3 Burlington Road, Dublin 4, D04 RD68, Irlanda",
+  "medicine": "PALMEUX 100 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EN JERINGA PRECARGADA EFG, 1 jeringa precargada + 2 agujas (NR: 86755, CN: 733736) PALMEUX 150 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EN JERINGA PRECARGADA EFG, 1 jeringa precargada + 2 agujas (NR: 86754, CN: 733735) PALMEUX 50 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EN JERINGA PRECARGADA EFG, 1 jeringa precargada + 2 agujas (NR: 86753, CN: 733734) PALMEUX 75 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EN JERINGA PRECARGADA EFG, 1 jeringa precargada + 2 agujas (NR: 86756, CN: 733737)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "733736"
+    },
+    {
+      "system": "CN",
+      "value": "733735"
+    },
+    {
+      "system": "CN",
+      "value": "733734"
+    },
+    {
+      "system": "CN",
+      "value": "733737"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2026-01-20",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Deficiencias detectadas en la inspección de normas de correcta fabricación del fabricante de los medicamentos",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/palmeux-suspension-inyectable-de-liberacion-prolongada-en-jeringa-precargada-efg-varias-presentaciones/",
+  "warnings": []
+}

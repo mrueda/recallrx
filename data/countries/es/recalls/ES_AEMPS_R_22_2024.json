@@ -1,0 +1,43 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-10-01",
+  "expiry_dates": [
+    "Lote: 23201V",
+    "fecha de caducidad 31",
+    "05",
+    "2026 Lote: 23202V",
+    "fecha de caducidad 30",
+    "06",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_22_2024",
+  "local_id": "R_22/2024",
+  "lots": [
+    "23201V",
+    "fecha de caducidad 31",
+    "05",
+    "2026"
+  ],
+  "manufacturer": "ORION CORPORATION – Orionintie 1, Espoo, 02200, Finlandia",
+  "medicine": "SUGAMMADEX ORION 100 MG/ML SOLUCION INYECTABLE EFG, 10 viales de 2 ml (NR: 88751, CN: 762458)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "762458"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2024-10-01",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Fuera de especificaciones en determinación de partículas visibles en disolución",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/sugammadex-orion-100-mg-ml-solucion-inyectable-efg-10-viales-de-2-ml-nr-88751-cn-762458/",
+  "warnings": []
+}

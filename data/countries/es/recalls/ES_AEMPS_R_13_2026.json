@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-03-18",
+  "expiry_dates": [
+    "31",
+    "07",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_13_2026",
+  "local_id": "R_13/2026",
+  "lots": [
+    "1211842"
+  ],
+  "manufacturer": "CHIESI ESPAÑA, S.A.U. – Plaça d`Europa, 41-43 – Planta 10 (L`Hospitalet de Llobregat)",
+  "medicine": "CUROSURF 240, 1 vial de 3 ml (NR: 59600, CN: 778191)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "778191"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2026-03-19",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Riesgo de contaminación microbiológica",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/curosurf-240-1-vial-de-3-ml-nr-59600-cn-778191/",
+  "warnings": []
+}

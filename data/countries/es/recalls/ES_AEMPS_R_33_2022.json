@@ -1,0 +1,54 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-11-17",
+  "expiry_dates": [
+    "ACIDO ALENDRONICO",
+    "COLECALCIFEROL SEMANAL STADA 70 MG",
+    "2.800 UI COMPRIMIDOS EFG 4 comprimidos (NR: 83548",
+    "CN: 723911) Lote: 10483",
+    "fecha de caducidad 31",
+    "01",
+    "2023 Lote: 10996",
+    "03",
+    "2023 ACIDO ALENDRONICO",
+    "5.600 UI COMPRIMIDOS EFG 4 comprimidos (NR: 83549",
+    "CN: 723912) Lote: 10895",
+    "fecha de caducidad 28",
+    "02",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_33_2022",
+  "local_id": "R_33/2022",
+  "lots": [
+    "10483",
+    "fecha de caducidad 31",
+    "01",
+    "2023"
+  ],
+  "manufacturer": "LABORATORIO STADA, S.L. – C/ Frederic Mompou, 5(Sant Just Desvern)",
+  "medicine": "ACIDO ALENDRONICO/COLECALCIFEROL SEMANAL STADA 70 MG/2.800 UI COMPRIMIDOS EFG 4 comprimidos (NR: 83548, CN: 723911) ACIDO ALENDRONICO/COLECALCIFEROL SEMANAL STADA 70 MG/5.600 UI COMPRIMIDOS EFG 4 comprimidos (NR: 83549, CN: 723912)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "723911"
+    },
+    {
+      "system": "CN",
+      "value": "723912"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-11-17",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el ensayo de valoración de colecalciferol",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/acido-alendronico-colecalciferol-semanal-stada-70-mg-varias-presentaciones/",
+  "warnings": []
+}

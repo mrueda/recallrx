@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-02-13",
+  "expiry_dates": [
+    "30",
+    "11",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_04_2024",
+  "local_id": "R_04/2024",
+  "lots": [
+    "19225319A"
+  ],
+  "manufacturer": "INDUSTRIAL FARMACÉUTICA CANTABRIA, S.A. – Barrio Solía n 30 (La Concha-Villaescusa)",
+  "medicine": "IMUNOCARE 50 MG/G CREMA 24 sobres unidosis de 250 mg (NR: 78406, CN: 701283)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "701283"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2024-02-13",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en valoración de sustancia activa",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/imunocare-50-mg-g-crema-24-sobres-unidosis-de-250-mg-nr-78406-cn-701283/",
+  "warnings": []
+}

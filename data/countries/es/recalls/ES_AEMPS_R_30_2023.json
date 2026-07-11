@@ -1,0 +1,53 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-09-11",
+  "expiry_dates": [
+    "Lote: 23111",
+    "fecha de caducidad 31",
+    "05",
+    "2025 Lote: 23123",
+    "fecha de caducidad 30",
+    "06",
+    "2025 Lote: 23124",
+    "2025 Lote: 23129",
+    "2025 Lote: 23132",
+    "2025 Lote: 23135",
+    "07",
+    "2025 Lote: 23136",
+    "2025 Lote: 23141",
+    "2025 Lote: 23155",
+    "2025 Lote: 23162",
+    "2025 Lote: 23164",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_30_2023",
+  "local_id": "R_30/2023",
+  "lots": [
+    "23111",
+    "fecha de caducidad 31",
+    "05",
+    "2025"
+  ],
+  "manufacturer": "ITALFARMACO, S.A. – San Rafael, 3 (Alcobendas)",
+  "medicine": "FERPLEX 40 mg SOLUCION ORAL, 20 viales bebibles de 15 ml (NR: 59587, CN: 776773)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "776773"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-09-12",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Fuera de especificaciones en el parámetro TAMC",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/retirada-de-ferplex-40-mg-solucion-oral-20-viales-bebibles-de-15-ml-nr-59587-cn-776773/",
+  "warnings": []
+}

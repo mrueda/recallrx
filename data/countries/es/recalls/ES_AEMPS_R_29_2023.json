@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-08-30",
+  "expiry_dates": [
+    "30",
+    "11",
+    "2027"
+  ],
+  "id": "ES_AEMPS_R_29_2023",
+  "local_id": "R_29/2023",
+  "lots": [
+    "19RMB090"
+  ],
+  "manufacturer": "FRESENIUS KABI ESPAÑA, S.A.U. – C/ Marina, 16-18, Planta 17 (Torre Mapfre), Villa Olímpica(Barcelona)",
+  "medicine": "APIROSERUM NORMAION RESTAURADOR , 12 frascos de 500 ml (NR: 45434, CN: 614602)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "614602"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-08-30",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en uno de los excipientes empleados en su fabricación",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/retirada-de-apiroserum-normaion-restaurador-12-frascos-de-500-ml-nr-45434-cn-614602/",
+  "warnings": []
+}

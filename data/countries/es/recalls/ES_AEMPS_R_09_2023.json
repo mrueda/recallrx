@@ -1,0 +1,67 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-03-28",
+  "expiry_dates": [
+    "DULOXETINA SANDOZ 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG",
+    "28 cápsulas (NR: 79569",
+    "CN: 705511) Lote: R77",
+    "fecha de caducidad 31",
+    "01",
+    "2024 Lote: R975",
+    "fecha de caducidad 30",
+    "04",
+    "2024 Lote: S0024",
+    "2025 Lote: S0595",
+    "2025 DULOXETINA SANDOZ 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG",
+    "28 cápsulas (NR: 79570",
+    "CN: 705512) Lote: R1214",
+    "07",
+    "2024 Lote: R76",
+    "12",
+    "2023 Lote: S0482",
+    "03",
+    "2025 DULOXETINA SANDOZ 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG 56 cápsulas (NR: 79570",
+    "CN: 729570) Lote: R1073",
+    "2024 Lote: R133",
+    "2023 Lote: S0199",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_09_2023",
+  "local_id": "R_09/2023",
+  "lots": [
+    "R77",
+    "fecha de caducidad 31",
+    "01",
+    "2024"
+  ],
+  "manufacturer": "SANDOZ FARMACÉUTICA, S.A. – C/ Serrano Galvache, Nº 56. Parque Norte, Edificio Roble.(Madrid)",
+  "medicine": "DULOXETINA SANDOZ 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 28 cápsulas (NR: 79569, CN: 705511) DULOXETINA SANDOZ 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG 56 cápsulas (NR: 79570, CN: 729570) DULOXETINA SANDOZ 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 28 cápsulas (NR: 79570, CN: 705512)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "705511"
+    },
+    {
+      "system": "CN",
+      "value": "729570"
+    },
+    {
+      "system": "CN",
+      "value": "705512"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-03-28",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de una impureza por encima de su límite establecido",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/duloxetina-sandoz-varias-presentaciones/",
+  "warnings": []
+}

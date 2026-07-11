@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-11-25",
+  "expiry_dates": [
+    "30",
+    "06",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_30_2025",
+  "local_id": "R_30/2025",
+  "lots": [
+    "PTF3381D"
+  ],
+  "manufacturer": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V. – Polarisavenue, 87, Hoofddorp, 2132 JH, Holanda",
+  "medicine": "CANDESARTAN SUN 32 mg COMPRIMIDOS EFG , 28 comprimidos (NR: 73977, CN: 679958)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "679958"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-11-26",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible resultado fuera de especificaciones del ensayo de disolución",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/candesartan-sun-32-mg-comprimidos-efg-28-comprimidos-nr-73977-cn-679958/",
+  "warnings": []
+}

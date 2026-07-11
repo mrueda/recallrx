@@ -1,0 +1,62 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-04-01",
+  "expiry_dates": [
+    "Lote: SL240253-1",
+    "fecha de caducidad 17",
+    "04",
+    "2025 Lote: SL240253-2",
+    "2025 Lote: SL240255-2",
+    "fecha de caducidad 08",
+    "05",
+    "2025 Lote: SL240259-1",
+    "fecha de caducidad 09",
+    "2025 Lote: SL240263-1",
+    "fecha de caducidad 23",
+    "2025 Lote: SL240266-2",
+    "fecha de caducidad 28",
+    "2025 Lote: SL240269-1",
+    "07",
+    "2025 Lote: SL240270-1",
+    "fecha de caducidad 14",
+    "2025 Lote: SL240277-2",
+    "fecha de caducidad 06",
+    "08",
+    "2025 Lote: SL240282-1",
+    "fecha de caducidad 27",
+    "2025 Lote: SL240324-2",
+    "fecha de caducidad 30",
+    "2025 Lote: SL240420-2",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_11_2025",
+  "local_id": "R_11/2025",
+  "lots": [
+    "SL240253-1",
+    "fecha de caducidad 17",
+    "04",
+    "2025"
+  ],
+  "manufacturer": "INSTITUT GEORGES LOPEZ – Parc Tertiaire du Bois Dieu, RN6 – 1 allee des Chevreuils, Lissieu, F-69380, Francia",
+  "medicine": "CELSIOR SOLUCION PARA LA CONSERVACION DE ORGANOS, 4 bolsas de 1.000 ml (NR: 73767, CN: 677327)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "677327"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2025-04-02",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Incumplimiento de normas de correcta fabricación del fabricante Institut Georges Lopez",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/celsior-solucion-para-la-conservacion-de-organos-4-bolsas-de-1-000-ml/",
+  "warnings": []
+}

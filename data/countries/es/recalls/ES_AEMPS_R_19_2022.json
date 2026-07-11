@@ -1,0 +1,42 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-06-28",
+  "expiry_dates": [
+    "Lote: R023",
+    "fecha de caducidad 31",
+    "05",
+    "2025 Lote: R032",
+    "10",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_19_2022",
+  "local_id": "R_19/2022",
+  "lots": [
+    "R023",
+    "fecha de caducidad 31",
+    "05",
+    "2025"
+  ],
+  "manufacturer": "KERN PHARMA, S.L. – Pol. Ind. Colón II, C/ Venus, 72(Terrassa)",
+  "medicine": "ALPRAZOLAM KERN PHARMA 1 mg COMPRIMIDOS EFG , 30 comprimidos (NR: 63278, CN: 716159)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "716159"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-06-28",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en contenido detectado a raíz de los estudios de estabilidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/alprazolam-kern-pharma-1-mg-comprimidos-efg-30-comprimidos-nr-63278-cn-716159/",
+  "warnings": []
+}

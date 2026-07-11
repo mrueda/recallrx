@@ -1,0 +1,50 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-11-27",
+  "expiry_dates": [
+    "ITRACONAZOL STADA 100 MG CAPSULAS DURAS EFG",
+    "7 cápsulas (NR: 77398",
+    "CN: 697583) Lote: LC83989",
+    "fecha de caducidad 31",
+    "05",
+    "2026 ITRACONAZOL STADA 100 MG CAPSULAS DURAS EFG",
+    "14 cápsulas (NR: 77398",
+    "CN: 697584) Lote: LC84020",
+    "2026 Lote: LC84022",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_25_2024",
+  "local_id": "R_25/2024",
+  "lots": [
+    "LC84020",
+    "fecha de caducidad 31",
+    "05",
+    "2026"
+  ],
+  "manufacturer": "LABORATORIO STADA, S.L. – C/ Frederic Mompou, 5(Sant Just Desvern)",
+  "medicine": "ITRACONAZOL STADA 100 MG CAPSULAS DURAS EFG , 7 cápsulas (NR: 77398, CN: 697583) ITRACONAZOL STADA 100 MG CAPSULAS DURAS EFG , 14 cápsulas (NR: 77398, CN: 697584)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "697583"
+    },
+    {
+      "system": "CN",
+      "value": "697584"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2024-11-27",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "En el prospecto se indica por error el doble de la dosis recomendada para la indicación de Tratamiento continuo para las infecciones de las uñas de los pies. Donde dice 2 cápsulas dos veces al día debe decir 2 cápsulas una vez al día",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/itraconazol-stada-100-mg-capsulas-duras-efg-varias-presentaciones/",
+  "warnings": []
+}

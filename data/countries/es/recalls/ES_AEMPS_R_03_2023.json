@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-01-26",
+  "expiry_dates": [
+    "30",
+    "07",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_03_2023",
+  "local_id": "R_03/2023",
+  "lots": [
+    "S001F"
+  ],
+  "manufacturer": "LABORATORIOS ALTER, S.A. – Mateo Inurria, 30(Madrid)",
+  "medicine": "ALNEO 10 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG 4 comprimidos (NR: 84850, CN: 727907)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "727907"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-01-26",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Parte de los envases del lote se han distribuido vacíos",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/alneo-10-mg-comprimidos-recubiertos-con-pelicula-efg-4-comprimidos-nr-84850-cn-727907/",
+  "warnings": []
+}

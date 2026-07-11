@@ -1,0 +1,43 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-07-22",
+  "expiry_dates": [
+    "Lote: 23I15",
+    "fecha de caducidad 31",
+    "08",
+    "2026 Lote: 23J10",
+    "fecha de caducidad 30",
+    "09",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_12_2024",
+  "local_id": "R_12/2024",
+  "lots": [
+    "23I15",
+    "fecha de caducidad 31",
+    "08",
+    "2026"
+  ],
+  "manufacturer": "UCB PHARMA – Allée de la Recherche, 60, Bruselas, B-1070, Bélgica",
+  "medicine": "KEPPRA 100 mg/ml SOLUCION ORAL, 1 frasco de 150 ml con jeringa oral de 3 ml (NR: 00146031, CN: 663871)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "663871"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2024-07-22",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Desprendimiento de la tinta roja que marca la graduación en las jeringas dosificadoras. Esta retirada es una ampliación de la retirada R_07/2024 al detectarse nuevos lotes afectados.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/keppra-100-mg-ml-solucion-oral-1-frasco-de-150-ml-con-jeringa-oral-de-3-ml-nr-00146031-cn-663871-2/",
+  "warnings": []
+}

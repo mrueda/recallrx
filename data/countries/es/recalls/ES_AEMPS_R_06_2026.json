@@ -1,0 +1,52 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-01-21",
+  "expiry_dates": [
+    "CARMUSTINA ACCORD 100 MG POLVO",
+    "DISOLVENTE PARA SOLUCION PARA PERFUSION EFG",
+    "1 vial de 100 mg + vial de 3 ml de disolvente (NR: 87890",
+    "CN: 756925) Lote: M2505139",
+    "fecha de caducidad 31",
+    "03",
+    "2027 CARMUSTINA ACCORDPHARMA 300 MG POLVO",
+    "DISOLVENTE PARA CONCENTRADO PARA SOLUCION PARA PERFUSION",
+    "1 vial polvo + 1 vial de disolvente de 9 ml (NR: 88025",
+    "CN: 758135) Lote: M2407867",
+    "07",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_06_2026",
+  "local_id": "R_06/2026",
+  "lots": [
+    "M2407867",
+    "fecha de caducidad 31",
+    "07",
+    "2026"
+  ],
+  "manufacturer": "ACCORD HEALTHCARE, S.L.U – World Trade Center, Moll de Barcelona s/n, Edifici Est, 6ª Planta(Barcelona)",
+  "medicine": "CARMUSTINA ACCORD 100 MG POLVO Y DISOLVENTE PARA SOLUCION PARA PERFUSION EFG, 1 vial de 100 mg + vial de 3 ml de disolvente (NR: 87890, CN: 756925) CARMUSTINA ACCORDPHARMA 300 MG POLVO Y DISOLVENTE PARA CONCENTRADO PARA SOLUCION PARA PERFUSION, 1 vial polvo + 1 vial de disolvente de 9 ml (NR: 88025, CN: 758135)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "756925"
+    },
+    {
+      "system": "CN",
+      "value": "758135"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2026-01-21",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el límite de residuos no volátiles en disolvente. Es una ampliación de la alerta farmacéutica R_01/2026",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/carmustina-accord-100-mg-polvo-y-disolvente-y-carmustina-accordpharma-300-mg-polvo-y-disolvente/",
+  "warnings": []
+}

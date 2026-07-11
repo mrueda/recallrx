@@ -1,0 +1,53 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-02-25",
+  "expiry_dates": [
+    "Lote: 1157403",
+    "fecha de caducidad 31",
+    "03",
+    "2025 Lote: 1159935",
+    "08",
+    "2025 Lote: 1161999",
+    "10",
+    "2025 Lote: 1165809",
+    "fecha de caducidad 28",
+    "02",
+    "2026 Lote: 1169716",
+    "05",
+    "2026 Lote: 1172096",
+    "2026 Lote: 1174284",
+    "2027 Lote: 1179190",
+    "2027 Lote: 1181646",
+    "2027"
+  ],
+  "id": "ES_AEMPS_R_05_2025",
+  "local_id": "R_05/2025",
+  "lots": [
+    "1157403",
+    "fecha de caducidad 31",
+    "03",
+    "2025"
+  ],
+  "manufacturer": "AMGEN EUROPE B.V. – Minervum 7061, BREDA, NL-4817 ZK, Holanda",
+  "medicine": "NEUPOGEN 30 MU (0,3 mg/ml) SOLUCION INYECTABLE , 5 viales de 1 ml (NR: 59102, CN: 845826)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "845826"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2025-02-25",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible resultado fuera de especificaciones en el ensayo de pureza",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/neupogen-30-mu-03-mg-ml-solucion-inyectable-5-viales-de-1-ml-nr-59102-cn-845826/",
+  "warnings": []
+}

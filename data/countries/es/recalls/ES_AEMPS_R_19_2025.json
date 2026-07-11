@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-07-04",
+  "expiry_dates": [
+    "30",
+    "09",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_19_2025",
+  "local_id": "R_19/2025",
+  "lots": [
+    "4V64"
+  ],
+  "manufacturer": "LABORATOIRES THEA – 12 Rue Lous Bleriot, Clermont Ferrand, Puy De Dome, 63100, Francia",
+  "medicine": "BENTIFEN 0,25mg/ml COLIRIO EN SOLUCION , 1 frasco de 5 ml (NR: 63618, CN: 653304)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "653304"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-07-04",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "No se puede garantizar su esterilidad debido a problemas de contaminación microbiológica en la planta de fabricación",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/bentifen-025mg-ml-colirio-en-solucion-1-frasco-de-5-ml-nr-63618-cn-653304/",
+  "warnings": []
+}

@@ -1,0 +1,41 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-03-31",
+  "expiry_dates": [
+    "Lote: S001",
+    "fecha de caducidad 31",
+    "12",
+    "2023 Lote: S002",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_11_2023",
+  "local_id": "R_11/2023",
+  "lots": [
+    "S001",
+    "fecha de caducidad 31",
+    "12",
+    "2023"
+  ],
+  "manufacturer": "INDUSTRIA QUÍMICA Y FARMACÉUTICA VIR, S.A. – C/ Laguna 66-68-70. Polígono Industrial Urtinsa II(Alcorcón)",
+  "medicine": "METFORMINA VIR 850 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG , 50 comprimidos (NR: 72708, CN: 681987)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "681987"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-03-31",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Obtención de un resultado fuera de especificaciones en el parámetro impureza, tras haber sido analizados por el Laboratorio Oficial de Control de Medicamentos de la AEMPS como parte del Programa de Control de Calidad de Medicamentos en el Mercado de 2022",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/metformina-vir-850-mg-comprimidos-recubiertos-con-pelicula-efg-50-comprimidos-nr-72708-cn-681987/",
+  "warnings": []
+}

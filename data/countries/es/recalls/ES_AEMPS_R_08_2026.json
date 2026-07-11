@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-01-27",
+  "expiry_dates": [
+    "30",
+    "09",
+    "2030"
+  ],
+  "id": "ES_AEMPS_R_08_2026",
+  "local_id": "R_08/2026",
+  "lots": [
+    "0176X011"
+  ],
+  "manufacturer": "LABORATORIO ESTEDI, S.L. – C/ Montseny, 41(Barcelona)",
+  "medicine": "TIRODRIL 5mg COMPRIMIDOS , 40 comprimidos (NR: 24700, CN: 700524)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "700524"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2026-01-28",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el ensayo de control microbiológico",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/tirodril-5mg-comprimidos-40-comprimidos-nr-24700-cn-700524/",
+  "warnings": []
+}

@@ -1,0 +1,33 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 0.92,
+  "country": "ES",
+  "date": "2022-06-16",
+  "expiry_dates": [
+    "22",
+    "07",
+    "2021"
+  ],
+  "id": "ES_AEMPS_R_16_2022",
+  "local_id": "R_16/2022",
+  "lots": [
+    "NK7N"
+  ],
+  "manufacturer": "GLAXOSMITHKLINE MANUFACTURING, S.P.A.-Strada Provinciale Asolana, 90, 43056, San Polo di Torrile, Parma, Italia",
+  "medicine": "NIMBEX 2 mg/ml SOLUCION INYECTABLE/PERFUSION, 5 ampollas de 10 ml",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2022-06-16",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "El lote NK7N del citado medicamento se encuentra etiquetado con un formato de fecha de caducidad diferente al utilizado en España, figurando en el cartonaje como fecha de caducidad el 21/07/22 cuando la fecha de caducidad es el 22/07/2021. Por lo tanto, el citado lote se encuentra caducado y se retira para evitar posibles confusiones.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/nimbex-2-mg-ml-solucion-inyectable-perfusion-5-ampollas-de-10-ml/",
+  "warnings": [
+    "missing_cn"
+  ]
+}

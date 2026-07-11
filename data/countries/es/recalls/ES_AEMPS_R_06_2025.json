@@ -1,0 +1,29 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución a la oficina de farmacia por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 0.92,
+  "country": "ES",
+  "date": "2025-02-27",
+  "expiry_dates": [],
+  "id": "ES_AEMPS_R_06_2025",
+  "local_id": "R_06/2025",
+  "lots": [
+    "Todas las unidades elaboradas de las fórmulas magistrales incluidas en el anexo"
+  ],
+  "manufacturer": "OFICINA DE FARMACIA TALLÓN PADIAL Calle Recogidas, 48, 18002, Granada",
+  "medicine": "Fórmulas magistrales incluidas en el anexo",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [],
+  "product_type": "Fórmula magistral",
+  "publication_date": "2025-02-27",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Ausencia de garantía de esterilidad",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/formulas-magistrales-incluidas-en-el-anexo-de-la-alerta-farmaceutica-r_06-2025/",
+  "warnings": [
+    "missing_cn"
+  ]
+}

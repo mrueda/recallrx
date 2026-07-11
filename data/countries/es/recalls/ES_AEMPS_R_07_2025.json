@@ -1,0 +1,29 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de estos medicamentos y devolución a la oficina de farmacia elaboradora Perelló",
+  "authority": "AEMPS",
+  "confidence": 0.92,
+  "country": "ES",
+  "date": "2025-03-04",
+  "expiry_dates": [],
+  "id": "ES_AEMPS_R_07_2025",
+  "local_id": "R_07/2025",
+  "lots": [
+    "Todas las unidades elaboradas"
+  ],
+  "manufacturer": "Oficina de farmacia Perelló, C/ Virgen de los Desamparados 6, 46869, Adzaneta de Albaida, Valencia",
+  "medicine": "Pellets de testosterona y de estradiol, FÓRMULA MAGISTRAL",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [],
+  "product_type": "Fórmula magistral",
+  "publication_date": "2025-03-04",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Falta de garantía de calidad",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/pellets-de-testosterona-y-de-estradiol-formula-magistral-2/",
+  "warnings": [
+    "missing_cn"
+  ]
+}

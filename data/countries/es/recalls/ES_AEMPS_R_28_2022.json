@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-08-30",
+  "expiry_dates": [
+    "31",
+    "07",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_28_2022",
+  "local_id": "R_28/2022",
+  "lots": [
+    "499R"
+  ],
+  "manufacturer": "LABORATORIOS ALTER, S.A. – Mateo Inurria, 30(Madrid)",
+  "medicine": "ENALAPRIL ALTER 20 mg COMPRIMIDOS EFG , 28 comprimidos (NR: 64767, CN: 650367)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "650367"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-08-30",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en los ensayos de valoración, dureza y sustancias relacionadas",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/enalapril-alter-20-mg-comprimidos-efg-28-comprimidos-nr-64767-cn-650367/",
+  "warnings": []
+}

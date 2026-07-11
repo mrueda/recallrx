@@ -1,0 +1,57 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-04-22",
+  "expiry_dates": [
+    "ACIDO ALENDRONICO",
+    "COLECALCIFEROL SEMANAL ARISTO 70 MG",
+    "2.800 UI COMPRIMIDOS EFG",
+    "4 comprimidos (NR: 82792",
+    "CN: 720437) Lote: 1008212",
+    "fecha de caducidad 30",
+    "06",
+    "2022 ACIDO ALENDRONICO",
+    "COLECALCIFEROL ARISTO 70 MG",
+    "5.600 UI COMPRIMIDOS EFG",
+    "4 comprimidos (NR: 82793",
+    "CN: 720439) Lote: 1008320",
+    "fecha de caducidad 31",
+    "07",
+    "2022 Lote: 1106001",
+    "04",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_11_2022",
+  "local_id": "R_11/2022",
+  "lots": [
+    "1008320",
+    "fecha de caducidad 31",
+    "07",
+    "2022"
+  ],
+  "manufacturer": "ARISTO PHARMA GMBH – Wallenroder Strasse 8-10, Berlin, 13435, Alemania",
+  "medicine": "ACIDO ALENDRONICO/COLECALCIFEROL SEMANAL ARISTO 70 MG/2.800 UI COMPRIMIDOS EFG, 4 comprimidos (NR: 82792, CN: 720437) ACIDO ALENDRONICO/COLECALCIFEROL ARISTO 70 MG/5.600 UI COMPRIMIDOS EFG, 4 comprimidos (NR: 82793, CN: 720439)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "720437"
+    },
+    {
+      "system": "CN",
+      "value": "720439"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-04-22",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultados fuera de especificaciones en el ensayo de valoración de colecalciferol.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/acido-alendronico-colecalciferol-varias-presentaciones/",
+  "warnings": []
+}

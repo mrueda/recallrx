@@ -1,0 +1,78 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-02-10",
+  "expiry_dates": [
+    "SOLSINT 25 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS",
+    "30 envases unidosis (NR: 85617",
+    "CN: 729906) Lote: 220657",
+    "fecha de caducidad 31",
+    "12",
+    "2023 SOLSINT 50 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS",
+    "30 envases unidosis (NR: 85618",
+    "CN: 729908) Lote: 220752",
+    "01",
+    "2024 SOLSINT 100 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS",
+    "30 envases unidosis (NR: 85609",
+    "CN: 729889) Lote: 220658",
+    "2023 SOLSINT 125 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS",
+    "30 envases unidosis (NR: 85611",
+    "CN: 729893) Lote: 220753",
+    "2024 SOLSINT 137 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS",
+    "30 envases unidosis (NR: 85612",
+    "CN: 729895) Lote: 220755",
+    "2024 SOLSINT 175 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS",
+    "30 envases unidosis (NR: 85615",
+    "CN: 729901) Lote: 220662",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_04_2023",
+  "local_id": "R_04/2023",
+  "lots": [
+    "220662",
+    "fecha de caducidad 31",
+    "12",
+    "2023"
+  ],
+  "manufacturer": "IBSA FARMACEUTICI ITALIA SRL – Via Martiri di Cefalonia 2, Lodi, 26900, Italia",
+  "medicine": "SOLSINT 25 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85617, CN: 729906) SOLSINT 50 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85618, CN: 729908) SOLSINT 100 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85609, CN: 729889) SOLSINT 125 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85611, CN: 729893) SOLSINT 137 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85612, CN: 729895) SOLSINT 175 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85615, CN: 729901)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "729906"
+    },
+    {
+      "system": "CN",
+      "value": "729908"
+    },
+    {
+      "system": "CN",
+      "value": "729889"
+    },
+    {
+      "system": "CN",
+      "value": "729893"
+    },
+    {
+      "system": "CN",
+      "value": "729895"
+    },
+    {
+      "system": "CN",
+      "value": "729901"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-01-26",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el contenido del principio activo levotiroxina",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/solsint-solucion-oral-en-envase-unidosis-varias-presentaciones/",
+  "warnings": []
+}

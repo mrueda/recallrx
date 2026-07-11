@@ -1,0 +1,56 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-01-22",
+  "expiry_dates": [
+    "POMALIDOMIDA VIATRIS 2 MG CAPSULAS DURAS EFG",
+    "21 cápsulas (NR: 1231785008",
+    "CN: 764364) Lote: 8190670",
+    "fecha de caducidad 31",
+    "05",
+    "2026 POMALIDOMIDA VIATRIS 3 MG CAPSULAS DURAS EFG",
+    "21 cápsulas (NR: 1231785010",
+    "CN: 764367) Lote: 8190846",
+    "2026 POMALIDOMIDA VIATRIS 4 MG CAPSULAS DURAS EFG",
+    "21 cápsulas (NR: 1231785014",
+    "CN: 764377) Lote: 8190844",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_01_2025",
+  "local_id": "R_01/2025",
+  "lots": [
+    "8190844",
+    "fecha de caducidad 31",
+    "05",
+    "2026"
+  ],
+  "manufacturer": "VIATRIS LIMITED – Damastown Industrial Park, Dublin, 15, Irlanda",
+  "medicine": "POMALIDOMIDA VIATRIS 2 MG CAPSULAS DURAS EFG, 21 cápsulas (NR: 1231785008, CN: 764364) POMALIDOMIDA VIATRIS 3 MG CAPSULAS DURAS EFG, 21 cápsulas (NR: 1231785010, CN: 764367) POMALIDOMIDA VIATRIS 4 MG CAPSULAS DURAS EFG, 21 cápsulas (NR: 1231785014, CN: 764377)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "764364"
+    },
+    {
+      "system": "CN",
+      "value": "764367"
+    },
+    {
+      "system": "CN",
+      "value": "764377"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2025-01-22",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Presencia de polvo procedente de las cápsulas en algunos alveolos",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/pomalidomida-viatris-capsulas-duras-efg-varias-presentaciones/",
+  "warnings": []
+}

@@ -1,0 +1,92 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-07-12",
+  "expiry_dates": [
+    "TADALAFILO ARISTO 10 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+    "4 comprimidos (NR: 82200",
+    "CN: 716697) Lote: 0463004D",
+    "fecha de caducidad 30",
+    "09",
+    "2022 Lote: 1463002D",
+    "fecha de caducidad 28",
+    "02",
+    "2023 Lote: 1463003G",
+    "2024 Lote: 1463004C",
+    "11",
+    "2024 Lote: 1463005F",
+    "2024 TADALAFILO ARISTO 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+    "4 comprimidos (NR: 82199",
+    "CN: 716690) Lote: 1462003H",
+    "04",
+    "2023 Lote: 1462017D",
+    "fecha de caducidad 31",
+    "08",
+    "2024 Lote: 1462022G",
+    "12",
+    "8 comprimidos (NR: 82199",
+    "CN: 716691) Lote: 1462005C",
+    "2023 Lote: 1462017C",
+    "2024 Lote: 1462021E",
+    "12 comprimidos (NR: 82199",
+    "CN: 716693) Lote: 1462003F",
+    "2023 Lote: 1462019C",
+    "2024 TADALAFILO ARISTO 5 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+    "28 comprimidos (NR: 82198",
+    "CN: 716687) Lote: 0464010D",
+    "2022 Lote: 0464020P",
+    "2022 Lote: 1464001F",
+    "2023 Lote: 1464002D",
+    "2023 Lote: 1464003A",
+    "03",
+    "2023 Lote: 1464007C",
+    "2024 Lote: 1464009C",
+    "2024 Lote: 1464012H",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_26_2022",
+  "local_id": "R_26/2022",
+  "lots": [
+    "0463004D",
+    "fecha de caducidad 30",
+    "09",
+    "2022"
+  ],
+  "manufacturer": "ARISTO PHARMA GMBH – Wallenroder Strasse 8-10, Berlin, 13435, Alemania.",
+  "medicine": "TADALAFILO ARISTO 10 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 4 comprimidos (NR: 82200, CN: 716697) TADALAFILO ARISTO 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 8 comprimidos (NR: 82199, CN: 716691) TADALAFILO ARISTO 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 12 comprimidos (NR: 82199, CN: 716693) TADALAFILO ARISTO 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 4 comprimidos (NR: 82199, CN: 716690) TADALAFILO ARISTO 5 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 28 comprimidos (NR: 82198, CN: 716687)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "716697"
+    },
+    {
+      "system": "CN",
+      "value": "716691"
+    },
+    {
+      "system": "CN",
+      "value": "716693"
+    },
+    {
+      "system": "CN",
+      "value": "716690"
+    },
+    {
+      "system": "CN",
+      "value": "716687"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-07-12",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Incumplimiento de las normas de correcta fabricación del fabricante Pharmactive Ilac Sanayi Ve Ticaret A.S.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/tadalafilo-aristo-varias-presentaciones/",
+  "warnings": []
+}

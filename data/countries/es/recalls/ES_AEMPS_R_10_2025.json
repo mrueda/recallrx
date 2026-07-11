@@ -1,0 +1,84 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-03-14",
+  "expiry_dates": [
+    "CEFIXIMA MABO 200 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+    "21 comprimidos (Blister PVC-Aclar",
+    "Al) (NR: 84692",
+    "CN: 727483) Lote: ACTC23001",
+    "fecha de caducidad 30",
+    "04",
+    "2025 Lote: ACTC24002",
+    "06",
+    "2026 CEFIXIMA MABO 200 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+    "14 comprimidos (Blister PVC-Aclar",
+    "CN: 727482) Lote: BCTC23001",
+    "2025 Lote: BCTC23002",
+    "2025 Lote: BCTC24001",
+    "2026 Lote: BCTC24002",
+    "2026 CEFIXIMA MABO 400 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+    "10 comprimidos (PVC",
+    "Aclar",
+    "Al) (NR: 84693",
+    "CN: 727485) Lote: MCTD23001",
+    "2025 Lote: MCTD23002",
+    "2025 Lote: MCTD23003",
+    "2025 Lote: MCTD23004",
+    "2025 Lote: MCTD23005",
+    "2025 Lote: MCTD23006",
+    "2025 Lote: MCTD23007",
+    "2025 Lote: MCTD23008",
+    "fecha de caducidad 31",
+    "10",
+    "2025 Lote: MCTD23009",
+    "2025 Lote: MCTD23010",
+    "2025 Lote: MCTD23011",
+    "2025 Lote: MCTD23012",
+    "2025 Lote: MCTD23013",
+    "2025 Lote: MCTD24001",
+    "01",
+    "2026 Lote: MCTD24002",
+    "2026 Lote: MCTD24004",
+    "2026 Lote: MCTD24005",
+    "07",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_10_2025",
+  "local_id": "R_10/2025",
+  "lots": [
+    "ACTC23001",
+    "fecha de caducidad 30",
+    "04",
+    "2025"
+  ],
+  "manufacturer": "MABO-FARMA, S.A. – Calle Vía de los Poblados 3. Edificio 6 (Madrid)",
+  "medicine": "CEFIXIMA MABO 200 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 14 comprimidos (Blister PVC-Aclar/Al) (NR: 84692, CN: 727482) CEFIXIMA MABO 200 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 21 comprimidos (Blister PVC-Aclar/Al) (NR: 84692, CN: 727483) CEFIXIMA MABO 400 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 10 comprimidos (PVC/Aclar/Al) (NR: 84693, CN: 727485)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "727482"
+    },
+    {
+      "system": "CN",
+      "value": "727483"
+    },
+    {
+      "system": "CN",
+      "value": "727485"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-03-14",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Incumplimiento de las normas de correcta fabricación del fabricante Nectar LifeSciences Limited, Unit VI, India",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/cefixima-mabo-comprimidos-recubiertos-con-pelicula-efg-varias-presentaciones/",
+  "warnings": []
+}

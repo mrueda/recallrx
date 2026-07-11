@@ -1,0 +1,35 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2021-11-18",
+  "expiry_dates": [],
+  "id": "ES_AEMPS_R_25_2021",
+  "local_id": "R_25/2021",
+  "lots": [
+    "1L14T",
+    "fecha de caducidad 31",
+    "05",
+    "2022"
+  ],
+  "manufacturer": "SANTEN OY – Niittyhaankatu 20, Tampere, FIN-33720, Finlandia",
+  "medicine": "IKERVIS 1 mg/ml colirio en emulsion 30 envases unidosis de 0,3 ml (NR: 115990001, CN: 707966)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "707966"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2021-11-18",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Presencia de micro cristales de principio activo y obtención de un resultado fuera de especificaciones en el ensayo de valoración",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/ikervis-1-mg-ml-colirio-en-emulsion-30-envases-unidosis-de-03-ml/",
+  "warnings": []
+}

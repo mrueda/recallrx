@@ -1,0 +1,29 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de este medicamento y devolución a la oficina de farmacia elaboradora Tallón Padial",
+  "authority": "AEMPS",
+  "confidence": 0.92,
+  "country": "ES",
+  "date": "2025-02-14",
+  "expiry_dates": [],
+  "id": "ES_AEMPS_R_03_2025",
+  "local_id": "R_03/2025",
+  "lots": [
+    "Todas las unidades elaboradas"
+  ],
+  "manufacturer": "Oficina de Farmacia Tallón Padial, Calle Recogidas, 48, 18002, Granada",
+  "medicine": "Triamcinolona intravítrea 40mg/ml suspensión estéril, FÓRMULA MAGISTRAL",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [],
+  "product_type": "Fórmula magistral",
+  "publication_date": "2025-02-14",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Falta de garantía de esterilidad",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/triamcinolona-intravitrea-40mg-ml-suspension-esteril-formula-magistral/",
+  "warnings": [
+    "missing_cn"
+  ]
+}

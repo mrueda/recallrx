@@ -1,0 +1,34 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas incluidas en el anexo. El laboratorio contactará directamente con los centros que tienen las unidades afectadas para proceder a su recogida y sustitución.",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-05-19",
+  "expiry_dates": [
+    "ver anexo donde se indican los números de los envases concretos que se retiran (530 envases)"
+  ],
+  "id": "ES_AEMPS_R_17_2023",
+  "local_id": "R_17/2023",
+  "lots": [
+    "Fecha Caducidad Número IdentificaciónEnvase (CTN)"
+  ],
+  "manufacturer": "SOCIEDAD ESPAÑOLA DE CARBUROS METÁLICOS, S.A. – Avda. de la Fama, 1(Cornellà de Llobregat)",
+  "medicine": "OXÍGENO MEDICINAL GAS CARBUROS METÁLICOS 99,5% V/V GAS COMPRIMIDO, 1 bala de gas de 5 l (NR: 66969, CN: 651871)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "651871"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2023-05-19",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Defecto de calidad que puede afectar potencialmente a la integridad de los envases",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/oxigeno-medicinal-gas-carburos-metalicos-995-v-v-gas-comprimido-1-bala-de-gas-de-5-l-nr-66969-cn-651871/",
+  "warnings": []
+}

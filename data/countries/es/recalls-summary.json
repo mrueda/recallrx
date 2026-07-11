@@ -1,17 +1,17 @@
 [
   {
     "authority": "AEMPS",
-    "confidence": 0.84,
+    "confidence": 1.0,
     "country": "ES",
     "date": "2026-06-03",
     "id": "ES_AEMPS_R_21_2026",
     "local_id": "R_21/2026",
     "lots": [
-      "ABC123"
+      "3V27"
     ],
-    "manufacturer": "ALCON HEALTHCARE, S.A.",
-    "medicine": "OCULOTECT 50 mg/ml COLIRIO EN SOLUCION, 1 frasco de 10 ml",
-    "pdf_url": "https://www.aemps.gob.es/informa/alertas/medicamentosUsoHumano/2026/docs/R21_2026.pdf",
+    "manufacturer": "ALCON HEALTHCARE, S.A. – World Trade Center Almeda Park Edificio 6 Planta 3 Plaça de la Pau s/n(Cornellà de Llobregat)",
+    "medicine": "OCULOTECT 50 mg/ml COLIRIO EN SOLUCION , 1 frasco de 10 ml (NR: 61982, CN: 755215)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
     "product_codes": [
       {
         "system": "CN",
@@ -19,11 +19,4462 @@
       }
     ],
     "publication_date": "2026-06-04",
-    "reason": "Defecto de calidad que no supone un riesgo vital para el paciente",
-    "recall_class": "2",
+    "reason": "Posibles deficiencias relacionadas con la fabricación del medicamento",
+    "recall_class": "3",
     "source_url": "https://www.aemps.gob.es/informa/oculotect-50-mg-ml-colirio-en-solucion-1-frasco-de-10-ml-nr-61982-cn-755215/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-06-01",
+    "id": "ES_AEMPS_R_20_2026",
+    "local_id": "R_20/2026",
+    "lots": [
+      "24008101"
+    ],
+    "manufacturer": "L. MOLTENI & C. DEI FRATELLI ALITTI SOCIETA DI ESERCIZIO S.P.A. – Strada Statale 67 Fraz. Granatieri, Scandicci (Firenze), I-50018, Italia",
+    "medicine": "ORAMORPH 2 MG/ML SOLUCION ORAL , 1 frasco de 100 ml (NR: 62039, CN: 821934)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "821934"
+      }
+    ],
+    "publication_date": "2026-06-01",
+    "reason": "Resultado fuera de especificaciones en impurezas totales detectado en estudios de estabilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/oramorph-2-mg-ml-solucion-oral-1-frasco-de-100-ml-nr-62039-cn-821934/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 0.92,
+    "country": "ES",
+    "date": "2026-06-01",
+    "id": "ES_AEMPS_R_19_2026",
+    "local_id": "R_19/2026",
+    "lots": [
+      "2621340259",
+      "fecha de caducidad 20",
+      "06",
+      "2026"
+    ],
+    "manufacturer": "B. Braun Medical, S.A. Carretera de Terrassa, 121, 08191 Rubí (Barcelona)",
+    "medicine": "Solución cardiopléjica hemática (HM) con potasio Solución cardiopléjica hemática (HM) sin potasio Solución cardiopléjica IB",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [],
+    "publication_date": "2026-06-01",
+    "reason": "Se ha detectado la falta de incorporación del cloruro cálcico indicado en la composición de la solución",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/solucion-cardioplejica-varias-presentaciones/",
     "warnings": [
-      "seed_record"
+      "missing_cn"
     ]
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-05-06",
+    "id": "ES_AEMPS_R_18_2026",
+    "local_id": "R_18/2026",
+    "lots": [
+      "1129",
+      "fecha de caducidad 30",
+      "04",
+      "2027"
+    ],
+    "manufacturer": "LAINCO, S.A. – Avenida Bizet, 8-12, Pol. Ind. Can. Jardi(Rubí)",
+    "medicine": "EMULIQUEN LAXANTE 478,26 mg/ml + 0,3 mg/ml EMULSION ORAL, 1 frasco de 230 ml (NR: 16678, CN: 744011) EMULIQUEN LAXANTE 7.173,9 mg/4,5 mg EMULSION ORAL EN SOBRES, 10 sobres (NR: 64258, CN: 821249) EMULIQUEN LAXANTE 7.173,9 mg/4,5 mg EMULSION ORAL EN SOBRES, 200 sobres (NR: 64258, CN: 603035)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "744011"
+      },
+      {
+        "system": "CN",
+        "value": "821249"
+      },
+      {
+        "system": "CN",
+        "value": "603035"
+      }
+    ],
+    "publication_date": "2026-05-06",
+    "reason": "Resultado fuera de especificaciones del contenido en una impureza, detectado en estudios de estabilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/emuliquen-laxante-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 0.92,
+    "country": "ES",
+    "date": "2026-04-17",
+    "id": "ES_AEMPS_R_17_2026",
+    "local_id": "R_17/2026",
+    "lots": [
+      "G2311031-03"
+    ],
+    "manufacturer": "Allergopharma GmbH&Co. KG",
+    "medicine": "Allergovit 123 Parietaria 100% suspensión inyectable, en su formato de Mantenimiento de 2 viales, concentración B (10.000 UT/ml)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [],
+    "publication_date": "2026-04-17",
+    "reason": "Resultado fuera de especificaciones en el parámetro de actividad residual alergénica detectado en estudios de estabilidad. Es una ampliación de la alerta farmacéutica R_22/2025",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/allergovit-123-parietaria-100-suspension-inyectable-en-su-formato-de-mantenimiento-de-2-viales-concentracion-b-10-000-ut-ml/",
+    "warnings": [
+      "missing_cn"
+    ]
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-03-25",
+    "id": "ES_AEMPS_R_16_2026",
+    "local_id": "R_16/2026",
+    "lots": [
+      "17277208",
+      "fecha de caducidad 31",
+      "07",
+      "2028"
+    ],
+    "manufacturer": "GE HEALTHCARE BIO-SCIENCES, S.A. – C/ Gobelas, 35-37 – La Florida(Madrid)",
+    "medicine": "OMNIPAQUE 300 mg Iodo /ml SOLUCION INYECTABLE, 10 frascos de 100 ml (NR: 62018, CN: 607582) OMNIPAQUE 350 mg Iodo /ml SOLUCION INYECTABLE, 10 frascos de 100 ml (NR: 62019, CN: 607586) VISIPAQUE 320 mg /ml SOLUCION INYECTABLE, 10 frascos de 100 ml (NR: 60637, CN: 607595)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "607582"
+      },
+      {
+        "system": "CN",
+        "value": "607586"
+      },
+      {
+        "system": "CN",
+        "value": "607595"
+      }
+    ],
+    "publication_date": "2026-03-26",
+    "reason": "Posible presencia de partículas de origen metálico",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/omnipaque-300-mg-omnipaque-350-mg-iodo-ml-solucion-inyectable-y-visipaque-320-mg-ml-solucion-inyectable/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-03-23",
+    "id": "ES_AEMPS_R_15_2026",
+    "local_id": "R_15/2026",
+    "lots": [
+      "MA04K8T",
+      "fecha de caducidad 30",
+      "04",
+      "2029"
+    ],
+    "manufacturer": "BAYER HISPANIA, S.L. – Avda. Baix Llobregat, 3 y 5(Sant Joan Despi)",
+    "medicine": "UROGRAFIN 370 MG IODO/ML SOLUCION INYECTABLE Y PARA PERFUSION, 1 frasco de 50 ml (NR: 23817, CN: 914614) UROGRAFIN 370 MG IODO/ML SOLUCION INYECTABLE Y PARA PERFUSION, 1 ampolla de 20 ml (NR: 23817, CN: 910067) UROGRAFIN 370 MG IODO/ML SOLUCION INYECTABLE Y PARA PERFUSION, 1 frasco de 100 ml (NR: 23817, CN: 909846)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "914614"
+      },
+      {
+        "system": "CN",
+        "value": "910067"
+      },
+      {
+        "system": "CN",
+        "value": "909846"
+      }
+    ],
+    "publication_date": "2026-03-23",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/urografin-370-mg-iodo-ml-solucion-inyectable-y-para-perfusion-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-03-23",
+    "id": "ES_AEMPS_R_14_2026",
+    "local_id": "R_14/2026",
+    "lots": [
+      "MA04JJB",
+      "fecha de caducidad 30",
+      "04",
+      "2028"
+    ],
+    "manufacturer": "BAYER HISPANIA, S.L. -Avda. Baix Llobregat, 3 y 5(Sant Joan Despi)",
+    "medicine": "GASTROGRAFIN 370 MG IODO/ML SOLUCIÓN ORAL Y RECTAL , 1 frasco de 100 mi (NR: 36270, CN: 909622)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "909622"
+      }
+    ],
+    "publication_date": "2026-03-23",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/gastrografin-370-mg-iodo-ml-solucion-oral-y-rectal-1-frasco-de-100-mi-nr-36270-cn-909622/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-03-18",
+    "id": "ES_AEMPS_R_13_2026",
+    "local_id": "R_13/2026",
+    "lots": [
+      "1211842"
+    ],
+    "manufacturer": "CHIESI ESPAÑA, S.A.U. – Plaça d`Europa, 41-43 – Planta 10 (L`Hospitalet de Llobregat)",
+    "medicine": "CUROSURF 240, 1 vial de 3 ml (NR: 59600, CN: 778191)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "778191"
+      }
+    ],
+    "publication_date": "2026-03-19",
+    "reason": "Riesgo de contaminación microbiológica",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/curosurf-240-1-vial-de-3-ml-nr-59600-cn-778191/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-03-05",
+    "id": "ES_AEMPS_R_12_2026",
+    "local_id": "R_12/2026",
+    "lots": [
+      "4T92E"
+    ],
+    "manufacturer": "SANTEN OY – Niittyhaankatu 20, Tampere, FIN-33720, Finlandia",
+    "medicine": "IKERVIS 1 mg/ml colirio en emulsion 30 envases unidosis de 0,3 ml (NR: 115990001, CN: 707966)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "707966"
+      }
+    ],
+    "publication_date": "2026-03-06",
+    "reason": "Resultado fuera de especificaciones en el ensayo de contenido de principio activo",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/ikervis-1-mg-ml-colirio-en-emulsion-30-envases-unidosis-de-03-ml-nr-115990001-cn-707966/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-02-25",
+    "id": "ES_AEMPS_R_11_2026",
+    "local_id": "R_11/2026",
+    "lots": [
+      "231131",
+      "fecha de caducidad 31",
+      "05",
+      "2026"
+    ],
+    "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97(Martorelles)",
+    "medicine": "DULOXETINA PENSA PHARMA 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 28 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79370, CN: 704749) DULOXETINA PENSA PHARMA 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 28 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79371, CN: 704751)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "704749"
+      },
+      {
+        "system": "CN",
+        "value": "704751"
+      }
+    ],
+    "publication_date": "2026-02-26",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/duloxetina-pensa-pharma-capsulas-duras-gastrorresistentes-efg-varias-presentaciones-2/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-02-25",
+    "id": "ES_AEMPS_R_10_2026",
+    "local_id": "R_10/2026",
+    "lots": [
+      "2956008",
+      "fecha de caducidad 30",
+      "06",
+      "2026"
+    ],
+    "manufacturer": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A. – 1, Avenue de la Gare, Luxemburgo, L-1611, Luxemburgo",
+    "medicine": "IBIS 6 MG/ML COLIRIO EN SOLUCION, 1 frasco de 5 mi (NR: 88177, CN: 758615)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "758615"
+      }
+    ],
+    "publication_date": "2026-02-26",
+    "reason": "Resultado fuera de especificaciones en partículas subvisibles del principio activo, detectado en estudios de estabilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/ibis-6-mg-ml-colirio-en-solucion-1-frasco-de-5-ml-nr-88177-cn-758615/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-02-23",
+    "id": "ES_AEMPS_R_09_2026",
+    "local_id": "R_09/2026",
+    "lots": [
+      "284720A",
+      "fecha de caducidad 31",
+      "03",
+      "2026"
+    ],
+    "manufacturer": "FAES FARMA, S.A. – Autonomia Etorbidea, 10 (Leioa)",
+    "medicine": "BILAXTEN 6 MG/ML COLIRIO EN SOLUCION, 1 frasco de 5 ml (NR: 88089, CN: 758305)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "758305"
+      }
+    ],
+    "publication_date": "2026-02-23",
+    "reason": "Resultado fuera de especificaciones en partículas subvisibles del principio activo, detectado en estudios de estabilidad. Es una ampliación de la alerta farmacéutica R_16/2025",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/bilaxten-6-mg-ml-colirio-en-solucion-1-frasco-de-5-ml-nr-88089-cn-758305-2/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-01-27",
+    "id": "ES_AEMPS_R_08_2026",
+    "local_id": "R_08/2026",
+    "lots": [
+      "0176X011"
+    ],
+    "manufacturer": "LABORATORIO ESTEDI, S.L. – C/ Montseny, 41(Barcelona)",
+    "medicine": "TIRODRIL 5mg COMPRIMIDOS , 40 comprimidos (NR: 24700, CN: 700524)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "700524"
+      }
+    ],
+    "publication_date": "2026-01-28",
+    "reason": "Resultado fuera de especificaciones en el ensayo de control microbiológico",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/tirodril-5mg-comprimidos-40-comprimidos-nr-24700-cn-700524/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-01-21",
+    "id": "ES_AEMPS_R_07_2026",
+    "local_id": "R_07/2026",
+    "lots": [
+      "240477",
+      "fecha de caducidad 31",
+      "01",
+      "2027"
+    ],
+    "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97(Martorelles)",
+    "medicine": "DULOXETINA PENSA PHARMA 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG, 28 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79370, CN: 704749) DULOXETINA PENSA PHARMA 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG, 56 cápsulas (PVC/PVDC-Aluminio) (NR: 79371, CN: 706553)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "704749"
+      },
+      {
+        "system": "CN",
+        "value": "706553"
+      }
+    ],
+    "publication_date": "2026-01-21",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/duloxetina-pensa-pharma-30-mg-y-60-mg-capsulas-duras-gastrorresistentes-efg/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-01-21",
+    "id": "ES_AEMPS_R_06_2026",
+    "local_id": "R_06/2026",
+    "lots": [
+      "M2407867",
+      "fecha de caducidad 31",
+      "07",
+      "2026"
+    ],
+    "manufacturer": "ACCORD HEALTHCARE, S.L.U – World Trade Center, Moll de Barcelona s/n, Edifici Est, 6ª Planta(Barcelona)",
+    "medicine": "CARMUSTINA ACCORD 100 MG POLVO Y DISOLVENTE PARA SOLUCION PARA PERFUSION EFG, 1 vial de 100 mg + vial de 3 ml de disolvente (NR: 87890, CN: 756925) CARMUSTINA ACCORDPHARMA 300 MG POLVO Y DISOLVENTE PARA CONCENTRADO PARA SOLUCION PARA PERFUSION, 1 vial polvo + 1 vial de disolvente de 9 ml (NR: 88025, CN: 758135)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "756925"
+      },
+      {
+        "system": "CN",
+        "value": "758135"
+      }
+    ],
+    "publication_date": "2026-01-21",
+    "reason": "Resultado fuera de especificaciones en el límite de residuos no volátiles en disolvente. Es una ampliación de la alerta farmacéutica R_01/2026",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/carmustina-accord-100-mg-polvo-y-disolvente-y-carmustina-accordpharma-300-mg-polvo-y-disolvente/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-01-20",
+    "id": "ES_AEMPS_R_03_2026",
+    "local_id": "R_03/2026",
+    "lots": [
+      "4301969"
+    ],
+    "manufacturer": "AMDIPHARM LIMITED – Temple Chambers. 3 Burlington Road, Dublin 4, D04 RD68, Irlanda",
+    "medicine": "PALMEUX 100 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EN JERINGA PRECARGADA EFG, 1 jeringa precargada + 2 agujas (NR: 86755, CN: 733736) PALMEUX 150 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EN JERINGA PRECARGADA EFG, 1 jeringa precargada + 2 agujas (NR: 86754, CN: 733735) PALMEUX 50 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EN JERINGA PRECARGADA EFG, 1 jeringa precargada + 2 agujas (NR: 86753, CN: 733734) PALMEUX 75 MG SUSPENSION INYECTABLE DE LIBERACION PROLONGADA EN JERINGA PRECARGADA EFG, 1 jeringa precargada + 2 agujas (NR: 86756, CN: 733737)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "733736"
+      },
+      {
+        "system": "CN",
+        "value": "733735"
+      },
+      {
+        "system": "CN",
+        "value": "733734"
+      },
+      {
+        "system": "CN",
+        "value": "733737"
+      }
+    ],
+    "publication_date": "2026-01-20",
+    "reason": "Deficiencias detectadas en la inspección de normas de correcta fabricación del fabricante de los medicamentos",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/palmeux-suspension-inyectable-de-liberacion-prolongada-en-jeringa-precargada-efg-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-01-16",
+    "id": "ES_AEMPS_R_05_2026",
+    "local_id": "R_05/2026",
+    "lots": [
+      "1500031",
+      "fecha de caducidad 30",
+      "11",
+      "2026"
+    ],
+    "manufacturer": "GLENMARK ARZNEIMITTEL GMBH – Industriestr. 31, Gröbenzell, 82194, Alemania",
+    "medicine": "FINGOLIMOD GLENMARK 0,5 MG CAPSULAS DURAS EFG 28 capsulas (NR: 85860, CN: 730608)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "730608"
+      }
+    ],
+    "publication_date": "2026-01-19",
+    "reason": "Resultados fuera de especificación en el parámetro de disolución detectados en estudios de estabilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/fingolimod-glenmark-05-mg-capsulas-duras-efg-28-capsulas-nr-85860-cn-730608-2/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-01-16",
+    "id": "ES_AEMPS_R_04_2026",
+    "local_id": "R_04/2026",
+    "lots": [
+      "G04K101851"
+    ],
+    "manufacturer": "INSTITUTO GRIFOLS, S.A. – C/ Can Guasc, 2. Pol. Ind. Levante(Parets del Vallés)",
+    "medicine": "FLEBOGAMMA DIF 50 mg/ml SOLUCION PARA PERFUSION, 1 vial de 200 ml (NR: 07404004, CN: 665770)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "665770"
+      }
+    ],
+    "publication_date": "2026-01-19",
+    "reason": "Aumento de la notificación de reacciones adversas de hipersensibilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/flebogamma-dif-50-mg-ml-solucion-para-perfusion-1-vial-de-200-ml-nr-07404004-cn-665770-2/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-01-14",
+    "id": "ES_AEMPS_R_02_2026",
+    "local_id": "R_02/2026",
+    "lots": [
+      "1218778"
+    ],
+    "manufacturer": "CHIESI FARMACEUTICI S.P.A. – Via Palermo 26/A, Parma, 43122, Italia.",
+    "medicine": "LAMZEDE 10 MG POLVO PARA SOLUCION PARA PERFUSION, 5 viales (NR: 1171258002, CN: 722449)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "722449"
+      }
+    ],
+    "publication_date": "2026-01-14",
+    "reason": "Resultado fuera de especificaciones en el test de agregados detectado en estudios de estabilidad.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/lamzede-10-mg-polvo-para-solucion-para-perfusion-5-viales-nr-1171258002-cn-722449/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2026-01-09",
+    "id": "ES_AEMPS_R_01_2026",
+    "local_id": "R_01/2026",
+    "lots": [
+      "M2408140"
+    ],
+    "manufacturer": "ACCORD HEALTHCARE, S.L.U – World Trade Center, Moll de Barcelona s/n, Edifici Est, 6ª Planta(Barcelona).",
+    "medicine": "CARMUSTINA ACCORD 100 MG POLVO Y DISOLVENTE PARA SOLUCION PARA PERFUSION EFG, 1 vial de 100 mg + vial de 3 ml de disolvente (NR: 87890, CN: 756925).",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "756925"
+      }
+    ],
+    "publication_date": "2026-01-09",
+    "reason": "Resultado fuera de especificaciones en el límite de residuos no volátiles en disolvente.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/carmustina-accord-100-mg-polvo-y-disolvente-para-solucion-para-perfusion-efg-1-vial-de-100-mg-vial-de-3-ml-de-disolvente-nr-87890-cn-756925/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-12-26",
+    "id": "ES_AEMPS_R_33_2025",
+    "local_id": "R_33/2025",
+    "lots": [
+      "3CP",
+      "fecha de caducidad 30",
+      "04",
+      "2027"
+    ],
+    "manufacturer": "ALMIRALL, S.A. – Ronda General Mitre, 151(Barcelona)",
+    "medicine": "BLOKIUM-DIU 100 mg/25 mg COMPRIMIDOS, 28 comprimidos (NR: 56665, CN: 964841) BLOKIUM-DIU 100 mg/25 mg COMPRIMIDOS, 56 comprimidos (NR: 56665, CN: 989996)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "964841"
+      },
+      {
+        "system": "CN",
+        "value": "989996"
+      }
+    ],
+    "publication_date": "2025-12-26",
+    "reason": "Falta de presencia de clortalidona en los comprimidos",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/blokium-diu-100-mg-25-mg-comprimidos-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-12-10",
+    "id": "ES_AEMPS_R_32_2025",
+    "local_id": "R_32/2025",
+    "lots": [
+      "G250396CB",
+      "fecha de caducidad 31",
+      "07",
+      "2027"
+    ],
+    "manufacturer": "MEDAC GESELLSCHAFT FÜR KLINISCHE SPEZIALPRÄPARATE GMBH – Theaterstrasse 6, Wedel, D-22880, Alemania",
+    "medicine": "METOJECT 15 mg/ 0,30 ml SOLUCION INYECTABLE EN JERINGA PRECARGADA , 1 jeringa precargada de 0,3 ml (NR: 71109, CN: 673211) METOJECT 30 mg/0,60 ml SOLUCION INYECTABLE EN JERINGA PRECARGADA , 4 jeringas precargadas de 0,6 ml (NR: 72384, CN: 681784) METOJECT 30 mg/0,60 ml SOLUCION INYECTABLE EN JERINGA PRECARGADA , 1 jeringa precargada de 0,6 ml (NR: 72384, CN: 673214)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "673211"
+      },
+      {
+        "system": "CN",
+        "value": "681784"
+      },
+      {
+        "system": "CN",
+        "value": "673214"
+      }
+    ],
+    "publication_date": "2025-12-10",
+    "reason": "Posibilidad de jeringas defectuosas afectando a su integridad",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/metoject-30-mg-060-ml-solucion-inyectable-en-jeringa-precargada-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-12-01",
+    "id": "ES_AEMPS_R_31_2025",
+    "local_id": "R_31/2025",
+    "lots": [
+      "231514",
+      "fecha de caducidad 31",
+      "05",
+      "2026"
+    ],
+    "manufacturer": "TOWA PHARMACEUTICAL EUROPE S.L. – Calle de Sant Marti, 75-97, Martorelles (Barcelona), 08107, España",
+    "medicine": "DULOXETINA PENSA PHARMA 60 MG CAPSULAS DURASGASTRORRESISTENTES EFG , 28 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79371, CN: 704751) DULOXETINA PENSA PHARMA 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 56 cápsulas (PVC/PVDC-Aluminio) (NR: 79371, CN: 706553)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "704751"
+      },
+      {
+        "system": "CN",
+        "value": "706553"
+      }
+    ],
+    "publication_date": "2025-12-01",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/duloxetina-pensa-pharma-60-mg-capsulas-duras-gastrorresistentes-efg-varias-presentaciones-31-2025/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-11-25",
+    "id": "ES_AEMPS_R_30_2025",
+    "local_id": "R_30/2025",
+    "lots": [
+      "PTF3381D"
+    ],
+    "manufacturer": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V. – Polarisavenue, 87, Hoofddorp, 2132 JH, Holanda",
+    "medicine": "CANDESARTAN SUN 32 mg COMPRIMIDOS EFG , 28 comprimidos (NR: 73977, CN: 679958)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "679958"
+      }
+    ],
+    "publication_date": "2025-11-26",
+    "reason": "Posible resultado fuera de especificaciones del ensayo de disolución",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/candesartan-sun-32-mg-comprimidos-efg-28-comprimidos-nr-73977-cn-679958/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-11-24",
+    "id": "ES_AEMPS_R_29_2025",
+    "local_id": "R_29/2025",
+    "lots": [
+      "G04K101891"
+    ],
+    "manufacturer": "INSTITUTO GRIFOLS, S.A. – C/ Can Guasc, 2. Pol. Ind. Levante(Parets del Vallés)",
+    "medicine": "FLEBOGAMMA DIF 50 mg/ml SOLUCION PARA PERFUSION, 1 vial de 200 ml (NR: 07404004, CN: 665770)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "665770"
+      }
+    ],
+    "publication_date": "2025-11-25",
+    "reason": "Aumento de la notificación de reacciones adversas de hipersensibilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/flebogamma-dif-50-mg-ml-solucion-para-perfusion-1-vial-de-200-ml-nr-07404004-cn-665770/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-11-24",
+    "id": "ES_AEMPS_R_28_2025",
+    "local_id": "R_28/2025",
+    "lots": [
+      "A25A1",
+      "fecha de caducidad 28",
+      "02",
+      "2027"
+    ],
+    "manufacturer": "LABORATORIOS NORMON, S.A. – Ronda de Valdecarrizo, 6(Tres Cantos)",
+    "medicine": "SITAGLIPTINA/METFORMINA NORMON 50 MG/1.000 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 56 comprimidos (Al/PA/Al/PVC) (NR: 86437, CN: 732411)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "732411"
+      }
+    ],
+    "publication_date": "2025-11-24",
+    "reason": "Detección de impurezas por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/sitagliptina-metformina-normon-50-mg-1-000-mg-comprimidos-recubiertos-con-pelicula-efg-56-comprimidos-al-pa-al-pvc-nr-86437-cn-732411/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-10-29",
+    "id": "ES_AEMPS_R_27_2025",
+    "local_id": "R_27/2025",
+    "lots": [
+      "B23K024472"
+    ],
+    "manufacturer": "GRIFOLS DEUTSCHLAND GMBH – Colmarer Strasse 22, Frankfurt, 60528, Alemania",
+    "medicine": "GAMUNEX 100 MG/ML SOLUCION PARA PERFUSION, 1 vial de 100 mi (NR: 82255, CN: 716826)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "716826"
+      }
+    ],
+    "publication_date": "2025-10-30",
+    "reason": "Aumento de la notificación de reacciones adversas de hipersensibilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/gamunex-100-mg-ml-solucion-para-perfusion-1-vial-de-100-mi-nr-82255-cn-716826/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-10-03",
+    "id": "ES_AEMPS_R_26_2025",
+    "local_id": "R_26/2025",
+    "lots": [
+      "230198",
+      "fecha de caducidad 31",
+      "01",
+      "2026"
+    ],
+    "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97 (Martorelles)",
+    "medicine": "DULOXETINA PENSA PHARMA 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG, 28 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79371, CN: 704751) DULOXETINA PENSA PHARMA 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG, 56 cápsulas (PVC/PVDC-ALUMINIO) (NR: 79371, CN: 706553)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "704751"
+      },
+      {
+        "system": "CN",
+        "value": "706553"
+      }
+    ],
+    "publication_date": "2025-10-03",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/duloxetina-pensa-pharma-60-mg-capsulas-duras-gastrorresistentes-efg-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-10-03",
+    "id": "ES_AEMPS_R_25_2025",
+    "local_id": "R_25/2025",
+    "lots": [
+      "3168537",
+      "fecha de caducidad 30",
+      "11",
+      "2025"
+    ],
+    "manufacturer": "MYLAN IRELAND LIMITED – Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, , Irlanda",
+    "medicine": "LENALIDOMIDA MYLAN 10 mg CAPSULAS DURAS EFG, 21 cápsulas (NR: 1201490010, CN: 731073) LENALIDOMIDA MYLAN 15 mg CAPSULAS DURAS EFG, 21 cápsulas (NR: 1201490012, CN: 731077) LENALIDOMIDA MYLAN 20 mg CAPSULAS DURAS EFG, 21 cápsulas (NR: 1201490015, CN: 731074) LENALIDOMIDA MYLAN 25 mg CAPSULAS DURAS EFG, 21 cápsulas (NR: 1201490018, CN: 731076) LENALIDOMIDA MYLAN 5 mg CAPSULAS DURAS EFG, 21 cápsulas (NR: 1201490005, CN: 731072)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "731073"
+      },
+      {
+        "system": "CN",
+        "value": "731077"
+      },
+      {
+        "system": "CN",
+        "value": "731074"
+      },
+      {
+        "system": "CN",
+        "value": "731076"
+      },
+      {
+        "system": "CN",
+        "value": "731072"
+      }
+    ],
+    "publication_date": "2025-10-03",
+    "reason": "Cápsulas rotas y presencia de polvo procedente de las cápsulas en algunos alveolos.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/lenalidomida-mylan-capsulas-duras-efg-21-capsulas-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-09-19",
+    "id": "ES_AEMPS_R_24_2025",
+    "local_id": "R_24/2025",
+    "lots": [
+      "J04K062751"
+    ],
+    "manufacturer": "INSTITUTO GRIFOLS, S.A. – C/ Can Guasc, 2. Pol. Ind. Levante(Parets del Vallés)",
+    "medicine": "FLEBOGAMMA DIF 100 mg/ml SOLUCION PARA PERFUSION, 1 vial de 100 ml (NR: 07404007, CN: 665958)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "665958"
+      }
+    ],
+    "publication_date": "2025-09-19",
+    "reason": "Aumento de la notificación de reacciones adversas de hipersensibilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/flebogamma-dif-100-mg-ml-solucion-para-perfusion-1-vial-de-100-ml-nr-07404007-cn-665958/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-07-28",
+    "id": "ES_AEMPS_R_23_2025",
+    "local_id": "R_23/2025",
+    "lots": [
+      "C97093",
+      "fecha de caducidad 31",
+      "01",
+      "2026"
+    ],
+    "manufacturer": "LABORATORIOS LEO PHARMA, S.A. – C/ Via Layetana, 33, 7 planta(Barcelona)",
+    "medicine": "FUCIDINE 250 mg COMPRIMIDOS RECUBIERTOS CON PELICULA , 10 comprimidos (NR: 39143, CN: 697148)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "697148"
+      }
+    ],
+    "publication_date": "2025-07-29",
+    "reason": "Resultado fuera de especificaciones en impurezas detectado en estudios de estabilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/fucidine-250-mg-comprimidos-recubiertos-con-pelicula-10-comprimidos-nr-39143-cn-697148/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 0.92,
+    "country": "ES",
+    "date": "2025-07-22",
+    "id": "ES_AEMPS_R_22_2025",
+    "local_id": "R_22/2025",
+    "lots": [
+      "G2212047-02",
+      "fecha de caducidad 31",
+      "10",
+      "2025 Allergovit 123 Parietaria 100% suspensión inyectable formato de Mantenimiento de 2 viales",
+      "concentración B (10.000 UT",
+      "ml)"
+    ],
+    "manufacturer": "Allergopharma GmbH&Co. KG, Hermann-Krner-strasse 52, 21465 Reinbek, Hamburg",
+    "medicine": "Allergovit 123 Parietaria 100% suspensión inyectable formato de Inicio de 2 viales, concentración A (1000 UT/ml) y B (10.000 UT/ml) Allergovit 123 Parietaria 100% suspensión inyectable formato de Mantenimiento de 2 viales, concentración B (10.000 UT/ml)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [],
+    "publication_date": "2025-07-22",
+    "reason": "Resultado fuera de especificaciones en el parámetro de actividad residual alergénica detectado en estudios de estabilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/allergovit-123-parietaria-100-suspension-inyectable-formato-varias-presentaciones/",
+    "warnings": [
+      "missing_cn"
+    ]
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-07-11",
+    "id": "ES_AEMPS_R_21_2025",
+    "local_id": "R_21/2025",
+    "lots": [
+      "4V25"
+    ],
+    "manufacturer": "NTC S.R.L. – Via Luigi Razza, 3, Milano, 20124, Italia",
+    "medicine": "COLIRCUSI GENTADEXA 5 MG/ML+ 1 MG/ML+ 0,5 MG/ML COLIRIO/GOTAS ÓTICAS EN SOLUCIÓN 1 frasco de 10 ml (NR: 51174, CN: 672096)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "672096"
+      }
+    ],
+    "publication_date": "2025-07-11",
+    "reason": "No se puede garantizar su esterilidad debido a problemas de contaminación microbiológica en la planta de fabricación",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/colircusi-gentadexa-5-mg-ml-1-mg-ml-05-mg-ml-colirio-gotas-oticas-en-solucion-1-frasco-de-10-ml-nr-51174-cn-672096/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-07-11",
+    "id": "ES_AEMPS_R_20_2025",
+    "local_id": "R_20/2025",
+    "lots": [
+      "5V86B"
+    ],
+    "manufacturer": "SANTEN OY – Niittyhaankatu 20, Tampere, FIN-33720, Finlandia",
+    "medicine": "COSDUO 20 MG/ML + 5 MG/ML COLIRIO EN SOLUCION 1 frasco de 5 ml (NR: 82086, CN: 716318)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "716318"
+      }
+    ],
+    "publication_date": "2025-07-11",
+    "reason": "No se puede garantizar su esterilidad debido a problemas de contaminación microbiológica en la planta de fabricación",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/cosduo-20-mg-ml-5-mg-ml-colirio-en-solucion-1-frasco-de-5-ml-nr-82086-cn-716318/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-07-04",
+    "id": "ES_AEMPS_R_19_2025",
+    "local_id": "R_19/2025",
+    "lots": [
+      "4V64"
+    ],
+    "manufacturer": "LABORATOIRES THEA – 12 Rue Lous Bleriot, Clermont Ferrand, Puy De Dome, 63100, Francia",
+    "medicine": "BENTIFEN 0,25mg/ml COLIRIO EN SOLUCION , 1 frasco de 5 ml (NR: 63618, CN: 653304)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "653304"
+      }
+    ],
+    "publication_date": "2025-07-04",
+    "reason": "No se puede garantizar su esterilidad debido a problemas de contaminación microbiológica en la planta de fabricación",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/bentifen-025mg-ml-colirio-en-solucion-1-frasco-de-5-ml-nr-63618-cn-653304/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-06-30",
+    "id": "ES_AEMPS_R_18_2025",
+    "local_id": "R_18/2025",
+    "lots": [
+      "F0016",
+      "fecha de caducidad 31",
+      "05",
+      "2026"
+    ],
+    "manufacturer": "AMDIPHARM LIMITED – Temple Chambers. 3 Burlington Road, Dublin 4, D04 RD68, Irlanda",
+    "medicine": "LUDIOMIL 25 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA, 30 comprimidos (NR: 51648, CN: 782409) LUDIOMIL 75 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA, 28 comprimidos (NR: 55706, CN: 991240)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "782409"
+      },
+      {
+        "system": "CN",
+        "value": "991240"
+      }
+    ],
+    "publication_date": "2025-06-30",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/ludiomil-comprimidos-recubiertos-con-pelicula-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-06-13",
+    "id": "ES_AEMPS_R_17_2025",
+    "local_id": "R_17/2025",
+    "lots": [
+      "3D009AA12"
+    ],
+    "manufacturer": "IMMUNOCORE IRELAND LIMITED – Unit 1 Sky Business Centres, Unit 21 Block Port Tunnel Business Park, Clonshaugh, Dublin 17, Dublin, D17 FY82, Irlanda",
+    "medicine": "KIMMTRAK 100 MICROGRAMOS/0,5 ML CONCENTRADO PARA SOLUCION PARA PERFUSION, 1 vial de 0,5 ml (NR: 1221630001, CN: 759433)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "759433"
+      }
+    ],
+    "publication_date": "2025-06-13",
+    "reason": "Resultado fuera de especificación en el ensayo de potencia, detectado en estudios de estabilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/kimmtrak-100-microgramos-05-ml-concentrado-para-solucion-para-perfusion-1-vial-de-05-ml-nr-1221630001-cn-759433/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-05-29",
+    "id": "ES_AEMPS_R_16_2025",
+    "local_id": "R_16/2025",
+    "lots": [
+      "322950C",
+      "fecha de caducidad 31",
+      "05",
+      "2027"
+    ],
+    "manufacturer": "FAES FARMA, S.A. – Autonomia Etorbidea, 10(Leioa)",
+    "medicine": "BILAXTEN 6 MG/ML COLIRIO EN SOLUCION, 1 frasco de 5 ml (NR: 88089, CN: 758305)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "758305"
+      }
+    ],
+    "publication_date": "2025-05-29",
+    "reason": "Detección de partículas visibles por precipitación del principio activo",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/bilaxten-6-mg-ml-colirio-en-solucion-1-frasco-de-5-ml-nr-88089-cn-758305/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-05-21",
+    "id": "ES_AEMPS_R_15_2025",
+    "local_id": "R_15/2025",
+    "lots": [
+      "30798L1"
+    ],
+    "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97(Martorelles)",
+    "medicine": "BISOPROLOL PENSA 2,5 MG COMPRIMIDOS EFG, 28 comprimidos (Blister PVC/PVDC/Al) (NR: 81435, CN: 713616)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "713616"
+      }
+    ],
+    "publication_date": "2025-05-21",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/bisoprolol-pensa-25-mg-comprimidos-efg-28-comprimidos-blister-pvc-pvdc-al-nr-81435-cn-713616/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-05-08",
+    "id": "ES_AEMPS_R_14_2025",
+    "local_id": "R_14/2025",
+    "lots": [
+      "240803"
+    ],
+    "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97(Martorelles)",
+    "medicine": "DULOXETINA PENSA PHARMA 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 28 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79370, CN: 704749)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "704749"
+      }
+    ],
+    "publication_date": "2025-05-08",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/duloxetina-pensa-pharma-30-mg-capsulas-duras-gastrorresistentes-efg-28-capsulas-blister-pvc-pvdc-aluminio-nr-79370-cn-704749/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-04-10",
+    "id": "ES_AEMPS_R_13_2025",
+    "local_id": "R_13/2025",
+    "lots": [
+      "12"
+    ],
+    "manufacturer": "QUALIX PHARMA, S.L. – C/ Botánica 137-139(Hospitalet de Llobregat)",
+    "medicine": "DICLOFENACO ABAMED 1 MG/ML COLIRIO EN SOLUCION EN ENVASE UNIDOSIS 30 envases de 0,3 ml (NR: 77503, CN: 698029)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "698029"
+      }
+    ],
+    "publication_date": "2025-04-10",
+    "reason": "Resultado fuera de especificación para el ensayo de esterilidad, detectado durante los estudios de estabilidad en curso",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/diclofenaco-abamed-1-mg-ml-colirio-en-solucion-en-envase-unidosis-30-envases-de-03-ml-nr-77503-cn-698029/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-04-01",
+    "id": "ES_AEMPS_R_12_2025",
+    "local_id": "R_12/2025",
+    "lots": [
+      "16520223"
+    ],
+    "manufacturer": "TEVA PHARMA, S.L.U. – C/ Anabel Segura, 11, Edificio Albatros B, 1ª planta(Alcobendas)",
+    "medicine": "TOPIRAMATOTOPIRAMATO TEVA 200 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG , 60 comprimidos (NR: 68933, CN: 659269)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "659269"
+      }
+    ],
+    "publication_date": "2025-04-02",
+    "reason": "Obtención de resultado fuera de especificaciones en el ensayo de contenido durante los estudios de estabilidad en curso",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/topiramato-teva-200-mg-comprimidos-recubiertos-con-pelicula-efg-60-comprimidos-nr-68933-cn-659269/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-04-01",
+    "id": "ES_AEMPS_R_11_2025",
+    "local_id": "R_11/2025",
+    "lots": [
+      "SL240253-1",
+      "fecha de caducidad 17",
+      "04",
+      "2025"
+    ],
+    "manufacturer": "INSTITUT GEORGES LOPEZ – Parc Tertiaire du Bois Dieu, RN6 – 1 allee des Chevreuils, Lissieu, F-69380, Francia",
+    "medicine": "CELSIOR SOLUCION PARA LA CONSERVACION DE ORGANOS, 4 bolsas de 1.000 ml (NR: 73767, CN: 677327)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "677327"
+      }
+    ],
+    "publication_date": "2025-04-02",
+    "reason": "Incumplimiento de normas de correcta fabricación del fabricante Institut Georges Lopez",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/celsior-solucion-para-la-conservacion-de-organos-4-bolsas-de-1-000-ml/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-03-14",
+    "id": "ES_AEMPS_R_10_2025",
+    "local_id": "R_10/2025",
+    "lots": [
+      "ACTC23001",
+      "fecha de caducidad 30",
+      "04",
+      "2025"
+    ],
+    "manufacturer": "MABO-FARMA, S.A. – Calle Vía de los Poblados 3. Edificio 6 (Madrid)",
+    "medicine": "CEFIXIMA MABO 200 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 14 comprimidos (Blister PVC-Aclar/Al) (NR: 84692, CN: 727482) CEFIXIMA MABO 200 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 21 comprimidos (Blister PVC-Aclar/Al) (NR: 84692, CN: 727483) CEFIXIMA MABO 400 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 10 comprimidos (PVC/Aclar/Al) (NR: 84693, CN: 727485)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "727482"
+      },
+      {
+        "system": "CN",
+        "value": "727483"
+      },
+      {
+        "system": "CN",
+        "value": "727485"
+      }
+    ],
+    "publication_date": "2025-03-14",
+    "reason": "Incumplimiento de las normas de correcta fabricación del fabricante Nectar LifeSciences Limited, Unit VI, India",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/cefixima-mabo-comprimidos-recubiertos-con-pelicula-efg-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-03-12",
+    "id": "ES_AEMPS_R_09_2025",
+    "local_id": "R_09/2025",
+    "lots": [
+      "1304816",
+      "fecha de caducidad 30",
+      "04",
+      "2025"
+    ],
+    "manufacturer": "LABORATORIO STADA, S.L. – C/ Frederic Mompou, 5(Sant Just Desvern)",
+    "medicine": "TACROLIMUS STADAFARMA 0,5 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG, 30 cápsulas (NR: 88078, CN: 758235) TACROLIMUS STADAFARMA 1 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG, 60 cápsulas (NR: 88079, CN: 758237) TACROLIMUS STADAFARMA 3 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG, 30 cápsulas (NR: 88080, CN: 758238) TACROLIMUS STADAFARMA 5 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG, 30 cápsulas (NR: 88081, CN: 758239)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "758235"
+      },
+      {
+        "system": "CN",
+        "value": "758237"
+      },
+      {
+        "system": "CN",
+        "value": "758238"
+      },
+      {
+        "system": "CN",
+        "value": "758239"
+      }
+    ],
+    "publication_date": "2025-03-12",
+    "reason": "Posible obtención de resultados fuera de especificaciones en el ensayo de contenido durante los estudios de estabilidad en curso",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/tacrolimus-stadafarma-capsulas-duras-de-liberacion-prolongada-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-03-10",
+    "id": "ES_AEMPS_R_08_2025",
+    "local_id": "R_08/2025",
+    "lots": [
+      "SM7997"
+    ],
+    "manufacturer": "TEVA PHARMA, S.L.U. – C/ Anabel Segura, 11, Edificio Albatros B, 1ª planta(Alcobendas)",
+    "medicine": "VENLAFAXINA RETARD TEVA 75 mg CAPSULAS DURAS DE LIBERACION PROLONGADA EFG , 30 cápsulas (NR: 69851, CN: 661052)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "661052"
+      }
+    ],
+    "publication_date": "2025-03-10",
+    "reason": "Prospecto no actualizado",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/venlafaxina-retard-teva-75-mg-capsulas-duras-de-liberacion-prolongada-efg-30-capsulas-nr-69851-cn-661052/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 0.92,
+    "country": "ES",
+    "date": "2025-03-04",
+    "id": "ES_AEMPS_R_07_2025",
+    "local_id": "R_07/2025",
+    "lots": [
+      "Todas las unidades elaboradas"
+    ],
+    "manufacturer": "Oficina de farmacia Perelló, C/ Virgen de los Desamparados 6, 46869, Adzaneta de Albaida, Valencia",
+    "medicine": "Pellets de testosterona y de estradiol, FÓRMULA MAGISTRAL",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [],
+    "publication_date": "2025-03-04",
+    "reason": "Falta de garantía de calidad",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/pellets-de-testosterona-y-de-estradiol-formula-magistral-2/",
+    "warnings": [
+      "missing_cn"
+    ]
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 0.92,
+    "country": "ES",
+    "date": "2025-02-27",
+    "id": "ES_AEMPS_R_06_2025",
+    "local_id": "R_06/2025",
+    "lots": [
+      "Todas las unidades elaboradas de las fórmulas magistrales incluidas en el anexo"
+    ],
+    "manufacturer": "OFICINA DE FARMACIA TALLÓN PADIAL Calle Recogidas, 48, 18002, Granada",
+    "medicine": "Fórmulas magistrales incluidas en el anexo",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [],
+    "publication_date": "2025-02-27",
+    "reason": "Ausencia de garantía de esterilidad",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/formulas-magistrales-incluidas-en-el-anexo-de-la-alerta-farmaceutica-r_06-2025/",
+    "warnings": [
+      "missing_cn"
+    ]
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-02-25",
+    "id": "ES_AEMPS_R_05_2025",
+    "local_id": "R_05/2025",
+    "lots": [
+      "1157403",
+      "fecha de caducidad 31",
+      "03",
+      "2025"
+    ],
+    "manufacturer": "AMGEN EUROPE B.V. – Minervum 7061, BREDA, NL-4817 ZK, Holanda",
+    "medicine": "NEUPOGEN 30 MU (0,3 mg/ml) SOLUCION INYECTABLE , 5 viales de 1 ml (NR: 59102, CN: 845826)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "845826"
+      }
+    ],
+    "publication_date": "2025-02-25",
+    "reason": "Posible resultado fuera de especificaciones en el ensayo de pureza",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/neupogen-30-mu-03-mg-ml-solucion-inyectable-5-viales-de-1-ml-nr-59102-cn-845826/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 0.92,
+    "country": "ES",
+    "date": "2025-02-17",
+    "id": "ES_AEMPS_R_04_2025",
+    "local_id": "R_04/2025",
+    "lots": [
+      "Todas las unidades elaboradas"
+    ],
+    "manufacturer": "Oficina de farmacia J.F. Barrachina Vicente, Avenida de la Marina 25, Tavernes de la Valldigna, Valencia",
+    "medicine": "Pellets de testosterona y de estradiol, FÓRMULA MAGISTRAL",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [],
+    "publication_date": "2025-02-17",
+    "reason": "Falta de garantía de calidad",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/pellets-de-testosterona-y-de-estradiol-formula-magistral/",
+    "warnings": [
+      "missing_cn"
+    ]
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 0.92,
+    "country": "ES",
+    "date": "2025-02-14",
+    "id": "ES_AEMPS_R_03_2025",
+    "local_id": "R_03/2025",
+    "lots": [
+      "Todas las unidades elaboradas"
+    ],
+    "manufacturer": "Oficina de Farmacia Tallón Padial, Calle Recogidas, 48, 18002, Granada",
+    "medicine": "Triamcinolona intravítrea 40mg/ml suspensión estéril, FÓRMULA MAGISTRAL",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [],
+    "publication_date": "2025-02-14",
+    "reason": "Falta de garantía de esterilidad",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/triamcinolona-intravitrea-40mg-ml-suspension-esteril-formula-magistral/",
+    "warnings": [
+      "missing_cn"
+    ]
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-02-13",
+    "id": "ES_AEMPS_R_02_2025",
+    "local_id": "R_02/2025",
+    "lots": [
+      "24048A1A"
+    ],
+    "manufacturer": "AVALON LABORATORIOS S.L. – C/ La Cora, nº 4. Local 1(Granada)",
+    "medicine": "EVEROLIMUS AVALON 5 MG COMPRIMIDOS EFG, 30 comprimidos (NR: 84204, CN: 725970)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "725970"
+      }
+    ],
+    "publication_date": "2025-02-13",
+    "reason": "Resultado fuera de especificaciones en el ensayo de riqueza",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/everolimus-avalon-5-mg-comprimidos-efg-30-comprimidos/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2025-01-22",
+    "id": "ES_AEMPS_R_01_2025",
+    "local_id": "R_01/2025",
+    "lots": [
+      "8190844",
+      "fecha de caducidad 31",
+      "05",
+      "2026"
+    ],
+    "manufacturer": "VIATRIS LIMITED – Damastown Industrial Park, Dublin, 15, Irlanda",
+    "medicine": "POMALIDOMIDA VIATRIS 2 MG CAPSULAS DURAS EFG, 21 cápsulas (NR: 1231785008, CN: 764364) POMALIDOMIDA VIATRIS 3 MG CAPSULAS DURAS EFG, 21 cápsulas (NR: 1231785010, CN: 764367) POMALIDOMIDA VIATRIS 4 MG CAPSULAS DURAS EFG, 21 cápsulas (NR: 1231785014, CN: 764377)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "764364"
+      },
+      {
+        "system": "CN",
+        "value": "764367"
+      },
+      {
+        "system": "CN",
+        "value": "764377"
+      }
+    ],
+    "publication_date": "2025-01-22",
+    "reason": "Presencia de polvo procedente de las cápsulas en algunos alveolos",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/pomalidomida-viatris-capsulas-duras-efg-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-12-20",
+    "id": "ES_AEMPS_R_26_2024",
+    "local_id": "R_26/2024",
+    "lots": [
+      "220082",
+      "fecha de caducidad 31",
+      "01",
+      "2025"
+    ],
+    "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97(Martorelles)",
+    "medicine": "DULOXETINA PENSA PHARMA 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 7 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79370, CN: 704748) DULOXETINA PENSA PHARMA 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 28 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79370, CN: 704749) DULOXETINA PENSA PHARMA 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 28 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79371, CN: 704751) DULOXETINA PENSA PHARMA 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 56 cápsulas (PVC/PVDC-Aluminio) (NR: 79371, CN: 706553)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "704748"
+      },
+      {
+        "system": "CN",
+        "value": "704749"
+      },
+      {
+        "system": "CN",
+        "value": "704751"
+      },
+      {
+        "system": "CN",
+        "value": "706553"
+      }
+    ],
+    "publication_date": "2024-12-20",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/duloxetina-pensa-pharma-capsulas-duras-gastrorresistentes-efg-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-11-27",
+    "id": "ES_AEMPS_R_25_2024",
+    "local_id": "R_25/2024",
+    "lots": [
+      "LC84020",
+      "fecha de caducidad 31",
+      "05",
+      "2026"
+    ],
+    "manufacturer": "LABORATORIO STADA, S.L. – C/ Frederic Mompou, 5(Sant Just Desvern)",
+    "medicine": "ITRACONAZOL STADA 100 MG CAPSULAS DURAS EFG , 7 cápsulas (NR: 77398, CN: 697583) ITRACONAZOL STADA 100 MG CAPSULAS DURAS EFG , 14 cápsulas (NR: 77398, CN: 697584)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "697583"
+      },
+      {
+        "system": "CN",
+        "value": "697584"
+      }
+    ],
+    "publication_date": "2024-11-27",
+    "reason": "En el prospecto se indica por error el doble de la dosis recomendada para la indicación de Tratamiento continuo para las infecciones de las uñas de los pies. Donde dice 2 cápsulas dos veces al día debe decir 2 cápsulas una vez al día",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/itraconazol-stada-100-mg-capsulas-duras-efg-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-10-08",
+    "id": "ES_AEMPS_R_24_2024",
+    "local_id": "R_24/2024",
+    "lots": [
+      "464X"
+    ],
+    "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97 (Martorelles)",
+    "medicine": "IBUPROFENO PENSAVITAL 400 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG 20 comprimidos (NR: 82815, CN: 729876)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "729876"
+      }
+    ],
+    "publication_date": "2024-10-08",
+    "reason": "Resultado fuera de especificaciones en el test de disolución",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/ibuprofeno-pensavital-400-mg-comprimidos-recubiertos-con-pelicula-efg-20-comprimidos-nr-82815-cn-729876/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-10-08",
+    "id": "ES_AEMPS_R_23_2024",
+    "local_id": "R_23/2024",
+    "lots": [
+      "468X",
+      "fecha de caducidad 31",
+      "07",
+      "2026"
+    ],
+    "manufacturer": "MABO-FARMA, S.A. – Calle Rejas 2, Planta 1ª (Coslada)",
+    "medicine": "IBUPROFENO MABO-FARMA 400 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 20 comprimidos (PVC/PVDC/AL) (NR: 82805, CN: 727423)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "727423"
+      }
+    ],
+    "publication_date": "2024-10-08",
+    "reason": "Resultado fuera de especificaciones en el test de disolución",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/ibuprofeno-mabo-farma-400-mg-comprimidos-recubiertos-con-pelicula-efg-20-comprimidos-pvc-pvdc-al-nr-82805-cn-727423/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-10-01",
+    "id": "ES_AEMPS_R_22_2024",
+    "local_id": "R_22/2024",
+    "lots": [
+      "23201V",
+      "fecha de caducidad 31",
+      "05",
+      "2026"
+    ],
+    "manufacturer": "ORION CORPORATION – Orionintie 1, Espoo, 02200, Finlandia",
+    "medicine": "SUGAMMADEX ORION 100 MG/ML SOLUCION INYECTABLE EFG, 10 viales de 2 ml (NR: 88751, CN: 762458)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "762458"
+      }
+    ],
+    "publication_date": "2024-10-01",
+    "reason": "Fuera de especificaciones en determinación de partículas visibles en disolución",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/sugammadex-orion-100-mg-ml-solucion-inyectable-efg-10-viales-de-2-ml-nr-88751-cn-762458/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-10-01",
+    "id": "ES_AEMPS_R_21_2024",
+    "local_id": "R_21/2024",
+    "lots": [
+      "23202V",
+      "fecha de caducidad 30",
+      "06",
+      "2026"
+    ],
+    "manufacturer": "LABORATORIO REIG JOFRÉ, S.A. – C/Gran Capitán, 10(Sant Joan Despí)",
+    "medicine": "SUGAMMADEX SALA 100 MG/ML SOLUCION INYECTABLE EFG, 10 viales de 2 ml (NR: 88700, CN: 607630)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "607630"
+      }
+    ],
+    "publication_date": "2024-10-01",
+    "reason": "Fuera de especificaciones en la determinación de partículas visibles en disolución",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/sugammadex-sala-100-mg-ml-solucion-inyectable-efg-10-viales-de-2-ml-nr-88700-cn-607630/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-09-20",
+    "id": "ES_AEMPS_R_20_2024",
+    "local_id": "R_20/2024",
+    "lots": [
+      "CP3W"
+    ],
+    "manufacturer": "GLAXOSMITHKLINE, S.A. – C/Severo Ochoa, 2, Parque Tecnológico de Madrid (Tres Cantos)",
+    "medicine": "AUGMENTINE 100mg/ml + 12,5 mg/ml POLVO PARA SUSPENSION ORAL, 1 frasco de 40 ml (NR: 59051, CN: 699571)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "699571"
+      }
+    ],
+    "publication_date": "2024-09-23",
+    "reason": "Defecto en el sellado de algunos frascos",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/augmentine-100mg-ml-125-mg-ml-polvo-para-suspension-oral-1-frasco-de-40-ml-nr-59051-cn-699571/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-09-04",
+    "id": "ES_AEMPS_R_19_2024",
+    "local_id": "R_19/2024",
+    "lots": [
+      "2A"
+    ],
+    "manufacturer": "ALMIRALL, S.A. – Ronda General Mitre, 151(Barcelona)",
+    "medicine": "ILUMETRI 100 MG SOLUCION INYECTABLE EN PLUMA PRECARGADA, 1 pluma (NR: 1181323004, CN: 76226",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "76226"
+      }
+    ],
+    "publication_date": "2024-09-04",
+    "reason": "Error en la fecha de caducidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/ilumetri-100-mg-solucion-inyectable-en-pluma-precargada-1-pluma-nr-1181323004-cn-762267/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-08-14",
+    "id": "ES_AEMPS_R_18_2024",
+    "local_id": "R_18/2024",
+    "lots": [
+      "220118",
+      "fecha de caducidad 28",
+      "02",
+      "2025"
+    ],
+    "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97(Martorelles)",
+    "medicine": "CLOPIDOGREL PENSA 75 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 28 comprimidos (NR: 71414, CN: 664305)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "664305"
+      }
+    ],
+    "publication_date": "2024-08-14",
+    "reason": "Detección de resultados fuera de especificaciones en el test de disolución, tras el análisis realizado por el Laboratorio Oficial de Control de Medicamentos de la AEMPS como parte del Programa de Control de Calidad de Medicamentos en el Mercado de 2023.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/clopidogrel-pensa-75-mg-comprimidos-recubiertos-con-pelicula-efg-28-comprimidos-nr-71414-cn-664305/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-08-09",
+    "id": "ES_AEMPS_R_17_2024",
+    "local_id": "R_17/2024",
+    "lots": [
+      "1211661",
+      "fecha de caducidad 31",
+      "10",
+      "2024"
+    ],
+    "manufacturer": "GLENMARK ARZNEIMITTEL GMBH – Industriestr. 31, Gröbenzell, 82194, Alemania",
+    "medicine": "FINGOLIMOD GLENMARK 0,5 MG CAPSULAS DURAS EFG 28 capsulas (NR: 85860, CN: 730608)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "730608"
+      }
+    ],
+    "publication_date": "2024-08-09",
+    "reason": "Resultado fuera de especificaciones en el parámetro de contenido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/fingolimod-glenmark-05-mg-capsulas-duras-efg-28-capsulas-nr-85860-cn-730608/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-08-05",
+    "id": "ES_AEMPS_R_16_2024",
+    "local_id": "R_16/2024",
+    "lots": [
+      "22106407",
+      "fecha de caducidad 28",
+      "02",
+      "2025"
+    ],
+    "manufacturer": "B. BRAUN MEDICAL, S.A. – Ctra. Terrassa, 121(Rubí)",
+    "medicine": "AGUA PARA PREPARACIONES INYECTABLES B.BRAUN DISOLVENTE PARA USO PARENTERAL,500 ampollas de 5 ml (NR: 58448, CN: 721866)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "721866"
+      }
+    ],
+    "publication_date": "2024-08-05",
+    "reason": "Contaminación cruzada",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/agua-para-preparaciones-inyectables-b-braun-disolvente-para-uso-parenteral500-ampollas-de-5-ml-nr-58448-cn-721866/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-07-29",
+    "id": "ES_AEMPS_R_15_2024",
+    "local_id": "R_15/2024",
+    "lots": [
+      "1300689",
+      "fecha de caducidad 30",
+      "11",
+      "2025"
+    ],
+    "manufacturer": "LABORATORIOS CINFA, S.A. – Ctra. Olaz Chipi, 10, Pol. Ind. Areta (Huarte)",
+    "medicine": "ATOMOXETINA CINFA 10 MG CAPSULAS DURAS EFG, 28 cápsulas (Blister PVC/PE/PCTFE-Al) (NR: 82441, CN: 719099) ATOMOXETINA CINFA 10 MG CAPSULAS DURAS EFG, 7 cápsulas (Blister PVC/PE/PCTFE-Al) (NR: 82441, CN: 719098) ATOMOXETINA CINFA 40 MG CAPSULAS DURAS EFG, 7 cápsulas (Blister PVC/PE/PCTFE-Al) (NR: 82444, CN: 719110) ATOMOXETINA CINFA 40 MG CAPSULAS DURAS EFG, 28 cápsulas (Blister PVC/PE/PCTFE-Al) (NR: 82444, CN: 719111) ATOMOXETINA CINFA 80 MG CASULAS DURAS EFG, 28 cápsulas (Blister PVC/PE/PCTFE-Al) (NR: 82446, CN: 719119)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "719099"
+      },
+      {
+        "system": "CN",
+        "value": "719098"
+      },
+      {
+        "system": "CN",
+        "value": "719110"
+      },
+      {
+        "system": "CN",
+        "value": "719111"
+      },
+      {
+        "system": "CN",
+        "value": "719119"
+      }
+    ],
+    "publication_date": "2024-07-30",
+    "reason": "Resultados fuera de especificaciones en uno o varios parámetros, entre ellos contenido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/atomoxetina-cinfa-capsulas-duras-efg/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-07-29",
+    "id": "ES_AEMPS_R_14_2024",
+    "local_id": "R_14/2024",
+    "lots": [
+      "1304121",
+      "fecha de caducidad 31",
+      "10",
+      "2025"
+    ],
+    "manufacturer": "LABORATORIOS RUBIÓ, S.A. – Industria, 29 – Pol. Ind. Comte De Sert (Castellbisbal)",
+    "medicine": "ATAMAX 10 MG CAPSULAS DURAS EFG 28 cápsulas (NR: 82386, CN: 718812) ATAMAX 10 MG CAPSULAS DURAS EFG 7 cápsulas (NR: 82386, CN: 718811) ATAMAX 25 MG CAPSULAS DURAS EFG 28 cápsulas (NR: 82388, CN: 718816) ATAMAX 25 MG CAPSULAS DURAS EFG 7 cápsulas (NR: 82388, CN: 718815) ATAMAX 40 MG CAPSULAS DURAS EFG 28 cápsulas (NR: 82389, CN: 718818) ATAMAX 60 MG CAPSULAS DURAS EFG 28 cápsulas (NR: 82390, CN: 718820)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "718812"
+      },
+      {
+        "system": "CN",
+        "value": "718811"
+      },
+      {
+        "system": "CN",
+        "value": "718816"
+      },
+      {
+        "system": "CN",
+        "value": "718815"
+      },
+      {
+        "system": "CN",
+        "value": "718818"
+      },
+      {
+        "system": "CN",
+        "value": "718820"
+      }
+    ],
+    "publication_date": "2024-07-30",
+    "reason": "Resultados fuera de especificaciones en uno o varios parámetros, entre ellos contenido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/atamax-capsulas-duras-efg/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-07-23",
+    "id": "ES_AEMPS_R_13_2024",
+    "local_id": "R_13/2024",
+    "lots": [
+      "HAD3087B"
+    ],
+    "manufacturer": "SUN PHARMACEUTICAL INDUSTRIES (EUROPE) B.V. – Polarisavenue, 87, Hoofddorp, 2132 JH, Holanda",
+    "medicine": "Atosiban SUN 6,75 mg/0,9 ml solucion inyectable EFG , 1 vial de 0,9 ml (NR: 113852001, CN: 699572)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "699572"
+      }
+    ],
+    "publication_date": "2024-07-23",
+    "reason": "Resultado fuera de especificaciones en el granel sin filtrar",
+    "recall_class": "3",
+    "source_url": "https://www.aemps.gob.es/informa/atosiban-sun-675-mg-09-ml-solucion-inyectable-efg-1-vial-de-09-ml-nr-113852001-cn-699572/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-07-22",
+    "id": "ES_AEMPS_R_12_2024",
+    "local_id": "R_12/2024",
+    "lots": [
+      "23I15",
+      "fecha de caducidad 31",
+      "08",
+      "2026"
+    ],
+    "manufacturer": "UCB PHARMA – Allée de la Recherche, 60, Bruselas, B-1070, Bélgica",
+    "medicine": "KEPPRA 100 mg/ml SOLUCION ORAL, 1 frasco de 150 ml con jeringa oral de 3 ml (NR: 00146031, CN: 663871)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "663871"
+      }
+    ],
+    "publication_date": "2024-07-22",
+    "reason": "Desprendimiento de la tinta roja que marca la graduación en las jeringas dosificadoras. Esta retirada es una ampliación de la retirada R_07/2024 al detectarse nuevos lotes afectados.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/keppra-100-mg-ml-solucion-oral-1-frasco-de-150-ml-con-jeringa-oral-de-3-ml-nr-00146031-cn-663871-2/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-07-03",
+    "id": "ES_AEMPS_R_11_2024",
+    "local_id": "R_11/2024",
+    "lots": [
+      "1169337A"
+    ],
+    "manufacturer": "AMGEN EUROPE B.V. – Minervum 7061, BREDA, NL-4817 ZK, Holanda",
+    "medicine": "KYPROLIS 60 MG POLVO PARA SOLUCION PARA PERFUSION 1 vial (NR: 1151060001, CN: 709152)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "709152"
+      }
+    ],
+    "publication_date": "2024-07-04",
+    "reason": "Detección de algunos viales con tapón mal sellado que puede comprometer la esterilidad",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/kyprolis-60-mg-polvo-para-solucion-para-perfusion-1-vial-nr-1151060001-cn-709152/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-06-06",
+    "id": "ES_AEMPS_R_10_2024",
+    "local_id": "R_10/2024",
+    "lots": [
+      "AU176D"
+    ],
+    "manufacturer": "LABORATORIO ALDO-UNIÓN, S.L. – C/.Baronesa de Maldá, 73 (Esplugues de Llobregat)",
+    "medicine": "COMBIPRASAL 0.5 mg/2.5 mg SOLUCION PARA INHALACION POR NEBULIZADOR 20 ampollas de 2,5 ml (NR: 73561, CN: 677602)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "677602"
+      }
+    ],
+    "publication_date": "2024-06-06",
+    "reason": "Problemas con la serialización del lote",
+    "recall_class": "3",
+    "source_url": "https://www.aemps.gob.es/informa/combiprasal-0-5-mg-2-5-mg-solucion-para-inhalacion-por-nebulizador-20-ampollas-de-25-ml-nr-73561-cn-677602/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-05-10",
+    "id": "ES_AEMPS_R_09_2024",
+    "local_id": "R_09/2024",
+    "lots": [
+      "070V002C"
+    ],
+    "manufacturer": "LABORATORIO ALDO-UNIÓN, S.L. – C/.Baronesa de Maldá, 73(Esplugues de Llobregat)",
+    "medicine": "BUDESONIDA ALDO UNION 200 microgramos/pulsación SUSPENSIÓN PARA INHALACIÓN EN ENVASE A PRESIÓN , 1 inhalador de 200 dosis (NR: 61664, CN: 799015)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "799015"
+      }
+    ],
+    "publication_date": "2024-05-10",
+    "reason": "Error en la fecha de caducidad indicada en el estuche",
+    "recall_class": "3",
+    "source_url": "https://www.aemps.gob.es/informa/budesonida-aldo-union-200-microgramos-pulsacion-suspension-para-inhalacion-en-envase-a-presion-1-inhalador-de-200-dosis-nr-61664-cn-799015/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-05-07",
+    "id": "ES_AEMPS_R_08_2024",
+    "local_id": "R_08/2024",
+    "lots": [
+      "3017",
+      "fecha de caducidad 31",
+      "05",
+      "2025"
+    ],
+    "manufacturer": "GLENMARK ARZNEIMITTEL GMBH – Industriestr. 31, Gröbenzell, 82194, Alemania",
+    "medicine": "SUGAMMADEX GLENMARK 100 MG/ML SOLUCION INYECTABLE EFG, 10 viales de 5 ml (NR: 88850, CN: 762770) SUGAMMADEX GLENMARK 100 MG/ML SOLUCION INYECTABLE EFG, 10 viales de 2 ml (NR: 88850, CN: 762769)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "762770"
+      },
+      {
+        "system": "CN",
+        "value": "762769"
+      }
+    ],
+    "publication_date": "2024-05-07",
+    "reason": "Posible presencia de viales sin etiquetar",
+    "recall_class": "3",
+    "source_url": "https://www.aemps.gob.es/informa/sugammadex-glenmark-100-mg-ml-solucion-inyectable-efg-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-04-16",
+    "id": "ES_AEMPS_R_07_2024",
+    "local_id": "R_07/2024",
+    "lots": [
+      "23I14",
+      "fecha de caducidad 31",
+      "08",
+      "2026"
+    ],
+    "manufacturer": "UCB PHARMA S.A. – Allée de la Recherche, 60, Bruselas, B-1070, Bélgica",
+    "medicine": "KEPPRA 100 mg/ml SOLUCION ORAL, 1 frasco de 150 ml con jeringa oral de 3 ml (NR: 00146031, CN: 663871)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "663871"
+      }
+    ],
+    "publication_date": "2024-04-16",
+    "reason": "Desprendimiento de la tinta roja que marca la graduación en las jeringas dosificadoras.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/keppra-100-mg-ml-solucion-oral-1-frasco-de-150-ml-con-jeringa-oral-de-3-ml-nr-00146031-cn-663871/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-03-13",
+    "id": "ES_AEMPS_R_06_2024",
+    "local_id": "R_06/2024",
+    "lots": [
+      "K230211RE"
+    ],
+    "manufacturer": "REDDY PHARMA IBERIA S.A.U. – Avenida Josep Tarradellas 38 (Barcelona)",
+    "medicine": "FULVESTRANT DR. REDDYS 250 MG SOLUCION INYECTABLE EN JERINGA PRECARGADA EFG, 2 jeringas precargadas de 5 ml + 2 agujas (NR: 82518, CN: 719459)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "719459"
+      }
+    ],
+    "publication_date": "2024-03-13",
+    "reason": "El envase no incluye las agujas necesarias para la administración del medicamento.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/fulvestrant-dr-reddys-250-mg-solucion-inyectable-en-jeringa-precargada-efg-2-jeringas-precargadas-de-5-ml-2-agujas-nr-82518-cn-719459/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-02-21",
+    "id": "ES_AEMPS_R_05_2024",
+    "local_id": "R_05/2024",
+    "lots": [
+      "419375"
+    ],
+    "manufacturer": "NORGINE – Haasrode Research Park, Romeinsestraat 10, Heverlee, 3001, Bélgica",
+    "medicine": "PLEINVUE POLVO PARA SOLUCION ORAL, 3 (1×3) sobres (NR: BE518640, CN: 729190)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "729190"
+      }
+    ],
+    "publication_date": "2024-02-21",
+    "reason": "Se estima que podría haber al menos una unidad en el mercado acondicionada erróneamente, con un sobre de la Dosis 1 y 2 sobres de la Dosis 2 del sobre A y ningún sobre de la Dosis 2 del sobre B",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/pleinvue-polvo-para-solucion-oral-3-1x3-sobres-nr-be518640-cn-729190/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-02-13",
+    "id": "ES_AEMPS_R_04_2024",
+    "local_id": "R_04/2024",
+    "lots": [
+      "19225319A"
+    ],
+    "manufacturer": "INDUSTRIAL FARMACÉUTICA CANTABRIA, S.A. – Barrio Solía n 30 (La Concha-Villaescusa)",
+    "medicine": "IMUNOCARE 50 MG/G CREMA 24 sobres unidosis de 250 mg (NR: 78406, CN: 701283)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "701283"
+      }
+    ],
+    "publication_date": "2024-02-13",
+    "reason": "Resultado fuera de especificaciones en valoración de sustancia activa",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/imunocare-50-mg-g-crema-24-sobres-unidosis-de-250-mg-nr-78406-cn-701283/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-02-13",
+    "id": "ES_AEMPS_R_03_2024",
+    "local_id": "R_03/2024",
+    "lots": [
+      "S003"
+    ],
+    "manufacturer": "INDUSTRIA QUÍMICA Y FARMACÉUTICA VIR, S.A. – C/ Laguna 66-68-70. Polígono Industrial Urtinsa II (Alcorcón)",
+    "medicine": "METFORMINA VIR 850 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG , 50 comprimidos (NR: 72708, CN: 681987)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "681987"
+      }
+    ],
+    "publication_date": "2024-02-13",
+    "reason": "Obtención de un resultado fuera de especificaciones en el parámetro impureza",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/metformina-vir-850-mg-comprimidos-recubiertos-con-pelicula-efg-50-comprimidos-nr-72708-cn-681987-2/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-01-22",
+    "id": "ES_AEMPS_R_02_2024",
+    "local_id": "R_02/2024",
+    "lots": [
+      "23503V",
+      "fecha de caducidad 31",
+      "05",
+      "2026"
+    ],
+    "manufacturer": "LABORATORIO REIG JOFRE, S.A. – C/ Gran Capitán, 10 (Sant Joan Despí)",
+    "medicine": "SUGAMMADEX SALA 100 MG/ML SOLUCION INYECTABLE EFG, 10 viales de 5 ml (NR: 88700, CN: 607631)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "607631"
+      }
+    ],
+    "publication_date": "2024-01-23",
+    "reason": "Fuera de especificaciones en la determinación de partículas visibles en disolución",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/sugammadex-sala-100-mg-ml-solucion-inyectable-efg/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2024-01-22",
+    "id": "ES_AEMPS_R_01_2024",
+    "local_id": "R_01/2024",
+    "lots": [
+      "23501V",
+      "fecha de caducidad 31",
+      "03",
+      "2026"
+    ],
+    "manufacturer": "ORION CORPORATION – Orionintie 1, P.O. Box 65, ESPOO, FIN-02200, Finlandia",
+    "medicine": "SUGAMMADEX ORION 100 MG/ML SOLUCION INYECTABLE EFG, 10 viales de 5 ml (NR: 88751, CN: 762459)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "762459"
+      }
+    ],
+    "publication_date": "2024-01-23",
+    "reason": "Fuera de especificaciones en determinación de partículas visibles en disolución",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/sugammadex-orion-100-mg-ml-solucion-inyectable-efg-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-12-26",
+    "id": "ES_AEMPS_R_35_2023",
+    "local_id": "R_35/2023",
+    "lots": [
+      "NP5H649"
+    ],
+    "manufacturer": "NOVO NORDISK A/S – Novo Alle, Bagsvaerd, DK-2880, Dinamarca",
+    "medicine": "TRESIBA 100 UNIDADES/ML SOLUCION INYECTABLE EN PLUMA PRECARGADA, 5 plumas precargadas de 3 ml (NR: 112807004, CN: 697408)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "697408"
+      }
+    ],
+    "publication_date": "2023-12-26",
+    "reason": "Posible presencia de cartuchos agrietados o rotos",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/tresiba-100-unidades-ml-solucion-inyectable-en-pluma-precargada-5-plumas-precargadas-de-3-ml-nr-112807004-cn-697408/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-12-07",
+    "id": "ES_AEMPS_R_34_2023",
+    "local_id": "R_34/2023",
+    "lots": [
+      "CB33J003",
+      "fecha de caducidad 30",
+      "11",
+      "2025"
+    ],
+    "manufacturer": "MABO-FARMA, S.A. – Calle Rejas 2, Planta 1ª(Coslada)",
+    "medicine": "LEVOFLOXACINO MABO-FARMA 500 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG,14 comprimidos (NR: 73591, CN: 728405) LEVOFLOXACINO MABO-FARMA 500 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG 7 comprimidos (NR: 73591, CN: 679300)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "728405"
+      },
+      {
+        "system": "CN",
+        "value": "679300"
+      }
+    ],
+    "publication_date": "2023-12-07",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/levofloxacino-mabo-farma-500-mg-comprimidos-recubiertos-con-pelicula-efg-7-comprimidos-y-14-comprimidos/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-12-04",
+    "id": "ES_AEMPS_R_33_2023",
+    "local_id": "R_33/2023",
+    "lots": [
+      "HF22002D"
+    ],
+    "manufacturer": "TEVA B.V. – Swensweg 5 , Haarlem Netherlands, Noord-Holland, 2031 GA, Holanda",
+    "medicine": "TRABECTEDINA TEVA 1 MG POLVO PARA CONCENTRADO PARA SOLUCIÓN PARA PERFUSIÓN EFG, 1 vial (NR: 86917, CN: 735817)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "735817"
+      }
+    ],
+    "publication_date": "2023-12-01",
+    "reason": "Presencia de un cuerpo extraño en el interior de un vial",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/trabectedina-teva-1-mg-polvo-para-concentrado-para-solucion-para-perfusion-efg-1-vial-nr-86917-cn-735817/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-11-14",
+    "id": "ES_AEMPS_R_32_2023",
+    "local_id": "R_32/2023",
+    "lots": [
+      "220001",
+      "fecha de caducidad 31",
+      "03",
+      "2027"
+    ],
+    "manufacturer": "BIOWISE PHARMACEUTICALS, S.L. – C/ Teixidors, 22. Polígono Can Rubiol (Marratxí)",
+    "medicine": "CO-BUCAL, 1 frasco de 150 ml (NR: 51383, CN: 732453)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "732453"
+      }
+    ],
+    "publication_date": "2023-11-14",
+    "reason": "Resultado fuera de especificaciones en el contenido de timol",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/retirada-de-co-bucal-1-frasco-de-150-ml-nr-51383-cn-732453/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-11-03",
+    "id": "ES_AEMPS_R_31_2023",
+    "local_id": "R_31/2023",
+    "lots": [
+      "HAD3165D"
+    ],
+    "manufacturer": "SUN PHARMACEUTICAL INDUSTRIES EUROPE B.V. – Polarisavenue, 87, Hoofddorp, 2132 JH, Holanda",
+    "medicine": "Temozolomida SUN 5 mg capsulas duras EFG, 5 cápsulas (NR: 111697013, CN: 696525)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "696525"
+      }
+    ],
+    "publication_date": "2023-11-03",
+    "reason": "Resultado fuera de especificaciones en el test de contenido durante los análisis de las muestras en estabilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/temozolomida-sun-5-mg-capsulas-duras-efg-5-capsulas-nr-111697013-cn-696525/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-09-11",
+    "id": "ES_AEMPS_R_30_2023",
+    "local_id": "R_30/2023",
+    "lots": [
+      "23111",
+      "fecha de caducidad 31",
+      "05",
+      "2025"
+    ],
+    "manufacturer": "ITALFARMACO, S.A. – San Rafael, 3 (Alcobendas)",
+    "medicine": "FERPLEX 40 mg SOLUCION ORAL, 20 viales bebibles de 15 ml (NR: 59587, CN: 776773)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "776773"
+      }
+    ],
+    "publication_date": "2023-09-12",
+    "reason": "Fuera de especificaciones en el parámetro TAMC",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/retirada-de-ferplex-40-mg-solucion-oral-20-viales-bebibles-de-15-ml-nr-59587-cn-776773/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-08-30",
+    "id": "ES_AEMPS_R_29_2023",
+    "local_id": "R_29/2023",
+    "lots": [
+      "19RMB090"
+    ],
+    "manufacturer": "FRESENIUS KABI ESPAÑA, S.A.U. – C/ Marina, 16-18, Planta 17 (Torre Mapfre), Villa Olímpica(Barcelona)",
+    "medicine": "APIROSERUM NORMAION RESTAURADOR , 12 frascos de 500 ml (NR: 45434, CN: 614602)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "614602"
+      }
+    ],
+    "publication_date": "2023-08-30",
+    "reason": "Resultado fuera de especificaciones en uno de los excipientes empleados en su fabricación",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/retirada-de-apiroserum-normaion-restaurador-12-frascos-de-500-ml-nr-45434-cn-614602/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-08-30",
+    "id": "ES_AEMPS_R_28_2023",
+    "local_id": "R_28/2023",
+    "lots": [
+      "21J004",
+      "fecha de caducidad 31",
+      "08",
+      "2023"
+    ],
+    "manufacturer": "PHARMA STULLN GMBH – Werksstrasse, 3, Stulln, 92551, Alemania",
+    "medicine": "KETOBRILL 0,25 mg/ml COLIRIO EN SOLUCIÓN EN ENVASE UNIDOSIS , 20 envases unidosis con 0,4 ml de colirio (NR: 77213, CN: 697080)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "697080"
+      }
+    ],
+    "publication_date": "2023-08-30",
+    "reason": "Reutilización de filtros estériles en su fabricación sin que dicha reutilización se encuentre validada.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/retirada-de-ketobrill-025-mg-ml-colirio-en-solucion-en-envase-unidosis-20-envases-unidosis-con-04-ml-de-colirio-nr-77213-cn-697080/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-08-11",
+    "id": "ES_AEMPS_R_27_2023",
+    "local_id": "R_27/2023",
+    "lots": [
+      "2210212",
+      "fecha de caducidad 28",
+      "02",
+      "2025"
+    ],
+    "manufacturer": "B. BRAUN MEDICAL, S.A. – Ctra. Terrassa, 121 (Rubí)",
+    "medicine": "ATROPINA B. BRAUN 1 mg/ml SOLUCION INYECTABLE , 100 ampollas de 1 ml (NR: 27535, CN: 635649) ESCOPOLAMINA B. BRAUN 0,5 mg/ml SOLUCIÓN INYECTABLE , 100 ampollas de 1 ml (NR: 64566, CN: 608042)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "635649"
+      },
+      {
+        "system": "CN",
+        "value": "608042"
+      }
+    ],
+    "publication_date": "2023-08-11",
+    "reason": "La realización del ensayo de esterilidad no cumple con los requisitos establecidos en la Farmacopea Europea",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/retirada-de-atropina-y-escopolamina-b-braun/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-07-27",
+    "id": "ES_AEMPS_R_26_2023",
+    "local_id": "R_26/2023",
+    "lots": [
+      "21304412",
+      "fecha de caducidad 30",
+      "06",
+      "2024"
+    ],
+    "manufacturer": "LABORATORIOS ERN, S.A. – C/ Perú, 228(Barcelona)",
+    "medicine": "SUERO FISIOLOGICO VITULIA 0,9% SOLUCION PARA PERFUSION, 1 frasco de 100 ml (NR: 41671, CN: 999789) SUERO FISIOLOGICO VITULIA 0,9% SOLUCION PARA PERFUSION, 20 frascos de 50 ml (NR: 41671, CN: 645382)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "999789"
+      },
+      {
+        "system": "CN",
+        "value": "645382"
+      }
+    ],
+    "publication_date": "2023-07-27",
+    "reason": "Contaminación cruzada",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/suero-fisiologico-vitulia-09-solucion-para-perfusion-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-07-27",
+    "id": "ES_AEMPS_R_25_2023",
+    "local_id": "R_25/2023",
+    "lots": [
+      "21387414",
+      "fecha de caducidad 31",
+      "08",
+      "2024"
+    ],
+    "manufacturer": "B. BRAUN MELSUNGEN AG – Carl-Braun Strasse, 1, Melsungen. Hesse, D-34212, Alemania",
+    "medicine": "FLUCONAZOL B. BRAUN 2 mg/ml SOLUCION PARA PERFUSION EFG , 20 viales de 50 ml (NR: 71461, CN: 603231) FLUCONAZOL B. BRAUN 2 mg/ml SOLUCION PARA PERFUSION EFG , 20 viales de 100 ml (NR: 71461, CN: 603232) IBUPROFENO B.BRAUN 400 MG SOLUCION PARA PERFUSION, 10 frascos de 100 ml (NR: 82170, CN: 716602) ONDANSETRON B. BRAUN 0,08 MG/ML SOLUCION PARA PERFUSION, 10 frascos de 100 ml (NR: 81830, CN: 715257) ONDANSETRON B. BRAUN 0,16 MG/ML SOLUCION PARA PERFUSION, 10 frascos de 50 ml (NR: 81829, CN: 715256) PARACETAMOL B.BRAUN 10 mg/ml SOLUCION PARA PERFUSION EFG , 10 frascos de 50 ml (NR: 75594, CN: 605780)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "603231"
+      },
+      {
+        "system": "CN",
+        "value": "603232"
+      },
+      {
+        "system": "CN",
+        "value": "716602"
+      },
+      {
+        "system": "CN",
+        "value": "715257"
+      },
+      {
+        "system": "CN",
+        "value": "715256"
+      },
+      {
+        "system": "CN",
+        "value": "605780"
+      }
+    ],
+    "publication_date": "2023-07-27",
+    "reason": "Contaminación cruzada",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/retirada-de-distintos-medicamentos-inyectables-b-braun-melsungen/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-07-27",
+    "id": "ES_AEMPS_R_24_2023",
+    "local_id": "R_24/2023",
+    "lots": [
+      "21306401",
+      "fecha de caducidad 30",
+      "06",
+      "2024"
+    ],
+    "manufacturer": "B. BRAUN MEDICAL, S.A. – Ctra. Terrassa, 121(Rubí)",
+    "medicine": "AMICACINA B BRAUN 5 MG/ML SOLUCION PARA PERFUSION INTRAVENOSA , 20 frascos de 100 ml (NR: 63879, CN: 617712) AMICACINA BRAUN 10 mg/ml SOLUCION PARA PERFUSION INTRAVENOSA , 20 frascos de 100 ml (NR: 63880, CN: 618249) FISIOLOGICO B. BRAUN 0,9% SOLUCION PARA PERFUSION , 1 frasco de 100 ml (NR: 39005, CN: 857359) FISIOLOGICO B. BRAUN 0,9% SOLUCION PARA PERFUSION , 20 frascos de 100 ml (NR: 39005, CN: 623025) GENTAMICINA BRAUN 3 MG/ML SOLUCION PARA PERFUSION, 20 frascos de 80 ml (NR: 63854, CN: 617308) GLUCOSADO BRAUN 10% SOLUCION PARA PERFUSION , 20 frascos de 100 ml (NR: 41755, CN: 620252) GLUCOSADO 5% BRAUN SOLUCION PARA PERFUSION , 20 frascos de 100 ml (NR: 39004, CN: 636662) IBUPROFENO B. BRAUN 600 MG SOLUCION PARA PERFUSION,10 frascos (NR: 80720, CN: 606813) METRONIDAZOL B.BRAUN 5 MG/ML SOLUCIÓN PARA PERFUSIÓN , 20 frascos de 100 ml (NR: 59662, CN: 643494)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "617712"
+      },
+      {
+        "system": "CN",
+        "value": "618249"
+      },
+      {
+        "system": "CN",
+        "value": "857359"
+      },
+      {
+        "system": "CN",
+        "value": "623025"
+      },
+      {
+        "system": "CN",
+        "value": "617308"
+      },
+      {
+        "system": "CN",
+        "value": "620252"
+      },
+      {
+        "system": "CN",
+        "value": "636662"
+      },
+      {
+        "system": "CN",
+        "value": "606813"
+      },
+      {
+        "system": "CN",
+        "value": "643494"
+      }
+    ],
+    "publication_date": "2023-07-27",
+    "reason": "Contaminación cruzada",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/retirada-de-distintos-medicamentos-inyectables-b-braun-medical/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-07-21",
+    "id": "ES_AEMPS_R_23_2023",
+    "local_id": "R_23/2023",
+    "lots": [
+      "TREP0771"
+    ],
+    "manufacturer": "AMOMED PHARMA GMBH – Leopold-Ungar-Platz 2, Doebling, Vienna, 1190, Austria",
+    "medicine": "TRESUVI 1 MG/ML SOLUCION PARA PERFUSION EFG, 1 vial de 10 ml (NR: 84771, CN: 727693)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "727693"
+      }
+    ],
+    "publication_date": "2023-07-21",
+    "reason": "Presencia de partículas detectadas durante una inspección visual",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/tresuvi-1-mg-ml-solucion-para-perfusion-efg-1-vial-de-10-ml-nr-84771-cn-727693/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-07-13",
+    "id": "ES_AEMPS_R_22_2023",
+    "local_id": "R_22/2023",
+    "lots": [
+      "BE08C020AE"
+    ],
+    "manufacturer": "BAXALTA INNOVATIONS GMBH – Industriestrasse 67, Vienna, 1221, Austria",
+    "medicine": "GAMMAGARD S/D 10 G, POLVO Y DISOLVENTE PARA SOLUCION PARA PERFUSION , 1 frasco + 1 frasco de disolvente (NR: 60718, CN: 685636)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "685636"
+      }
+    ],
+    "publication_date": "2023-07-13",
+    "reason": "Cifras atípicas de reacciones adversas de tipo hipersensibilidad asociadas con el lote madre empleado en la fabricación de este lote de producto terminado",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/gammagard-s-d-10-g-polvo-y-disolvente-para-solucion-para-perfusion-1-frasco-1-frasco-de-disolvente-nr-60718-cn-685636/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-07-11",
+    "id": "ES_AEMPS_R_21_2023",
+    "local_id": "R_21/2023",
+    "lots": [
+      "1996A"
+    ],
+    "manufacturer": "MARION MERRELL, S.A. – Roselló i Porcell21",
+    "medicine": "SABRILEX 500 mg GRANULADO PARA SOLUCION ORAL, 50 sobres (NR: 59809, CN: 743633)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "743633"
+      }
+    ],
+    "publication_date": "2023-07-12",
+    "reason": "Posible presencia de trazas de tiaprida",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/sabrilex-500-mg-granulado-para-solucion-oral-50-sobres-nr-59809-cn-743633/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-07-06",
+    "id": "ES_AEMPS_R_20_2023",
+    "local_id": "R_20/2023",
+    "lots": [
+      "20E701"
+    ],
+    "manufacturer": "MABO-FARMA, S.A. – Calle Rejas 2, Planta 1ª(Coslada)",
+    "medicine": "MONTELUKAST MABO 5 mg COMPRIMIDOS MASTICABLES EFG, 28 comprimidos (NR: 76072, CN: 691441)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "691441"
+      }
+    ],
+    "publication_date": "2023-07-06",
+    "reason": "Resultado fuera de especificaciones en el parámetro de impurezas desconocidas",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/montelukast-mabo-5-mg-comprimidos-masticables-efg-28-comprimidos-nr-76072-cn-691441/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-07-03",
+    "id": "ES_AEMPS_R_19_2023",
+    "local_id": "R_19/2023",
+    "lots": [
+      "G220299AG"
+    ],
+    "manufacturer": "MEDAC GESELLSCHAFT FÜR KLINISCHE SPEZIALPRÄPARATE GMBH – Theaterstrasse 6, Wedel, D-22880, Alemania",
+    "medicine": "DACARBAZINA MEDAC 500 mg POLVO PARA SOLUCION PARA PERFUSION, 1 vial (NR: 62333, CN: 700722)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "700722"
+      }
+    ],
+    "publication_date": "2023-07-03",
+    "reason": "Posible coloración rosa del polvo del vial debido a un producto de degradación del principio activo",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/dacarbazina-medac-500-mg-polvo-para-solucion-para-perfusion-1-vial-nr-62333-cn-700722/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-06-27",
+    "id": "ES_AEMPS_R_18_2023",
+    "local_id": "R_18/2023",
+    "lots": [
+      "T008"
+    ],
+    "manufacturer": "LABORATORIO REIG JOFRÉ, S.A. – C/Gran Capitán, 10(Sant Joan Despí)",
+    "medicine": "BENZETACIL 2.400.000 UI POLVO Y DISOLVENTE PARA SUSPENSIÓN INYECTABLE , 1 vial + 1 ampolla de disolvente (NR: 22295, CN: 700715)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "700715"
+      }
+    ],
+    "publication_date": "2023-06-28",
+    "reason": "Posible existencia de unidades del lote T008 del medicamento Benzetacil 2.400.000 UI acondicionadas por error en una caja de BENZETACIL 1.200.000 UI . El vial está etiquetado con la dosis correcta.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/benzetacil-2-400-000-ui-polvo-y-disolvente-para-suspension-inyectable-1-vial-1-ampolla-de-disolvente-nr-22295-cn-700715/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-05-19",
+    "id": "ES_AEMPS_R_17_2023",
+    "local_id": "R_17/2023",
+    "lots": [
+      "Fecha Caducidad Número IdentificaciónEnvase (CTN)"
+    ],
+    "manufacturer": "SOCIEDAD ESPAÑOLA DE CARBUROS METÁLICOS, S.A. – Avda. de la Fama, 1(Cornellà de Llobregat)",
+    "medicine": "OXÍGENO MEDICINAL GAS CARBUROS METÁLICOS 99,5% V/V GAS COMPRIMIDO, 1 bala de gas de 5 l (NR: 66969, CN: 651871)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "651871"
+      }
+    ],
+    "publication_date": "2023-05-19",
+    "reason": "Defecto de calidad que puede afectar potencialmente a la integridad de los envases",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/oxigeno-medicinal-gas-carburos-metalicos-995-v-v-gas-comprimido-1-bala-de-gas-de-5-l-nr-66969-cn-651871/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-05-16",
+    "id": "ES_AEMPS_R_16_2023",
+    "local_id": "R_16/2023",
+    "lots": [
+      "Y0178B5C",
+      "fecha de caducidad 31",
+      "08",
+      "2023"
+    ],
+    "manufacturer": "PHARMASWISS CESKA REPUBLIKA, S.R.O. – Jankovcova 1569/2c, Praga 7, 170 00, República Checa",
+    "medicine": "EMERADE 300 MICROGRAMOS SOLUCION INYECTABLE EN PLUMA PRECARGADA EFG, 1 pluma precargada de 0,3 ml (NR: 80147, CN: 707618) EMERADE 500 MICROGRAMOS SOLUCION INYECTABLE EN PLUMA PRECARGADA, 1 pluma precargada de 0,5 ml (NR: 80149, CN: 707627)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "707618"
+      },
+      {
+        "system": "CN",
+        "value": "707627"
+      }
+    ],
+    "publication_date": "2023-05-16",
+    "reason": "Potencial fallo en el dispositivo de autoinyección ( ver nota informativa )",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/emerade-solucion-inyectable-en-pluma-precargada-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-05-03",
+    "id": "ES_AEMPS_R_15_2023",
+    "local_id": "R_15/2023",
+    "lots": [
+      "T009",
+      "fecha de caducidad 31",
+      "08",
+      "2025"
+    ],
+    "manufacturer": "KERN PHARMA, S.L. – Pol. Ind. Colón II, C/ Venus, 72 (Terrassa)",
+    "medicine": "CAFINITRINA COMPRIMIDOS RECUBIERTOS SUBLINGUALES, 20 comprimidos (NR: 35534, CN: 663240)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "663240"
+      }
+    ],
+    "publication_date": "2023-05-03",
+    "reason": "Resultado fuera de especificaciones en el contenido del principio activo nitroglicerina",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/cafinitrina-comprimidos-recubiertos-sublinguales-20-comprimidos-nr-35534-cn-663240-3/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-04-28",
+    "id": "ES_AEMPS_R_14_2023",
+    "local_id": "R_14/2023",
+    "lots": [
+      "3213"
+    ],
+    "manufacturer": "FAES FARMA, S.A. – C/ Máximo Aguirre, 14(Lejona)",
+    "medicine": "SINERGINA 100 mg COMPRIMIDOS, 100 comprimidos (NR: 5970, CN: 650905)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "650905"
+      }
+    ],
+    "publication_date": "2023-04-28",
+    "reason": "El lote 3213 no cumple el ensayo de disolución, tras haber sido analizado por el Laboratorio Oficial de Control de Medicamentos de la AEMPS como parte del Programa de Control de Calidad de Medicamentos en el Mercado de 2022",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/sinergina-100-mg-comprimidos-100-comprimidos-nr-5970-cn-650905/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-04-12",
+    "id": "ES_AEMPS_R_13_2023",
+    "local_id": "R_13/2023",
+    "lots": [
+      "220854",
+      "fecha de caducidad 28",
+      "02",
+      "2024"
+    ],
+    "manufacturer": "IBSA FARMACEUTICI ITALIA SRL – Via Martiri di Cefalonia 2, Lodi, 26900, Italia",
+    "medicine": "SOLSINT 112 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85610, CN: 729891) SOLSINT 13 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85613, CN: 729897) SOLSINT 150 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOS, 30 envases unidosis (NR: 85614, CN: 729899) SOLSINT 200 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85616, CN: 729903) SOLSINT 75 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85619, CN: 729910) SOLSINT 88 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85620, CN: 729912)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "729891"
+      },
+      {
+        "system": "CN",
+        "value": "729897"
+      },
+      {
+        "system": "CN",
+        "value": "729899"
+      },
+      {
+        "system": "CN",
+        "value": "729903"
+      },
+      {
+        "system": "CN",
+        "value": "729910"
+      },
+      {
+        "system": "CN",
+        "value": "729912"
+      }
+    ],
+    "publication_date": "2023-04-12",
+    "reason": "Posible resultado fuera de especificaciones en el contenido del principio activo levotiroxina",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/solsint-solucion-oral-en-envase-unidosis-varias-presentaciones-2/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-04-04",
+    "id": "ES_AEMPS_R_12_2023",
+    "local_id": "R_12/2023",
+    "lots": [
+      "1151575A"
+    ],
+    "manufacturer": "AMGEN EUROPE B.V – Minervum 7061, BREDA, NL-4817 ZK, Holanda",
+    "medicine": "VECTIBIX 20 MG/ML CONCENTRADO PARA SOLUCION PARA PERFUSION, 1 vial de 5 ml (NR: 07423001, CN: 660251)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "660251"
+      }
+    ],
+    "publication_date": "2023-04-04",
+    "reason": "Detección de algunas unidades con defectos en el sellado de la cápsula",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/vectibix-20-mg-ml-concentrado-para-solucion-para-perfusion-1-vial-de-5-ml-nr-07423001-cn-660251/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-03-31",
+    "id": "ES_AEMPS_R_11_2023",
+    "local_id": "R_11/2023",
+    "lots": [
+      "S001",
+      "fecha de caducidad 31",
+      "12",
+      "2023"
+    ],
+    "manufacturer": "INDUSTRIA QUÍMICA Y FARMACÉUTICA VIR, S.A. – C/ Laguna 66-68-70. Polígono Industrial Urtinsa II(Alcorcón)",
+    "medicine": "METFORMINA VIR 850 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG , 50 comprimidos (NR: 72708, CN: 681987)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "681987"
+      }
+    ],
+    "publication_date": "2023-03-31",
+    "reason": "Obtención de un resultado fuera de especificaciones en el parámetro impureza, tras haber sido analizados por el Laboratorio Oficial de Control de Medicamentos de la AEMPS como parte del Programa de Control de Calidad de Medicamentos en el Mercado de 2022",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/metformina-vir-850-mg-comprimidos-recubiertos-con-pelicula-efg-50-comprimidos-nr-72708-cn-681987/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-03-31",
+    "id": "ES_AEMPS_R_10_2023",
+    "local_id": "R_10/2023",
+    "lots": [
+      "M010518"
+    ],
+    "manufacturer": "LABORATORIOS COMBIX, S.L.U. – C/ Badajoz 2, Edificio 2(Pozuelo de Alarcón)",
+    "medicine": "METFORMINA COMBIX 850 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 50 comprimidos (NR: 73662, CN: 673697)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "673697"
+      }
+    ],
+    "publication_date": "2023-03-31",
+    "reason": "Obtención de un resultado fuera de especificaciones en el parámetro impureza, tras haber sido analizado por el Laboratorio Oficial de Control de Medicamentos de la AEMPS como parte del Programa de Control de Calidad de Medicamentos en el Mercado de 2022",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/metformina-combix-850-mg-comprimidos-recubiertos-con-pelicula-efg-50-comprimidos-nr-73662-cn-673697/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-03-28",
+    "id": "ES_AEMPS_R_09_2023",
+    "local_id": "R_09/2023",
+    "lots": [
+      "R77",
+      "fecha de caducidad 31",
+      "01",
+      "2024"
+    ],
+    "manufacturer": "SANDOZ FARMACÉUTICA, S.A. – C/ Serrano Galvache, Nº 56. Parque Norte, Edificio Roble.(Madrid)",
+    "medicine": "DULOXETINA SANDOZ 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 28 cápsulas (NR: 79569, CN: 705511) DULOXETINA SANDOZ 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG 56 cápsulas (NR: 79570, CN: 729570) DULOXETINA SANDOZ 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 28 cápsulas (NR: 79570, CN: 705512)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "705511"
+      },
+      {
+        "system": "CN",
+        "value": "729570"
+      },
+      {
+        "system": "CN",
+        "value": "705512"
+      }
+    ],
+    "publication_date": "2023-03-28",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/duloxetina-sandoz-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-03-17",
+    "id": "ES_AEMPS_R_08_2023",
+    "local_id": "R_08/2023",
+    "lots": [
+      "S802",
+      "fecha de caducidad 30",
+      "11",
+      "2024"
+    ],
+    "manufacturer": "KERN PHARMA, S.L. – Pol. Ind. Colón II, C/ Venus, 72 (Terrassa)",
+    "medicine": "CAFINITRINA COMPRIMIDOS RECUBIERTOS SUBLINGUALES, 20 comprimidos (NR: 35534, CN: 663240)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "663240"
+      }
+    ],
+    "publication_date": "2023-03-17",
+    "reason": "Resultado fuera de especificaciones en el contenido del principio activo Nitroglicerina",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/cafinitrina-comprimidos-recubiertos-sublinguales-20-comprimidos-nr-35534-cn-663240-2/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-03-14",
+    "id": "ES_AEMPS_R_07_2023",
+    "local_id": "R_07/2023",
+    "lots": [
+      "U12671F"
+    ],
+    "manufacturer": "FERRING, S.A.U. – C del Arquitecto Sánchez Arca, 3 (Madrid)",
+    "medicine": "GONAPEPTYL DEPOT 3,75 mg POLVO Y DISOLVENTE PARA SUSPENSION INYECTABLE, 1 jeringa precargada + 1 jeringa precargada de disolvente (NR: 64530, CN: 742247)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "742247"
+      }
+    ],
+    "publication_date": "2023-03-14",
+    "reason": "Posible falta de esterilidad de la aguja de inyección",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/gonapeptyl-depot-375-mg-polvo-y-disolvente-para-suspension-inyectable-1-jeringa-precargada-1-jeringa-precargada-de-disolvente-nr-64530-cn-742247/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-02-23",
+    "id": "ES_AEMPS_R_06_2023",
+    "local_id": "R_06/2023",
+    "lots": [
+      "P-129"
+    ],
+    "manufacturer": "SETONDA, S.L. Joaquin Costa, 18-1, Montgat (Barcelona)",
+    "medicine": "TUTUKON SOLUCION ORAL, 1 frasco de 250 ml (NR: 82648, CN: 719885)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "719885"
+      }
+    ],
+    "publication_date": "2023-02-23",
+    "reason": "Incumplimiento de las normas de correcta fabricación del fabricante MIQUEL Y GARRIGA, S.L.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/tutukon-solucion-oral-1-frasco-de-250-ml-nr-82648-cn-719885/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-02-10",
+    "id": "ES_AEMPS_R_05_2023",
+    "local_id": "R_05/2023",
+    "lots": [
+      "BT2109",
+      "fecha de caducidad 31",
+      "01",
+      "2025"
+    ],
+    "manufacturer": "LABORATORIOS CINFA, S.A. – Ctra. Olaz Chipi, 10, Pol. Ind. Areta(Huarte)",
+    "medicine": "ROSUVASTATINA CINFA 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG , 28 comprimidos (NR: 80214, CN: 707807)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "707807"
+      }
+    ],
+    "publication_date": "2023-02-10",
+    "reason": "Resultado fuera de especificaciones en una impureza",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/rosuvastatina-cinfa-20-mg-comprimidos-recubiertos-con-pelicula-efg-28-comprimidos-nr-80214-cn-707807/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-02-10",
+    "id": "ES_AEMPS_R_04_2023",
+    "local_id": "R_04/2023",
+    "lots": [
+      "220662",
+      "fecha de caducidad 31",
+      "12",
+      "2023"
+    ],
+    "manufacturer": "IBSA FARMACEUTICI ITALIA SRL – Via Martiri di Cefalonia 2, Lodi, 26900, Italia",
+    "medicine": "SOLSINT 25 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85617, CN: 729906) SOLSINT 50 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85618, CN: 729908) SOLSINT 100 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85609, CN: 729889) SOLSINT 125 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85611, CN: 729893) SOLSINT 137 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85612, CN: 729895) SOLSINT 175 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85615, CN: 729901)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "729906"
+      },
+      {
+        "system": "CN",
+        "value": "729908"
+      },
+      {
+        "system": "CN",
+        "value": "729889"
+      },
+      {
+        "system": "CN",
+        "value": "729893"
+      },
+      {
+        "system": "CN",
+        "value": "729895"
+      },
+      {
+        "system": "CN",
+        "value": "729901"
+      }
+    ],
+    "publication_date": "2023-01-26",
+    "reason": "Resultado fuera de especificaciones en el contenido del principio activo levotiroxina",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/solsint-solucion-oral-en-envase-unidosis-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-01-26",
+    "id": "ES_AEMPS_R_03_2023",
+    "local_id": "R_03/2023",
+    "lots": [
+      "S001F"
+    ],
+    "manufacturer": "LABORATORIOS ALTER, S.A. – Mateo Inurria, 30(Madrid)",
+    "medicine": "ALNEO 10 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG 4 comprimidos (NR: 84850, CN: 727907)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "727907"
+      }
+    ],
+    "publication_date": "2023-01-26",
+    "reason": "Parte de los envases del lote se han distribuido vacíos",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/alneo-10-mg-comprimidos-recubiertos-con-pelicula-efg-4-comprimidos-nr-84850-cn-727907/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-01-26",
+    "id": "ES_AEMPS_R_02_2023",
+    "local_id": "R_02/2023",
+    "lots": [
+      "S001A",
+      "fecha de caducidad 30",
+      "06",
+      "2023"
+    ],
+    "manufacturer": "LABORATORIOS ALTER, S.A. – Mateo Inurria, 30 (Madrid)",
+    "medicine": "AZITROMICINA ALTER 500 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG , 3 comprimidos (NR: 65752, CN: 653192)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "653192"
+      }
+    ],
+    "publication_date": "2023-01-26",
+    "reason": "Detección de varios errores en el prospecto incluido en los citados lotes.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/azitromicina-alter-500-mg-comprimidos-recubiertos-con-pelicula-efg-3-comprimidos-nr-65752-cn-653192/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2023-01-18",
+    "id": "ES_AEMPS_R_1_2023",
+    "local_id": "R_1/2023",
+    "lots": [
+      "LC63278"
+    ],
+    "manufacturer": "LABORATORIO STADA, S.L. – C/ Frederic Mompou, 5(Sant Just Desvern)",
+    "medicine": "OMEPRAZOL STADA 40 mg CAPSULAS DURAS GASTRORRESISTENTES , 28 cápsulas (BLISTER) (NR: 69487, CN: 660281)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "660281"
+      }
+    ],
+    "publication_date": "2023-01-18",
+    "reason": "Resultado fuera de especificaciones en contenido de principio activo",
+    "recall_class": "3",
+    "source_url": "https://www.aemps.gob.es/informa/omeprazol-stada-40-mg-capsulas-duras-gastrorresistentes-28-capsulas-blister-nr-69487-cn-660281/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-12-22",
+    "id": "ES_AEMPS_R_34_2022",
+    "local_id": "R_34/2022",
+    "lots": [
+      "T002",
+      "fecha de caducidad 30",
+      "11",
+      "2024"
+    ],
+    "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97(Martorelles)",
+    "medicine": "RASAGILINA PENSA 1 MG COMPRIMIDOS EFG 30 comprimidos (NR: 80345, CN: 708338)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "708338"
+      }
+    ],
+    "publication_date": "2022-12-22",
+    "reason": "Detección de una impureza por encima de su límite establecido.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/rasagilina-pensa-1-mg-comprimidos-efg-30-comprimidos/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-11-17",
+    "id": "ES_AEMPS_R_33_2022",
+    "local_id": "R_33/2022",
+    "lots": [
+      "10483",
+      "fecha de caducidad 31",
+      "01",
+      "2023"
+    ],
+    "manufacturer": "LABORATORIO STADA, S.L. – C/ Frederic Mompou, 5(Sant Just Desvern)",
+    "medicine": "ACIDO ALENDRONICO/COLECALCIFEROL SEMANAL STADA 70 MG/2.800 UI COMPRIMIDOS EFG 4 comprimidos (NR: 83548, CN: 723911) ACIDO ALENDRONICO/COLECALCIFEROL SEMANAL STADA 70 MG/5.600 UI COMPRIMIDOS EFG 4 comprimidos (NR: 83549, CN: 723912)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "723911"
+      },
+      {
+        "system": "CN",
+        "value": "723912"
+      }
+    ],
+    "publication_date": "2022-11-17",
+    "reason": "Resultado fuera de especificaciones en el ensayo de valoración de colecalciferol",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/acido-alendronico-colecalciferol-semanal-stada-70-mg-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-10-06",
+    "id": "ES_AEMPS_R_32_2022",
+    "local_id": "R_32/2022",
+    "lots": [
+      "101002C",
+      "fecha de caducidad 31",
+      "01",
+      "2023"
+    ],
+    "manufacturer": "SUN PHARMACEUTICAL INDUSTRIES EUROPE B.V. – Polarisavenue, 87, Hoofddorp, 2132 JH, Holanda",
+    "medicine": "CASPOFUNGINA SUN 50 MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSION EFG, 1 vial (NR: 82789, CN: 720418) CASPOFUNGINA SUN 70 MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSION EFG, 1 vial (NR: 82790, CN: 720419)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "720418"
+      },
+      {
+        "system": "CN",
+        "value": "720419"
+      }
+    ],
+    "publication_date": "2022-10-06",
+    "reason": "Incumplimiento de las normas de correcta fabricación del fabricante MEFAR LLAC SANAYII A.S.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/caspofungina-sun-polvo-para-concentrado-para-solucion-para-perfusion-efg-1-vial-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-09-28",
+    "id": "ES_AEMPS_R_31_2022",
+    "local_id": "R_31/2022",
+    "lots": [
+      "22C0169"
+    ],
+    "manufacturer": "ALTAN PHARMACEUTICALS, S.A. – C/ Cólquide, Nº 6, Portal 2, 1ª Planta, Oficina F. Edificio Prisma (Las Rozas)",
+    "medicine": "OMEPRAZOL ALTAN 40 mg POLVO PARA SOLUCION PARA PERFUSION EFG , 50 viales (NR: 66870, CN: 600258)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "600258"
+      }
+    ],
+    "publication_date": "2022-09-28",
+    "reason": "Posible obtención de un resultado fuera de especificaciones en el ensayo de impurezas desconocidas antes del final de la vida útil del citado lote",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/omeprazol-altan-40-mg-polvo-para-solucion-para-perfusion-efg-50-viales-nr-66870-cn-600258/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-09-27",
+    "id": "ES_AEMPS_R_30_2022",
+    "local_id": "R_30/2022",
+    "lots": [
+      "22275452"
+    ],
+    "manufacturer": "B. BRAUN MEDICAL, S.A. – Ctra. Terrassa, 121(Rubí)",
+    "medicine": "FISIOLOGICO B. BRAUN 0,9% SOLUCION PARA PERFUSION , 20 frascos de 50 ml (NR: 39005, CN: 622928)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "622928"
+      }
+    ],
+    "publication_date": "2022-09-27",
+    "reason": "Detección de algunas unidades con fugas en la base del frasco",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/fisiologico-b-braun-09-solucion-para-perfusion-20-frascos-de-50-ml-nr-39005-cn-622928/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-09-26",
+    "id": "ES_AEMPS_R_29_2022",
+    "local_id": "R_29/2022",
+    "lots": [
+      "2100006D",
+      "fecha de caducidad 31",
+      "01",
+      "2024"
+    ],
+    "manufacturer": "REDDY PHARMA IBERIA S.A.U. – Avenida Josep Tarradellas 38 (Barcelona)",
+    "medicine": "VORICONAZOL DR. REDDYS 200 MG POLVO PARA SOLUCION PARA PERFUSION EFG, 1 vial (NR: 80750, CN: 710365)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "710365"
+      }
+    ],
+    "publication_date": "2022-09-26",
+    "reason": "Incumplimiento de las normas de correcta fabricación del fabricante MEFAR LLAC SANAYII A.S.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/voriconazol-dr-reddys-200-mg-polvo-para-solucion-para-perfusion-efg-1-vial-nr-80750-cn-710365/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-08-30",
+    "id": "ES_AEMPS_R_28_2022",
+    "local_id": "R_28/2022",
+    "lots": [
+      "499R"
+    ],
+    "manufacturer": "LABORATORIOS ALTER, S.A. – Mateo Inurria, 30(Madrid)",
+    "medicine": "ENALAPRIL ALTER 20 mg COMPRIMIDOS EFG , 28 comprimidos (NR: 64767, CN: 650367)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "650367"
+      }
+    ],
+    "publication_date": "2022-08-30",
+    "reason": "Resultado fuera de especificaciones en los ensayos de valoración, dureza y sustancias relacionadas",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/enalapril-alter-20-mg-comprimidos-efg-28-comprimidos-nr-64767-cn-650367/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-08-30",
+    "id": "ES_AEMPS_R_27_2022",
+    "local_id": "R_27/2022",
+    "lots": [
+      "CD65"
+    ],
+    "manufacturer": "WYETH FARMA, S.A. – Autovía del Norte A1, Km 23, desvío Algete, Km. 1",
+    "medicine": "METOTREXATO WYETH 1 g SOLUCION INYECTABLE, 10 viales de 40 ml (NR: 57415, CN: 639609)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "639609"
+      }
+    ],
+    "publication_date": "2022-08-30",
+    "reason": "Posible obtención de un resultado fuera de especificaciones en el ensayo de apariencia a 24 meses",
+    "recall_class": "3",
+    "source_url": "https://www.aemps.gob.es/informa/metotrexato-wyeth-1-g-solucion-inyectable-10-viales-de-40-ml-nr-57415-cn-639609-dci-o-doe-metotrexato-sodio/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-07-12",
+    "id": "ES_AEMPS_R_26_2022",
+    "local_id": "R_26/2022",
+    "lots": [
+      "0463004D",
+      "fecha de caducidad 30",
+      "09",
+      "2022"
+    ],
+    "manufacturer": "ARISTO PHARMA GMBH – Wallenroder Strasse 8-10, Berlin, 13435, Alemania.",
+    "medicine": "TADALAFILO ARISTO 10 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 4 comprimidos (NR: 82200, CN: 716697) TADALAFILO ARISTO 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 8 comprimidos (NR: 82199, CN: 716691) TADALAFILO ARISTO 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 12 comprimidos (NR: 82199, CN: 716693) TADALAFILO ARISTO 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 4 comprimidos (NR: 82199, CN: 716690) TADALAFILO ARISTO 5 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 28 comprimidos (NR: 82198, CN: 716687)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "716697"
+      },
+      {
+        "system": "CN",
+        "value": "716691"
+      },
+      {
+        "system": "CN",
+        "value": "716693"
+      },
+      {
+        "system": "CN",
+        "value": "716690"
+      },
+      {
+        "system": "CN",
+        "value": "716687"
+      }
+    ],
+    "publication_date": "2022-07-12",
+    "reason": "Incumplimiento de las normas de correcta fabricación del fabricante Pharmactive Ilac Sanayi Ve Ticaret A.S.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/tadalafilo-aristo-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-07-08",
+    "id": "ES_AEMPS_R_25_2022",
+    "local_id": "R_25/2022",
+    "lots": [
+      "22175452"
+    ],
+    "manufacturer": "B. BRAUN MELSUNGEN AG – Carl-Braun Strasse, 1, Melsungen. Hesse, D-34212, Alemania.",
+    "medicine": "POTASIO B.BRAUN 0,04 mEq/ml Prediluido en Fisiológico 9 mg/ml solución para perfusión, 10 frascos de 500 ml (NR: 76103, CN: 703180)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "703180"
+      }
+    ],
+    "publication_date": "2022-07-08",
+    "reason": "Detección de algunas unidades con un orificio situado en la base de la botella",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/potasio-b-braun-004-meq-ml-prediluido-en-fisiologico-9-mg-ml-solucion-para-perfusion-10-frascos-de-500-ml-nr-76103-cn-703180/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-07-08",
+    "id": "ES_AEMPS_R_24_2022",
+    "local_id": "R_24/2022",
+    "lots": [
+      "22175450"
+    ],
+    "manufacturer": "B. BRAUN MEDICAL, S.A. – Ctra. Terrassa, 121(Rubí)",
+    "medicine": "FISIOLOGICO B. BRAUN 0,9% SOLUCION PARA PERFUSION , 10 frascos de 500 ml (NR: 39005, CN: 622415)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "622415"
+      }
+    ],
+    "publication_date": "2022-07-08",
+    "reason": "Detección de algunas unidades con un orificio situado en la base de la botella",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/fisiologico-b-braun-09-solucion-para-perfusion-10-frascos-de-500-ml-nr-39005-cn-622415/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-07-08",
+    "id": "ES_AEMPS_R_23_2022",
+    "local_id": "R_23/2022",
+    "lots": [
+      "J0143"
+    ],
+    "manufacturer": "SANOFI AVENTIS, S.A. – Josep Pla, 2(Barcelona)",
+    "medicine": "HIDROQUINIDINA SERECOR 300 MG CAPSULAS DURAS DE LIBERACION PROLONGADA , 60 cápsulas (NR: 79946, CN: 706808)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "706808"
+      }
+    ],
+    "publication_date": "2022-07-08",
+    "reason": "Resultado fuera de especificaciones en el ensayo de disolución, obtenido durante los estudios de estabilidad en curso",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/hidroquinidina-serecor-300-mg-capsulas-duras-de-liberacion-prolongada-60-capsulas-nr-79946-cn-706808/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-06-28",
+    "id": "ES_AEMPS_R_22_2022",
+    "local_id": "R_22/2022",
+    "lots": [
+      "K3240"
+    ],
+    "manufacturer": "ALK ABELLO A/S – Bogue Alle, 6-8., Horsholm. Hovedstaden, DK-2970, Dinamarca",
+    "medicine": "JEXT 150 microgramos SOLUCION INYECTABLE EN PLUMA PRECARGADA , 1 pluma precargada de 0,15 ml (NR: 73186, CN: 677267)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "677267"
+      }
+    ],
+    "publication_date": "2022-06-28",
+    "reason": "Detección de algunas unidades con un defecto en el sistema de cierre de la cavidad donde se aloja la aguja",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/jext-150-microgramos-solucion-inyectable-en-pluma-precargada-1-pluma-precargada-de-015-ml-nr-73186-cn-677267/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-06-28",
+    "id": "ES_AEMPS_R_21_2022",
+    "local_id": "R_21/2022",
+    "lots": [
+      "R027",
+      "fecha de caducidad 31",
+      "10",
+      "2025"
+    ],
+    "manufacturer": "LABORATORIO STADA, S.L. – C/ Frederic Mompou, 5(Sant Just Desvern)",
+    "medicine": "ALPRAZOLAM STADA 1 mg COMPRIMIDOS EFG, 30 comprimidos (NR: 63462, CN: 655282)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "655282"
+      }
+    ],
+    "publication_date": "2022-06-28",
+    "reason": "Resultado fuera de especificaciones en contenido detectado a raíz de los estudios de estabilidad.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/alprazolam-stada-1-mg-comprimidos-efg-30-comprimidos-nr-63462-cn-655282/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-06-28",
+    "id": "ES_AEMPS_R_20_2022",
+    "local_id": "R_20/2022",
+    "lots": [
+      "N014"
+    ],
+    "manufacturer": "RATIOPHARM ESPAÑA, S.A. – C/ Anabel Segura, 11. Edificio Albatros B, 1ª planta(Alcobendas)",
+    "medicine": "ALPRAZOLAM RATIOPHARM 1 mg COMPRIMIDOS EFG , 30 comprimidos (NR: 63876, CN: 999725)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "999725"
+      }
+    ],
+    "publication_date": "2022-06-28",
+    "reason": "Resultado fuera de especificaciones en contenido detectado a raíz de los estudios de estabilidad.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/alprazolam-ratiopharm-1-mg-comprimidos-efg-30-comprimidos-nr-63876-cn-999725/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-06-28",
+    "id": "ES_AEMPS_R_19_2022",
+    "local_id": "R_19/2022",
+    "lots": [
+      "R023",
+      "fecha de caducidad 31",
+      "05",
+      "2025"
+    ],
+    "manufacturer": "KERN PHARMA, S.L. – Pol. Ind. Colón II, C/ Venus, 72(Terrassa)",
+    "medicine": "ALPRAZOLAM KERN PHARMA 1 mg COMPRIMIDOS EFG , 30 comprimidos (NR: 63278, CN: 716159)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "716159"
+      }
+    ],
+    "publication_date": "2022-06-28",
+    "reason": "Resultado fuera de especificaciones en contenido detectado a raíz de los estudios de estabilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/alprazolam-kern-pharma-1-mg-comprimidos-efg-30-comprimidos-nr-63278-cn-716159/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-06-24",
+    "id": "ES_AEMPS_R_18_2022",
+    "local_id": "R_18/2022",
+    "lots": [
+      "X472A"
+    ],
+    "manufacturer": "MEDA PHARMA, S.L. – C/General Aranaz, nº 86(Madrid)",
+    "medicine": "MESTINON 60 MG COMPRIMIDOS , 100 comprimidos (NR: 23524, CN: 672101)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "672101"
+      }
+    ],
+    "publication_date": "2022-06-24",
+    "reason": "En el interior de una caja del lote X472A del medicamento Mestinon 60 mg comprimidos se ha detectado un frasco de otro medicamento, etiquetado como Librium 5 mg cápsulas",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/mestinon-60-mg-comprimidos-100-comprimidos-nr-23524-cn-672101/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-06-17",
+    "id": "ES_AEMPS_R_17_2022",
+    "local_id": "R_17/2022",
+    "lots": [
+      "P575"
+    ],
+    "manufacturer": "LABORATORIO STADA, S.L. – C/ Frederic Mompou, 5(Sant Just Desvern)",
+    "medicine": "ENALAPRIL/HIDROCLOROTIAZIDA STADA 20/12,5 mg COMPRIMIDOS EFG, 28 comprimidos (NR: 65103, CN: 930339)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "930339"
+      }
+    ],
+    "publication_date": "2022-06-17",
+    "reason": "Resultado fuera de especificaciones, en estudios de estabilidad, en el ensayo de valoración del lote P575 del citado medicamento",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/enalapril-hidroclorotiazida-stada-20-125-mg-comprimidos-efg-28-comprimidos-nr-65103-cn-930339/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 0.92,
+    "country": "ES",
+    "date": "2022-06-16",
+    "id": "ES_AEMPS_R_16_2022",
+    "local_id": "R_16/2022",
+    "lots": [
+      "NK7N"
+    ],
+    "manufacturer": "GLAXOSMITHKLINE MANUFACTURING, S.P.A.-Strada Provinciale Asolana, 90, 43056, San Polo di Torrile, Parma, Italia",
+    "medicine": "NIMBEX 2 mg/ml SOLUCION INYECTABLE/PERFUSION, 5 ampollas de 10 ml",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [],
+    "publication_date": "2022-06-16",
+    "reason": "El lote NK7N del citado medicamento se encuentra etiquetado con un formato de fecha de caducidad diferente al utilizado en España, figurando en el cartonaje como fecha de caducidad el 21/07/22 cuando la fecha de caducidad es el 22/07/2021. Por lo tanto, el citado lote se encuentra caducado y se retira para evitar posibles confusiones.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/nimbex-2-mg-ml-solucion-inyectable-perfusion-5-ampollas-de-10-ml/",
+    "warnings": [
+      "missing_cn"
+    ]
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-06-09",
+    "id": "ES_AEMPS_R_15_2022",
+    "local_id": "R_15/2022",
+    "lots": [
+      "BT1432"
+    ],
+    "manufacturer": "LABORATORIOS CINFA, S.A. – Ctra. Olaz Chipi, 10, Pol. Ind. Areta(Huarte)",
+    "medicine": "SIMVASTATINA CINFA 40 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 28 comprimidos (NR: 64415, CN: 708800)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "708800"
+      }
+    ],
+    "publication_date": "2022-06-09",
+    "reason": "Lote acondicionado con una versión de estuches y prospectos no autorizada",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/simvastatina-cinfa-40-mg-comprimidos-recubiertos-con-pelicula-efg-28-comprimidos/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-05-18",
+    "id": "ES_AEMPS_R_14_2022",
+    "local_id": "R_14/2022",
+    "lots": [
+      "N3224"
+    ],
+    "manufacturer": "ALTAN PHARMACEUTICALS, S.A. – C/ Cólquide, Nº 6, Portal 2, 1ª Planta, Oficina F. Edificio Prisma(Las Rozas)",
+    "medicine": "ATOSIBAN ALTAN 6.75 MG/0.9 ML SOLUCION INYECTABLE EFG , 1 ampolla de 0,9 ml (NR: 79315, CN: 704594)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "704594"
+      }
+    ],
+    "publication_date": "2022-05-18",
+    "reason": "Detección, por el Laboratorio Oficial de Control de Medicamentos de la AEMPS, de un resultado fuera de especificaciones en el ensayo de partículas visibles",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/atosiban-altan-6-75-mg-0-9-ml-solucion-inyectable-efg-1-ampolla-de-09-ml-nr-79315-cn-704594/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-04-28",
+    "id": "ES_AEMPS_R_13_2022",
+    "local_id": "R_13/2022",
+    "lots": [
+      "DT1726",
+      "fecha de caducidad 30",
+      "04",
+      "2023"
+    ],
+    "manufacturer": "PFIZER, S.L. – Avda. de Europa, 20B, Parque Empresarial La Moraleja(Alcobendas)",
+    "medicine": "ACUPREL 20 mg COMPRIMIDOS RECUBIERTOS CON PELICULA , 28 comprimidos (NR: 59082, CN: 725150) ACUPREL 40 mg COMPRIMIDOS RECUBIERTOS CON PELICULA , 28 comprimidos (NR: 61710, CN: 667964) ACUPREL 5 mg COMPRIMIDOS RECUBIERTOS CON PELICULA , 60 comprimidos (NR: 59081, CN: 731919)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "725150"
+      },
+      {
+        "system": "CN",
+        "value": "667964"
+      },
+      {
+        "system": "CN",
+        "value": "731919"
+      }
+    ],
+    "publication_date": "2022-04-28",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/acuprel-comprimidos-recubiertos-con-pelicula-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-04-26",
+    "id": "ES_AEMPS_R_12_2022",
+    "local_id": "R_12/2022",
+    "lots": [
+      "FS4S"
+    ],
+    "manufacturer": "GLAXOSMITHKLINE, S.A. – C/Severo Ochoa, 2, Parque Tecnológico de Madrid(Tres Cantos)",
+    "medicine": "ZINNAT 250 mg GRANULADO PARA SUSPENSION ORAL , 10 sobres (NR: 59063, CN: 695631)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "695631"
+      }
+    ],
+    "publication_date": "2022-04-26",
+    "reason": "Obtención de resultados fuera de especificaciones en el estudio de estabilidad en los ensayos de apariencia, humedad e impureza",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/zinnat-250-mg-granulado-para-suspension-oral-10-sobres-nr-59063-cn-695631/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-04-22",
+    "id": "ES_AEMPS_R_11_2022",
+    "local_id": "R_11/2022",
+    "lots": [
+      "1008320",
+      "fecha de caducidad 31",
+      "07",
+      "2022"
+    ],
+    "manufacturer": "ARISTO PHARMA GMBH – Wallenroder Strasse 8-10, Berlin, 13435, Alemania",
+    "medicine": "ACIDO ALENDRONICO/COLECALCIFEROL SEMANAL ARISTO 70 MG/2.800 UI COMPRIMIDOS EFG, 4 comprimidos (NR: 82792, CN: 720437) ACIDO ALENDRONICO/COLECALCIFEROL ARISTO 70 MG/5.600 UI COMPRIMIDOS EFG, 4 comprimidos (NR: 82793, CN: 720439)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "720437"
+      },
+      {
+        "system": "CN",
+        "value": "720439"
+      }
+    ],
+    "publication_date": "2022-04-22",
+    "reason": "Resultados fuera de especificaciones en el ensayo de valoración de colecalciferol.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/acido-alendronico-colecalciferol-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-04-12",
+    "id": "ES_AEMPS_R_10_2022",
+    "local_id": "R_10/2022",
+    "lots": [
+      "BR3131",
+      "fecha de caducidad 31",
+      "07",
+      "2022"
+    ],
+    "manufacturer": "LABORATORIOS CINFA, S.A. – Ctra. Olaz Chipi, 10, Pol. Ind. Areta(Huarte)",
+    "medicine": "MONTELUKAST CINFA 4 mg COMPRIMIDOS MASTICABLES EFG , 28 comprimidos (NR: 74195, CN: 681038) MONTELUKAST CINFA 5 mg COMPRIMIDOS MASTICABLES EFG , 28 comprimidos (NR: 74196, CN: 681039)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "681038"
+      },
+      {
+        "system": "CN",
+        "value": "681039"
+      }
+    ],
+    "publication_date": "2022-04-12",
+    "reason": "Obtención de resultados fuera de especificaciones en el ensayo de impurezas desconocidas",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/montelukast-cinfa-comprimidos-masticables-efg-28-comprimidos-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-04-07",
+    "id": "ES_AEMPS_R_09_2022",
+    "local_id": "R_09/2022",
+    "lots": [
+      "000190A"
+    ],
+    "manufacturer": "MODERNA BIOTECH SPAIN, S.L. – c/o Grupo Gestiona-T, Calle Monte Esquinza 30(Madrid)",
+    "medicine": "SPIKEVAX, DISPERSION INYECTABLE 10 viales (multidosis) (NR: 1201507001, CN: 730000)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "730000"
+      }
+    ],
+    "publication_date": "2022-04-08",
+    "reason": "Presencia de un cuerpo extraño en el interior de un vial",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/spikevax-dispersion-inyectable-10-viales-multidosis-nr-1201507001-cn-730000/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-03-31",
+    "id": "ES_AEMPS_R_08_2022",
+    "local_id": "R_08/2022",
+    "lots": [
+      "110122"
+    ],
+    "manufacturer": "NEURAXPHARM SPAIN, S.L.U. – Avda. de Barcelona, 69(Sant Joan Despí)",
+    "medicine": "SEMONIC 200 MG COMPRIMIDOS RECUBIERTOS CON PELICULA 30 comprimidos (NR: 84191, CN: 725946)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "725946"
+      }
+    ],
+    "publication_date": "2022-03-31",
+    "reason": "Detección de un resultado fuera de especificaciones en los estudios de estabilidad en otro lote procedente del mismo granel",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/semonic-200-mg-comprimidos-recubiertos-con-pelicula-30-comprimidos-nr-84191-cn-725946/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-03-18",
+    "id": "ES_AEMPS_R_07_2022",
+    "local_id": "R_07/2022",
+    "lots": [
+      "G01131"
+    ],
+    "manufacturer": "ROBAPHARM ESPAÑA, S.A. – C/ Ramón Trias Fargas, 7-11(Barcelona)",
+    "medicine": "SEREPROSTAT 80 mg COMPRIMIDOS RECUBIERTOS CON PELICULA , 60 comprimidos (NR: 56872, CN: 967398)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "967398"
+      }
+    ],
+    "publication_date": "2022-03-18",
+    "reason": "Obtención de un resultado fuera de especificaciones obtenido en los estudios de estabilidad en curso para el parámetro velocidad de disolución",
+    "recall_class": "3",
+    "source_url": "https://www.aemps.gob.es/informa/sereprostat-80-mg-comprimidos-recubiertos-con-pelicula-60-comprimidos-nr-56872-cn-967398/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-02-15",
+    "id": "ES_AEMPS_R_06_2022",
+    "local_id": "R_06/2022",
+    "lots": [
+      "P003",
+      "fecha de caducidad 31",
+      "05",
+      "2022"
+    ],
+    "manufacturer": "KERN PHARMA, S.L. – Pol. Ind. Colón II, C/ Venus, 72(Terrassa)",
+    "medicine": "CAFINITRINA COMPRIMIDOS RECUBIERTOS SUBLINGUALES, 20 comprimidos (NR: 35534, CN: 663240)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "663240"
+      }
+    ],
+    "publication_date": "2022-02-15",
+    "reason": "Resultado fuera de especificaciones en el contenido del principio activo nitroglicerina detectado en estudios de estabilidad",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/cafinitrina-comprimidos-recubiertos-sublinguales-20-comprimidos-nr-35534-cn-663240/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-02-03",
+    "id": "ES_AEMPS_R_05_2022",
+    "local_id": "R_05/2022",
+    "lots": [
+      "Ver anexo"
+    ],
+    "manufacturer": "KERN PHARMA, S.L. – Pol. Ind. Colón II, C/ Venus, 72 (Terrassa)",
+    "medicine": "DIOSMINA KERN PHARMA 500 mg COMPRIMIDOS RECUBIERTOS CON PELICULA, 30 comprimidos (NR: 75652, CN: 688724) DIOSMINA KERN PHARMA 500 mg COMPRIMIDOS RECUBIERTOS CON PELICULA, 60 comprimidos (NR: 75652, CN: 688725) FLEBIKERN 500 MG COMPRIMIDOS RECUBIERTOS CON PELICULA , 60 comprimidos (NR: 77434, CN: 697683) FLEBIKERN 500 MG COMPRIMIDOS RECUBIERTOS CON PELICULA , 30 comprimidos (NR: 77434, CN: 697682)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "688724"
+      },
+      {
+        "system": "CN",
+        "value": "688725"
+      },
+      {
+        "system": "CN",
+        "value": "697683"
+      },
+      {
+        "system": "CN",
+        "value": "697682"
+      }
+    ],
+    "publication_date": "2022-02-07",
+    "reason": "Detección de una impureza por encima de su límite establecido",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/diosmina-kern-pharma-500-mg-comprimidos-y-flebikern-500-mg-comprimidos-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-02-02",
+    "id": "ES_AEMPS_R_04_2022",
+    "local_id": "R_04/2022",
+    "lots": [
+      "P005"
+    ],
+    "manufacturer": "KERN PHARMA, S.L. – Pol. Ind. Colón II, C/ Venus, 72(Terrassa)",
+    "medicine": "SOLINITRINA 0,8 mg comprimidos recubiertos sublinguales , 30 comprimidos (NR: 55768, CN: 663227)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "663227"
+      }
+    ],
+    "publication_date": "2022-02-02",
+    "reason": "Resultado fuera de especificaciones en el ensayo de valoración de contenido en los estudios de estabilidad.",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/solinitrina-08-mg-comprimidos-recubiertos-sublinguales-30-comprimidos-nr-55768-cn-663227/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-01-27",
+    "id": "ES_AEMPS_R_03_2022",
+    "local_id": "R_03/2022",
+    "lots": [
+      "M000689",
+      "fecha de caducidad 31",
+      "03",
+      "2023"
+    ],
+    "manufacturer": "LABORATORIOS COMBIX, S.L.U. – C/ Badajoz 2, Edificio 2(Pozuelo de Alarcón)",
+    "medicine": "IRBESARTAN COMBIX 300 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG , 28 comprimidos (NR: 74943, CN: 685373) IRBESARTAN COMBIX 75 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 28 comprimidos (NR: 74941, CN: 685371) IRBESARTÁN/HIDROCLOROTIAZIDA COMBIX 150 mg/12,5 mg COMPRIMIDOS RECUBIERTOS CON PELÍCULA EFG, 28 comprimidos (NR: 75735, CN: 688986) IRBESARTÁN/HIDROCLOROTIAZIDA PHARMA COMBIX 300 MG/25 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG , 28 comprimidos (NR: 77771, CN: 698714)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "685373"
+      },
+      {
+        "system": "CN",
+        "value": "685371"
+      },
+      {
+        "system": "CN",
+        "value": "688986"
+      },
+      {
+        "system": "CN",
+        "value": "698714"
+      }
+    ],
+    "publication_date": "2022-01-27",
+    "reason": "Detección en el principio activo irbesartan de una impureza por encima de su límite aceptado",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/irbesartan-combix-varias-presentaciones/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-01-26",
+    "id": "ES_AEMPS_R_02_2022",
+    "local_id": "R_02/2022",
+    "lots": [
+      "363777"
+    ],
+    "manufacturer": "MEDA PHARMA, S.L. – C/General Aranaz, nº 86(Madrid)",
+    "medicine": "PYRALVEX SOLUCION, 1 frasco de 10 ml (NR: 24135, CN: 813642)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "813642"
+      }
+    ],
+    "publication_date": "2022-01-26",
+    "reason": "Algunas de las unidades del citado lote del medicamento se encuentran etiquetadas en neerlandés.",
+    "recall_class": "3",
+    "source_url": "https://www.aemps.gob.es/informa/pyralvex-solucion-1-frasco-de-10-ml-nr-24135-cn-813642/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2022-01-03",
+    "id": "ES_AEMPS_R_01_2022",
+    "local_id": "R_01/2022",
+    "lots": [
+      "NO205802"
+    ],
+    "manufacturer": "LABORATOIRE PHARMACEUTIQUE PHARMATOKA, SAS – 20-22, Avenue de la Republique, Rueil-Malmaison, 92500, Francia",
+    "medicine": "ELLURA CAPSULAS DURAS, 15 cápsulas (Blister) (NR: 82692, CN: 720015)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "720015"
+      }
+    ],
+    "publication_date": "2022-01-03",
+    "reason": "Detección de una cantidad superior a la permitida de óxido de etileno en las cápsulas",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/ellura-capsulas-duras-15-capsulas-blister/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 0.92,
+    "country": "ES",
+    "date": "2021-12-29",
+    "id": "ES_AEMPS_R_28_2021",
+    "local_id": "R_28/2021",
+    "lots": [
+      "5002058"
+    ],
+    "manufacturer": "CP PHARMACEUTICALS Ltd",
+    "medicine": "HEPARINA SODICA (10 AMPOLLAS) (SIN ALCOHOL BENCILICO) 1000 U/mi Solución para perfusión",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [],
+    "publication_date": "2021-12-29",
+    "reason": "Resultado fuera de especificaciones en el parámetro de actividad, detectado en estudios de estabilidad a 24 meses",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/heparina-sodica-10-ampollas-sin-alcohol-bencilico-1000-u-mi-solucion-para-perfusion/",
+    "warnings": [
+      "missing_cn"
+    ]
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2021-12-23",
+    "id": "ES_AEMPS_R_27_2021",
+    "local_id": "R_27/2021",
+    "lots": [
+      "006560"
+    ],
+    "manufacturer": "PENSA PHARMA, S.A.U. – C/. JORGE COMÍN, (MÉDICO PEDIATRA), 3-BAJOS(VALENCIA)",
+    "medicine": "RABEPRAZOL PENSA 10 MG COMPRIMIDOS GASTRORRESISTENTES EFG, 28 comprimidos (NR: 76197, CN: 691984)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "691984"
+      }
+    ],
+    "publication_date": "2021-12-23",
+    "reason": "Obtención de un resultado de fuera de especificaciones para el parámetro Impurezas individuales desconocidas a los 12 meses en el programa de estabilidad en curso",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/rabeprazol-pensa-10-mg-comprimidos-gastrorresistentes-efg-28-comprimidos-nr-76197-cn-691984/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2021-12-14",
+    "id": "ES_AEMPS_R_26_2021",
+    "local_id": "R_26/2021",
+    "lots": [
+      "0139",
+      "fecha de caducidad 31",
+      "03",
+      "2023"
+    ],
+    "manufacturer": "LABORATORIOS VICKS, S.L. – Avda. de Bruselas, 24(Alcobendas)",
+    "medicine": "INHALVICKS 396,7 MG/ML + 396,7 MG/ML BARRA NASAL , 1 aplicador (NR: 22399, CN: 772178)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "772178"
+      }
+    ],
+    "publication_date": "2021-12-14",
+    "reason": "Algunas unidades de los lotes 0139, 0146, 0196 y 1242 del medicamento INHALVICKS 396,7 MG/ML + 396,7 MG/ML BARRA NASAL han sido distribuidas sin prospecto ni acondicionamiento secundario. En concreto se trata de unidades de los citados lotes del medicamento incluidas en los expositores con números de lote 0139297900, 0146297900, 0196297900, 015029790A y 00902979B1. El resto de unidades de los citados lotes del medicamento que no van en estos expositores se han distribuido con el prospecto y el acondicionamiento secundario, por lo que estas unidades correctamente etiquetadas no son objeto de esta retirada y pueden permanecer en el mercado.",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/inhalvicks-3967-mg-ml-3967-mg-ml-barra-nasal-1-aplicador-nr-22399-cn-772178/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2021-11-18",
+    "id": "ES_AEMPS_R_25_2021",
+    "local_id": "R_25/2021",
+    "lots": [
+      "1L14T",
+      "fecha de caducidad 31",
+      "05",
+      "2022"
+    ],
+    "manufacturer": "SANTEN OY – Niittyhaankatu 20, Tampere, FIN-33720, Finlandia",
+    "medicine": "IKERVIS 1 mg/ml colirio en emulsion 30 envases unidosis de 0,3 ml (NR: 115990001, CN: 707966)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "707966"
+      }
+    ],
+    "publication_date": "2021-11-18",
+    "reason": "Presencia de micro cristales de principio activo y obtención de un resultado fuera de especificaciones en el ensayo de valoración",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/ikervis-1-mg-ml-colirio-en-emulsion-30-envases-unidosis-de-03-ml/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2021-11-16",
+    "id": "ES_AEMPS_R_24_2021",
+    "local_id": "R_24/2021",
+    "lots": [
+      "21GD006B04"
+    ],
+    "manufacturer": "GUERBET – B.P. 57400, ROISSY CdG CEDEX, F-95943, Francia",
+    "medicine": "DOTAREM 0,5 mmol/ml SOLUCION INYECTABLE EN VIAL , 1 frasco de 10 ml (NR: 62165, CN: 658302)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "658302"
+      }
+    ],
+    "publication_date": "2021-11-16",
+    "reason": "El cuello del vial de vidrio evidencia fugas externas de la solución inyectable",
+    "recall_class": "1",
+    "source_url": "https://www.aemps.gob.es/informa/dotarem-05-mmol-ml-solucion-inyectable-en-vial-1-frasco-de-10-ml/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2021-11-02",
+    "id": "ES_AEMPS_R_22_2021",
+    "local_id": "R_22/2021",
+    "lots": [
+      "FT028B"
+    ],
+    "manufacturer": "SANOFI CLIR SNC – 54, Rue la Boetie, Paris, 75008, Francia",
+    "medicine": "COAPROVEL 300 MG/25 MG COMPRIMIDOS RECUBIERTOS CON PELICULA, 28 comprimidos (NR: 98086024IP2, CN: 727428)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "727428"
+      }
+    ],
+    "publication_date": "2021-11-02",
+    "reason": "Detección en el principio activo irbesartán de una impureza por encima de su límite aceptado",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/coaprovel-300-mg-25-mg-comprimidos-recubiertos-con-pelicula-28-comprimidos-2/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2021-11-02",
+    "id": "ES_AEMPS_R_21_2021",
+    "local_id": "R_21/2021",
+    "lots": [
+      "FT027",
+      "fecha de caducidad 31",
+      "01",
+      "2023"
+    ],
+    "manufacturer": "SANOFI CLIR SNC – 54, Rue la Boetie, Paris, 75008, Francia",
+    "medicine": "COAPROVEL 300 MG/25 MG COMPRIMIDOS RECUBIERTOS CON PELICULA, 28 comprimidos (NR: 98086024IP, CN: 723683)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "723683"
+      }
+    ],
+    "publication_date": "2021-11-02",
+    "reason": "Detección en el principio activo irbesartán de una impureza por encima de su límite aceptado",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/coaprovel-300-mg-25-mg-comprimidos-recubiertos-con-pelicula-28-comprimidos/",
+    "warnings": []
+  },
+  {
+    "authority": "AEMPS",
+    "confidence": 1.0,
+    "country": "ES",
+    "date": "2021-11-02",
+    "id": "ES_AEMPS_R_20_2021",
+    "local_id": "R_20/2021",
+    "lots": [
+      "FT029",
+      "fecha de caducidad 31",
+      "01",
+      "2023"
+    ],
+    "manufacturer": "SANOFI-AVENTIS GROUPE – 54, Rue La Boétie, Paris, F-75008, Francia",
+    "medicine": "COAPROVEL 300 mg/25 mg COMPRIMIDOS RECUBIERTOS CON PELICULA, 28 comprimidos (NR: 98086024,CN:656037) KARVEZIDE 300 mg/25 mg COMPRIMIDOS RECUBIERTOS CON PELICULA, 28 comprimidos (NR: 98085024,CN:656038)",
+    "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+    "product_codes": [
+      {
+        "system": "CN",
+        "value": "656037"
+      },
+      {
+        "system": "CN",
+        "value": "656038"
+      }
+    ],
+    "publication_date": "2021-11-02",
+    "reason": "Detección en el principio activo irbesartán de una impureza por encima de su límite aceptado",
+    "recall_class": "2",
+    "source_url": "https://www.aemps.gob.es/informa/coaprovel-y-karvezide-300-mg-25-mg-comprimidos-recubiertos-con-pelicula-28-comprimidos/",
+    "warnings": []
   }
 ]

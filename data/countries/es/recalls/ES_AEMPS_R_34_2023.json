@@ -1,0 +1,51 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-12-07",
+  "expiry_dates": [
+    "LEVOFLOXACINO MABO-FARMA 500 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG 7 comprimidos (NR: 73591",
+    "CN: 679300) Lote: CB33J003",
+    "fecha de caducidad 30",
+    "11",
+    "2025 Lote: CB33K005",
+    "04",
+    "2026 LEVOFLOXACINO MABO-FARMA 500 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+    "14 comprimidos (NR: 73591",
+    "CN: 728405) Lote: CB33J004",
+    "2025 Lote: CB33K004",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_34_2023",
+  "local_id": "R_34/2023",
+  "lots": [
+    "CB33J003",
+    "fecha de caducidad 30",
+    "11",
+    "2025"
+  ],
+  "manufacturer": "MABO-FARMA, S.A. – Calle Rejas 2, Planta 1ª(Coslada)",
+  "medicine": "LEVOFLOXACINO MABO-FARMA 500 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG,14 comprimidos (NR: 73591, CN: 728405) LEVOFLOXACINO MABO-FARMA 500 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG 7 comprimidos (NR: 73591, CN: 679300)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "728405"
+    },
+    {
+      "system": "CN",
+      "value": "679300"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-12-07",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de una impureza por encima de su límite establecido",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/levofloxacino-mabo-farma-500-mg-comprimidos-recubiertos-con-pelicula-efg-7-comprimidos-y-14-comprimidos/",
+  "warnings": []
+}

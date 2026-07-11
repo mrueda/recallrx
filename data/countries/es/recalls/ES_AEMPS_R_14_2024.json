@@ -1,0 +1,77 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-07-29",
+  "expiry_dates": [
+    "ATAMAX 10 MG CAPSULAS DURAS EFG 28 cápsulas (NR: 82386",
+    "CN: 718812) Lote: 1310376",
+    "fecha de caducidad 30",
+    "04",
+    "2026 ATAMAX 10 MG CAPSULAS DURAS EFG 7 cápsulas (NR: 82386",
+    "CN: 718811) Lote: 1304121",
+    "fecha de caducidad 31",
+    "10",
+    "2025 Lote: 1310378",
+    "2026 ATAMAX 25 MG CAPSULAS DURAS EFG 28 cápsulas (NR: 82388",
+    "CN: 718816) Lote: 1205966",
+    "2024 ATAMAX 25 MG CAPSULAS DURAS EFG 7 cápsulas (NR: 82388",
+    "CN: 718815) Lote: 1205014",
+    "2024 Lote: 1310158",
+    "03",
+    "2026 ATAMAX 40 MG CAPSULAS DURAS EFG 28 cápsulas (NR: 82389",
+    "CN: 718818) Lote: 1204932",
+    "2024 Lote: 1205044",
+    "2024 ATAMAX 60 MG CAPSULAS DURAS EFG 28 cápsulas (NR: 82390",
+    "CN: 718820) Lote: 1309843",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_14_2024",
+  "local_id": "R_14/2024",
+  "lots": [
+    "1304121",
+    "fecha de caducidad 31",
+    "10",
+    "2025"
+  ],
+  "manufacturer": "LABORATORIOS RUBIÓ, S.A. – Industria, 29 – Pol. Ind. Comte De Sert (Castellbisbal)",
+  "medicine": "ATAMAX 10 MG CAPSULAS DURAS EFG 28 cápsulas (NR: 82386, CN: 718812) ATAMAX 10 MG CAPSULAS DURAS EFG 7 cápsulas (NR: 82386, CN: 718811) ATAMAX 25 MG CAPSULAS DURAS EFG 28 cápsulas (NR: 82388, CN: 718816) ATAMAX 25 MG CAPSULAS DURAS EFG 7 cápsulas (NR: 82388, CN: 718815) ATAMAX 40 MG CAPSULAS DURAS EFG 28 cápsulas (NR: 82389, CN: 718818) ATAMAX 60 MG CAPSULAS DURAS EFG 28 cápsulas (NR: 82390, CN: 718820)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "718812"
+    },
+    {
+      "system": "CN",
+      "value": "718811"
+    },
+    {
+      "system": "CN",
+      "value": "718816"
+    },
+    {
+      "system": "CN",
+      "value": "718815"
+    },
+    {
+      "system": "CN",
+      "value": "718818"
+    },
+    {
+      "system": "CN",
+      "value": "718820"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2024-07-30",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultados fuera de especificaciones en uno o varios parámetros, entre ellos contenido",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/atamax-capsulas-duras-efg/",
+  "warnings": []
+}

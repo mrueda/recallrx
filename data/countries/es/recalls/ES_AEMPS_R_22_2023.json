@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-07-13",
+  "expiry_dates": [
+    "31",
+    "08",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_22_2023",
+  "local_id": "R_22/2023",
+  "lots": [
+    "BE08C020AE"
+  ],
+  "manufacturer": "BAXALTA INNOVATIONS GMBH – Industriestrasse 67, Vienna, 1221, Austria",
+  "medicine": "GAMMAGARD S/D 10 G, POLVO Y DISOLVENTE PARA SOLUCION PARA PERFUSION , 1 frasco + 1 frasco de disolvente (NR: 60718, CN: 685636)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "685636"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2023-07-13",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Cifras atípicas de reacciones adversas de tipo hipersensibilidad asociadas con el lote madre empleado en la fabricación de este lote de producto terminado",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/gammagard-s-d-10-g-polvo-y-disolvente-para-solucion-para-perfusion-1-frasco-1-frasco-de-disolvente-nr-60718-cn-685636/",
+  "warnings": []
+}

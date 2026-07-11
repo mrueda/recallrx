@@ -1,0 +1,55 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-03-23",
+  "expiry_dates": [
+    "Lote: MA04JJB",
+    "fecha de caducidad 30",
+    "04",
+    "2028. Lote: MA04K7U",
+    "fecha de caducidad 31",
+    "05",
+    "2028. Lote: MA04M6U",
+    "08",
+    "2028. Lote: MA04NDN",
+    "11",
+    "2028. Lote: MA04NK3",
+    "2028. Lote: MA04P3N",
+    "12",
+    "2028. Lote: MA04REH",
+    "03",
+    "2029. Lote: MA04SVF",
+    "2029. Lote: MA04TDB",
+    "2029. Lote: MA04TDC",
+    "2029"
+  ],
+  "id": "ES_AEMPS_R_14_2026",
+  "local_id": "R_14/2026",
+  "lots": [
+    "MA04JJB",
+    "fecha de caducidad 30",
+    "04",
+    "2028"
+  ],
+  "manufacturer": "BAYER HISPANIA, S.L. -Avda. Baix Llobregat, 3 y 5(Sant Joan Despi)",
+  "medicine": "GASTROGRAFIN 370 MG IODO/ML SOLUCIÓN ORAL Y RECTAL , 1 frasco de 100 mi (NR: 36270, CN: 909622)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "909622"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2026-03-23",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de una impureza por encima de su límite establecido",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/gastrografin-370-mg-iodo-ml-solucion-oral-y-rectal-1-frasco-de-100-mi-nr-36270-cn-909622/",
+  "warnings": []
+}

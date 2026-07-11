@@ -1,0 +1,33 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote 5002058 y devolución al distribuidor en España SANIPROJECT, S.L. por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 0.92,
+  "country": "ES",
+  "date": "2021-12-29",
+  "expiry_dates": [
+    "30",
+    "06",
+    "2022"
+  ],
+  "id": "ES_AEMPS_R_28_2021",
+  "local_id": "R_28/2021",
+  "lots": [
+    "5002058"
+  ],
+  "manufacturer": "CP PHARMACEUTICALS Ltd",
+  "medicine": "HEPARINA SODICA (10 AMPOLLAS) (SIN ALCOHOL BENCILICO) 1000 U/mi Solución para perfusión",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [],
+  "product_type": "Medicamento gestionado a través del Servicio de Medicamentos Extranjeros",
+  "publication_date": "2021-12-29",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el parámetro de actividad, detectado en estudios de estabilidad a 24 meses",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/heparina-sodica-10-ampollas-sin-alcohol-bencilico-1000-u-mi-solucion-para-perfusion/",
+  "warnings": [
+    "missing_cn"
+  ]
+}

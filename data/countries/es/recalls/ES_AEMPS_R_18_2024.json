@@ -1,0 +1,43 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-08-14",
+  "expiry_dates": [
+    "Lote: 220118",
+    "fecha de caducidad 28",
+    "02",
+    "2025 Lote: 230756",
+    "fecha de caducidad 31",
+    "03",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_18_2024",
+  "local_id": "R_18/2024",
+  "lots": [
+    "220118",
+    "fecha de caducidad 28",
+    "02",
+    "2025"
+  ],
+  "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97(Martorelles)",
+  "medicine": "CLOPIDOGREL PENSA 75 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 28 comprimidos (NR: 71414, CN: 664305)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "664305"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2024-08-14",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de resultados fuera de especificaciones en el test de disolución, tras el análisis realizado por el Laboratorio Oficial de Control de Medicamentos de la AEMPS como parte del Programa de Control de Calidad de Medicamentos en el Mercado de 2023.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/clopidogrel-pensa-75-mg-comprimidos-recubiertos-con-pelicula-efg-28-comprimidos-nr-71414-cn-664305/",
+  "warnings": []
+}

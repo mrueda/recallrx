@@ -1,0 +1,51 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-01-26",
+  "expiry_dates": [
+    "Lote: S001A",
+    "fecha de caducidad 30",
+    "06",
+    "2023 Lote: S002A",
+    "2023 Lote: S003A",
+    "2023 Lote: S004A",
+    "2023 Lote: T001A",
+    "12",
+    "2024 Lote: V001B",
+    "03",
+    "2025 Lote: V002A",
+    "2025 Lote: V003A",
+    "2025 Lote: V008A",
+    "09",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_02_2023",
+  "local_id": "R_02/2023",
+  "lots": [
+    "S001A",
+    "fecha de caducidad 30",
+    "06",
+    "2023"
+  ],
+  "manufacturer": "LABORATORIOS ALTER, S.A. – Mateo Inurria, 30 (Madrid)",
+  "medicine": "AZITROMICINA ALTER 500 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG , 3 comprimidos (NR: 65752, CN: 653192)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "653192"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-01-26",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de varios errores en el prospecto incluido en los citados lotes.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/azitromicina-alter-500-mg-comprimidos-recubiertos-con-pelicula-efg-3-comprimidos-nr-65752-cn-653192/",
+  "warnings": []
+}

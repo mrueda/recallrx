@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-09-27",
+  "expiry_dates": [
+    "30",
+    "06",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_30_2022",
+  "local_id": "R_30/2022",
+  "lots": [
+    "22275452"
+  ],
+  "manufacturer": "B. BRAUN MEDICAL, S.A. – Ctra. Terrassa, 121(Rubí)",
+  "medicine": "FISIOLOGICO B. BRAUN 0,9% SOLUCION PARA PERFUSION , 20 frascos de 50 ml (NR: 39005, CN: 622928)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "622928"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-09-27",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de algunas unidades con fugas en la base del frasco",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/fisiologico-b-braun-09-solucion-para-perfusion-20-frascos-de-50-ml-nr-39005-cn-622928/",
+  "warnings": []
+}

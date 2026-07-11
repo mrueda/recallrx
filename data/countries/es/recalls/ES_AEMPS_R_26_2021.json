@@ -1,0 +1,35 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes 0139, 0146, 0196 y 1242 sin prospecto ni acondicionamiento secundario y devolución al laboratorio por los cauces habituales. Las unidades que contienen prospecto y acondicionamiento secundario no son objeto de esta retirada y pueden permanecer en el mercado.",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2021-12-14",
+  "expiry_dates": [],
+  "id": "ES_AEMPS_R_26_2021",
+  "local_id": "R_26/2021",
+  "lots": [
+    "0139",
+    "fecha de caducidad 31",
+    "03",
+    "2023"
+  ],
+  "manufacturer": "LABORATORIOS VICKS, S.L. – Avda. de Bruselas, 24(Alcobendas)",
+  "medicine": "INHALVICKS 396,7 MG/ML + 396,7 MG/ML BARRA NASAL , 1 aplicador (NR: 22399, CN: 772178)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "772178"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2021-12-14",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Algunas unidades de los lotes 0139, 0146, 0196 y 1242 del medicamento INHALVICKS 396,7 MG/ML + 396,7 MG/ML BARRA NASAL han sido distribuidas sin prospecto ni acondicionamiento secundario. En concreto se trata de unidades de los citados lotes del medicamento incluidas en los expositores con números de lote 0139297900, 0146297900, 0196297900, 015029790A y 00902979B1. El resto de unidades de los citados lotes del medicamento que no van en estos expositores se han distribuido con el prospecto y el acondicionamiento secundario, por lo que estas unidades correctamente etiquetadas no son objeto de esta retirada y pueden permanecer en el mercado.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/inhalvicks-3967-mg-ml-3967-mg-ml-barra-nasal-1-aplicador-nr-22399-cn-772178/",
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-06-27",
+  "expiry_dates": [
+    "31",
+    "12",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_18_2023",
+  "local_id": "R_18/2023",
+  "lots": [
+    "T008"
+  ],
+  "manufacturer": "LABORATORIO REIG JOFRÉ, S.A. – C/Gran Capitán, 10(Sant Joan Despí)",
+  "medicine": "BENZETACIL 2.400.000 UI POLVO Y DISOLVENTE PARA SUSPENSIÓN INYECTABLE , 1 vial + 1 ampolla de disolvente (NR: 22295, CN: 700715)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "700715"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-06-28",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible existencia de unidades del lote T008 del medicamento Benzetacil 2.400.000 UI acondicionadas por error en una caja de BENZETACIL 1.200.000 UI . El vial está etiquetado con la dosis correcta.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/benzetacil-2-400-000-ui-polvo-y-disolvente-para-suspension-inyectable-1-vial-1-ampolla-de-disolvente-nr-22295-cn-700715/",
+  "warnings": []
+}

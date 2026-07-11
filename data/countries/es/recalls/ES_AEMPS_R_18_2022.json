@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote X472A y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-06-24",
+  "expiry_dates": [
+    "30",
+    "09",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_18_2022",
+  "local_id": "R_18/2022",
+  "lots": [
+    "X472A"
+  ],
+  "manufacturer": "MEDA PHARMA, S.L. – C/General Aranaz, nº 86(Madrid)",
+  "medicine": "MESTINON 60 MG COMPRIMIDOS , 100 comprimidos (NR: 23524, CN: 672101)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "672101"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-06-24",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "En el interior de una caja del lote X472A del medicamento Mestinon 60 mg comprimidos se ha detectado un frasco de otro medicamento, etiquetado como Librium 5 mg cápsulas",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/mestinon-60-mg-comprimidos-100-comprimidos-nr-23524-cn-672101/",
+  "warnings": []
+}

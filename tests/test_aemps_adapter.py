@@ -4,6 +4,12 @@ from openrecall_es.adapters.es_aemps import AempsSpainAdapter
 
 
 class DummyHttp:
+    def get_json(self, url, params=None):
+        return []
+
+    def get_text(self, url):
+        return ""
+
     def get_bytes(self, url):
         return b""
 
@@ -51,3 +57,34 @@ def test_discovery_queries_include_broad_recall_terms():
     assert "Retirada medicamento lote" in queries
     assert "defecto calidad medicamento" in queries
     assert any(query.startswith("Nº alerta medicamento ") for query in queries)
+
+
+def test_wp_post_discovery_finds_human_medicine_recalls():
+    class PostHttp(DummyHttp):
+        def get_json(self, url, params=None):
+            if params["page"] == 1:
+                return [
+                    {
+                        "id": 1,
+                        "date": "2026-06-04T08:35:50",
+                        "link": "https://www.aemps.gob.es/informa/oculotect/",
+                        "title": {"rendered": "OCULOTECT"},
+                        "excerpt": {"rendered": "<p>Nº alerta: R_21/2026 Producto: Medicamento</p>"},
+                        "content": {"rendered": "<p>Medicamento de uso humano</p>"},
+                    },
+                    {
+                        "id": 2,
+                        "date": "2026-06-03T08:35:50",
+                        "link": "https://www.aemps.gob.es/informa/veterinario/",
+                        "title": {"rendered": "Veterinario"},
+                        "excerpt": {"rendered": "<p>Nº alerta: R_01/2026 Producto: Medicamento veterinario</p>"},
+                        "content": {"rendered": ""},
+                    },
+                ]
+            return []
+
+    adapter = AempsSpainAdapter(http=PostHttp(), request_delay_seconds=0)
+
+    candidates = adapter.discover()
+
+    assert [candidate.url for candidate in candidates] == ["https://www.aemps.gob.es/informa/oculotect/"]

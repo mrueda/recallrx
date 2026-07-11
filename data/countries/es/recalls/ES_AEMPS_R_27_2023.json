@@ -1,0 +1,53 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-08-11",
+  "expiry_dates": [
+    "ATROPINA B. BRAUN 1 mg",
+    "ml SOLUCION INYECTABLE",
+    "100 ampollas de 1 ml (NR: 27535",
+    "CN: 635649) Lote: 2112112",
+    "fecha de caducidad 29",
+    "02",
+    "2024 ESCOPOLAMINA B. BRAUN 0",
+    "5 mg",
+    "ml SOLUCIÓN INYECTABLE",
+    "100 ampollas de 1 ml (NR: 64566",
+    "CN: 608042) Lote: 2210212",
+    "fecha de caducidad 28",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_27_2023",
+  "local_id": "R_27/2023",
+  "lots": [
+    "2210212",
+    "fecha de caducidad 28",
+    "02",
+    "2025"
+  ],
+  "manufacturer": "B. BRAUN MEDICAL, S.A. – Ctra. Terrassa, 121 (Rubí)",
+  "medicine": "ATROPINA B. BRAUN 1 mg/ml SOLUCION INYECTABLE , 100 ampollas de 1 ml (NR: 27535, CN: 635649) ESCOPOLAMINA B. BRAUN 0,5 mg/ml SOLUCIÓN INYECTABLE , 100 ampollas de 1 ml (NR: 64566, CN: 608042)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "635649"
+    },
+    {
+      "system": "CN",
+      "value": "608042"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-08-11",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "La realización del ensayo de esterilidad no cumple con los requisitos establecidos en la Farmacopea Europea",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/retirada-de-atropina-y-escopolamina-b-braun/",
+  "warnings": []
+}

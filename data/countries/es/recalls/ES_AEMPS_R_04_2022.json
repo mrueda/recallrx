@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales.",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-02-02",
+  "expiry_dates": [
+    "30",
+    "09",
+    "2022"
+  ],
+  "id": "ES_AEMPS_R_04_2022",
+  "local_id": "R_04/2022",
+  "lots": [
+    "P005"
+  ],
+  "manufacturer": "KERN PHARMA, S.L. – Pol. Ind. Colón II, C/ Venus, 72(Terrassa)",
+  "medicine": "SOLINITRINA 0,8 mg comprimidos recubiertos sublinguales , 30 comprimidos (NR: 55768, CN: 663227)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "663227"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-02-02",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el ensayo de valoración de contenido en los estudios de estabilidad.",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/solinitrina-08-mg-comprimidos-recubiertos-sublinguales-30-comprimidos-nr-55768-cn-663227/",
+  "warnings": []
+}

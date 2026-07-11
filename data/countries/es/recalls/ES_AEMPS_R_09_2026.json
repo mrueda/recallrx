@@ -1,0 +1,58 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-02-23",
+  "expiry_dates": [
+    "Lote: 284720A",
+    "fecha de caducidad 31",
+    "03",
+    "2026 Lote: 284720B",
+    "2026 Lote: 286360A",
+    "2026 Lote: 286370A",
+    "fecha de caducidad 30",
+    "04",
+    "2026 Lote: 286400A",
+    "2026 Lote: 295610B",
+    "06",
+    "2026 Lote: 312530A",
+    "12",
+    "2026 Lote: 312540A",
+    "2026 Lote: 313190A",
+    "2026 Lote: 322210A",
+    "2027 Lote: 322320A",
+    "2027 Lote: 342600B",
+    "01",
+    "2028 Lote: 342601B",
+    "2028 Lote: 342910A",
+    "2028"
+  ],
+  "id": "ES_AEMPS_R_09_2026",
+  "local_id": "R_09/2026",
+  "lots": [
+    "284720A",
+    "fecha de caducidad 31",
+    "03",
+    "2026"
+  ],
+  "manufacturer": "FAES FARMA, S.A. – Autonomia Etorbidea, 10 (Leioa)",
+  "medicine": "BILAXTEN 6 MG/ML COLIRIO EN SOLUCION, 1 frasco de 5 ml (NR: 88089, CN: 758305)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "758305"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2026-02-23",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en partículas subvisibles del principio activo, detectado en estudios de estabilidad. Es una ampliación de la alerta farmacéutica R_16/2025",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/bilaxten-6-mg-ml-colirio-en-solucion-1-frasco-de-5-ml-nr-88089-cn-758305-2/",
+  "warnings": []
+}

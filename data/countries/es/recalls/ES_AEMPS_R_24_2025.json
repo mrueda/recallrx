@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-09-19",
+  "expiry_dates": [
+    "31",
+    "03",
+    "2027"
+  ],
+  "id": "ES_AEMPS_R_24_2025",
+  "local_id": "R_24/2025",
+  "lots": [
+    "J04K062751"
+  ],
+  "manufacturer": "INSTITUTO GRIFOLS, S.A. – C/ Can Guasc, 2. Pol. Ind. Levante(Parets del Vallés)",
+  "medicine": "FLEBOGAMMA DIF 100 mg/ml SOLUCION PARA PERFUSION, 1 vial de 100 ml (NR: 07404007, CN: 665958)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "665958"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2025-09-19",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Aumento de la notificación de reacciones adversas de hipersensibilidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/flebogamma-dif-100-mg-ml-solucion-para-perfusion-1-vial-de-100-ml-nr-07404007-cn-665958/",
+  "warnings": []
+}

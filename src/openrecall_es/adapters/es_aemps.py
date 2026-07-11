@@ -4,6 +4,7 @@ import re
 import time
 import tempfile
 from dataclasses import dataclass, field
+from datetime import datetime
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -17,6 +18,7 @@ from openrecall_es.text import clean_text, fold, parse_spanish_date, unique
 
 
 AEMPS_SEARCH_URL = "https://www.aemps.gob.es/wp-json/aemps-search/v1/search"
+AEMPS_POSTS_URL = "https://www.aemps.gob.es/wp-json/wp/v2/posts"
 AEMPS_BASE_URL = "https://www.aemps.gob.es"
 BASE_DISCOVERY_QUERIES = [
     "Nº alerta",
@@ -35,6 +37,7 @@ BASE_DISCOVERY_QUERIES = [
 class AempsSpainAdapter:
     http: HttpClient
     max_pages: int = 60
+    posts_per_page: int = 100
     request_delay_seconds: float = 0.35
     start_year: int = 2020
     country: str = "ES"
@@ -87,12 +90,66 @@ class AempsSpainAdapter:
         return unique(queries)
 
     def discovery_years(self) -> list[int]:
-        from datetime import datetime
-
         current_year = datetime.now().year
         return list(range(current_year, self.start_year - 1, -1))
 
     def discover(self) -> list[Candidate]:
+        candidates = self._discover_wp_posts()
+        if candidates:
+            return candidates
+        return self._discover_search_endpoint()
+
+    def _discover_wp_posts(self) -> list[Candidate]:
+        seen: set[str] = set()
+        candidates: list[Candidate] = []
+        for page in range(1, self.max_pages + 1):
+            try:
+                payload = self.http.get_json(
+                    AEMPS_POSTS_URL,
+                    params={
+                        "per_page": self.posts_per_page,
+                        "page": page,
+                        "orderby": "date",
+                        "order": "desc",
+                        "_fields": "id,date,link,title,excerpt,content",
+                    },
+                )
+            except requests.exceptions.RetryError as exc:
+                self.warnings.append(f"wp_posts_rate_limited page={page}: {exc}")
+                break
+            except requests.exceptions.HTTPError as exc:
+                status = exc.response.status_code if exc.response is not None else "unknown"
+                self.warnings.append(f"wp_posts_http_error status={status} page={page}: {exc}")
+                break
+            if not isinstance(payload, list) or not payload:
+                break
+
+            stop = False
+            for item in payload:
+                post_year = self._post_year(item)
+                if post_year is not None and post_year < self.start_year:
+                    stop = True
+                    continue
+                if not self._post_could_be_recall(item):
+                    continue
+                url = clean_text(item.get("link", ""))
+                if not url or url in seen:
+                    continue
+                seen.add(url)
+                candidates.append(
+                    Candidate(
+                        source_id=str(item.get("id", "")),
+                        title=self._rendered_text(item.get("title", {})),
+                        url=url,
+                        excerpt=self._rendered_text(item.get("excerpt", {})),
+                    )
+                )
+            if stop:
+                break
+            time.sleep(self.request_delay_seconds)
+        return candidates
+
+    def _discover_search_endpoint(self) -> list[Candidate]:
         seen: set[str] = set()
         candidates: list[Candidate] = []
         for query in self.discovery_queries():
@@ -132,6 +189,47 @@ class AempsSpainAdapter:
                 page += 1
                 time.sleep(self.request_delay_seconds)
         return candidates
+
+    def _post_year(self, item: dict) -> int | None:
+        date = str(item.get("date", ""))
+        if not re.match(r"^\d{4}", date):
+            return None
+        return int(date[:4])
+
+    def _post_could_be_recall(self, item: dict) -> bool:
+        html = " ".join(
+            [
+                self._rendered_html(item.get("title", {})),
+                self._rendered_html(item.get("excerpt", {})),
+                self._rendered_html(item.get("content", {})),
+                str(item.get("link", "")),
+            ]
+        )
+        ids = re.findall(r"\bR_\d+/\d{4}\b", html)
+        if not any(int(local_id[-4:]) >= self.start_year for local_id in ids):
+            return False
+
+        text = fold(BeautifulSoup(html, "html.parser").get_text(" "))
+        positive = "medicamento" in text or "formula magistral" in text or "medicamentosusohumano" in text
+        negative = (
+            "veterinario" in text
+            or "cosmetico" in text
+            or "cosmeticos" in text
+            or "producto sanitario" in text
+            or "productos sanitarios" in text
+        )
+        return positive and not negative
+
+    def _rendered_html(self, value: object) -> str:
+        if isinstance(value, dict):
+            return str(value.get("rendered", ""))
+        return str(value or "")
+
+    def _rendered_text(self, value: object) -> str:
+        html = self._rendered_html(value)
+        if "<" not in html and ">" not in html:
+            return clean_text(html)
+        return clean_text(BeautifulSoup(html, "html.parser").get_text(" "))
 
     def _candidate_could_be_recall(self, item: dict) -> bool:
         text = fold(" ".join([str(item.get("title", "")), str(item.get("excerpt", "")), str(item.get("url", ""))]))
@@ -190,8 +288,10 @@ class AempsSpainAdapter:
             labels,
             "laboratorio titular",
             "titular de la autorizacion de comercializacion",
+            "titular de autorizacion de comercializacion",
             "laboratorio fabricante",
             "laboratorio responsable",
+            "fabricante",
         )
         recall_class = self._extract_recall_class(labels, full_text)
         reason = self._first_label(labels, "descripcion del defecto", "motivo", "defecto detectado")

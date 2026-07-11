@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-12-04",
+  "expiry_dates": [
+    "31",
+    "07",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_33_2023",
+  "local_id": "R_33/2023",
+  "lots": [
+    "HF22002D"
+  ],
+  "manufacturer": "TEVA B.V. – Swensweg 5 , Haarlem Netherlands, Noord-Holland, 2031 GA, Holanda",
+  "medicine": "TRABECTEDINA TEVA 1 MG POLVO PARA CONCENTRADO PARA SOLUCIÓN PARA PERFUSIÓN EFG, 1 vial (NR: 86917, CN: 735817)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "735817"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2023-12-01",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Presencia de un cuerpo extraño en el interior de un vial",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/trabectedina-teva-1-mg-polvo-para-concentrado-para-solucion-para-perfusion-efg-1-vial-nr-86917-cn-735817/",
+  "warnings": []
+}

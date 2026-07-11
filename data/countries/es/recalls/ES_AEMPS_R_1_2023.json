@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-01-18",
+  "expiry_dates": [
+    "31",
+    "07",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_1_2023",
+  "local_id": "R_1/2023",
+  "lots": [
+    "LC63278"
+  ],
+  "manufacturer": "LABORATORIO STADA, S.L. – C/ Frederic Mompou, 5(Sant Just Desvern)",
+  "medicine": "OMEPRAZOL STADA 40 mg CAPSULAS DURAS GASTRORRESISTENTES , 28 cápsulas (BLISTER) (NR: 69487, CN: 660281)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "660281"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-01-18",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en contenido de principio activo",
+  "recall_class": "3",
+  "source_url": "https://www.aemps.gob.es/informa/omeprazol-stada-40-mg-capsulas-duras-gastrorresistentes-28-capsulas-blister-nr-69487-cn-660281/",
+  "warnings": []
+}

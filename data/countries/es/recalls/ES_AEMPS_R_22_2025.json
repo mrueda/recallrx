@@ -1,0 +1,39 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 0.92,
+  "country": "ES",
+  "date": "2025-07-22",
+  "expiry_dates": [
+    "Allergovit 123 Parietaria 100% suspensión inyectable formato de Inicio de 2 viales",
+    "concentración A (1000 UT",
+    "ml)",
+    "B (10.000 UT"
+  ],
+  "id": "ES_AEMPS_R_22_2025",
+  "local_id": "R_22/2025",
+  "lots": [
+    "G2212047-02",
+    "fecha de caducidad 31",
+    "10",
+    "2025 Allergovit 123 Parietaria 100% suspensión inyectable formato de Mantenimiento de 2 viales",
+    "concentración B (10.000 UT",
+    "ml)"
+  ],
+  "manufacturer": "Allergopharma GmbH&Co. KG, Hermann-Krner-strasse 52, 21465 Reinbek, Hamburg",
+  "medicine": "Allergovit 123 Parietaria 100% suspensión inyectable formato de Inicio de 2 viales, concentración A (1000 UT/ml) y B (10.000 UT/ml) Allergovit 123 Parietaria 100% suspensión inyectable formato de Mantenimiento de 2 viales, concentración B (10.000 UT/ml)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [],
+  "product_type": "Medicamento",
+  "publication_date": "2025-07-22",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el parámetro de actividad residual alergénica detectado en estudios de estabilidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/allergovit-123-parietaria-100-suspension-inyectable-formato-varias-presentaciones/",
+  "warnings": [
+    "missing_cn"
+  ]
+}

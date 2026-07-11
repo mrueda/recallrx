@@ -20,6 +20,7 @@
     exactOnly: document.getElementById("exactOnly"),
     showWarnings: document.getElementById("showWarnings"),
     count: document.getElementById("resultCount"),
+    headerLastUpdate: document.getElementById("headerLastUpdate"),
     lastUpdate: document.getElementById("lastUpdate"),
     authority: document.getElementById("sourceAuthority"),
     results: document.getElementById("results"),
@@ -122,6 +123,7 @@
     state.records = records;
     state.search = createSearch(records);
     renderYearFilters(records);
+    els.headerLastUpdate.textContent = formatDateTime(countryMetadata.generated_at);
     els.lastUpdate.textContent = formatDateTime(countryMetadata.generated_at);
     els.authority.textContent = countryMetadata.authority || countryMetadata.name || country.toUpperCase();
     els.status.textContent = `${records.length} retiradas indexadas`;

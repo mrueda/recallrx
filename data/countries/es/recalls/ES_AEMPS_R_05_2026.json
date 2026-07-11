@@ -1,0 +1,45 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-01-16",
+  "expiry_dates": [
+    "Lote: 1500031",
+    "fecha de caducidad 30",
+    "11",
+    "2026 Lote: 1500032",
+    "2026 Lote: 1500850",
+    "fecha de caducidad 31",
+    "12",
+    "2026 Lote: 1500851",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_05_2026",
+  "local_id": "R_05/2026",
+  "lots": [
+    "1500031",
+    "fecha de caducidad 30",
+    "11",
+    "2026"
+  ],
+  "manufacturer": "GLENMARK ARZNEIMITTEL GMBH – Industriestr. 31, Gröbenzell, 82194, Alemania",
+  "medicine": "FINGOLIMOD GLENMARK 0,5 MG CAPSULAS DURAS EFG 28 capsulas (NR: 85860, CN: 730608)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "730608"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2026-01-19",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultados fuera de especificación en el parámetro de disolución detectados en estudios de estabilidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/fingolimod-glenmark-05-mg-capsulas-duras-efg-28-capsulas-nr-85860-cn-730608-2/",
+  "warnings": []
+}

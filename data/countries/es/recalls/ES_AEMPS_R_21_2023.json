@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-07-11",
+  "expiry_dates": [
+    "31",
+    "05",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_21_2023",
+  "local_id": "R_21/2023",
+  "lots": [
+    "1996A"
+  ],
+  "manufacturer": "MARION MERRELL, S.A. – Roselló i Porcell21",
+  "medicine": "SABRILEX 500 mg GRANULADO PARA SOLUCION ORAL, 50 sobres (NR: 59809, CN: 743633)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "743633"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-07-12",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible presencia de trazas de tiaprida",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/sabrilex-500-mg-granulado-para-solucion-oral-50-sobres-nr-59809-cn-743633/",
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote NO205802 y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-01-03",
+  "expiry_dates": [
+    "31",
+    "08",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_01_2022",
+  "local_id": "R_01/2022",
+  "lots": [
+    "NO205802"
+  ],
+  "manufacturer": "LABORATOIRE PHARMACEUTIQUE PHARMATOKA, SAS – 20-22, Avenue de la Republique, Rueil-Malmaison, 92500, Francia",
+  "medicine": "ELLURA CAPSULAS DURAS, 15 cápsulas (Blister) (NR: 82692, CN: 720015)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "720015"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-01-03",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de una cantidad superior a la permitida de óxido de etileno en las cápsulas",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/ellura-capsulas-duras-15-capsulas-blister/",
+  "warnings": []
+}

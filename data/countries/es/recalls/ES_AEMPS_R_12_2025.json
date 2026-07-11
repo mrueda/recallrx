@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-04-01",
+  "expiry_dates": [
+    "30",
+    "09",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_12_2025",
+  "local_id": "R_12/2025",
+  "lots": [
+    "16520223"
+  ],
+  "manufacturer": "TEVA PHARMA, S.L.U. – C/ Anabel Segura, 11, Edificio Albatros B, 1ª planta(Alcobendas)",
+  "medicine": "TOPIRAMATOTOPIRAMATO TEVA 200 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG , 60 comprimidos (NR: 68933, CN: 659269)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "659269"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-04-02",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Obtención de resultado fuera de especificaciones en el ensayo de contenido durante los estudios de estabilidad en curso",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/topiramato-teva-200-mg-comprimidos-recubiertos-con-pelicula-efg-60-comprimidos-nr-68933-cn-659269/",
+  "warnings": []
+}

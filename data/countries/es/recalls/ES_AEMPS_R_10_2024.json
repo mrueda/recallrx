@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-06-06",
+  "expiry_dates": [
+    "31",
+    "01",
+    "2027"
+  ],
+  "id": "ES_AEMPS_R_10_2024",
+  "local_id": "R_10/2024",
+  "lots": [
+    "AU176D"
+  ],
+  "manufacturer": "LABORATORIO ALDO-UNIÓN, S.L. – C/.Baronesa de Maldá, 73 (Esplugues de Llobregat)",
+  "medicine": "COMBIPRASAL 0.5 mg/2.5 mg SOLUCION PARA INHALACION POR NEBULIZADOR 20 ampollas de 2,5 ml (NR: 73561, CN: 677602)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "677602"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2024-06-06",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Problemas con la serialización del lote",
+  "recall_class": "3",
+  "source_url": "https://www.aemps.gob.es/informa/combiprasal-0-5-mg-2-5-mg-solucion-para-inhalacion-por-nebulizador-20-ampollas-de-25-ml-nr-73561-cn-677602/",
+  "warnings": []
+}

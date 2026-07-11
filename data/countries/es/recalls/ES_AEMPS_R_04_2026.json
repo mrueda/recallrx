@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-01-16",
+  "expiry_dates": [
+    "31",
+    "05",
+    "2027"
+  ],
+  "id": "ES_AEMPS_R_04_2026",
+  "local_id": "R_04/2026",
+  "lots": [
+    "G04K101851"
+  ],
+  "manufacturer": "INSTITUTO GRIFOLS, S.A. – C/ Can Guasc, 2. Pol. Ind. Levante(Parets del Vallés)",
+  "medicine": "FLEBOGAMMA DIF 50 mg/ml SOLUCION PARA PERFUSION, 1 vial de 200 ml (NR: 07404004, CN: 665770)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "665770"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2026-01-19",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Aumento de la notificación de reacciones adversas de hipersensibilidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/flebogamma-dif-50-mg-ml-solucion-para-perfusion-1-vial-de-200-ml-nr-07404004-cn-665770-2/",
+  "warnings": []
+}

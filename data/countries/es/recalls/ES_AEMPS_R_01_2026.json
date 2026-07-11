@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales.",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-01-09",
+  "expiry_dates": [
+    "31",
+    "07",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_01_2026",
+  "local_id": "R_01/2026",
+  "lots": [
+    "M2408140"
+  ],
+  "manufacturer": "ACCORD HEALTHCARE, S.L.U – World Trade Center, Moll de Barcelona s/n, Edifici Est, 6ª Planta(Barcelona).",
+  "medicine": "CARMUSTINA ACCORD 100 MG POLVO Y DISOLVENTE PARA SOLUCION PARA PERFUSION EFG, 1 vial de 100 mg + vial de 3 ml de disolvente (NR: 87890, CN: 756925).",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "756925"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2026-01-09",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el límite de residuos no volátiles en disolvente.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/carmustina-accord-100-mg-polvo-y-disolvente-para-solucion-para-perfusion-efg-1-vial-de-100-mg-vial-de-3-ml-de-disolvente-nr-87890-cn-756925/",
+  "warnings": []
+}

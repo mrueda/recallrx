@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-06-09",
+  "expiry_dates": [
+    "30",
+    "06",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_15_2022",
+  "local_id": "R_15/2022",
+  "lots": [
+    "BT1432"
+  ],
+  "manufacturer": "LABORATORIOS CINFA, S.A. – Ctra. Olaz Chipi, 10, Pol. Ind. Areta(Huarte)",
+  "medicine": "SIMVASTATINA CINFA 40 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 28 comprimidos (NR: 64415, CN: 708800)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "708800"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-06-09",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Lote acondicionado con una versión de estuches y prospectos no autorizada",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/simvastatina-cinfa-40-mg-comprimidos-recubiertos-con-pelicula-efg-28-comprimidos/",
+  "warnings": []
+}

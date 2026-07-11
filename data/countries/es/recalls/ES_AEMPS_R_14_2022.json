@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-05-18",
+  "expiry_dates": [
+    "31",
+    "05",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_14_2022",
+  "local_id": "R_14/2022",
+  "lots": [
+    "N3224"
+  ],
+  "manufacturer": "ALTAN PHARMACEUTICALS, S.A. – C/ Cólquide, Nº 6, Portal 2, 1ª Planta, Oficina F. Edificio Prisma(Las Rozas)",
+  "medicine": "ATOSIBAN ALTAN 6.75 MG/0.9 ML SOLUCION INYECTABLE EFG , 1 ampolla de 0,9 ml (NR: 79315, CN: 704594)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "704594"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2022-05-18",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección, por el Laboratorio Oficial de Control de Medicamentos de la AEMPS, de un resultado fuera de especificaciones en el ensayo de partículas visibles",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/atosiban-altan-6-75-mg-0-9-ml-solucion-inyectable-efg-1-ampolla-de-09-ml-nr-79315-cn-704594/",
+  "warnings": []
+}

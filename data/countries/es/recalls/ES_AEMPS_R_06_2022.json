@@ -1,0 +1,35 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-02-15",
+  "expiry_dates": [],
+  "id": "ES_AEMPS_R_06_2022",
+  "local_id": "R_06/2022",
+  "lots": [
+    "P003",
+    "fecha de caducidad 31",
+    "05",
+    "2022"
+  ],
+  "manufacturer": "KERN PHARMA, S.L. – Pol. Ind. Colón II, C/ Venus, 72(Terrassa)",
+  "medicine": "CAFINITRINA COMPRIMIDOS RECUBIERTOS SUBLINGUALES, 20 comprimidos (NR: 35534, CN: 663240)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "663240"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-02-15",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el contenido del principio activo nitroglicerina detectado en estudios de estabilidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/cafinitrina-comprimidos-recubiertos-sublinguales-20-comprimidos-nr-35534-cn-663240/",
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-07-03",
+  "expiry_dates": [
+    "30",
+    "06",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_19_2023",
+  "local_id": "R_19/2023",
+  "lots": [
+    "G220299AG"
+  ],
+  "manufacturer": "MEDAC GESELLSCHAFT FÜR KLINISCHE SPEZIALPRÄPARATE GMBH – Theaterstrasse 6, Wedel, D-22880, Alemania",
+  "medicine": "DACARBAZINA MEDAC 500 mg POLVO PARA SOLUCION PARA PERFUSION, 1 vial (NR: 62333, CN: 700722)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "700722"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2023-07-03",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible coloración rosa del polvo del vial debido a un producto de degradación del principio activo",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/dacarbazina-medac-500-mg-polvo-para-solucion-para-perfusion-1-vial-nr-62333-cn-700722/",
+  "warnings": []
+}

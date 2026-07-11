@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-06-01",
+  "expiry_dates": [
+    "28",
+    "02",
+    "2027"
+  ],
+  "id": "ES_AEMPS_R_20_2026",
+  "local_id": "R_20/2026",
+  "lots": [
+    "24008101"
+  ],
+  "manufacturer": "L. MOLTENI & C. DEI FRATELLI ALITTI SOCIETA DI ESERCIZIO S.P.A. – Strada Statale 67 Fraz. Granatieri, Scandicci (Firenze), I-50018, Italia",
+  "medicine": "ORAMORPH 2 MG/ML SOLUCION ORAL , 1 frasco de 100 ml (NR: 62039, CN: 821934)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "821934"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2026-06-01",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en impurezas totales detectado en estudios de estabilidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/oramorph-2-mg-ml-solucion-oral-1-frasco-de-100-ml-nr-62039-cn-821934/",
+  "warnings": []
+}

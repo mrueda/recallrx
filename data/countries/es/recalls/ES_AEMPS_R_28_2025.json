@@ -1,0 +1,69 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-11-24",
+  "expiry_dates": [
+    "Lote: A25A1",
+    "fecha de caducidad 28",
+    "02",
+    "2027 Lote: A25C1",
+    "2027 Lote: A2581",
+    "2027 Lote: A2591",
+    "2027 Lote: A27X1",
+    "2027 Lote: A2801",
+    "2027 Lote: A6MK2",
+    "fecha de caducidad 30",
+    "06",
+    "2027 Lote: A6ML1",
+    "2027 Lote: A6MM1",
+    "2027 Lote: A6MN1",
+    "fecha de caducidad 31",
+    "07",
+    "2027 Lote: XCKU1",
+    "11",
+    "2026 Lote: XCKV1",
+    "2026 Lote: XCKX1",
+    "2026 Lote: X0RA1",
+    "01",
+    "2026 Lote: X0R91",
+    "2026 Lote: X1HX1",
+    "2026 Lote: X5UF1",
+    "05",
+    "2026 Lote: X60J1",
+    "2026 Lote: X61X1",
+    "2026 Lote: X86M1",
+    "2026 Lote: X86N1",
+    "2026 Lote: X86P1",
+    "2026 Lote: X86R1",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_28_2025",
+  "local_id": "R_28/2025",
+  "lots": [
+    "A25A1",
+    "fecha de caducidad 28",
+    "02",
+    "2027"
+  ],
+  "manufacturer": "LABORATORIOS NORMON, S.A. – Ronda de Valdecarrizo, 6(Tres Cantos)",
+  "medicine": "SITAGLIPTINA/METFORMINA NORMON 50 MG/1.000 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 56 comprimidos (Al/PA/Al/PVC) (NR: 86437, CN: 732411)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "732411"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-11-24",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de impurezas por encima de su límite establecido",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/sitagliptina-metformina-normon-50-mg-1-000-mg-comprimidos-recubiertos-con-pelicula-efg-56-comprimidos-al-pa-al-pvc-nr-86437-cn-732411/",
+  "warnings": []
+}

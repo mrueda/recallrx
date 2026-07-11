@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-07-08",
+  "expiry_dates": [
+    "31",
+    "05",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_23_2022",
+  "local_id": "R_23/2022",
+  "lots": [
+    "J0143"
+  ],
+  "manufacturer": "SANOFI AVENTIS, S.A. – Josep Pla, 2(Barcelona)",
+  "medicine": "HIDROQUINIDINA SERECOR 300 MG CAPSULAS DURAS DE LIBERACION PROLONGADA , 60 cápsulas (NR: 79946, CN: 706808)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "706808"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-07-08",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el ensayo de disolución, obtenido durante los estudios de estabilidad en curso",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/hidroquinidina-serecor-300-mg-capsulas-duras-de-liberacion-prolongada-60-capsulas-nr-79946-cn-706808/",
+  "warnings": []
+}

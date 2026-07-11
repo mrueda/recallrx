@@ -1,0 +1,59 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-12-10",
+  "expiry_dates": [
+    "METOJECT 15 mg",
+    "0",
+    "30 ml SOLUCION INYECTABLE EN JERINGA PRECARGADA",
+    "1 jeringa precargada de 0",
+    "3 ml (NR: 71109",
+    "CN: 673211) Lote: G250405CA",
+    "fecha de caducidad 31",
+    "07",
+    "2027 METOJECT 30 mg",
+    "60 ml SOLUCION INYECTABLE EN JERINGA PRECARGADA",
+    "4 jeringas precargadas de 0",
+    "6 ml (NR: 72384",
+    "CN: 681784) Lote: G250396CA",
+    "CN: 673214) Lote: G250396CB",
+    "2027"
+  ],
+  "id": "ES_AEMPS_R_32_2025",
+  "local_id": "R_32/2025",
+  "lots": [
+    "G250396CB",
+    "fecha de caducidad 31",
+    "07",
+    "2027"
+  ],
+  "manufacturer": "MEDAC GESELLSCHAFT FÜR KLINISCHE SPEZIALPRÄPARATE GMBH – Theaterstrasse 6, Wedel, D-22880, Alemania",
+  "medicine": "METOJECT 15 mg/ 0,30 ml SOLUCION INYECTABLE EN JERINGA PRECARGADA , 1 jeringa precargada de 0,3 ml (NR: 71109, CN: 673211) METOJECT 30 mg/0,60 ml SOLUCION INYECTABLE EN JERINGA PRECARGADA , 4 jeringas precargadas de 0,6 ml (NR: 72384, CN: 681784) METOJECT 30 mg/0,60 ml SOLUCION INYECTABLE EN JERINGA PRECARGADA , 1 jeringa precargada de 0,6 ml (NR: 72384, CN: 673214)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "673211"
+    },
+    {
+      "system": "CN",
+      "value": "681784"
+    },
+    {
+      "system": "CN",
+      "value": "673214"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-12-10",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posibilidad de jeringas defectuosas afectando a su integridad",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/metoject-30-mg-060-ml-solucion-inyectable-en-jeringa-precargada-varias-presentaciones/",
+  "warnings": []
+}

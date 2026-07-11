@@ -1,0 +1,71 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-03-23",
+  "expiry_dates": [
+    "UROGRAFIN 370 MG IODO",
+    "ML SOLUCION INYECTABLE",
+    "PARA PERFUSION",
+    "1 frasco de 50 ml (NR: 23817",
+    "CN: 914614) Lote: MA04K8T",
+    "fecha de caducidad 30",
+    "04",
+    "2029 Lote: MA04PP9",
+    "06",
+    "2029 Lote: MA04TK8",
+    "2030 Lote: MA04270",
+    "fecha de caducidad 31",
+    "07",
+    "2026 UROGRAFIN 370 MG IODO",
+    "1 frasco de 100 ml (NR: 23817",
+    "CN: 909846) Lote: MA04H8R",
+    "01",
+    "2029 Lote: MA04TM2",
+    "03",
+    "2030 Lote: MA047J3",
+    "1 ampolla de 20 ml (NR: 23817",
+    "CN: 910067) Lote: MA04EEN",
+    "09",
+    "2026 Lote: MA04MPU",
+    "2026 Lote: MA04S9T",
+    "2026 Lote: MA04XL6",
+    "2030"
+  ],
+  "id": "ES_AEMPS_R_15_2026",
+  "local_id": "R_15/2026",
+  "lots": [
+    "MA04K8T",
+    "fecha de caducidad 30",
+    "04",
+    "2029"
+  ],
+  "manufacturer": "BAYER HISPANIA, S.L. – Avda. Baix Llobregat, 3 y 5(Sant Joan Despi)",
+  "medicine": "UROGRAFIN 370 MG IODO/ML SOLUCION INYECTABLE Y PARA PERFUSION, 1 frasco de 50 ml (NR: 23817, CN: 914614) UROGRAFIN 370 MG IODO/ML SOLUCION INYECTABLE Y PARA PERFUSION, 1 ampolla de 20 ml (NR: 23817, CN: 910067) UROGRAFIN 370 MG IODO/ML SOLUCION INYECTABLE Y PARA PERFUSION, 1 frasco de 100 ml (NR: 23817, CN: 909846)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "914614"
+    },
+    {
+      "system": "CN",
+      "value": "910067"
+    },
+    {
+      "system": "CN",
+      "value": "909846"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2026-03-23",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de una impureza por encima de su límite establecido",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/urografin-370-mg-iodo-ml-solucion-inyectable-y-para-perfusion-varias-presentaciones/",
+  "warnings": []
+}

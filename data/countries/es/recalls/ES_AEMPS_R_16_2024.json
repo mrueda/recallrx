@@ -1,0 +1,43 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-08-05",
+  "expiry_dates": [
+    "Lote: 22106407",
+    "fecha de caducidad 28",
+    "02",
+    "2025 Lote: 22201405",
+    "fecha de caducidad 30",
+    "04",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_16_2024",
+  "local_id": "R_16/2024",
+  "lots": [
+    "22106407",
+    "fecha de caducidad 28",
+    "02",
+    "2025"
+  ],
+  "manufacturer": "B. BRAUN MEDICAL, S.A. – Ctra. Terrassa, 121(Rubí)",
+  "medicine": "AGUA PARA PREPARACIONES INYECTABLES B.BRAUN DISOLVENTE PARA USO PARENTERAL,500 ampollas de 5 ml (NR: 58448, CN: 721866)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "721866"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2024-08-05",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Contaminación cruzada",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/agua-para-preparaciones-inyectables-b-braun-disolvente-para-uso-parenteral500-ampollas-de-5-ml-nr-58448-cn-721866/",
+  "warnings": []
+}

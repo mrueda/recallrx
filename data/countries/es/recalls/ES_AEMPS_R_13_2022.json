@@ -1,0 +1,68 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-04-28",
+  "expiry_dates": [
+    "ACUPREL 20 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+    "28 comprimidos (NR: 59082",
+    "CN: 725150) Lote: DT1726",
+    "fecha de caducidad 30",
+    "04",
+    "2023 Lote: EP6755",
+    "09",
+    "2023 Lote: FF8049",
+    "2023 Lote: FJ7223",
+    "2023 Lote: FM6653",
+    "2023 ACUPREL 40 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+    "28 comprimidos (NR: 61710",
+    "CN: 667964) Lote: CY1994",
+    "2022 Lote: DT1722",
+    "2022 Lote: EM1564",
+    "fecha de caducidad 31",
+    "12",
+    "2022 Lote: FA3732",
+    "2022 Lote: FJ1093",
+    "2024 ACUPREL 5 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+    "60 comprimidos (NR: 59081",
+    "CN: 731919) Lote: FF2036",
+    "05",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_13_2022",
+  "local_id": "R_13/2022",
+  "lots": [
+    "DT1726",
+    "fecha de caducidad 30",
+    "04",
+    "2023"
+  ],
+  "manufacturer": "PFIZER, S.L. – Avda. de Europa, 20B, Parque Empresarial La Moraleja(Alcobendas)",
+  "medicine": "ACUPREL 20 mg COMPRIMIDOS RECUBIERTOS CON PELICULA , 28 comprimidos (NR: 59082, CN: 725150) ACUPREL 40 mg COMPRIMIDOS RECUBIERTOS CON PELICULA , 28 comprimidos (NR: 61710, CN: 667964) ACUPREL 5 mg COMPRIMIDOS RECUBIERTOS CON PELICULA , 60 comprimidos (NR: 59081, CN: 731919)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "725150"
+    },
+    {
+      "system": "CN",
+      "value": "667964"
+    },
+    {
+      "system": "CN",
+      "value": "731919"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-04-28",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de una impureza por encima de su límite establecido",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/acuprel-comprimidos-recubiertos-con-pelicula-varias-presentaciones/",
+  "warnings": []
+}

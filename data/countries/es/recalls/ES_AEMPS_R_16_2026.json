@@ -1,0 +1,66 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-03-25",
+  "expiry_dates": [
+    "OMNIPAQUE 300 mg Iodo",
+    "ml SOLUCION INYECTABLE",
+    "10 frascos de 100 ml (NR: 62018",
+    "CN: 607582) Lote: 17353261",
+    "fecha de caducidad 31",
+    "10",
+    "2028 OMNIPAQUE 350 mg Iodo",
+    "10 frascos de 100 ml (NR: 62019",
+    "CN: 607586) Lote: 17277208",
+    "07",
+    "2028 Lote: 17327354",
+    "2028 Lote: 17340558",
+    "fecha de caducidad 30",
+    "11",
+    "2028 VISIPAQUE 320 mg",
+    "10 frascos de 100 ml (NR: 60637",
+    "CN: 607595) Lote: 17244652",
+    "2028 Lote: 17303308",
+    "08",
+    "2028 Lote: 17312888",
+    "09",
+    "2028"
+  ],
+  "id": "ES_AEMPS_R_16_2026",
+  "local_id": "R_16/2026",
+  "lots": [
+    "17277208",
+    "fecha de caducidad 31",
+    "07",
+    "2028"
+  ],
+  "manufacturer": "GE HEALTHCARE BIO-SCIENCES, S.A. – C/ Gobelas, 35-37 – La Florida(Madrid)",
+  "medicine": "OMNIPAQUE 300 mg Iodo /ml SOLUCION INYECTABLE, 10 frascos de 100 ml (NR: 62018, CN: 607582) OMNIPAQUE 350 mg Iodo /ml SOLUCION INYECTABLE, 10 frascos de 100 ml (NR: 62019, CN: 607586) VISIPAQUE 320 mg /ml SOLUCION INYECTABLE, 10 frascos de 100 ml (NR: 60637, CN: 607595)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "607582"
+    },
+    {
+      "system": "CN",
+      "value": "607586"
+    },
+    {
+      "system": "CN",
+      "value": "607595"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2026-03-26",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible presencia de partículas de origen metálico",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/omnipaque-300-mg-omnipaque-350-mg-iodo-ml-solucion-inyectable-y-visipaque-320-mg-ml-solucion-inyectable/",
+  "warnings": []
+}

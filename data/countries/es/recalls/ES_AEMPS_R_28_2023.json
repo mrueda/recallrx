@@ -1,0 +1,45 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-08-30",
+  "expiry_dates": [
+    "Lote: 21J004",
+    "fecha de caducidad 31",
+    "08",
+    "2023 Lote: 22C049",
+    "fecha de caducidad 28",
+    "02",
+    "2024 Lote: 22D022",
+    "03",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_28_2023",
+  "local_id": "R_28/2023",
+  "lots": [
+    "21J004",
+    "fecha de caducidad 31",
+    "08",
+    "2023"
+  ],
+  "manufacturer": "PHARMA STULLN GMBH – Werksstrasse, 3, Stulln, 92551, Alemania",
+  "medicine": "KETOBRILL 0,25 mg/ml COLIRIO EN SOLUCIÓN EN ENVASE UNIDOSIS , 20 envases unidosis con 0,4 ml de colirio (NR: 77213, CN: 697080)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "697080"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-08-30",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Reutilización de filtros estériles en su fabricación sin que dicha reutilización se encuentre validada.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/retirada-de-ketobrill-025-mg-ml-colirio-en-solucion-en-envase-unidosis-20-envases-unidosis-con-04-ml-de-colirio-nr-77213-cn-697080/",
+  "warnings": []
+}

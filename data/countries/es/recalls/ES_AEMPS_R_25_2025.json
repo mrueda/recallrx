@@ -1,0 +1,80 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-10-03",
+  "expiry_dates": [
+    "LENALIDOMIDA MYLAN 10 mg CAPSULAS DURAS EFG",
+    "21 cápsulas (NR: 1201490010",
+    "CN: 731073) Lote: 3168537",
+    "fecha de caducidad 30",
+    "11",
+    "2025 Lote: 8170999",
+    "09",
+    "2026 Lote: 8182754",
+    "fecha de caducidad 31",
+    "03",
+    "2027 LENALIDOMIDA MYLAN 15 mg CAPSULAS DURAS EFG",
+    "21 cápsulas (NR: 1201490012",
+    "CN: 731077) Lote: 8176404",
+    "12",
+    "2026 LENALIDOMIDA MYLAN 20 mg CAPSULAS DURAS EFG",
+    "21 cápsulas (NR: 1201490015",
+    "CN: 731074) Lote: 3204427",
+    "fecha de caducidad 28",
+    "02",
+    "2027 LENALIDOMIDA MYLAN 25 mg CAPSULAS DURAS EFG",
+    "21 cápsulas (NR: 1201490018",
+    "CN: 731076) Lote: 3179819",
+    "04",
+    "2026 LENALIDOMIDA MYLAN 5 mg CAPSULAS DURAS EFG",
+    "21 cápsulas (NR: 1201490005",
+    "CN: 731072) Lote: 8179821",
+    "2027 Lote: 8182752",
+    "2027"
+  ],
+  "id": "ES_AEMPS_R_25_2025",
+  "local_id": "R_25/2025",
+  "lots": [
+    "3168537",
+    "fecha de caducidad 30",
+    "11",
+    "2025"
+  ],
+  "manufacturer": "MYLAN IRELAND LIMITED – Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, , Irlanda",
+  "medicine": "LENALIDOMIDA MYLAN 10 mg CAPSULAS DURAS EFG, 21 cápsulas (NR: 1201490010, CN: 731073) LENALIDOMIDA MYLAN 15 mg CAPSULAS DURAS EFG, 21 cápsulas (NR: 1201490012, CN: 731077) LENALIDOMIDA MYLAN 20 mg CAPSULAS DURAS EFG, 21 cápsulas (NR: 1201490015, CN: 731074) LENALIDOMIDA MYLAN 25 mg CAPSULAS DURAS EFG, 21 cápsulas (NR: 1201490018, CN: 731076) LENALIDOMIDA MYLAN 5 mg CAPSULAS DURAS EFG, 21 cápsulas (NR: 1201490005, CN: 731072)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "731073"
+    },
+    {
+      "system": "CN",
+      "value": "731077"
+    },
+    {
+      "system": "CN",
+      "value": "731074"
+    },
+    {
+      "system": "CN",
+      "value": "731076"
+    },
+    {
+      "system": "CN",
+      "value": "731072"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2025-10-03",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Cápsulas rotas y presencia de polvo procedente de las cápsulas en algunos alveolos.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/lenalidomida-mylan-capsulas-duras-efg-21-capsulas-varias-presentaciones/",
+  "warnings": []
+}

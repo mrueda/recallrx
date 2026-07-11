@@ -1,0 +1,41 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales.",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-06-28",
+  "expiry_dates": [
+    "Lote: R027",
+    "fecha de caducidad 31",
+    "10",
+    "2025 Lote: R034",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_21_2022",
+  "local_id": "R_21/2022",
+  "lots": [
+    "R027",
+    "fecha de caducidad 31",
+    "10",
+    "2025"
+  ],
+  "manufacturer": "LABORATORIO STADA, S.L. – C/ Frederic Mompou, 5(Sant Just Desvern)",
+  "medicine": "ALPRAZOLAM STADA 1 mg COMPRIMIDOS EFG, 30 comprimidos (NR: 63462, CN: 655282)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "655282"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-06-28",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en contenido detectado a raíz de los estudios de estabilidad.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/alprazolam-stada-1-mg-comprimidos-efg-30-comprimidos-nr-63462-cn-655282/",
+  "warnings": []
+}

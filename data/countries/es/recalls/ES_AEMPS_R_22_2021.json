@@ -1,0 +1,32 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al distribuidor paralelo ELAM PHARMA LABS, S.L. por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2021-11-02",
+  "expiry_dates": [],
+  "id": "ES_AEMPS_R_22_2021",
+  "local_id": "R_22/2021",
+  "lots": [
+    "FT028B"
+  ],
+  "manufacturer": "SANOFI CLIR SNC – 54, Rue la Boetie, Paris, 75008, Francia",
+  "medicine": "COAPROVEL 300 MG/25 MG COMPRIMIDOS RECUBIERTOS CON PELICULA, 28 comprimidos (NR: 98086024IP2, CN: 727428)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "727428"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2021-11-02",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección en el principio activo irbesartán de una impureza por encima de su límite aceptado",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/coaprovel-300-mg-25-mg-comprimidos-recubiertos-con-pelicula-28-comprimidos-2/",
+  "warnings": []
+}

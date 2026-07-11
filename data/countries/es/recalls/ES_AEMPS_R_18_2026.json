@@ -1,0 +1,87 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-05-06",
+  "expiry_dates": [
+    "EMULIQUEN LAXANTE 478",
+    "26 mg",
+    "ml + 0",
+    "3 mg",
+    "ml EMULSION ORAL",
+    "1 frasco de 230 ml (NR: 16678",
+    "CN: 744011) Lote: 1129",
+    "fecha de caducidad 30",
+    "04",
+    "2027 Lote: 1130",
+    "202 Lote: 1131",
+    "2027 Lote: 1132",
+    "fecha de caducidad 31",
+    "05",
+    "2027 Lote: 1133",
+    "2027 Lote: 1134",
+    "2027 Lote: 1138",
+    "06",
+    "2027 Lote: 1139",
+    "2027 Lote: 1140",
+    "2027 Lote: 1141",
+    "2027 Lote: 1142",
+    "2027 Lote: 1143",
+    "2027 Lote: 1144",
+    "07",
+    "2027 Lote: 1145",
+    "2027 Lote: 1146",
+    "2027 Lote: 1147",
+    "2027 Lote: 1148",
+    "2027 Lote: 1149",
+    "2027 EMULIQUEN LAXANTE 7.173",
+    "9 mg",
+    "4",
+    "5 mg EMULSION ORAL EN SOBRES",
+    "10 sobres (NR: 64258",
+    "CN: 821249) Lote: 1135",
+    "11",
+    "2026 Lote: 1136",
+    "2026 Lote: 1137",
+    "2026 EMULIQUEN LAXANTE 7.173",
+    "200 sobres (NR: 64258",
+    "CN: 603035 Lote: 1135",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_18_2026",
+  "local_id": "R_18/2026",
+  "lots": [
+    "1129",
+    "fecha de caducidad 30",
+    "04",
+    "2027"
+  ],
+  "manufacturer": "LAINCO, S.A. – Avenida Bizet, 8-12, Pol. Ind. Can. Jardi(Rubí)",
+  "medicine": "EMULIQUEN LAXANTE 478,26 mg/ml + 0,3 mg/ml EMULSION ORAL, 1 frasco de 230 ml (NR: 16678, CN: 744011) EMULIQUEN LAXANTE 7.173,9 mg/4,5 mg EMULSION ORAL EN SOBRES, 10 sobres (NR: 64258, CN: 821249) EMULIQUEN LAXANTE 7.173,9 mg/4,5 mg EMULSION ORAL EN SOBRES, 200 sobres (NR: 64258, CN: 603035)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "744011"
+    },
+    {
+      "system": "CN",
+      "value": "821249"
+    },
+    {
+      "system": "CN",
+      "value": "603035"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2026-05-06",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones del contenido en una impureza, detectado en estudios de estabilidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/emuliquen-laxante-varias-presentaciones/",
+  "warnings": []
+}

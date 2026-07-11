@@ -1,0 +1,75 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-01-27",
+  "expiry_dates": [
+    "IRBESARTAN COMBIX 300 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+    "28 comprimidos (NR: 74943",
+    "CN: 685373) Lote: M000689",
+    "fecha de caducidad 31",
+    "03",
+    "2023 Lote: M012157",
+    "fecha de caducidad 30",
+    "11",
+    "2023 IRBESARTAN COMBIX 75 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+    "28 comprimidos (NR: 74941",
+    "CN: 685371) Lote: M010064",
+    "07",
+    "2023 Lote: M100406",
+    "01",
+    "2024 IRBESARTÁN",
+    "HIDROCLOROTIAZIDA COMBIX 150 mg",
+    "12",
+    "5 mg COMPRIMIDOS RECUBIERTOS CON PELÍCULA EFG",
+    "28 comprimidos (NR: 75735",
+    "CN: 688986) Lote: M011549",
+    "08",
+    "2022 IRBESARTÁN",
+    "HIDROCLOROTIAZIDA PHARMA COMBIX 300 MG",
+    "25 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+    "28 comprimidos (NR: 77771",
+    "CN: 698714) Lote: M015999",
+    "2022"
+  ],
+  "id": "ES_AEMPS_R_03_2022",
+  "local_id": "R_03/2022",
+  "lots": [
+    "M000689",
+    "fecha de caducidad 31",
+    "03",
+    "2023"
+  ],
+  "manufacturer": "LABORATORIOS COMBIX, S.L.U. – C/ Badajoz 2, Edificio 2(Pozuelo de Alarcón)",
+  "medicine": "IRBESARTAN COMBIX 300 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG , 28 comprimidos (NR: 74943, CN: 685373) IRBESARTAN COMBIX 75 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 28 comprimidos (NR: 74941, CN: 685371) IRBESARTÁN/HIDROCLOROTIAZIDA COMBIX 150 mg/12,5 mg COMPRIMIDOS RECUBIERTOS CON PELÍCULA EFG, 28 comprimidos (NR: 75735, CN: 688986) IRBESARTÁN/HIDROCLOROTIAZIDA PHARMA COMBIX 300 MG/25 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG , 28 comprimidos (NR: 77771, CN: 698714)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "685373"
+    },
+    {
+      "system": "CN",
+      "value": "685371"
+    },
+    {
+      "system": "CN",
+      "value": "688986"
+    },
+    {
+      "system": "CN",
+      "value": "698714"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-01-27",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección en el principio activo irbesartan de una impureza por encima de su límite aceptado",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/irbesartan-combix-varias-presentaciones/",
+  "warnings": []
+}

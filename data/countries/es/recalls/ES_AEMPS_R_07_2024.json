@@ -1,0 +1,35 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales.",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-04-16",
+  "expiry_dates": [],
+  "id": "ES_AEMPS_R_07_2024",
+  "local_id": "R_07/2024",
+  "lots": [
+    "23I14",
+    "fecha de caducidad 31",
+    "08",
+    "2026"
+  ],
+  "manufacturer": "UCB PHARMA S.A. – Allée de la Recherche, 60, Bruselas, B-1070, Bélgica",
+  "medicine": "KEPPRA 100 mg/ml SOLUCION ORAL, 1 frasco de 150 ml con jeringa oral de 3 ml (NR: 00146031, CN: 663871)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "663871"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2024-04-16",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Desprendimiento de la tinta roja que marca la graduación en las jeringas dosificadoras.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/keppra-100-mg-ml-solucion-oral-1-frasco-de-150-ml-con-jeringa-oral-de-3-ml-nr-00146031-cn-663871/",
+  "warnings": []
+}

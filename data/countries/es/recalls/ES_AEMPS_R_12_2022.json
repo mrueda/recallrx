@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-04-26",
+  "expiry_dates": [
+    "31",
+    "10",
+    "2022"
+  ],
+  "id": "ES_AEMPS_R_12_2022",
+  "local_id": "R_12/2022",
+  "lots": [
+    "FS4S"
+  ],
+  "manufacturer": "GLAXOSMITHKLINE, S.A. – C/Severo Ochoa, 2, Parque Tecnológico de Madrid(Tres Cantos)",
+  "medicine": "ZINNAT 250 mg GRANULADO PARA SUSPENSION ORAL , 10 sobres (NR: 59063, CN: 695631)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "695631"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-04-26",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Obtención de resultados fuera de especificaciones en el estudio de estabilidad en los ensayos de apariencia, humedad e impureza",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/zinnat-250-mg-granulado-para-suspension-oral-10-sobres-nr-59063-cn-695631/",
+  "warnings": []
+}

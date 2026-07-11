@@ -1,0 +1,81 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-07-29",
+  "expiry_dates": [
+    "ATOMOXETINA CINFA 10 MG CAPSULAS DURAS EFG",
+    "7 cápsulas (Blister PVC",
+    "PE",
+    "PCTFE-Al) (NR: 82441",
+    "CN: 719098) Lote: 1300689",
+    "fecha de caducidad 30",
+    "11",
+    "2025 Lote: 1310377",
+    "2026 ATOMOXETINA CINFA 10 MG CAPSULAS DURAS EFG",
+    "28 cápsulas (Blister PVC",
+    "CN: 719099) Lote: 1301029",
+    "fecha de caducidad 31",
+    "01",
+    "2026 Lote: 1303185",
+    "03",
+    "2026 Lote: 1304069",
+    "2026 Lote: 1310440",
+    "2026 ATOMOXETINA CINFA 40 MG CAPSULAS DURAS EFG",
+    "PCTFE-Al) (NR: 82444",
+    "CN: 719110) Lote: 1110562",
+    "09",
+    "2024 Lote: 1300693",
+    "CN: 719111) Lote: 1309985",
+    "10",
+    "2026 ATOMOXETINA CINFA 80 MG CASULAS DURAS EFG",
+    "PCTFE-Al) (NR: 82446",
+    "CN: 719119) Lote: 1204407",
+    "04",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_15_2024",
+  "local_id": "R_15/2024",
+  "lots": [
+    "1300689",
+    "fecha de caducidad 30",
+    "11",
+    "2025"
+  ],
+  "manufacturer": "LABORATORIOS CINFA, S.A. – Ctra. Olaz Chipi, 10, Pol. Ind. Areta (Huarte)",
+  "medicine": "ATOMOXETINA CINFA 10 MG CAPSULAS DURAS EFG, 28 cápsulas (Blister PVC/PE/PCTFE-Al) (NR: 82441, CN: 719099) ATOMOXETINA CINFA 10 MG CAPSULAS DURAS EFG, 7 cápsulas (Blister PVC/PE/PCTFE-Al) (NR: 82441, CN: 719098) ATOMOXETINA CINFA 40 MG CAPSULAS DURAS EFG, 7 cápsulas (Blister PVC/PE/PCTFE-Al) (NR: 82444, CN: 719110) ATOMOXETINA CINFA 40 MG CAPSULAS DURAS EFG, 28 cápsulas (Blister PVC/PE/PCTFE-Al) (NR: 82444, CN: 719111) ATOMOXETINA CINFA 80 MG CASULAS DURAS EFG, 28 cápsulas (Blister PVC/PE/PCTFE-Al) (NR: 82446, CN: 719119)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "719099"
+    },
+    {
+      "system": "CN",
+      "value": "719098"
+    },
+    {
+      "system": "CN",
+      "value": "719110"
+    },
+    {
+      "system": "CN",
+      "value": "719111"
+    },
+    {
+      "system": "CN",
+      "value": "719119"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2024-07-30",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultados fuera de especificaciones en uno o varios parámetros, entre ellos contenido",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/atomoxetina-cinfa-capsulas-duras-efg/",
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2021-11-16",
+  "expiry_dates": [
+    "31",
+    "12",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_24_2021",
+  "local_id": "R_24/2021",
+  "lots": [
+    "21GD006B04"
+  ],
+  "manufacturer": "GUERBET – B.P. 57400, ROISSY CdG CEDEX, F-95943, Francia",
+  "medicine": "DOTAREM 0,5 mmol/ml SOLUCION INYECTABLE EN VIAL , 1 frasco de 10 ml (NR: 62165, CN: 658302)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "658302"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2021-11-16",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "El cuello del vial de vidrio evidencia fugas externas de la solución inyectable",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/dotarem-05-mmol-ml-solucion-inyectable-en-vial-1-frasco-de-10-ml/",
+  "warnings": []
+}

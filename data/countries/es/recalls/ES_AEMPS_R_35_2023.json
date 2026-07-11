@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-12-26",
+  "expiry_dates": [
+    "31",
+    "07",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_35_2023",
+  "local_id": "R_35/2023",
+  "lots": [
+    "NP5H649"
+  ],
+  "manufacturer": "NOVO NORDISK A/S – Novo Alle, Bagsvaerd, DK-2880, Dinamarca",
+  "medicine": "TRESIBA 100 UNIDADES/ML SOLUCION INYECTABLE EN PLUMA PRECARGADA, 5 plumas precargadas de 3 ml (NR: 112807004, CN: 697408)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "697408"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-12-26",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible presencia de cartuchos agrietados o rotos",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/tresiba-100-unidades-ml-solucion-inyectable-en-pluma-precargada-5-plumas-precargadas-de-3-ml-nr-112807004-cn-697408/",
+  "warnings": []
+}

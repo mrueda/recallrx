@@ -1,0 +1,59 @@
+{
+  "actions": "Retirada del mercado a nivel de paciente ( ver nota informativa ) de todas las unidades distribuidas de los lotes citados anteriormente y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-05-16",
+  "expiry_dates": [
+    "EMERADE 300 MICROGRAMOS SOLUCION INYECTABLE EN PLUMA PRECARGADA EFG",
+    "1 pluma precargada de 0",
+    "3 ml (NR: 80147",
+    "CN: 707618) Lote: Y0178B5C",
+    "fecha de caducidad 31",
+    "08",
+    "2023 Lote: Y0187B5A",
+    "fecha de caducidad 30",
+    "09",
+    "2023 Lote: Z0111B5E",
+    "04",
+    "2024 Lote: Z0112B2A",
+    "2024 EMERADE 500 MICROGRAMOS SOLUCION INYECTABLE EN PLUMA PRECARGADA",
+    "5 ml (NR: 80149",
+    "CN: 707627) Lote: Y0178C6B",
+    "2023 Lote: Y0187C4A",
+    "2023 Lote: Z0236C1A",
+    "11",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_16_2023",
+  "local_id": "R_16/2023",
+  "lots": [
+    "Y0178B5C",
+    "fecha de caducidad 31",
+    "08",
+    "2023"
+  ],
+  "manufacturer": "PHARMASWISS CESKA REPUBLIKA, S.R.O. – Jankovcova 1569/2c, Praga 7, 170 00, República Checa",
+  "medicine": "EMERADE 300 MICROGRAMOS SOLUCION INYECTABLE EN PLUMA PRECARGADA EFG, 1 pluma precargada de 0,3 ml (NR: 80147, CN: 707618) EMERADE 500 MICROGRAMOS SOLUCION INYECTABLE EN PLUMA PRECARGADA, 1 pluma precargada de 0,5 ml (NR: 80149, CN: 707627)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "707618"
+    },
+    {
+      "system": "CN",
+      "value": "707627"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-05-16",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Potencial fallo en el dispositivo de autoinyección ( ver nota informativa )",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/emerade-solucion-inyectable-en-pluma-precargada-varias-presentaciones/",
+  "warnings": []
+}

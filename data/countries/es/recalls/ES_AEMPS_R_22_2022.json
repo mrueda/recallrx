@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-06-28",
+  "expiry_dates": [
+    "31",
+    "10",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_22_2022",
+  "local_id": "R_22/2022",
+  "lots": [
+    "K3240"
+  ],
+  "manufacturer": "ALK ABELLO A/S – Bogue Alle, 6-8., Horsholm. Hovedstaden, DK-2970, Dinamarca",
+  "medicine": "JEXT 150 microgramos SOLUCION INYECTABLE EN PLUMA PRECARGADA , 1 pluma precargada de 0,15 ml (NR: 73186, CN: 677267)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "677267"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-06-28",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de algunas unidades con un defecto en el sistema de cierre de la cavidad donde se aloja la aguja",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/jext-150-microgramos-solucion-inyectable-en-pluma-precargada-1-pluma-precargada-de-015-ml-nr-73186-cn-677267/",
+  "warnings": []
+}

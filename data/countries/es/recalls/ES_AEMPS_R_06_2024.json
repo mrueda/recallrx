@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales.",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-03-13",
+  "expiry_dates": [
+    "31",
+    "12",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_06_2024",
+  "local_id": "R_06/2024",
+  "lots": [
+    "K230211RE"
+  ],
+  "manufacturer": "REDDY PHARMA IBERIA S.A.U. – Avenida Josep Tarradellas 38 (Barcelona)",
+  "medicine": "FULVESTRANT DR. REDDYS 250 MG SOLUCION INYECTABLE EN JERINGA PRECARGADA EFG, 2 jeringas precargadas de 5 ml + 2 agujas (NR: 82518, CN: 719459)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "719459"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2024-03-13",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "El envase no incluye las agujas necesarias para la administración del medicamento.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/fulvestrant-dr-reddys-250-mg-solucion-inyectable-en-jeringa-precargada-efg-2-jeringas-precargadas-de-5-ml-2-agujas-nr-82518-cn-719459/",
+  "warnings": []
+}

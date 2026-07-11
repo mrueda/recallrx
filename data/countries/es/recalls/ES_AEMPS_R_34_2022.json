@@ -1,0 +1,41 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-12-22",
+  "expiry_dates": [
+    "Lote: T002",
+    "fecha de caducidad 30",
+    "11",
+    "2024 Lote: T003",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_34_2022",
+  "local_id": "R_34/2022",
+  "lots": [
+    "T002",
+    "fecha de caducidad 30",
+    "11",
+    "2024"
+  ],
+  "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97(Martorelles)",
+  "medicine": "RASAGILINA PENSA 1 MG COMPRIMIDOS EFG 30 comprimidos (NR: 80345, CN: 708338)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "708338"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-12-22",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de una impureza por encima de su límite establecido.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/rasagilina-pensa-1-mg-comprimidos-efg-30-comprimidos/",
+  "warnings": []
+}

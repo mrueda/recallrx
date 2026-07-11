@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-05-08",
+  "expiry_dates": [
+    "30",
+    "11",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_14_2025",
+  "local_id": "R_14/2025",
+  "lots": [
+    "240803"
+  ],
+  "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97(Martorelles)",
+  "medicine": "DULOXETINA PENSA PHARMA 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 28 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79370, CN: 704749)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "704749"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-05-08",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de una impureza por encima de su límite establecido",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/duloxetina-pensa-pharma-30-mg-capsulas-duras-gastrorresistentes-efg-28-capsulas-blister-pvc-pvdc-aluminio-nr-79370-cn-704749/",
+  "warnings": []
+}

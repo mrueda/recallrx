@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-07-11",
+  "expiry_dates": [
+    "31",
+    "10",
+    "2027"
+  ],
+  "id": "ES_AEMPS_R_20_2025",
+  "local_id": "R_20/2025",
+  "lots": [
+    "5V86B"
+  ],
+  "manufacturer": "SANTEN OY – Niittyhaankatu 20, Tampere, FIN-33720, Finlandia",
+  "medicine": "COSDUO 20 MG/ML + 5 MG/ML COLIRIO EN SOLUCION 1 frasco de 5 ml (NR: 82086, CN: 716318)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "716318"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-07-11",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "No se puede garantizar su esterilidad debido a problemas de contaminación microbiológica en la planta de fabricación",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/cosduo-20-mg-ml-5-mg-ml-colirio-en-solucion-1-frasco-de-5-ml-nr-82086-cn-716318/",
+  "warnings": []
+}

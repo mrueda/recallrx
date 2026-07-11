@@ -1,0 +1,34 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 0.92,
+  "country": "ES",
+  "date": "2026-06-01",
+  "expiry_dates": [
+    "Solución cardiopléjica hemática (HM)"
+  ],
+  "id": "ES_AEMPS_R_19_2026",
+  "local_id": "R_19/2026",
+  "lots": [
+    "2621340259",
+    "fecha de caducidad 20",
+    "06",
+    "2026"
+  ],
+  "manufacturer": "B. Braun Medical, S.A. Carretera de Terrassa, 121, 08191 Rubí (Barcelona)",
+  "medicine": "Solución cardiopléjica hemática (HM) con potasio Solución cardiopléjica hemática (HM) sin potasio Solución cardiopléjica IB",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [],
+  "product_type": "Fórmula magistral",
+  "publication_date": "2026-06-01",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Se ha detectado la falta de incorporación del cloruro cálcico indicado en la composición de la solución",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/solucion-cardioplejica-varias-presentaciones/",
+  "warnings": [
+    "missing_cn"
+  ]
+}

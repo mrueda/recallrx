@@ -1,18 +1,22 @@
 {
   "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
   "authority": "AEMPS",
-  "confidence": 0.84,
+  "confidence": 1.0,
   "country": "ES",
   "date": "2026-06-03",
-  "expiry_dates": [],
+  "expiry_dates": [
+    "30",
+    "09",
+    "2026"
+  ],
   "id": "ES_AEMPS_R_21_2026",
   "local_id": "R_21/2026",
   "lots": [
-    "ABC123"
+    "3V27"
   ],
-  "manufacturer": "ALCON HEALTHCARE, S.A.",
-  "medicine": "OCULOTECT 50 mg/ml COLIRIO EN SOLUCION, 1 frasco de 10 ml",
-  "pdf_url": "https://www.aemps.gob.es/informa/alertas/medicamentosUsoHumano/2026/docs/R21_2026.pdf",
+  "manufacturer": "ALCON HEALTHCARE, S.A. – World Trade Center Almeda Park Edificio 6 Planta 3 Plaça de la Pau s/n(Cornellà de Llobregat)",
+  "medicine": "OCULOTECT 50 mg/ml COLIRIO EN SOLUCION , 1 frasco de 10 ml (NR: 61982, CN: 755215)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
   "product_codes": [
     {
       "system": "CN",
@@ -22,13 +26,11 @@
   "product_type": "Medicamento",
   "publication_date": "2026-06-04",
   "raw": {
-    "parser": "seed",
-    "title": "OCULOTECT 50 mg/ml COLIRIO EN SOLUCION, 1 frasco de 10 ml (NR: 61982, CN: 755215)"
+    "parser": "aemps_html",
+    "title": ""
   },
-  "reason": "Defecto de calidad que no supone un riesgo vital para el paciente",
-  "recall_class": "2",
+  "reason": "Posibles deficiencias relacionadas con la fabricación del medicamento",
+  "recall_class": "3",
   "source_url": "https://www.aemps.gob.es/informa/oculotect-50-mg-ml-colirio-en-solucion-1-frasco-de-10-ml-nr-61982-cn-755215/",
-  "warnings": [
-    "seed_record"
-  ]
+  "warnings": []
 }

@@ -1,0 +1,42 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-09-26",
+  "expiry_dates": [
+    "Lote: 2100006D",
+    "fecha de caducidad 31",
+    "01",
+    "2024 Lote: 2100240B",
+    "03",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_29_2022",
+  "local_id": "R_29/2022",
+  "lots": [
+    "2100006D",
+    "fecha de caducidad 31",
+    "01",
+    "2024"
+  ],
+  "manufacturer": "REDDY PHARMA IBERIA S.A.U. – Avenida Josep Tarradellas 38 (Barcelona)",
+  "medicine": "VORICONAZOL DR. REDDYS 200 MG POLVO PARA SOLUCION PARA PERFUSION EFG, 1 vial (NR: 80750, CN: 710365)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "710365"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2022-09-26",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Incumplimiento de las normas de correcta fabricación del fabricante MEFAR LLAC SANAYII A.S.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/voriconazol-dr-reddys-200-mg-polvo-para-solucion-para-perfusion-efg-1-vial-nr-80750-cn-710365/",
+  "warnings": []
+}

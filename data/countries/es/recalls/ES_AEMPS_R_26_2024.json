@@ -1,0 +1,67 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-12-20",
+  "expiry_dates": [
+    "DULOXETINA PENSA PHARMA 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG",
+    "7 cápsulas (Blister PVC",
+    "PVDC-ALUMINIO) (NR: 79370",
+    "CN: 704748) Lote: 220499",
+    "fecha de caducidad 28",
+    "02",
+    "2025 DULOXETINA PENSA PHARMA 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG",
+    "28 cápsulas (Blister PVC",
+    "CN: 704749) Lote: 220147",
+    "fecha de caducidad 31",
+    "01",
+    "2025 DULOXETINA PENSA PHARMA 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG",
+    "PVDC-ALUMINIO) (NR: 79371",
+    "CN: 704751) Lote: 220082",
+    "2025 Lote: 220151",
+    "56 cápsulas (PVC",
+    "PVDC-Aluminio) (NR: 79371",
+    "CN: 706553) Lote: 220393",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_26_2024",
+  "local_id": "R_26/2024",
+  "lots": [
+    "220082",
+    "fecha de caducidad 31",
+    "01",
+    "2025"
+  ],
+  "manufacturer": "TOWA PHARMACEUTICAL, S.A. – Carrer de Sant Martí números 75-97(Martorelles)",
+  "medicine": "DULOXETINA PENSA PHARMA 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 7 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79370, CN: 704748) DULOXETINA PENSA PHARMA 30 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 28 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79370, CN: 704749) DULOXETINA PENSA PHARMA 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 28 cápsulas (Blister PVC/PVDC-ALUMINIO) (NR: 79371, CN: 704751) DULOXETINA PENSA PHARMA 60 MG CAPSULAS DURAS GASTRORRESISTENTES EFG , 56 cápsulas (PVC/PVDC-Aluminio) (NR: 79371, CN: 706553)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "704748"
+    },
+    {
+      "system": "CN",
+      "value": "704749"
+    },
+    {
+      "system": "CN",
+      "value": "704751"
+    },
+    {
+      "system": "CN",
+      "value": "706553"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2024-12-20",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de una impureza por encima de su límite establecido",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/duloxetina-pensa-pharma-capsulas-duras-gastrorresistentes-efg-varias-presentaciones/",
+  "warnings": []
+}

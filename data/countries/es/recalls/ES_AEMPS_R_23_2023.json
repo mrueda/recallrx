@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-07-21",
+  "expiry_dates": [
+    "31",
+    "12",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_23_2023",
+  "local_id": "R_23/2023",
+  "lots": [
+    "TREP0771"
+  ],
+  "manufacturer": "AMOMED PHARMA GMBH – Leopold-Ungar-Platz 2, Doebling, Vienna, 1190, Austria",
+  "medicine": "TRESUVI 1 MG/ML SOLUCION PARA PERFUSION EFG, 1 vial de 10 ml (NR: 84771, CN: 727693)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "727693"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2023-07-21",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Presencia de partículas detectadas durante una inspección visual",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/tresuvi-1-mg-ml-solucion-para-perfusion-efg-1-vial-de-10-ml-nr-84771-cn-727693/",
+  "warnings": []
+}

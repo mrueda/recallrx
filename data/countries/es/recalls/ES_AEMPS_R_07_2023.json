@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-03-14",
+  "expiry_dates": [
+    "31",
+    "12",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_07_2023",
+  "local_id": "R_07/2023",
+  "lots": [
+    "U12671F"
+  ],
+  "manufacturer": "FERRING, S.A.U. – C del Arquitecto Sánchez Arca, 3 (Madrid)",
+  "medicine": "GONAPEPTYL DEPOT 3,75 mg POLVO Y DISOLVENTE PARA SUSPENSION INYECTABLE, 1 jeringa precargada + 1 jeringa precargada de disolvente (NR: 64530, CN: 742247)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "742247"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-03-14",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible falta de esterilidad de la aguja de inyección",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/gonapeptyl-depot-375-mg-polvo-y-disolvente-para-suspension-inyectable-1-jeringa-precargada-1-jeringa-precargada-de-disolvente-nr-64530-cn-742247/",
+  "warnings": []
+}

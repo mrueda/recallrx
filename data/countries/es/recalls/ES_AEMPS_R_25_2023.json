@@ -1,0 +1,95 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-07-27",
+  "expiry_dates": [
+    "FLUCONAZOL B. BRAUN 2 mg",
+    "ml SOLUCION PARA PERFUSION EFG",
+    "20 viales de 50 ml (NR: 71461",
+    "CN: 603231) Lote: 22093402",
+    "fecha de caducidad 29",
+    "02",
+    "2024 FLUCONAZOL B. BRAUN 2 mg",
+    "20 viales de 100 ml (NR: 71461",
+    "CN: 603232) Lote: 22094402",
+    "2024 IBUPROFENO B.BRAUN 400 MG SOLUCION PARA PERFUSION",
+    "10 frascos de 100 ml (NR: 82170",
+    "CN: 716602) Lote: 21387414",
+    "fecha de caducidad 31",
+    "08",
+    "2024 Lote: 22037414",
+    "12",
+    "2024 Lote: 22095402",
+    "fecha de caducidad 28",
+    "2025 Lote: 22167403",
+    "03",
+    "2025 ONDANSETRON B. BRAUN 0",
+    "08 MG",
+    "ML SOLUCION PARA PERFUSION",
+    "10 frascos de 100 ml (NR: 81830",
+    "CN: 715257) Lote: 21425403",
+    "fecha de caducidad 30",
+    "09",
+    "2023 ONDANSETRON B. BRAUN 0",
+    "16 MG",
+    "10 frascos de 50 ml (NR: 81829",
+    "CN: 715256) Lote: 21385407",
+    "2023 Lote: 21511401",
+    "11",
+    "2023 PARACETAMOL B.BRAUN 10 mg",
+    "10 frascos de 50 ml (NR: 75594",
+    "CN: 605780) Lote: 21362401",
+    "2023 Lote: 21363402",
+    "2023 Lote: 21423401",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_25_2023",
+  "local_id": "R_25/2023",
+  "lots": [
+    "21387414",
+    "fecha de caducidad 31",
+    "08",
+    "2024"
+  ],
+  "manufacturer": "B. BRAUN MELSUNGEN AG – Carl-Braun Strasse, 1, Melsungen. Hesse, D-34212, Alemania",
+  "medicine": "FLUCONAZOL B. BRAUN 2 mg/ml SOLUCION PARA PERFUSION EFG , 20 viales de 50 ml (NR: 71461, CN: 603231) FLUCONAZOL B. BRAUN 2 mg/ml SOLUCION PARA PERFUSION EFG , 20 viales de 100 ml (NR: 71461, CN: 603232) IBUPROFENO B.BRAUN 400 MG SOLUCION PARA PERFUSION, 10 frascos de 100 ml (NR: 82170, CN: 716602) ONDANSETRON B. BRAUN 0,08 MG/ML SOLUCION PARA PERFUSION, 10 frascos de 100 ml (NR: 81830, CN: 715257) ONDANSETRON B. BRAUN 0,16 MG/ML SOLUCION PARA PERFUSION, 10 frascos de 50 ml (NR: 81829, CN: 715256) PARACETAMOL B.BRAUN 10 mg/ml SOLUCION PARA PERFUSION EFG , 10 frascos de 50 ml (NR: 75594, CN: 605780)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "603231"
+    },
+    {
+      "system": "CN",
+      "value": "603232"
+    },
+    {
+      "system": "CN",
+      "value": "716602"
+    },
+    {
+      "system": "CN",
+      "value": "715257"
+    },
+    {
+      "system": "CN",
+      "value": "715256"
+    },
+    {
+      "system": "CN",
+      "value": "605780"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2023-07-27",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Contaminación cruzada",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/retirada-de-distintos-medicamentos-inyectables-b-braun-melsungen/",
+  "warnings": []
+}

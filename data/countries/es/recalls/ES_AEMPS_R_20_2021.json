@@ -1,0 +1,50 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2021-11-02",
+  "expiry_dates": [
+    "COAPROVEL 300 mg",
+    "25 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+    "28 comprimidos (NR: 98086024",
+    "CN: 656037) Lote: FT028",
+    "fecha de caducidad 31",
+    "01",
+    "2023 KARVEZIDE 300 mg",
+    "28 comprimidos (NR: 98085024",
+    "CN: 656038) Lote: FT029",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_20_2021",
+  "local_id": "R_20/2021",
+  "lots": [
+    "FT029",
+    "fecha de caducidad 31",
+    "01",
+    "2023"
+  ],
+  "manufacturer": "SANOFI-AVENTIS GROUPE – 54, Rue La Boétie, Paris, F-75008, Francia",
+  "medicine": "COAPROVEL 300 mg/25 mg COMPRIMIDOS RECUBIERTOS CON PELICULA, 28 comprimidos (NR: 98086024,CN:656037) KARVEZIDE 300 mg/25 mg COMPRIMIDOS RECUBIERTOS CON PELICULA, 28 comprimidos (NR: 98085024,CN:656038)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "656037"
+    },
+    {
+      "system": "CN",
+      "value": "656038"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2021-11-02",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección en el principio activo irbesartán de una impureza por encima de su límite aceptado",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/coaprovel-y-karvezide-300-mg-25-mg-comprimidos-recubiertos-con-pelicula-28-comprimidos/",
+  "warnings": []
+}

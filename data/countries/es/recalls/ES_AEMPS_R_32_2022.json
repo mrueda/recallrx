@@ -1,0 +1,50 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-10-06",
+  "expiry_dates": [
+    "CASPOFUNGINA SUN 50 MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSION EFG",
+    "1 vial (NR: 82789",
+    "CN: 720418) Lote: 012048D",
+    "fecha de caducidad 31",
+    "12",
+    "2022 CASPOFUNGINA SUN 70 MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSION EFG",
+    "1 vial (NR: 82790",
+    "CN: 720419) Lote: 101002C",
+    "01",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_32_2022",
+  "local_id": "R_32/2022",
+  "lots": [
+    "101002C",
+    "fecha de caducidad 31",
+    "01",
+    "2023"
+  ],
+  "manufacturer": "SUN PHARMACEUTICAL INDUSTRIES EUROPE B.V. – Polarisavenue, 87, Hoofddorp, 2132 JH, Holanda",
+  "medicine": "CASPOFUNGINA SUN 50 MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSION EFG, 1 vial (NR: 82789, CN: 720418) CASPOFUNGINA SUN 70 MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSION EFG, 1 vial (NR: 82790, CN: 720419)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "720418"
+    },
+    {
+      "system": "CN",
+      "value": "720419"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2022-10-06",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Incumplimiento de las normas de correcta fabricación del fabricante MEFAR LLAC SANAYII A.S.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/caspofungina-sun-polvo-para-concentrado-para-solucion-para-perfusion-efg-1-vial-varias-presentaciones/",
+  "warnings": []
+}

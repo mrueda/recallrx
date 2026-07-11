@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-03-31",
+  "expiry_dates": [
+    "31",
+    "07",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_10_2023",
+  "local_id": "R_10/2023",
+  "lots": [
+    "M010518"
+  ],
+  "manufacturer": "LABORATORIOS COMBIX, S.L.U. – C/ Badajoz 2, Edificio 2(Pozuelo de Alarcón)",
+  "medicine": "METFORMINA COMBIX 850 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG, 50 comprimidos (NR: 73662, CN: 673697)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "673697"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-03-31",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Obtención de un resultado fuera de especificaciones en el parámetro impureza, tras haber sido analizado por el Laboratorio Oficial de Control de Medicamentos de la AEMPS como parte del Programa de Control de Calidad de Medicamentos en el Mercado de 2022",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/metformina-combix-850-mg-comprimidos-recubiertos-con-pelicula-efg-50-comprimidos-nr-73662-cn-673697/",
+  "warnings": []
+}

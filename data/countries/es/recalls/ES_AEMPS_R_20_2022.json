@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales.",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-06-28",
+  "expiry_dates": [
+    "30",
+    "09",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_20_2022",
+  "local_id": "R_20/2022",
+  "lots": [
+    "N014"
+  ],
+  "manufacturer": "RATIOPHARM ESPAÑA, S.A. – C/ Anabel Segura, 11. Edificio Albatros B, 1ª planta(Alcobendas)",
+  "medicine": "ALPRAZOLAM RATIOPHARM 1 mg COMPRIMIDOS EFG , 30 comprimidos (NR: 63876, CN: 999725)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "999725"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-06-28",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en contenido detectado a raíz de los estudios de estabilidad.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/alprazolam-ratiopharm-1-mg-comprimidos-efg-30-comprimidos-nr-63876-cn-999725/",
+  "warnings": []
+}

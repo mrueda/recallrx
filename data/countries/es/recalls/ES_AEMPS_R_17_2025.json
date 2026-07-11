@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-06-13",
+  "expiry_dates": [
+    "31",
+    "03",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_17_2025",
+  "local_id": "R_17/2025",
+  "lots": [
+    "3D009AA12"
+  ],
+  "manufacturer": "IMMUNOCORE IRELAND LIMITED – Unit 1 Sky Business Centres, Unit 21 Block Port Tunnel Business Park, Clonshaugh, Dublin 17, Dublin, D17 FY82, Irlanda",
+  "medicine": "KIMMTRAK 100 MICROGRAMOS/0,5 ML CONCENTRADO PARA SOLUCION PARA PERFUSION, 1 vial de 0,5 ml (NR: 1221630001, CN: 759433)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "759433"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2025-06-13",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificación en el ensayo de potencia, detectado en estudios de estabilidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/kimmtrak-100-microgramos-05-ml-concentrado-para-solucion-para-perfusion-1-vial-de-05-ml-nr-1221630001-cn-759433/",
+  "warnings": []
+}

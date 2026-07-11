@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-02-13",
+  "expiry_dates": [
+    "30",
+    "06",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_02_2025",
+  "local_id": "R_02/2025",
+  "lots": [
+    "24048A1A"
+  ],
+  "manufacturer": "AVALON LABORATORIOS S.L. – C/ La Cora, nº 4. Local 1(Granada)",
+  "medicine": "EVEROLIMUS AVALON 5 MG COMPRIMIDOS EFG, 30 comprimidos (NR: 84204, CN: 725970)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "725970"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2025-02-13",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el ensayo de riqueza",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/everolimus-avalon-5-mg-comprimidos-efg-30-comprimidos/",
+  "warnings": []
+}

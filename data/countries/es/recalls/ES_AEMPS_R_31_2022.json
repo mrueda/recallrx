@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-09-28",
+  "expiry_dates": [
+    "31",
+    "03",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_31_2022",
+  "local_id": "R_31/2022",
+  "lots": [
+    "22C0169"
+  ],
+  "manufacturer": "ALTAN PHARMACEUTICALS, S.A. – C/ Cólquide, Nº 6, Portal 2, 1ª Planta, Oficina F. Edificio Prisma (Las Rozas)",
+  "medicine": "OMEPRAZOL ALTAN 40 mg POLVO PARA SOLUCION PARA PERFUSION EFG , 50 viales (NR: 66870, CN: 600258)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "600258"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2022-09-28",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible obtención de un resultado fuera de especificaciones en el ensayo de impurezas desconocidas antes del final de la vida útil del citado lote",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/omeprazol-altan-40-mg-polvo-para-solucion-para-perfusion-efg-50-viales-nr-66870-cn-600258/",
+  "warnings": []
+}

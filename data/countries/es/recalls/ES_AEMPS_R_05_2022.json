@@ -1,0 +1,44 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-02-03",
+  "expiry_dates": [],
+  "id": "ES_AEMPS_R_05_2022",
+  "local_id": "R_05/2022",
+  "lots": [
+    "Ver anexo"
+  ],
+  "manufacturer": "KERN PHARMA, S.L. – Pol. Ind. Colón II, C/ Venus, 72 (Terrassa)",
+  "medicine": "DIOSMINA KERN PHARMA 500 mg COMPRIMIDOS RECUBIERTOS CON PELICULA, 30 comprimidos (NR: 75652, CN: 688724) DIOSMINA KERN PHARMA 500 mg COMPRIMIDOS RECUBIERTOS CON PELICULA, 60 comprimidos (NR: 75652, CN: 688725) FLEBIKERN 500 MG COMPRIMIDOS RECUBIERTOS CON PELICULA , 60 comprimidos (NR: 77434, CN: 697683) FLEBIKERN 500 MG COMPRIMIDOS RECUBIERTOS CON PELICULA , 30 comprimidos (NR: 77434, CN: 697682)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "688724"
+    },
+    {
+      "system": "CN",
+      "value": "688725"
+    },
+    {
+      "system": "CN",
+      "value": "697683"
+    },
+    {
+      "system": "CN",
+      "value": "697682"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-02-07",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de una impureza por encima de su límite establecido",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/diosmina-kern-pharma-500-mg-comprimidos-y-flebikern-500-mg-comprimidos-varias-presentaciones/",
+  "warnings": []
+}

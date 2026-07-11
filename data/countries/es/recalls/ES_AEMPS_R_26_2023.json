@@ -1,0 +1,52 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-07-27",
+  "expiry_dates": [
+    "SUERO FISIOLOGICO VITULIA 0",
+    "9% SOLUCION PARA PERFUSION",
+    "20 frascos de 50 ml (NR: 41671",
+    "CN: 645382) Lote: 21384403",
+    "fecha de caducidad 31",
+    "08",
+    "2024 SUERO FISIOLOGICO VITULIA 0",
+    "1 frasco de 100 ml (NR: 41671",
+    "CN: 999789) Lote: 21304412",
+    "fecha de caducidad 30",
+    "06",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_26_2023",
+  "local_id": "R_26/2023",
+  "lots": [
+    "21304412",
+    "fecha de caducidad 30",
+    "06",
+    "2024"
+  ],
+  "manufacturer": "LABORATORIOS ERN, S.A. – C/ Perú, 228(Barcelona)",
+  "medicine": "SUERO FISIOLOGICO VITULIA 0,9% SOLUCION PARA PERFUSION, 1 frasco de 100 ml (NR: 41671, CN: 999789) SUERO FISIOLOGICO VITULIA 0,9% SOLUCION PARA PERFUSION, 20 frascos de 50 ml (NR: 41671, CN: 645382)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "999789"
+    },
+    {
+      "system": "CN",
+      "value": "645382"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-07-27",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Contaminación cruzada",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/suero-fisiologico-vitulia-09-solucion-para-perfusion-varias-presentaciones/",
+  "warnings": []
+}

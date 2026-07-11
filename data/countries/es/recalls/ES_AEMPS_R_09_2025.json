@@ -1,0 +1,73 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-03-12",
+  "expiry_dates": [
+    "TACROLIMUS STADAFARMA 0",
+    "5 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG",
+    "30 cápsulas (NR: 88078",
+    "CN: 758235) Lote: 1304816",
+    "fecha de caducidad 30",
+    "04",
+    "2025 Lote: 1402056",
+    "06",
+    "2026 TACROLIMUS STADAFARMA 1 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG",
+    "60 cápsulas (NR: 88079",
+    "CN: 758237) Lote: 1304839",
+    "2025 Lote: 1402065",
+    "11",
+    "2025 Lote: 1402066",
+    "2026 TACROLIMUS STADAFARMA 3 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG",
+    "30 cápsulas (NR: 88080",
+    "CN: 758238) Lote: 1304803",
+    "09",
+    "2025 Lote: 1402057",
+    "2025 TACROLIMUS STADAFARMA 5 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG",
+    "30 cápsulas (NR: 88081",
+    "CN: 758239) Lote: 1304807",
+    "2025 Lote: 1402059",
+    "2025 Lote: 1402075",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_09_2025",
+  "local_id": "R_09/2025",
+  "lots": [
+    "1304816",
+    "fecha de caducidad 30",
+    "04",
+    "2025"
+  ],
+  "manufacturer": "LABORATORIO STADA, S.L. – C/ Frederic Mompou, 5(Sant Just Desvern)",
+  "medicine": "TACROLIMUS STADAFARMA 0,5 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG, 30 cápsulas (NR: 88078, CN: 758235) TACROLIMUS STADAFARMA 1 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG, 60 cápsulas (NR: 88079, CN: 758237) TACROLIMUS STADAFARMA 3 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG, 30 cápsulas (NR: 88080, CN: 758238) TACROLIMUS STADAFARMA 5 MG CAPSULAS DURAS DE LIBERACION PROLONGADA EFG, 30 cápsulas (NR: 88081, CN: 758239)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "758235"
+    },
+    {
+      "system": "CN",
+      "value": "758237"
+    },
+    {
+      "system": "CN",
+      "value": "758238"
+    },
+    {
+      "system": "CN",
+      "value": "758239"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-03-12",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible obtención de resultados fuera de especificaciones en el ensayo de contenido durante los estudios de estabilidad en curso",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/tacrolimus-stadafarma-capsulas-duras-de-liberacion-prolongada-varias-presentaciones/",
+  "warnings": []
+}

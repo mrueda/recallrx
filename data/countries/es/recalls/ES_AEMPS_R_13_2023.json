@@ -1,0 +1,80 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-04-12",
+  "expiry_dates": [
+    "SOLSINT 112 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS",
+    "30 envases unidosis (NR: 85610",
+    "CN: 729891) Lote: 220852",
+    "fecha de caducidad 29",
+    "02",
+    "2024 SOLSINT 13 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS",
+    "30 envases unidosis (NR: 85613",
+    "CN: 729897) Lote: 220751",
+    "fecha de caducidad 31",
+    "01",
+    "2024 SOLSINT 150 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOS",
+    "30 envases unidosis (NR: 85614",
+    "CN: 729899) Lote: 220857",
+    "fecha de caducidad 28",
+    "2024 SOLSINT 200 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS",
+    "30 envases unidosis (NR: 85616",
+    "CN: 729903) Lote: 220860",
+    "2024 SOLSINT 75 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS",
+    "30 envases unidosis (NR: 85619",
+    "CN: 729910) Lote: 220853",
+    "2024 SOLSINT 88 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS",
+    "30 envases unidosis (NR: 85620",
+    "CN: 729912) Lote: 220854",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_13_2023",
+  "local_id": "R_13/2023",
+  "lots": [
+    "220854",
+    "fecha de caducidad 28",
+    "02",
+    "2024"
+  ],
+  "manufacturer": "IBSA FARMACEUTICI ITALIA SRL – Via Martiri di Cefalonia 2, Lodi, 26900, Italia",
+  "medicine": "SOLSINT 112 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85610, CN: 729891) SOLSINT 13 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85613, CN: 729897) SOLSINT 150 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOS, 30 envases unidosis (NR: 85614, CN: 729899) SOLSINT 200 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85616, CN: 729903) SOLSINT 75 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85619, CN: 729910) SOLSINT 88 MICROGRAMOS SOLUCION ORAL EN ENVASE UNIDOSIS, 30 envases unidosis (NR: 85620, CN: 729912)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "729891"
+    },
+    {
+      "system": "CN",
+      "value": "729897"
+    },
+    {
+      "system": "CN",
+      "value": "729899"
+    },
+    {
+      "system": "CN",
+      "value": "729903"
+    },
+    {
+      "system": "CN",
+      "value": "729910"
+    },
+    {
+      "system": "CN",
+      "value": "729912"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2023-04-12",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible resultado fuera de especificaciones en el contenido del principio activo levotiroxina",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/solsint-solucion-oral-en-envase-unidosis-varias-presentaciones-2/",
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-09-04",
+  "expiry_dates": [
+    "31",
+    "03",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_19_2024",
+  "local_id": "R_19/2024",
+  "lots": [
+    "2A"
+  ],
+  "manufacturer": "ALMIRALL, S.A. – Ronda General Mitre, 151(Barcelona)",
+  "medicine": "ILUMETRI 100 MG SOLUCION INYECTABLE EN PLUMA PRECARGADA, 1 pluma (NR: 1181323004, CN: 76226",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "76226"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2024-09-04",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Error en la fecha de caducidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/ilumetri-100-mg-solucion-inyectable-en-pluma-precargada-1-pluma-nr-1181323004-cn-762267/",
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-08-30",
+  "expiry_dates": [
+    "30",
+    "09",
+    "2022"
+  ],
+  "id": "ES_AEMPS_R_27_2022",
+  "local_id": "R_27/2022",
+  "lots": [
+    "CD65"
+  ],
+  "manufacturer": "WYETH FARMA, S.A. – Autovía del Norte A1, Km 23, desvío Algete, Km. 1",
+  "medicine": "METOTREXATO WYETH 1 g SOLUCION INYECTABLE, 10 viales de 40 ml (NR: 57415, CN: 639609)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "639609"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2022-08-30",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible obtención de un resultado fuera de especificaciones en el ensayo de apariencia a 24 meses",
+  "recall_class": "3",
+  "source_url": "https://www.aemps.gob.es/informa/metotrexato-wyeth-1-g-solucion-inyectable-10-viales-de-40-ml-nr-57415-cn-639609-dci-o-doe-metotrexato-sodio/",
+  "warnings": []
+}

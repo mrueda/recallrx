@@ -1,0 +1,55 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-04-12",
+  "expiry_dates": [
+    "MONTELUKAST CINFA 4 mg COMPRIMIDOS MASTICABLES EFG",
+    "28 comprimidos (NR: 74195",
+    "CN: 681038) Lote: BS1597",
+    "fecha de caducidad 31",
+    "05",
+    "2023 MONTELUKAST CINFA 5 mg COMPRIMIDOS MASTICABLES EFG",
+    "28 comprimidos (NR: 74196",
+    "CN: 681039) Lote: BR3131",
+    "07",
+    "2022 Lote: BS0957",
+    "fecha de caducidad 30",
+    "04",
+    "2023 Lote: BS2137",
+    "08",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_10_2022",
+  "local_id": "R_10/2022",
+  "lots": [
+    "BR3131",
+    "fecha de caducidad 31",
+    "07",
+    "2022"
+  ],
+  "manufacturer": "LABORATORIOS CINFA, S.A. – Ctra. Olaz Chipi, 10, Pol. Ind. Areta(Huarte)",
+  "medicine": "MONTELUKAST CINFA 4 mg COMPRIMIDOS MASTICABLES EFG , 28 comprimidos (NR: 74195, CN: 681038) MONTELUKAST CINFA 5 mg COMPRIMIDOS MASTICABLES EFG , 28 comprimidos (NR: 74196, CN: 681039)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "681038"
+    },
+    {
+      "system": "CN",
+      "value": "681039"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-04-12",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Obtención de resultados fuera de especificaciones en el ensayo de impurezas desconocidas",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/montelukast-cinfa-comprimidos-masticables-efg-28-comprimidos-varias-presentaciones/",
+  "warnings": []
+}

@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-03-10",
+  "expiry_dates": [
+    "28",
+    "02",
+    "2029"
+  ],
+  "id": "ES_AEMPS_R_08_2025",
+  "local_id": "R_08/2025",
+  "lots": [
+    "SM7997"
+  ],
+  "manufacturer": "TEVA PHARMA, S.L.U. – C/ Anabel Segura, 11, Edificio Albatros B, 1ª planta(Alcobendas)",
+  "medicine": "VENLAFAXINA RETARD TEVA 75 mg CAPSULAS DURAS DE LIBERACION PROLONGADA EFG , 30 cápsulas (NR: 69851, CN: 661052)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "661052"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-03-10",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Prospecto no actualizado",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/venlafaxina-retard-teva-75-mg-capsulas-duras-de-liberacion-prolongada-efg-30-capsulas-nr-69851-cn-661052/",
+  "warnings": []
+}

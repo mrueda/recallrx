@@ -1,0 +1,50 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales. Los pacientes deben devolver las unidades a su oficina de farmacia para sustitución por un nuevo envase de otro lote.",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-12-26",
+  "expiry_dates": [
+    "BLOKIUM-DIU 100 mg",
+    "25 mg COMPRIMIDOS",
+    "28 comprimidos (NR: 56665",
+    "CN: 964841) Lote: 3CP",
+    "fecha de caducidad 30",
+    "04",
+    "2027 BLOKIUM-DIU 100 mg",
+    "56 comprimidos (NR: 56665",
+    "CN: 989996) Lote: 3CP",
+    "2027"
+  ],
+  "id": "ES_AEMPS_R_33_2025",
+  "local_id": "R_33/2025",
+  "lots": [
+    "3CP",
+    "fecha de caducidad 30",
+    "04",
+    "2027"
+  ],
+  "manufacturer": "ALMIRALL, S.A. – Ronda General Mitre, 151(Barcelona)",
+  "medicine": "BLOKIUM-DIU 100 mg/25 mg COMPRIMIDOS, 28 comprimidos (NR: 56665, CN: 964841) BLOKIUM-DIU 100 mg/25 mg COMPRIMIDOS, 56 comprimidos (NR: 56665, CN: 989996)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "964841"
+    },
+    {
+      "system": "CN",
+      "value": "989996"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-12-26",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Falta de presencia de clortalidona en los comprimidos",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/blokium-diu-100-mg-25-mg-comprimidos-varias-presentaciones/",
+  "warnings": []
+}

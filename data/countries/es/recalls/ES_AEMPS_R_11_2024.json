@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-07-03",
+  "expiry_dates": [
+    "31",
+    "07",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_11_2024",
+  "local_id": "R_11/2024",
+  "lots": [
+    "1169337A"
+  ],
+  "manufacturer": "AMGEN EUROPE B.V. – Minervum 7061, BREDA, NL-4817 ZK, Holanda",
+  "medicine": "KYPROLIS 60 MG POLVO PARA SOLUCION PARA PERFUSION 1 vial (NR: 1151060001, CN: 709152)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "709152"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2024-07-04",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de algunos viales con tapón mal sellado que puede comprometer la esterilidad",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/kyprolis-60-mg-polvo-para-solucion-para-perfusion-1-vial-nr-1151060001-cn-709152/",
+  "warnings": []
+}

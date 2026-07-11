@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-04-04",
+  "expiry_dates": [
+    "31",
+    "12",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_12_2023",
+  "local_id": "R_12/2023",
+  "lots": [
+    "1151575A"
+  ],
+  "manufacturer": "AMGEN EUROPE B.V – Minervum 7061, BREDA, NL-4817 ZK, Holanda",
+  "medicine": "VECTIBIX 20 MG/ML CONCENTRADO PARA SOLUCION PARA PERFUSION, 1 vial de 5 ml (NR: 07423001, CN: 660251)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "660251"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2023-04-04",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de algunas unidades con defectos en el sellado de la cápsula",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/vectibix-20-mg-ml-concentrado-para-solucion-para-perfusion-1-vial-de-5-ml-nr-07423001-cn-660251/",
+  "warnings": []
+}

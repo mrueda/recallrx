@@ -1,0 +1,55 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales.",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2024-05-07",
+  "expiry_dates": [
+    "SUGAMMADEX GLENMARK 100 MG",
+    "ML SOLUCION INYECTABLE EFG",
+    "10 viales de 2 ml (NR: 88850",
+    "CN: 762769) Lote: 3017",
+    "fecha de caducidad 31",
+    "05",
+    "2025 Lote: 3031",
+    "2025 Lote: 4010",
+    "07",
+    "2025 SUGAMMADEX GLENMARK 100 MG",
+    "10 viales de 5 ml (NR: 88850",
+    "CN: 762770) Lote: 3019",
+    "fecha de caducidad 30",
+    "06",
+    "2025"
+  ],
+  "id": "ES_AEMPS_R_08_2024",
+  "local_id": "R_08/2024",
+  "lots": [
+    "3017",
+    "fecha de caducidad 31",
+    "05",
+    "2025"
+  ],
+  "manufacturer": "GLENMARK ARZNEIMITTEL GMBH – Industriestr. 31, Gröbenzell, 82194, Alemania",
+  "medicine": "SUGAMMADEX GLENMARK 100 MG/ML SOLUCION INYECTABLE EFG, 10 viales de 5 ml (NR: 88850, CN: 762770) SUGAMMADEX GLENMARK 100 MG/ML SOLUCION INYECTABLE EFG, 10 viales de 2 ml (NR: 88850, CN: 762769)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "762770"
+    },
+    {
+      "system": "CN",
+      "value": "762769"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2024-05-07",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Posible presencia de viales sin etiquetar",
+  "recall_class": "3",
+  "source_url": "https://www.aemps.gob.es/informa/sugammadex-glenmark-100-mg-ml-solucion-inyectable-efg-varias-presentaciones/",
+  "warnings": []
+}

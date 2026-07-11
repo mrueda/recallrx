@@ -1,0 +1,52 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-06-30",
+  "expiry_dates": [
+    "LUDIOMIL 25 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA",
+    "30 comprimidos (NR: 51648",
+    "CN: 782409) Lote: F0016",
+    "fecha de caducidad 31",
+    "05",
+    "2026 Lote: F0017",
+    "10",
+    "2027 LUDIOMIL 75 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA",
+    "28 comprimidos (NR: 55706",
+    "CN: 991240) Lote: F0018",
+    "03",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_18_2025",
+  "local_id": "R_18/2025",
+  "lots": [
+    "F0016",
+    "fecha de caducidad 31",
+    "05",
+    "2026"
+  ],
+  "manufacturer": "AMDIPHARM LIMITED – Temple Chambers. 3 Burlington Road, Dublin 4, D04 RD68, Irlanda",
+  "medicine": "LUDIOMIL 25 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA, 30 comprimidos (NR: 51648, CN: 782409) LUDIOMIL 75 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA, 28 comprimidos (NR: 55706, CN: 991240)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "782409"
+    },
+    {
+      "system": "CN",
+      "value": "991240"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-06-30",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Detección de una impureza por encima de su límite establecido",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/ludiomil-comprimidos-recubiertos-con-pelicula-varias-presentaciones/",
+  "warnings": []
+}

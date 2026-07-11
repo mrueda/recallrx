@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2025-07-11",
+  "expiry_dates": [
+    "31",
+    "10",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_21_2025",
+  "local_id": "R_21/2025",
+  "lots": [
+    "4V25"
+  ],
+  "manufacturer": "NTC S.R.L. – Via Luigi Razza, 3, Milano, 20124, Italia",
+  "medicine": "COLIRCUSI GENTADEXA 5 MG/ML+ 1 MG/ML+ 0,5 MG/ML COLIRIO/GOTAS ÓTICAS EN SOLUCIÓN 1 frasco de 10 ml (NR: 51174, CN: 672096)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "672096"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2025-07-11",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "No se puede garantizar su esterilidad debido a problemas de contaminación microbiológica en la planta de fabricación",
+  "recall_class": "1",
+  "source_url": "https://www.aemps.gob.es/informa/colircusi-gentadexa-5-mg-ml-1-mg-ml-05-mg-ml-colirio-gotas-oticas-en-solucion-1-frasco-de-10-ml-nr-51174-cn-672096/",
+  "warnings": []
+}

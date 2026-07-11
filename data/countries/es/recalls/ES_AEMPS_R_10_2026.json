@@ -1,0 +1,45 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-02-25",
+  "expiry_dates": [
+    "Lote: 2956008",
+    "fecha de caducidad 30",
+    "06",
+    "2026 Lote: 313160A",
+    "fecha de caducidad 31",
+    "01",
+    "2027 Lote: 3131908",
+    "12",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_10_2026",
+  "local_id": "R_10/2026",
+  "lots": [
+    "2956008",
+    "fecha de caducidad 30",
+    "06",
+    "2026"
+  ],
+  "manufacturer": "MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A. – 1, Avenue de la Gare, Luxemburgo, L-1611, Luxemburgo",
+  "medicine": "IBIS 6 MG/ML COLIRIO EN SOLUCION, 1 frasco de 5 mi (NR: 88177, CN: 758615)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "758615"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2026-02-26",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en partículas subvisibles del principio activo, detectado en estudios de estabilidad",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/ibis-6-mg-ml-colirio-en-solucion-1-frasco-de-5-ml-nr-88177-cn-758615/",
+  "warnings": []
+}

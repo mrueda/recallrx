@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades del lote 363777 del medicamento PYRALVEX SOLUCIÓN 1 frasco de 10 mL (NR: 24135; CN: 813642) etiquetadas en neerlandés. Las unidades etiquetadas correctamente en español no serán objeto de retirada.",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-01-26",
+  "expiry_dates": [
+    "31",
+    "05",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_02_2022",
+  "local_id": "R_02/2022",
+  "lots": [
+    "363777"
+  ],
+  "manufacturer": "MEDA PHARMA, S.L. – C/General Aranaz, nº 86(Madrid)",
+  "medicine": "PYRALVEX SOLUCION, 1 frasco de 10 ml (NR: 24135, CN: 813642)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "813642"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-01-26",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Algunas de las unidades del citado lote del medicamento se encuentran etiquetadas en neerlandés.",
+  "recall_class": "3",
+  "source_url": "https://www.aemps.gob.es/informa/pyralvex-solucion-1-frasco-de-10-ml-nr-24135-cn-813642/",
+  "warnings": []
+}

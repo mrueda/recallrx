@@ -1,0 +1,121 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas de los lotes afectados y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2023-07-27",
+  "expiry_dates": [
+    "AMICACINA B BRAUN 5 MG",
+    "ML SOLUCION PARA PERFUSION INTRAVENOSA",
+    "20 frascos de 100 ml (NR: 63879",
+    "CN: 617712) Lote: 22244410",
+    "fecha de caducidad 31",
+    "05",
+    "2025 AMICACINA BRAUN 10 mg",
+    "ml SOLUCION PARA PERFUSION INTRAVENOSA",
+    "20 frascos de 100 ml (NR: 63880",
+    "CN: 618249) Lote: 21037407",
+    "12",
+    "2023 FISIOLOGICO B. BRAUN 0",
+    "9% SOLUCION PARA PERFUSION",
+    "1 frasco de 100 ml (NR: 39005",
+    "CN: 857359) Lote: 21304412",
+    "fecha de caducidad 30",
+    "06",
+    "2024 FISIOLOGICO B. BRAUN 0",
+    "20 frascos de 100 ml (NR: 39005",
+    "CN: 623025) Lote: 21306401",
+    "2024 Lote: 21306402",
+    "2024 Lote: 21307402",
+    "07",
+    "2024 GENTAMICINA BRAUN 3 MG",
+    "ML SOLUCION PARA PERFUSION",
+    "20 frascos de 80 ml (NR: 63854",
+    "CN: 617308) Lote: 21024405",
+    "2023 GLUCOSADO BRAUN 10% SOLUCION PARA PERFUSION",
+    "20 frascos de 100 ml (NR: 41755",
+    "CN: 620252) Lote: 21364402",
+    "08",
+    "2024 GLUCOSADO 5% BRAUN SOLUCION PARA PERFUSION",
+    "20 frascos de 100 ml (NR: 39004",
+    "CN: 636662) Lote: 21235402",
+    "2024 Lote: 21363403",
+    "2024 IBUPROFENO B. BRAUN 600 MG SOLUCION PARA PERFUSION",
+    "10 frascos (NR: 80720",
+    "CN: 606813) Lote: 21035403",
+    "2023 Lote: 22135409",
+    "03",
+    "2025 METRONIDAZOL B.BRAUN 5 MG",
+    "ML SOLUCIÓN PARA PERFUSIÓN",
+    "20 frascos de 100 ml (NR: 59662",
+    "CN: 643494) Lote: 21015402",
+    "2023 Lote: 21025403",
+    "2023 Lote: 21057403",
+    "01",
+    "2024 Lote: 21061404",
+    "2024 Lote: 21104411",
+    "fecha de caducidad 29",
+    "02",
+    "2024 Lote: 21145404",
+    "2024"
+  ],
+  "id": "ES_AEMPS_R_24_2023",
+  "local_id": "R_24/2023",
+  "lots": [
+    "21306401",
+    "fecha de caducidad 30",
+    "06",
+    "2024"
+  ],
+  "manufacturer": "B. BRAUN MEDICAL, S.A. – Ctra. Terrassa, 121(Rubí)",
+  "medicine": "AMICACINA B BRAUN 5 MG/ML SOLUCION PARA PERFUSION INTRAVENOSA , 20 frascos de 100 ml (NR: 63879, CN: 617712) AMICACINA BRAUN 10 mg/ml SOLUCION PARA PERFUSION INTRAVENOSA , 20 frascos de 100 ml (NR: 63880, CN: 618249) FISIOLOGICO B. BRAUN 0,9% SOLUCION PARA PERFUSION , 1 frasco de 100 ml (NR: 39005, CN: 857359) FISIOLOGICO B. BRAUN 0,9% SOLUCION PARA PERFUSION , 20 frascos de 100 ml (NR: 39005, CN: 623025) GENTAMICINA BRAUN 3 MG/ML SOLUCION PARA PERFUSION, 20 frascos de 80 ml (NR: 63854, CN: 617308) GLUCOSADO BRAUN 10% SOLUCION PARA PERFUSION , 20 frascos de 100 ml (NR: 41755, CN: 620252) GLUCOSADO 5% BRAUN SOLUCION PARA PERFUSION , 20 frascos de 100 ml (NR: 39004, CN: 636662) IBUPROFENO B. BRAUN 600 MG SOLUCION PARA PERFUSION,10 frascos (NR: 80720, CN: 606813) METRONIDAZOL B.BRAUN 5 MG/ML SOLUCIÓN PARA PERFUSIÓN , 20 frascos de 100 ml (NR: 59662, CN: 643494)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "617712"
+    },
+    {
+      "system": "CN",
+      "value": "618249"
+    },
+    {
+      "system": "CN",
+      "value": "857359"
+    },
+    {
+      "system": "CN",
+      "value": "623025"
+    },
+    {
+      "system": "CN",
+      "value": "617308"
+    },
+    {
+      "system": "CN",
+      "value": "620252"
+    },
+    {
+      "system": "CN",
+      "value": "636662"
+    },
+    {
+      "system": "CN",
+      "value": "606813"
+    },
+    {
+      "system": "CN",
+      "value": "643494"
+    }
+  ],
+  "product_type": "Medicamento / Medicamento de uso hospitalario",
+  "publication_date": "2023-07-27",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Contaminación cruzada",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/retirada-de-distintos-medicamentos-inyectables-b-braun-medical/",
+  "warnings": []
+}

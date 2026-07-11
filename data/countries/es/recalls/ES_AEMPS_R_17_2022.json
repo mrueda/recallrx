@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2022-06-17",
+  "expiry_dates": [
+    "31",
+    "08",
+    "2023"
+  ],
+  "id": "ES_AEMPS_R_17_2022",
+  "local_id": "R_17/2022",
+  "lots": [
+    "P575"
+  ],
+  "manufacturer": "LABORATORIO STADA, S.L. – C/ Frederic Mompou, 5(Sant Just Desvern)",
+  "medicine": "ENALAPRIL/HIDROCLOROTIAZIDA STADA 20/12,5 mg COMPRIMIDOS EFG, 28 comprimidos (NR: 65103, CN: 930339)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "930339"
+    }
+  ],
+  "product_type": "Medicamento",
+  "publication_date": "2022-06-17",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones, en estudios de estabilidad, en el ensayo de valoración del lote P575 del citado medicamento",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/enalapril-hidroclorotiazida-stada-20-125-mg-comprimidos-efg-28-comprimidos-nr-65103-cn-930339/",
+  "warnings": []
+}

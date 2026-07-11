@@ -1,0 +1,36 @@
+{
+  "actions": "Retirada del mercado de todas las unidades distribuidas del lote afectado y devolución al laboratorio por los cauces habituales.",
+  "authority": "AEMPS",
+  "confidence": 1.0,
+  "country": "ES",
+  "date": "2026-01-14",
+  "expiry_dates": [
+    "31",
+    "03",
+    "2026"
+  ],
+  "id": "ES_AEMPS_R_02_2026",
+  "local_id": "R_02/2026",
+  "lots": [
+    "1218778"
+  ],
+  "manufacturer": "CHIESI FARMACEUTICI S.P.A. – Via Palermo 26/A, Parma, 43122, Italia.",
+  "medicine": "LAMZEDE 10 MG POLVO PARA SOLUCION PARA PERFUSION, 5 viales (NR: 1171258002, CN: 722449)",
+  "pdf_url": "https://www.aemps.gob.es/medicamentosUsoHumano/medSituacionesEspeciales/docs/puntos-contacto-med-extranjera-CCAA.pdf",
+  "product_codes": [
+    {
+      "system": "CN",
+      "value": "722449"
+    }
+  ],
+  "product_type": "Medicamento de uso hospitalario",
+  "publication_date": "2026-01-14",
+  "raw": {
+    "parser": "aemps_html",
+    "title": ""
+  },
+  "reason": "Resultado fuera de especificaciones en el test de agregados detectado en estudios de estabilidad.",
+  "recall_class": "2",
+  "source_url": "https://www.aemps.gob.es/informa/lamzede-10-mg-polvo-para-solucion-para-perfusion-5-viales-nr-1171258002-cn-722449/",
+  "warnings": []
+}
