@@ -1,11 +1,13 @@
 from __future__ import annotations
 
 import re
+import time
 import tempfile
 from dataclasses import dataclass, field
 from pathlib import Path
 from urllib.parse import urljoin
 
+import requests
 from bs4 import BeautifulSoup
 
 from openrecall_es.adapters.base import Candidate
@@ -32,7 +34,9 @@ BASE_DISCOVERY_QUERIES = [
 @dataclass
 class AempsSpainAdapter:
     http: HttpClient
-    max_pages: int = 200
+    max_pages: int = 60
+    request_delay_seconds: float = 0.35
+    start_year: int = 2020
     country: str = "ES"
     authority: str = "AEMPS"
     rejected: list[dict] = field(default_factory=list)
@@ -86,7 +90,7 @@ class AempsSpainAdapter:
         from datetime import datetime
 
         current_year = datetime.now().year
-        return list(range(current_year, 2018, -1))
+        return list(range(current_year, self.start_year - 1, -1))
 
     def discover(self) -> list[Candidate]:
         seen: set[str] = set()
@@ -94,10 +98,18 @@ class AempsSpainAdapter:
         for query in self.discovery_queries():
             page = 1
             while page <= self.max_pages:
-                payload = self.http.get_json(
-                    AEMPS_SEARCH_URL,
-                    params={"post_type": "post", "search": query, "page": page},
-                )
+                try:
+                    payload = self.http.get_json(
+                        AEMPS_SEARCH_URL,
+                        params={"post_type": "post", "search": query, "page": page},
+                    )
+                except requests.exceptions.RetryError as exc:
+                    self.warnings.append(f"discovery_rate_limited query={query!r} page={page}: {exc}")
+                    break
+                except requests.exceptions.HTTPError as exc:
+                    status = exc.response.status_code if exc.response is not None else "unknown"
+                    self.warnings.append(f"discovery_http_error status={status} query={query!r} page={page}: {exc}")
+                    break
                 if not isinstance(payload, list) or not payload:
                     break
                 for item in payload:
@@ -118,6 +130,7 @@ class AempsSpainAdapter:
                 if len(payload) < 10:
                     break
                 page += 1
+                time.sleep(self.request_delay_seconds)
         return candidates
 
     def _candidate_could_be_recall(self, item: dict) -> bool:

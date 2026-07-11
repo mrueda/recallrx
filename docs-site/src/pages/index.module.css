@@ -10,7 +10,7 @@
 .hero {
   position: relative;
   overflow: hidden;
-  padding: 6rem 1.5rem 4.5rem;
+  padding: 5.5rem 1.5rem 3.5rem;
   color: #111827;
 }
 
@@ -24,7 +24,7 @@
   position: relative;
   z-index: 1;
   display: grid;
-  grid-template-columns: minmax(0, 1.08fr) minmax(320px, 0.92fr);
+  grid-template-columns: minmax(0, 1.06fr) minmax(320px, 0.94fr);
   gap: 4rem;
   align-items: center;
 }
@@ -65,6 +65,11 @@
   border-color: #006d77;
   background: #006d77;
   box-shadow: 0 12px 28px rgba(0, 109, 119, 0.22);
+}
+
+.actions :global(.button--secondary) {
+  border-color: rgba(0, 109, 119, 0.32);
+  color: #064d54;
 }
 
 .indexPanel {
@@ -171,7 +176,32 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
   gap: 1rem;
-  padding: 0 1.5rem 4rem;
+  padding: 0 1.5rem;
+}
+
+.sections {
+  padding-bottom: 3.25rem;
+}
+
+.sectionHeader {
+  max-width: 760px;
+  padding: 0 1.5rem 1rem;
+}
+
+.sectionHeader p {
+  margin: 0 0 0.35rem;
+  color: #006d77;
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.sectionHeader h2 {
+  margin: 0;
+  color: #111827;
+  font-size: 1.85rem;
+  line-height: 1.2;
 }
 
 .card {
@@ -209,7 +239,7 @@
   text-transform: uppercase;
 }
 
-.card h2 {
+.card h3 {
   margin: 0;
   color: #111827;
   font-size: 1.25rem;

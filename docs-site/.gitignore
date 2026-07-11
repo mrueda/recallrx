@@ -1,4 +1,4 @@
 .docusaurus/
 build/
 node_modules/
-static/search/
+static/app/

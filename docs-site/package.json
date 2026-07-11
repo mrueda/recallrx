@@ -4,9 +4,12 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "start": "docusaurus start",
-    "build": "docusaurus build",
-    "preview": "docusaurus build && docusaurus serve",
+    "build:app": "PYTHONPATH=../src python3 -m openrecall_es dist --site ../site --data ../data --output static/app",
+    "prestart": "npm run build:app",
+    "start": "NODE_OPTIONS=--max-old-space-size=4096 docusaurus start",
+    "prebuild": "npm run build:app",
+    "build": "NODE_OPTIONS=--max-old-space-size=4096 docusaurus build",
+    "preview": "NODE_OPTIONS=--max-old-space-size=4096 docusaurus build && docusaurus serve",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "typecheck": "tsc"

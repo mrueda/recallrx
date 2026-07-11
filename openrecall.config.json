@@ -1,5 +1,6 @@
 {
   "default_country": "es",
+  "backfill_start_year": 2020,
   "countries": {
     "es": {
       "code": "es",

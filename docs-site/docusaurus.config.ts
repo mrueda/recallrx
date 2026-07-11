@@ -2,6 +2,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+const isProduction = process.env.NODE_ENV === 'production';
+
 const config: Config = {
   title: 'OpenRecall Docs',
   tagline: 'Static, country-extensible medicine recall search',
@@ -34,18 +36,20 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-  themes: [
-    [
-      '@easyops-cn/docusaurus-search-local',
-      {
-        hashed: true,
-        language: ['en'],
-        indexDocs: true,
-        indexBlog: false,
-        docsRouteBasePath: '/docs',
-      },
-    ],
-  ],
+  themes: isProduction
+    ? [
+        [
+          '@easyops-cn/docusaurus-search-local',
+          {
+            hashed: true,
+            language: ['en'],
+            indexDocs: true,
+            indexBlog: false,
+            docsRouteBasePath: '/docs',
+          },
+        ],
+      ]
+    : [],
   themeConfig: {
     image: 'img/openrecall-social.svg',
     colorMode: {
@@ -59,7 +63,7 @@ const config: Config = {
       },
       items: [
         {
-          to: '/app',
+          href: 'https://mrueda.github.io/openrecall/app/',
           label: 'Live Search',
           position: 'left',
         },
@@ -71,12 +75,7 @@ const config: Config = {
         },
         {
           to: '/docs/usage/quickstart',
-          label: 'Quick Start',
-          position: 'left',
-        },
-        {
-          to: '/docs/technical-details/data-schema',
-          label: 'Data Schema',
+          label: 'User Guide',
           position: 'left',
         },
         {
@@ -90,23 +89,32 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'For Users',
           items: [
             {
-              label: 'Overview',
-              to: '/docs/overview',
+              label: 'Live Search',
+              href: 'https://mrueda.github.io/openrecall/app/',
             },
             {
-              label: 'Quick Start',
+              label: 'Use the App',
               to: '/docs/usage/quickstart',
             },
             {
-              label: 'Operations',
-              to: '/docs/usage/operations',
+              label: 'Safety Language',
+              to: '/docs/usage/safety-language',
+            },
+          ],
+        },
+        {
+          title: 'For Developers',
+          items: [
+            {
+              label: 'Architecture',
+              to: '/docs/technical-details/architecture',
             },
             {
-              label: 'AEMPS Collector',
-              to: '/docs/technical-details/aemps-collector',
+              label: 'Source Adapters',
+              to: '/docs/technical-details/source-adapters',
             },
             {
               label: 'CLI Reference',

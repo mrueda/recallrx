@@ -1,29 +1,38 @@
 # Overview
 
-OpenRecall is a static, open-source index of medicine recalls from official
-public sources. The first source is Spain's AEMPS, and the code is structured
-so additional countries can be added through source adapters.
+OpenRecall is a live search app for medicine recalls indexed from official
+public sources. Start with the app, then use these docs when you need to
+understand the results or maintain the dataset.
 
 <div className="button-row">
-  <a className="button button--primary button--lg" href="/openrecall/app">
+  <a className="button button--primary button--lg" href="https://mrueda.github.io/openrecall/app/">
     Open the live recall search app
   </a>
 </div>
 
-The project converts recall pages and PDFs into normalized JSON datasets that
-can be searched from a static website. It does not require a backend, database
-server, account system, or cloud runtime.
+The first source is Spain's AEMPS. The app and data model are country-aware, so
+additional authorities can be added without changing how users search.
 
-## Current capabilities
+## For Users
+
+- Search by medicine name, product code, lot, alert id, year, or date range.
+- Switch countries from the app header when more datasets are available.
+- Open official source pages and PDFs from every result when available.
+- Treat warnings as a prompt to verify the original record.
+
+OpenRecall is an index. It does not replace advice from health authorities,
+clinicians, pharmacists, or official product notices.
+
+## For Developers
 
 - Python collector for AEMPS search and recall detail pages.
 - HTML-first parsing with transient PDF fallback when required fields are
   missing.
 - Country-aware normalized recall schema.
 - Static JSON output for GitHub Pages.
-- Browser search over medicine name, product code, lot, recall id, and reason.
-- Date browsing with year chips and explicit date ranges.
-- GitHub Actions for tests, data updates, and documentation builds.
+- Static browser app over medicine name, product code, lot, recall id, reason,
+  and dates.
+- Manual GitHub Actions for tests and documentation builds.
 
 ## Non-goals
 

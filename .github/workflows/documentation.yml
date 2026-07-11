@@ -38,7 +38,7 @@ jobs:
           python -m pip install -e .
 
       - name: Build live search app for docs site
-        run: python -m openrecall_es dist --output docs-site/static/search
+        run: python -m openrecall_es dist --output docs-site/static/app
 
       - name: Install docs dependencies
         working-directory: docs-site
@@ -58,7 +58,7 @@ jobs:
 
       - name: Verify embedded search app
         working-directory: docs-site
-        run: test -s build/search/index.html
+        run: test -s build/app/index.html
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

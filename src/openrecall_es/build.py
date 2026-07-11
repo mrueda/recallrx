@@ -50,7 +50,7 @@ def build_dataset(output: Path, sources: list[str] | None = None, config_path: P
     records_by_country: dict[str, list[RecallRecord]] = {}
 
     for source in selected_sources:
-        adapter = create_adapter(source, http=http)
+        adapter = create_adapter(source, http=http, config=config)
         records, report = adapter.build()
         all_reports.append(report)
         records_by_country.setdefault(adapter.country.lower(), []).extend(records)

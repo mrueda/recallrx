@@ -9,17 +9,12 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Use',
+      label: 'For Users',
       items: [
         {
           type: 'doc',
           id: 'usage/quickstart',
-          label: 'Quick Start',
-        },
-        {
-          type: 'doc',
-          id: 'usage/operations',
-          label: 'Operations',
+          label: 'Use the App',
         },
         {
           type: 'doc',
@@ -35,7 +30,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Technical Details',
+      label: 'For Developers',
       items: [
         {
           type: 'doc',
@@ -57,16 +52,15 @@ const sidebars: SidebarsConfig = {
           id: 'technical-details/aemps-collector',
           label: 'AEMPS Collector',
         },
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Reference',
-      items: [
         {
           type: 'doc',
           id: 'reference/cli',
           label: 'CLI',
+        },
+        {
+          type: 'doc',
+          id: 'usage/operations',
+          label: 'Operations',
         },
       ],
     },

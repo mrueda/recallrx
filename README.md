@@ -17,7 +17,7 @@ recalls, starting with Spanish human-medicine recalls published by AEMPS.**
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 <p align="center">
-  <a href="https://mrueda.github.io/openrecall/app">
+  <a href="https://mrueda.github.io/openrecall/app/">
     <strong>Open the live recall search app</strong>
   </a>
 </p>
@@ -37,7 +37,7 @@ must not claim that a medicine is safe.
 
 **Documentation:** <a href="https://mrueda.github.io/openrecall/" target="_blank">https://mrueda.github.io/openrecall/</a>
 
-**Live Search App:** <a href="https://mrueda.github.io/openrecall/app" target="_blank">https://mrueda.github.io/openrecall/app</a>
+**Live Search App:** <a href="https://mrueda.github.io/openrecall/app/" target="_blank">https://mrueda.github.io/openrecall/app/</a>
 
 **Quick Start:** <a href="https://mrueda.github.io/openrecall/docs/usage/quickstart" target="_blank">https://mrueda.github.io/openrecall/docs/usage/quickstart</a>
 
