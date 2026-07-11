@@ -105,7 +105,9 @@
       button.setAttribute("role", "tab");
       button.setAttribute("aria-label", formatCountryOption(country));
       button.disabled = disabled;
-      button.title = disabled ? `${formatCountryOption(country)} próximamente` : formatCountryOption(country);
+      button.title = disabled
+        ? `${formatCountryOption(country)}: fuente planificada, todavía sin datos activos.`
+        : `${formatCountryOption(country)}: cambiar a este conjunto de datos.`;
       button.innerHTML = [
         `<span class="country-button__flag" aria-hidden="true">${country.flag || country.iso2 || country.code.toUpperCase()}</span>`,
         `<span class="country-button__label">${country.iso2 || country.code.toUpperCase()}</span>`,
@@ -176,6 +178,8 @@
       button.dataset.year = year;
       button.setAttribute("aria-pressed", "false");
       button.textContent = `${year} (${count})`;
+      button.title = `Filtrar resultados publicados en ${year}. ${count} registros.`;
+      button.setAttribute("aria-label", button.title);
       button.addEventListener("click", function () {
         const selected = button.getAttribute("aria-pressed") === "true";
         clearYearButtons();
@@ -296,6 +300,7 @@
       button.dataset.filter = filter.key;
       button.innerHTML = `<span>${filter.label}</span><strong aria-hidden="true">×</strong>`;
       button.setAttribute("aria-label", `Quitar filtro ${filter.label}`);
+      button.title = `Quitar filtro ${filter.label}`;
       els.activeFilters.appendChild(button);
     });
     const clear = document.createElement("button");
@@ -303,6 +308,8 @@
     clear.className = "filter-chip filter-chip--clear";
     clear.dataset.filter = "all";
     clear.textContent = "Limpiar todo";
+    clear.title = "Quitar todos los filtros activos";
+    clear.setAttribute("aria-label", clear.title);
     els.activeFilters.appendChild(clear);
   }
 
@@ -425,7 +432,7 @@
     state.records.forEach(function (record) {
       const codes = record.product_codes || [];
       if (codes.some(function (code) { return code.value === digits && digits.length > 0; })) {
-        matches.push(withMatch(record, "CN exacto"));
+        matches.push(withMatch(record, "código exacto"));
         return;
       }
       if (record.date === query) {
@@ -467,27 +474,42 @@
     const fragment = els.template.content.cloneNode(true);
     const card = fragment.querySelector(".result-card");
     card.dataset.class = record.recall_class || "unknown";
-    fragment.querySelector('[data-field="alert"]').textContent = record.local_id || record.id;
-    fragment.querySelector('[data-field="date"]').textContent = formatDate(record.date);
-    fragment.querySelector('[data-field="match"]').textContent = match;
+    const alertChip = fragment.querySelector('[data-field="alert"]');
+    alertChip.textContent = record.local_id || record.id;
+    setTooltip(alertChip, "Identificador de la alerta o circular publicado por la fuente.");
+
+    const dateChip = fragment.querySelector('[data-field="date"]');
+    dateChip.textContent = formatDate(record.date);
+    setTooltip(dateChip, "Fecha normalizada usada para ordenar y filtrar este registro.");
+
+    const matchChip = fragment.querySelector('[data-field="match"]');
+    matchChip.textContent = match;
+    setTooltip(matchChip, matchExplanation(match));
     fragment.querySelector("h2").textContent = record.medicine || record.local_id;
     fragment.querySelector('[data-field="manufacturer"]').textContent = record.manufacturer || "Laboratorio no extraído";
-    fragment.querySelector('[data-field="class"]').textContent = record.recall_class ? `Clase ${record.recall_class}` : "Sin clase";
-    fragment.querySelector('[data-field="parse"]').textContent = parseStatus(record);
+    const classBadge = fragment.querySelector('[data-field="class"]');
+    classBadge.textContent = record.recall_class ? `Clase ${record.recall_class}` : "Sin clase publicada";
+    setTooltip(classBadge, recallClassExplanation(record.recall_class));
+
+    const parseBadge = fragment.querySelector('[data-field="parse"]');
+    parseBadge.textContent = parseStatus(record);
+    setTooltip(parseBadge, parseStatusExplanation(record));
     fragment.querySelector('[data-field="codes"]').textContent = formatCodes(record.product_codes);
     fragment.querySelector('[data-field="lots"]').textContent = (record.lots || []).join(", ") || "-";
     fragment.querySelector('[data-field="reason"]').textContent = record.reason || "-";
     fragment.querySelector('[data-field="confidence"]').textContent = `${Math.round((record.confidence || 0) * 100)}%`;
 
-    const warnings = fragment.querySelector(".warnings");
-    warnings.textContent = els.showWarnings.checked && record.warnings && record.warnings.length
-      ? `Avisos de extracción: ${record.warnings.join(", ")}`
-      : "";
+    renderWarnings(fragment.querySelector(".warnings"), record);
 
-    fragment.querySelector('[data-field="source"]').href = record.source_url;
+    const source = fragment.querySelector('[data-field="source"]');
+    source.href = record.source_url;
+    source.title = `Abrir fuente oficial de ${record.authority || state.authority}.`;
+    source.setAttribute("aria-label", source.title);
     const pdf = fragment.querySelector('[data-field="pdf"]');
     if (record.pdf_url) {
       pdf.href = record.pdf_url;
+      pdf.title = "Abrir PDF oficial asociado a este registro.";
+      pdf.setAttribute("aria-label", pdf.title);
     } else {
       pdf.remove();
     }
@@ -503,6 +525,89 @@
       return "Revisar";
     }
     return "Extraído";
+  }
+
+  function parseStatusExplanation(record) {
+    const warnings = record.warnings || [];
+    if (!warnings.length) {
+      return "Completo: los campos estructurados esperados se extrajeron sin avisos.";
+    }
+    if (warnings.some(function (warning) { return warning.startsWith("missing_"); })) {
+      return "Revisar: faltan uno o más campos estructurados. Usa la fuente oficial para confirmar.";
+    }
+    return "Extraído: el registro fue procesado, pero el parser generó avisos informativos.";
+  }
+
+  function recallClassExplanation(recallClass) {
+    const explanations = {
+      1: "Clase 1: defecto con riesgo potencialmente grave. Acento rojo.",
+      2: "Clase 2: defecto con riesgo relevante pero menor que clase 1. Acento ámbar.",
+      3: "Clase 3: defecto con menor probabilidad de riesgo clínico. Acento verde azulado.",
+    };
+    return explanations[recallClass] || "La fuente no publica una clase de retirada normalizada. Acento gris.";
+  }
+
+  function matchExplanation(match) {
+    const explanations = {
+      reciente: "Resultado mostrado por exploración inicial, sin término de búsqueda activo.",
+      "texto similar": "Coincidencia por búsqueda difusa en medicamento, laboratorio o motivo.",
+      "código exacto": "Coincidencia exacta con un código de producto.",
+      "fecha exacta": "Coincidencia exacta con la fecha normalizada del registro.",
+      fecha: "Coincidencia con año o mes de la fecha normalizada.",
+      "lote exacto": "Coincidencia exacta con un lote extraído.",
+      "alerta exacta": "Coincidencia exacta con el identificador local o global de la alerta.",
+    };
+    return explanations[match] || `Tipo de coincidencia: ${match}.`;
+  }
+
+  function setTooltip(element, text) {
+    element.title = text;
+    element.setAttribute("aria-label", text);
+  }
+
+  function renderWarnings(container, record) {
+    container.replaceChildren();
+    if (!els.showWarnings.checked || !record.warnings || !record.warnings.length) {
+      return;
+    }
+
+    const label = document.createElement("span");
+    label.className = "warnings__label";
+    label.textContent = "Avisos de extracción";
+    label.title = "Campos que no pudieron extraerse de forma estructurada desde la fuente.";
+    container.appendChild(label);
+
+    record.warnings.forEach(function (warning) {
+      const chip = document.createElement("button");
+      chip.type = "button";
+      chip.className = "warning-chip";
+      chip.textContent = warningLabel(warning);
+      chip.title = warningExplanation(warning);
+      chip.setAttribute("aria-label", `${warningLabel(warning)}: ${warningExplanation(warning)}`);
+      container.appendChild(chip);
+    });
+  }
+
+  function warningLabel(warning) {
+    const labels = {
+      missing_cn: "Sin CN",
+      missing_cip: "Sin CIP",
+      missing_registration_number: "Sin registro",
+      missing_lot: "Sin lote",
+      missing_manufacturer: "Sin laboratorio",
+    };
+    return labels[warning] || warning.replace(/_/g, " ");
+  }
+
+  function warningExplanation(warning) {
+    const explanations = {
+      missing_cn: "No se encontró Código Nacional en la fuente española. El registro sigue indexado; verifica la fuente oficial para identificación por código.",
+      missing_cip: "No se encontró código CIP en la fuente francesa. El registro sigue indexado; no será localizable por CIP salvo enriquecimiento posterior.",
+      missing_registration_number: "No se encontró número de registro/AIM en la fuente portuguesa. El registro sigue indexado; verifica la fuente oficial para identificación por código.",
+      missing_lot: "No se pudo extraer un lote estructurado. El aviso puede seguir siendo válido; revisa la fuente oficial antes de actuar.",
+      missing_manufacturer: "No se pudo extraer el laboratorio o titular. Revisa la fuente oficial para confirmar el responsable.",
+    };
+    return explanations[warning] || `Aviso del parser: ${warning}. Revisa la fuente oficial.`;
   }
 
   function withMatch(record, match) {

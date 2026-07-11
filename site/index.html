@@ -9,39 +9,41 @@
   <body>
     <main class="app-shell">
       <header class="topbar">
-        <div>
+        <div class="brand-block">
           <h1>RecallRx</h1>
           <p id="datasetStatus">Cargando datos de retiradas...</p>
         </div>
+        <nav class="app-nav" aria-label="Navegación principal">
+          <a class="nav-link" href="https://mrueda.github.io/recallrx/docs/overview" title="Abrir la documentación de RecallRx">Docs</a>
+        </nav>
         <div class="topbar-actions">
-          <div class="freshness" aria-label="Actualización de datos">
+          <div class="freshness" aria-label="Actualización de datos" title="Fecha y hora de generación del conjunto de datos seleccionado">
             <span>Datos</span>
             <strong id="headerLastUpdate">-</strong>
           </div>
-          <a class="docs-link" href="https://mrueda.github.io/recallrx/docs/overview">Docs</a>
-          <div class="country-picker" aria-label="Cambiar país">
-            <span>País</span>
+          <div class="country-picker" aria-label="Cambiar país" title="Cambiar entre países con datos activos">
+            <span title="País regulatorio seleccionado">País</span>
             <div id="countryButtons" class="country-buttons" role="tablist" aria-label="Países disponibles"></div>
           </div>
         </div>
       </header>
 
       <section class="search-panel" aria-label="Búsqueda de retiradas">
-        <label for="searchInput">Buscar por medicamento, código, lote o alerta</label>
+        <label for="searchInput" title="Busca en medicamento, código nacional o local, lote, alerta y motivo">Buscar por medicamento, código, lote o alerta</label>
         <div class="search-row">
-          <input id="searchInput" type="search" autocomplete="off" placeholder="Ej. 755215, R_21/2026, ABC123, 2026-06-03">
+          <input id="searchInput" type="search" autocomplete="off" placeholder="Ej. 755215, R_21/2026, ABC123, 2026-06-03" title="Introduce medicamento, código, lote, identificador de alerta o fecha">
           <button id="clearButton" type="button" title="Limpiar búsqueda">Limpiar</button>
         </div>
         <div class="date-row">
-          <label>
+          <label title="Fecha mínima de publicación o retirada">
             <span>Desde</span>
             <input id="dateFrom" type="date">
           </label>
-          <label>
+          <label title="Fecha máxima de publicación o retirada">
             <span>Hasta</span>
             <input id="dateTo" type="date">
           </label>
-          <label>
+          <label title="Orden de presentación de resultados">
             <span>Orden</span>
             <select id="sortMode">
               <option value="newest">Más recientes</option>
@@ -50,19 +52,19 @@
           </label>
         </div>
         <div class="facet-row" aria-label="Prefiltros">
-          <label>
+          <label title="Filtra por laboratorio, titular o fabricante cuando se pudo extraer">
             <span>Laboratorio</span>
             <select id="manufacturerFilter"></select>
           </label>
-          <label>
+          <label title="Filtra por clase de retirada cuando la fuente publica una clase normalizada">
             <span>Clase</span>
             <select id="classFilter"></select>
           </label>
         </div>
         <div id="yearFilters" class="year-filters" aria-label="Filtrar por año"></div>
         <div class="filters" role="group" aria-label="Filtros de búsqueda">
-          <label><input type="checkbox" id="exactOnly"> Solo coincidencias exactas</label>
-          <label><input type="checkbox" id="showWarnings" checked> Mostrar avisos de extracción</label>
+          <label title="Limita los resultados a coincidencias exactas de código, lote, fecha o alerta"><input type="checkbox" id="exactOnly"> Solo coincidencias exactas</label>
+          <label title="Muestra avisos cuando faltan campos estructurados extraídos de la fuente"><input type="checkbox" id="showWarnings" checked> Mostrar avisos de extracción</label>
         </div>
         <div id="activeFilters" class="active-filters" aria-live="polite"></div>
       </section>
@@ -90,28 +92,28 @@
         <div class="result-card__header">
           <div>
             <div class="result-card__meta-line">
-              <span data-field="alert"></span>
-              <span data-field="date"></span>
-              <span data-field="match"></span>
+              <span class="meta-chip meta-chip--alert" data-field="alert" tabindex="0"></span>
+              <span class="meta-chip meta-chip--date" data-field="date" tabindex="0"></span>
+              <span class="meta-chip meta-chip--match" data-field="match" tabindex="0"></span>
             </div>
             <h2></h2>
             <p class="meta" data-field="manufacturer"></p>
           </div>
           <div class="result-card__badges">
-            <span class="class-badge" data-field="class"></span>
-            <span class="parse-badge" data-field="parse"></span>
+            <span class="class-badge" data-field="class" tabindex="0"></span>
+            <span class="parse-badge" data-field="parse" tabindex="0"></span>
           </div>
         </div>
         <dl class="fields">
-          <div><dt>CN</dt><dd data-field="codes"></dd></div>
+          <div><dt>Códigos</dt><dd data-field="codes"></dd></div>
           <div><dt>Lotes</dt><dd data-field="lots"></dd></div>
           <div><dt>Motivo</dt><dd data-field="reason"></dd></div>
           <div><dt>Confianza</dt><dd data-field="confidence"></dd></div>
         </dl>
         <p class="warnings"></p>
         <div class="links">
-          <a data-field="source" target="_blank" rel="noopener noreferrer">Fuente oficial</a>
-          <a data-field="pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+          <a data-field="source" target="_blank" rel="noopener noreferrer" title="Abrir la página oficial de la autoridad reguladora">Fuente oficial</a>
+          <a data-field="pdf" target="_blank" rel="noopener noreferrer" title="Abrir el PDF oficial cuando existe">PDF</a>
         </div>
       </article>
     </template>
