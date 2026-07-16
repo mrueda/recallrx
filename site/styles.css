@@ -45,9 +45,19 @@ h1 {
   font-weight: 700;
 }
 
-.topbar p {
+.brand-subtitle,
+.dataset-status {
   margin: 4px 0 0;
   color: var(--muted);
+}
+
+.brand-subtitle {
+  max-width: 520px;
+}
+
+.dataset-status {
+  font-size: 0.92rem;
+  font-weight: 800;
 }
 
 .app-nav {

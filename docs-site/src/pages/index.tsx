@@ -6,13 +6,13 @@ const userLinks = [
   {
     label: 'Search',
     title: 'Open the recall search app',
-    text: 'Search by medicine name, product code, lot, alert id, year, or date range.',
+    text: 'Search official recall exports by medicine name, product code, lot, alert id, year, or date range.',
     url: 'https://mrueda.github.io/recallrx/app/',
   },
   {
     label: 'Understand',
     title: 'Read the user guide',
-    text: 'Learn what the results mean, how source links work, and what RecallRx does not claim.',
+    text: 'Learn what badges, warnings, source links, country switching, and daily export dates mean.',
     url: '/recallrx/docs/usage/quickstart',
   },
   {
@@ -27,13 +27,13 @@ const developerLinks = [
   {
     label: 'Architecture',
     title: 'How it works',
-    text: 'Review the static app, country-aware datasets, and source adapter boundaries.',
+    text: 'Review the static app, daily export pipeline, country-aware datasets, and source adapter boundaries.',
     url: '/recallrx/docs/technical-details/architecture',
   },
   {
     label: 'Schema',
     title: 'Normalized data model',
-    text: 'Inspect the recall record contract used by the frontend and future country sources.',
+    text: 'Inspect the recall record contract used by the frontend and active country sources.',
     url: '/recallrx/docs/technical-details/data-schema',
   },
   {
@@ -57,7 +57,7 @@ export default function Home() {
   return (
     <Layout
       title="RecallRx"
-      description="Static, country-extensible medicine recall search">
+      description="Static, country-aware medicine recall search from official public sources">
       <main className={styles.page}>
         <section className={styles.hero}>
           <div className={styles.heroGrid}>
@@ -65,9 +65,9 @@ export default function Home() {
               <p className={styles.kicker}>RecallRx</p>
               <h1>Find medicine recalls from official public sources.</h1>
               <p className={styles.lede}>
-                Start with the live search app. The documentation is split into
-                a short user guide for interpreting results and developer notes
-                for maintaining the collector and adding countries.
+                RecallRx publishes daily static exports from active regulatory
+                sources in Spain, Portugal, and France. The docs explain how to
+                interpret results and how to maintain or extend the collectors.
               </p>
               <div className={styles.actions}>
                 <a className="button button--primary button--lg" href="https://mrueda.github.io/recallrx/app/">

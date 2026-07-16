@@ -1,6 +1,6 @@
 # Data Schema
 
-Records are country-scoped so future sources can coexist without id
+Records are country-scoped so multiple authority sources can coexist without id
 collisions.
 
 ```json
@@ -32,14 +32,15 @@ collisions.
 
 ## Product codes
 
-Spain uses Código Nacional:
+Product codes keep their source-specific system:
 
 ```json
 {"system": "CN", "value": "755215"}
 ```
 
-Future adapters should use their national product code systems without changing
-the field shape. Examples include FDA NDC, UK PL, and Canadian DIN.
+Current examples include Spain `CN`, Portugal `AIM`, and France `CIP`. Future
+adapters should use their national product code systems without changing the
+field shape.
 
 ## Confidence and warnings
 

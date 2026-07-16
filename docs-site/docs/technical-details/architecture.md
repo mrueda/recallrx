@@ -1,7 +1,8 @@
 # Architecture
 
 RecallRx has two static outputs: the recall search app and this
-documentation site.
+documentation site. In production, the search app is embedded inside the
+Docusaurus build at `/app/`.
 
 <div className="dataFlow">
   <span>Official sources</span>
@@ -27,6 +28,14 @@ The frontend reads:
 
 The app uses exact matching for product codes, lots, and recall ids before
 falling back to fuzzy text search.
+
+Result cards expose lightweight UI cues:
+
+- Left accent: normalized recall class when available.
+- Metadata chips: alert id, normalized date, and match type.
+- Parser badge: complete, review, or extracted with warnings.
+- Warning chips: missing structured fields such as product code, lot, or
+  manufacturer.
 
 ## Documentation site
 

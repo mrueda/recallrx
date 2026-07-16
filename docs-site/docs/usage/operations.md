@@ -4,8 +4,9 @@ RecallRx is designed to run as a scheduled static data pipeline.
 
 ## Daily update
 
-The dataset update workflow runs the Python collector, validates the generated
-JSON, and commits changes only when the `data/` directory changes.
+The documentation workflow runs daily. It builds a fresh static export from all
+enabled country adapters, validates the generated JSON, embeds the browser app,
+builds Docusaurus, and deploys the resulting static site to GitHub Pages.
 
 ```bash
 python -m recallrx build --output data
@@ -18,9 +19,10 @@ results, parse HTML, and fall back to PDFs when needed.
 
 ## Deployment
 
-The application deployment workflow builds `dist/` from `site/` and `data/`.
-The documentation workflow builds `docs-site/` separately so docs can be
-validated without replacing the search app deployment.
+The live app is embedded into the Docusaurus site at `/app/`. The docs build
+runs `python -m recallrx dist --output docs-site/static/app`, then builds the
+site. The timestamp shown as "Exportación diaria" comes from the generated
+country metadata.
 
 ## Manual checks
 

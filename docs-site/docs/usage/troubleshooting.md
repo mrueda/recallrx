@@ -2,7 +2,8 @@
 
 ## The collector returns no records
 
-Check whether AEMPS changed the search endpoint or result shape:
+Check whether the relevant authority changed its search endpoint, listing page,
+or result shape:
 
 ```bash
 python3 -m recallrx build --output /tmp/recallrx-data
@@ -12,9 +13,10 @@ Then inspect the generated build report.
 
 ## The parser produces many warnings
 
-Warnings usually mean AEMPS changed labels or table layout. Add a compact HTML
-fixture under `tests/fixtures/` and update the parser with the new label
-variant.
+Warnings usually mean a source page changed labels or table layout, or that the
+authority did not publish a structured field in that notice. Add a compact HTML
+fixture under `tests/fixtures/` and update the relevant adapter with the new
+label variant.
 
 ## The static app cannot load data
 

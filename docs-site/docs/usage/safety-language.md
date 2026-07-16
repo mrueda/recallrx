@@ -4,7 +4,7 @@ RecallRx must not tell users that a medicine is safe.
 
 The correct empty-result wording in the public app is:
 
-> No se encontró ninguna retirada coincidente en los registros indexados de la AEMPS.
+> No se encontró ninguna retirada coincidente en los registros indexados de la fuente seleccionada.
 
 This means only that the indexed dataset did not contain a matching recall. It
 does not mean the product is safe, unaffected, genuine, available, or suitable
@@ -14,10 +14,11 @@ for use.
 
 Every result should make the source visible:
 
-- AEMPS recall page link.
+- Official authority source page link.
 - PDF link when available.
-- Dataset last update.
+- Latest daily export timestamp.
 - Search confidence or match type.
+- Parser warnings and extraction status when relevant.
 
 ## Documentation language
 

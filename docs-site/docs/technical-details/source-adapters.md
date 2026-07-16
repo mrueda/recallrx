@@ -3,7 +3,11 @@
 Source adapters isolate country-specific discovery and parsing from the shared
 dataset writer.
 
-The first adapter is `es_aemps`.
+Active adapters are:
+
+- `es_aemps`
+- `pt_infarmed`
+- `fr_ansm`
 
 ## Adapter contract
 
@@ -32,6 +36,7 @@ The shared JSON paths are already country-aware:
 
 ```text
 data/countries/es/
-data/countries/us/
-data/countries/uk/
+data/countries/pt/
+data/countries/fr/
+data/countries/ad/
 ```
