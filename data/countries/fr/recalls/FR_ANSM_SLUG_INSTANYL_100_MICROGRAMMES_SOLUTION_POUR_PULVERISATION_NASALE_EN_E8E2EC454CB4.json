@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : établissements de santé Les laboratoires TAKEDA FRANCE précisent qu'aucun effet indésirable, en lien avec ce défaut qualité, n'a été rapporté à la date du rappel. Le service d'information médicale de TAKEDA FRANCE se tient à votre disposition pour toute information complémentaire au numéro suivant: 0140673290 . Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille p",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-01-15",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_INSTANYL_100_MICROGRAMMES_SOLUTION_POUR_PULVERISATION_NASALE_EN_E8E2EC454CB4",
+  "local_id": "SLUG_INSTANYL_100_MICROGRAMMES_SOLUTION_POUR_PULVERISATION_NASALE_EN_E8E2EC454CB4",
+  "lots": [
+    "104232",
+    "448117",
+    "448118",
+    "448119"
+  ],
+  "manufacturer": null,
+  "medicine": "Instanyl 100 microgrammes, solution pour pulvérisation nasale en récipient unidose - Takeda France (MED21/B001)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-01-15",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Instanyl 100 microgrammes, solution pour pulvérisation nasale en récipient unidose - Takeda France (MED21/B001)"
+  },
+  "reason": "Lot 104232 - 10/2021 Lot 448117 - 10/2021 Lot 448118 - 10/2021 Lot 448119 - 10/2021 Ce rappel fait suite à la mise en évidence d'un risque de fissure au niveau du flacon en verre du système de pulvérisation.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/instanyl-100-microgrammes-solution-pour-pulverisation-nasale-en-recipient-unidose-takeda-france",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

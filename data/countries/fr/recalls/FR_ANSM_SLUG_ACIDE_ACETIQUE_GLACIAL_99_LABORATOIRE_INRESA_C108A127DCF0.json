@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des officines et établissements de santé destinataires d’un des lots objet du rappel",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-05-03",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ACIDE_ACETIQUE_GLACIAL_99_LABORATOIRE_INRESA_C108A127DCF0",
+  "local_id": "SLUG_ACIDE_ACETIQUE_GLACIAL_99_LABORATOIRE_INRESA_C108A127DCF0",
+  "lots": [
+    "20003521001",
+    "22003038001",
+    "20003519001",
+    "20003520001",
+    "23001406001"
+  ],
+  "manufacturer": "Laboratoire Inresa",
+  "medicine": "Acide acétique glacial 99%",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2024-05-03",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Acide acétique glacial 99% – Laboratoire Inresa"
+  },
+  "reason": "Acide acétique glacial 99% – Laboratoire Inresa RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 03/05/2024 A+ A- Niveau de rappel : en direct auprès des officines et établissements de santé destinataires d’un des lots objet du rappel Le laboratoire Inresa procède, en accord avec l’ANSM, au retrait des lots de la matière première à usage pharmaceutique mentionnés ci-dessous : Acide acétique glacial 99% 250ml (référence INRESA : 64197-250) Lot 20003521001, date de péremption 30/11/2025 Lot 22003038001, date de péremption 30/06/2027 Acide acétique glacial 99% 1L (référence INRESA : 64197-1) Lot 20003519001, date de péremption 30/11/2025 Lot 20003520001, date de péremption 30/11/2025 Lot 23001406001, date de péremption 31/03/2028 Ce rappel fait suite à la mise en évidence d’une turbidité ou d'une ",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/acide-acetique-glacial-99-laboratoire-inresa",
+  "warnings": [
+    "missing_cip"
+  ]
+}

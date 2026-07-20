@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : Circuit de distribution pharmaceutique, hôpitaux.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-02-17",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_DARZALEX_1800_MG_SOLUTION_INJECTABLE_LABORATOIRE_JANSSEN_CILAG_688A52AF422E",
+  "local_id": "SLUG_DARZALEX_1800_MG_SOLUTION_INJECTABLE_LABORATOIRE_JANSSEN_CILAG_688A52AF422E",
+  "lots": [
+    "mentionn",
+    "LIS3P00"
+  ],
+  "manufacturer": null,
+  "medicine": "Darzalex 1800 mg, solution injectable - Laboratoire Janssen-Cilag (MED22/B007)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-02-17",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Darzalex 1800 mg, solution injectable - Laboratoire Janssen-Cilag (MED22/B007)"
+  },
+  "reason": "Le laboratoire Janssen-Cilag procède, en accord avec l'ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : Darzalex 1 800 mg solution injectable (CIP : 3400930212202) Lot LIS3P00 (exp 08/2022) Ce rappel fait suite à la mise en évidence d'une teneur atypique en méthionine (anti-oxydant) lors d'un test de caractérisation réalisé sur le principe actif.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/darzalex-1800-mg-solution-injectable-laboratoire-janssen-cilag",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

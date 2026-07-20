@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : circuit de distribution pharmaceutique, officines, établissements de santé. ATTENTION - Consignes pour les patients ayant reçus au moins une boîte de stylos EMERADE depuis le mois d'octobre 2018 : Il n'est pas possible à ce stade de procéder à un échange des stylos en leur possession, compte tenu des tensions d'approvisionnement sur les alternatives (Anapen, Epipen, Jext). Il est demandé aux pharmaciens de contacter ces patients ou leur famille, par tous moyen (contact téléphonique, courrier, courriel, ...), afin de leur remettre un exemplaire par boîte dispensée de la nouvelle fiche d’information. Cette fiche contient des instructions additionnelles à destination des utilisateurs de stylos EMERADE afin de limiter l'impact de ce défaut. Il est rappelé aux patients de tou",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-02-26",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_EMERADE_150_300_ET_500_MICROGRAMMES_SOLUTION_INJECTABLE_EN_STYLO_6EC23EB75E89",
+  "local_id": "SLUG_EMERADE_150_300_ET_500_MICROGRAMMES_SOLUTION_INJECTABLE_EN_STYLO_6EC23EB75E89",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Emerade 150, 300 et 500 microgrammes, solution injectable en stylo prérempli - Laboratoire Chauvin (MED20/A005/B005)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-02-26",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Emerade 150, 300 et 500 microgrammes, solution injectable en stylo prérempli - Laboratoire Chauvin (MED20/A005/B005)"
+  },
+  "reason": "Emerade 150, 300 et 500 microgrammes, solution injectable en stylo prérempli - Laboratoire Chauvin (MED20/A005/B005) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 26/02/2020 - MIS À JOUR LE 08/04/2021 A+ A- Le Laboratoire CHAUVIN procède, en accord avec l’ANSM, au rappel de tous les lots non périmés sur le marché à la date du retrait des spécialités suivantes : EMERADE 150 microgrammes, solution injectable en stylo prérempli CIP : 34009 300 272 4 0 EMERADE 300 microgrammes, solution injectable en stylo prérempli CIP : 34009 300 272 7 1 EMERADE 500 microgrammes, solution injectable en stylo prérempliCIP : 34009 300 389 1 8 Ce rappel fait suite à la mise en évidence, d’un défaut qualité sur un nombre limité de stylos EMERADE ayant pour conséquence un potentiel dysfonctionnement du système d’in",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/emerade-150-300-et-500-microgrammes-solution-injectable-en-stylo-prerempli-laboratoire-chauvin",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

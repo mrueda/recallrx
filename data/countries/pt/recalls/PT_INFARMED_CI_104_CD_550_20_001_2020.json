@@ -1,0 +1,45 @@
+{
+  "actions": "Assim, o Infarmed determina a suspensão imediata da distribuição destes lotes. As entidades que possuam estes lotes de medicamento em stock não os podem distribuir, devendo proceder à sua devolução. O Presidente do Conselho Diretivo Rui Santos Ivo",
+  "authority": "INFARMED",
+  "confidence": 0.9,
+  "country": "PT",
+  "date": "2020-06-04",
+  "expiry_dates": [
+    "06/2020",
+    "05/2021",
+    "06/2021",
+    "09/2021",
+    "02/2022",
+    "03/2022"
+  ],
+  "id": "PT_INFARMED_CI_104_CD_550_20_001_2020",
+  "local_id": "CI 104/CD/550.20.001",
+  "lots": [
+    "T82478",
+    "X98666",
+    "AJ6628",
+    "CA6010",
+    "CH5465",
+    "CM2544"
+  ],
+  "manufacturer": "Pfizer Europe MA EEIG irá proceder à recolha voluntária dos lotes abaixo indicados do medicamento Duavive , bazedoxifeno + estrogénios conjugados, 20 mg + 0",
+  "medicine": "Duavive",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "5633060"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-06-03",
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária de lotes do medicamento Duavive"
+  },
+  "reason": "O titular de Autorização de Introdução no Mercado Pfizer Europe MA EEIG irá proceder à recolha voluntária dos lotes abaixo indicados do medicamento Duavive , bazedoxifeno + estrogénios conjugados, 20 mg + 0.45 mg, comprimido de libertação modificada, com o número de registo 5633060 , por terem sido detetados resultados fora da especificação relativamente à dissolução do bazedoxifeno.",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=3711287&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-do-medicamento-duavive&inheritRedirect=false",
+  "warnings": []
+}

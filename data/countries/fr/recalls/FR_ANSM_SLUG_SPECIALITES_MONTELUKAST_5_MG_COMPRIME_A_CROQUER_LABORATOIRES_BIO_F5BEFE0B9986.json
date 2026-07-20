@@ -1,0 +1,36 @@
+{
+  "actions": "Niveau de rappel : officines et Circuit de distribution pharmaceutique Les Laboratoires Biogaran et Zentiva France procèdent en accord avec l’ANSM, au rappel de tous les lots non périmés présents sur le marché, listés ci-dessous, des spécialités Montelukast 5 mg, comprimé à croquer : MONTELUKAST BGR 5 mg, comprimé à croquer (CIP : 34009 300 639 1 0) Lot 1037938 (péremption 12/2022) Lot 3001755 (péremption 02/2023) Lot 3003919 (péremption 05/2023) Lot 3007456 (péremption 06/2023) Lot 3009716 (péremption 10/2023) Lot 3012460 (péremption 12/2023) Lot 3014376 (péremption 12/2023) MONTELUKAST ZENTIVA 5 mg, comprimé à croquer (CIP : 34009 300 641 7 7) Lot : 3016144 (péremption 12/2023) Ce rappel fait suite à la mise en évidence, lors des études de stabilité, de résultats hors spécifications en i",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-11-22",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_SPECIALITES_MONTELUKAST_5_MG_COMPRIME_A_CROQUER_LABORATOIRES_BIO_F5BEFE0B9986",
+  "local_id": "SLUG_SPECIALITES_MONTELUKAST_5_MG_COMPRIME_A_CROQUER_LABORATOIRES_BIO_F5BEFE0B9986",
+  "lots": [
+    "1037938",
+    "3001755",
+    "3003919",
+    "3007456",
+    "3009716",
+    "3012460",
+    "3014376"
+  ],
+  "manufacturer": null,
+  "medicine": "Spécialités Montelukast 5 mg, comprimé à croquer - Laboratoires Biogaran et Zentiva France (MED 22/A028)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-11-22",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Spécialités Montelukast 5 mg, comprimé à croquer - Laboratoires Biogaran et Zentiva France (MED 22/A028)"
+  },
+  "reason": "Spécialités Montelukast 5 mg, comprimé à croquer - Laboratoires Biogaran et Zentiva France (MED 22/A028) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 22/11/2022 A+ A- Niveau de rappel : officines et Circuit de distribution pharmaceutique Les Laboratoires Biogaran et Zentiva France procèdent en accord avec l’ANSM, au rappel de tous les lots non périmés présents sur le marché, listés ci-dessous, des spécialités Montelukast 5 mg, comprimé à croquer : MONTELUKAST BGR 5 mg, comprimé à croquer (CIP : 34009 300 639 1 0) Lot 1037938 (péremption 12/2022) Lot 3001755 (péremption 02/2023) Lot 3003919 (péremption 05/2023) Lot 3007456 (péremption 06/2023) Lot 3009716 (péremption 10/2023) Lot 3012460 (péremption 12/2023) Lot 3014376 (péremption 12/2023) MONTELUKAST ZENTIVA 5 mg, comprimé à croquer (CIP :",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/specialites-montelukast-5-mg-comprime-a-croquer-laboratoires-biogaran-et-zentiva-france",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

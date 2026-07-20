@@ -1,0 +1,37 @@
+{
+  "actions": "Niveau de rappel : Officine, Etablissement de santé et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-01-19",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PHOSPHALUGEL_SUSPENSION_BUVABLE_EN_SACHET_DOSE_OPELLA_HEALTHCARE_8967B1867555",
+  "local_id": "SLUG_PHOSPHALUGEL_SUSPENSION_BUVABLE_EN_SACHET_DOSE_OPELLA_HEALTHCARE_8967B1867555",
+  "lots": [
+    "028396",
+    "028428",
+    "028603",
+    "028604",
+    "028605",
+    "028676"
+  ],
+  "manufacturer": "Opella Healthcare France (MED22/A001/B001)",
+  "medicine": "Phosphalugel, suspension buvable en sachet dose",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400932197569"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-01-19",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Phosphalugel, suspension buvable en sachet dose – Opella Healthcare France (MED22/A001/B001)"
+  },
+  "reason": "Le laboratoire Opella Healthcare France procède, en accord avec l’ANSM au rappel des lots mentionnés ci-dessous de la spécialité Phosphalugel, suspension buvable en sachet dose (CIP 34009 321 975 6 9) : Lot 028396 - Exp 30/06/23 Lot 028428 - Exp 30/06/23 Lot 028603 - Exp 30/09/23 Lot 028604 - Exp 30/09/23 Lot 028605 - Exp 30/09/23 Lot 028676 - Exp 30/09/23 Ce rappel fait suite à la mise en évidence de teneurs en plomb à des taux supérieurs aux limites acceptables dans la substance active entrant dans la composition de la spécialité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/phosphalugel-suspension-buvable-en-sachet-dose-opella-healthcare-france",
+  "warnings": []
+}

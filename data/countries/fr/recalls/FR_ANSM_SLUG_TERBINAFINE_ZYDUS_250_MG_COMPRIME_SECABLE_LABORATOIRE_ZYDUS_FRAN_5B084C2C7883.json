@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2025-10-07",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_TERBINAFINE_ZYDUS_250_MG_COMPRIME_SECABLE_LABORATOIRE_ZYDUS_FRAN_5B084C2C7883",
+  "local_id": "SLUG_TERBINAFINE_ZYDUS_250_MG_COMPRIME_SECABLE_LABORATOIRE_ZYDUS_FRAN_5B084C2C7883",
+  "lots": [
+    "M312059",
+    "M312060"
+  ],
+  "manufacturer": "Laboratoire Zydus France (MED 25/A020)",
+  "medicine": "Terbinafine Zydus 250 mg, comprimé sécable",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938029123"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-10-07",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Terbinafine Zydus 250 mg, comprimé sécable – Laboratoire Zydus France (MED 25/A020)"
+  },
+  "reason": "Terbinafine Zydus 250 mg, comprimé sécable – Laboratoire Zydus France (MED 25/A020) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 07/10/2025 A+ A- Niveau de rappel : officines et circuit de distribution pharmaceutique Le laboratoire Zydus France procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité Terbinafine Zydus 250 mg, comprimé sécable : CIP 34009 380 291 2 3 : Lot M312059 - 09/2026 Lot M312060 - 09/2026 Ce rappel fait suite à l'observation, lors des études de stabilité du produit fini, de la présence d'impuretés à des taux supérieurs aux limites acceptables.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/terbinafine-zydus-250-mg-comprime-secable-laboratoire-zydus-france",
+  "warnings": []
+}

@@ -1,0 +1,34 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique Les laboratoires Lehning procèdent, en accord avec l’ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : Gelsemium Complexe n°70, solution buvable en gouttes, CIP 34009 301 638 3 2 Lot CX281, péremption 07-2029. Ce rappel fait suite à la mise en évidence d’un défaut d’étiquetage sur une partie des flacons de ce lot, qui présentent une étiquette d’une autre spécialité (BIOCARDE, solution buvabe). Seule l’étiquette est non conforme, le contenu du flacon est bien du Gelsemium Complexe n°70 solution buvable en gouttes. Cette notification de rappel de lot concerne uniquement le lot mentionné ci-dessus. Les autres lots de Gelsemium n°70, solution buvable en gouttes actuellement sur le ma",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2025-01-22",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_GELSEMIUM_COMPLEXE_NDEG70_SOLUTION_BUVABLE_EN_GOUTTES_LABORATOIR_2B44DA90E5DB",
+  "local_id": "SLUG_GELSEMIUM_COMPLEXE_NDEG70_SOLUTION_BUVABLE_EN_GOUTTES_LABORATOIR_2B44DA90E5DB",
+  "lots": [
+    "mentionn",
+    "CX281",
+    "concerne"
+  ],
+  "manufacturer": "Laboratoires Lehning (MED25/A002)",
+  "medicine": "Gelsemium Complexe n°70, solution buvable en gouttes",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930163832"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-01-22",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Gelsemium Complexe n°70, solution buvable en gouttes – Laboratoires Lehning (MED25/A002)"
+  },
+  "reason": "Ce rappel fait suite à la mise en évidence d’un défaut d’étiquetage sur une partie des flacons de ce lot, qui présentent une étiquette d’une autre spécialité (BIOCARDE, solution buvabe).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/gelsemium-complexe-ndeg70-solution-buvable-en-gouttes-laboratoires-lehning",
+  "warnings": []
+}

@@ -1,0 +1,35 @@
+{
+  "actions": "Ce rappel fait suite à la mise en évidence de résultats hors spécification lors des études de stabilité. Niveaux de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique. Pour toute question, merci de contacter Lundbeck SAS (Paris La Défense - France) au 01 79 41 29 79. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-01-15",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_FLUANXOL_4_POUR_CENT_SOLUTION_BUVABLE_GOUTTES_LABORATOIRE_LUNDBE_86C9C66A040E",
+  "local_id": "SLUG_FLUANXOL_4_POUR_CENT_SOLUTION_BUVABLE_GOUTTES_LABORATOIRE_LUNDBE_86C9C66A040E",
+  "lots": [
+    "list",
+    "2623706"
+  ],
+  "manufacturer": null,
+  "medicine": "Fluanxol 4 pour cent, solution buvable, gouttes - Laboratoire Lundbeck SAS (MED21/A001/B002)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400931655527"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-01-15",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Fluanxol 4 pour cent, solution buvable, gouttes - Laboratoire Lundbeck SAS (MED21/A001/B002)"
+  },
+  "reason": "Fluanxol 4 pour cent, solution buvable, gouttes - Laboratoire Lundbeck SAS (MED21/A001/B002) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 15/01/2021 - MIS À JOUR LE 06/04/2021 A+ A- Le laboratoire Lundbeck SAS procède, en accord avec l'ANSM, au rappel du lot listé ci-dessous de la spécialité FLUANXOL 4 POUR CENT, solution buvable, gouttes (CIP 34009 316 555 2 7) Le laboratoire Lundbeck SAS procède, en accord avec l'ANSM, au rappel du lot listé ci-dessous de la spécialité : FLUANXOL 4 POUR CENT, solution buvable, gouttes (CIP 34009 316 555 2 7) Lot 2623706 - péremption 03/2021 Ce rappel fait suite à la mise en évidence de résultats hors spécification lors des études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/fluanxol-4-pour-cent-solution-buvable-gouttes-laboratoire-lundbeck-sas",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

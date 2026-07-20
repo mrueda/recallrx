@@ -1,0 +1,50 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-10-19",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ANGI_SPRAY_MAL_DE_GORGE_CHLORHEXIDINE_LIDOCAINE_COLLUTOIRE_LABOR_22601376FCAE",
+  "local_id": "SLUG_ANGI_SPRAY_MAL_DE_GORGE_CHLORHEXIDINE_LIDOCAINE_COLLUTOIRE_LABOR_22601376FCAE",
+  "lots": [
+    "20112",
+    "20113",
+    "20114",
+    "20115",
+    "20116",
+    "20117",
+    "20118",
+    "20119",
+    "20120",
+    "20121",
+    "20122",
+    "20123",
+    "20124",
+    "20125",
+    "20126",
+    "20127",
+    "20128",
+    "20129",
+    "20130"
+  ],
+  "manufacturer": "Laboratoire P&G Health France (MED23/A021)",
+  "medicine": "Angi-Spray mal de gorge chlorhexidine/lidocaïne, collutoire",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930425657"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-10-19",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Angi-Spray mal de gorge chlorhexidine/lidocaïne, collutoire – Laboratoire P&G Health France (MED23/A021)"
+  },
+  "reason": "Angi-Spray mal de gorge chlorhexidine/lidocaïne, collutoire – Laboratoire P&G Health France (MED23/A021) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 19/10/2023 A+ A- Niveau de rappel : Officines et circuit de distribution pharmaceutique Le Laboratoire P&G Health France procède, en accord avec l’ANSM, au rappel des 19 lots mentionnés ci-dessous de la spécialité Angi-Spray mal de gorge chlorhexidine/lidocaïne, collutoire (CIP 34009 304 256 5 7) : Lot 20112 - péremption 07/2024 Lot 20113 - péremption 07/2024 Lot 20114 - péremption 07/2024 Lot 20115 - péremption 08/2024 Lot 20116 - péremption 08/2024 Lot 20117 - péremption 08/2024 Lot 20118 - péremption 08/2024 Lot 20119 - péremption 09/2024 Lot 20120 - péremption 09/2024 Lot 20121 - péremption 09/2024 Lot 20122 - péremption 09/2024 Lot 20123 ",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/angi-spray-mal-de-gorge-chlorhexidine-lidocaine-collutoire-laboratoire-p-g-health-france-1",
+  "warnings": []
+}

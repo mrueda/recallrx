@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : Officine, Etablissements de santé et circuit de distribution pharmaceutique. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-03-25",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_GLUCONATE_DE_CHLORHEXIDINE_ALCOOLIQUE_A_0_5_INCOLORE_GIFRER_SOLU_F029665B8C96",
+  "local_id": "SLUG_GLUCONATE_DE_CHLORHEXIDINE_ALCOOLIQUE_A_0_5_INCOLORE_GIFRER_SOLU_F029665B8C96",
+  "lots": [
+    "Les",
+    "AE3214"
+  ],
+  "manufacturer": null,
+  "medicine": "Gluconate de Chlorhexidine Alcoolique à 0,5 % Incolore Gifrer, solution pour application cutanée - Laboratoires Gifrer Barbezat (MED 21/A006/B008)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-03-25",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Gluconate de Chlorhexidine Alcoolique à 0,5 % Incolore Gifrer, solution pour application cutanée - Laboratoires Gifrer Barbezat (MED 21/A006/B008)"
+  },
+  "reason": "Gluconate de Chlorhexidine Alcoolique à 0,5 % Incolore Gifrer, solution pour application cutanée - Laboratoires Gifrer Barbezat (MED 21/A006/B008) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 25/03/2021 A+ A- Rappel d'un lot Les Laboratoires GIFRER BARBEZAT procèdent, en accord avec l’ANSM, au rappel du lot AE3214 (12/2022), de la spécialité GLUCONATE DE CHLORHEXIDINE ALCOOLIQUE A 0,5 % INCOLORE GIFRER, solution pour application cutanée CIP : 3400936018235 Ce rappel fait suite à la détection sur une partie du lot, d’une erreur d’étuis utilisés lors du conditionnement du lot AE3214 : des flacons de GLUCONATE DE CHLORHEXIDINE ALCOOLIQUE A 0,5 % INCOLORE GIFRER, solution pour application cutanée, ont été conditionnés dans des étuis de GLUCONATE DE CHLORHEXIDINE ALCOOLIQUE GIFRER A 0,5 % AVEC C",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/gluconate-de-chlorhexidine-alcoolique-a-0-5-incolore-gifrer-solution-pour-application-cutanee-laboratoires-gifrer-barbezat",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

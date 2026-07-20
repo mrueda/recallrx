@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : Établissements de santé, circuit de distribution pharmaceutique et patient.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-02-04",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_TEMOZOLOMIDE_ACCORD_5_MG_GELULE_LABORATOIRE_ACCORD_HEALTHCARE_FR_419D9C4DBC7B",
+  "local_id": "SLUG_TEMOZOLOMIDE_ACCORD_5_MG_GELULE_LABORATOIRE_ACCORD_HEALTHCARE_FR_419D9C4DBC7B",
+  "lots": [
+    "mentionn",
+    "P2103477"
+  ],
+  "manufacturer": null,
+  "medicine": "Temozolomide Accord 5 mg, gélule - Laboratoire Accord Healthcare France (MED 22/B005)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930023952"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-02-04",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Temozolomide Accord 5 mg, gélule - Laboratoire Accord Healthcare France (MED 22/B005)"
+  },
+  "reason": "Le laboratoire Accord Healthcare France procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité : TEMOZOLOMIDE ACCORD 5 mg, gélule, en boite de 5 sachets de 1 gélule (Code CIP 34009 300 239 5 2) Lot P2103477 – EXP 04/2023 Ce rappel fait suite à la découverte d’une gélule de TEMOZOLOMIDE 20 mg dans un sachet unitaire de TEMOZOLOMIDE ACCORD 5 mg de ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/temozolomide-accord-5-mg-gelule-laboratoire-accord-healthcare-france",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

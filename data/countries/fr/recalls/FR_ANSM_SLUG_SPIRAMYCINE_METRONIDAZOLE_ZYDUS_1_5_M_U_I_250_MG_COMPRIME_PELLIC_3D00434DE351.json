@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-10-01",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_SPIRAMYCINE_METRONIDAZOLE_ZYDUS_1_5_M_U_I_250_MG_COMPRIME_PELLIC_3D00434DE351",
+  "local_id": "SLUG_SPIRAMYCINE_METRONIDAZOLE_ZYDUS_1_5_M_U_I_250_MG_COMPRIME_PELLIC_3D00434DE351",
+  "lots": [
+    "M300493",
+    "M300495",
+    "M312979",
+    "M400996"
+  ],
+  "manufacturer": "Laboratoire Zydus France (MED25/A018)",
+  "medicine": "Spiramycine /Métronidazole Zydus 1,5 M.U.I./250 mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-10-01",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Spiramycine /Métronidazole Zydus 1,5 M.U.I./250 mg, comprimé pelliculé – Laboratoire Zydus France (MED25/A018)"
+  },
+  "reason": "Spiramycine /Métronidazole Zydus 1,5 M.U.I./250 mg, comprimé pelliculé – Laboratoire Zydus France (MED25/A018) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 01/10/2025 A+ A- Niveau de rappel : officines et circuit de distribution pharmaceutique Le laboratoire Zydus France, procède en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité : Spiramycine /Métronidazole Zydus 1,5 M.U.I./250 mg, comprimé pelliculé – CIP : 3400937103923 Lot M300493 - pér 01/2026 Lot M300495 - pér 01/2026 Lot M312979 - pér 09/2026 Lot M400996 - pér 01/2027 Ce rappel fait suite à la mise en évidence lors des études de stabilité de la présence d'une impureté à des taux supérieurs aux limites acceptables dans le produit fini.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/spiramycine-metronidazole-zydus-1-5-m-u-i-250-mg-comprime-pellicule-laboratoire-zydus-france",
+  "warnings": [
+    "missing_cip"
+  ]
+}

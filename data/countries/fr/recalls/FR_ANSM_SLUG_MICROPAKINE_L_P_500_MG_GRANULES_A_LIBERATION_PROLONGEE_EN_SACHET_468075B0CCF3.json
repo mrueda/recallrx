@@ -1,0 +1,37 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé, circuit de distribution pharmaceutique et patients. Pour toute information médicale, contacter : Pour la métropole : 0 800 394 000 (Service et appel gratuits) Pour les DOM-COM : 0 800 626 626 (Service et appel gratuits) Publié le 27/11/2020 - Mis à jour le 16/03/2021 RAPPEL du lot N° DM0059 de Micropakine LP 500mg (valproate de sodium) Surveillance Pharmacovigilance Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2020-11-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_MICROPAKINE_L_P_500_MG_GRANULES_A_LIBERATION_PROLONGEE_EN_SACHET_468075B0CCF3",
+  "local_id": "SLUG_MICROPAKINE_L_P_500_MG_GRANULES_A_LIBERATION_PROLONGEE_EN_SACHET_468075B0CCF3",
+  "lots": [
+    "mentionn",
+    "DM0059",
+    "concern",
+    "afin"
+  ],
+  "manufacturer": null,
+  "medicine": "Micropakine L.P. 500 mg, granulés à libération prolongée en sachet-dose - Sanofi-Aventis France (MED20/A027/B016)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400936551381"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-11-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Micropakine L.P. 500 mg, granulés à libération prolongée en sachet-dose - Sanofi-Aventis France (MED20/A027/B016)"
+  },
+  "reason": "500 mg, granulés à libération prolongée en sachet-dose (CIP 34009 365 513 8 1) : Lot DM0059 (péremption 03/2022) Ce rappel fait suite à la mise en évidence de sachets vides ou doublement remplis dans un certain nombre de boîtes de ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/micropakine-l-p-500-mg-granules-a-liberation-prolongee-en-sachet-dose-sanofi-aventis-france-rappel-de-lot",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

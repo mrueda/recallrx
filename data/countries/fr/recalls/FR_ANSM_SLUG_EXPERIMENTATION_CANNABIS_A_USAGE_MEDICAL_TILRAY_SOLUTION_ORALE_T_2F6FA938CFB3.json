@@ -1,0 +1,29 @@
+{
+  "actions": null,
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-04-02",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_EXPERIMENTATION_CANNABIS_A_USAGE_MEDICAL_TILRAY_SOLUTION_ORALE_T_2F6FA938CFB3",
+  "local_id": "SLUG_EXPERIMENTATION_CANNABIS_A_USAGE_MEDICAL_TILRAY_SOLUTION_ORALE_T_2F6FA938CFB3",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Expérimentation cannabis à usage médical - Tilray Solution Orale THC10 CBD10",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-04-02",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Expérimentation cannabis à usage médical - Tilray Solution Orale THC10 CBD10"
+  },
+  "reason": "Expérimentation cannabis à usage médical - Tilray Solution Orale THC10 CBD10 RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 02/04/2021 A+ A- Expérimentation cannabis à usage médical Plusieurs déclarations d’incidents ont été rapportées à l’ANSM concernant un défaut qualité du médicament Tilray Solution Orale THC10 CBD10 utilisé dans le cadre de l'expérimentation du cannabis à usage médical mise en place en France.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/experimentation-cannabis-a-usage-medical-tilray-solution-orale-thc10-cbd10",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

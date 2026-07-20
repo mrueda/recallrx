@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : hôpitaux, officines et circuit de distribution pharmaceutique. Pour toute question merci de contacter le Service Client Biogaran au 0811 907 917 Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin o",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-05-26",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_AMLODIPINE_BIOGARAN_10_MG_GELULE_FLACON_DE_30_GELULES_LABORATOIR_EE0360996CD5",
+  "local_id": "SLUG_AMLODIPINE_BIOGARAN_10_MG_GELULE_FLACON_DE_30_GELULES_LABORATOIR_EE0360996CD5",
+  "lots": [
+    "mentionn"
+  ],
+  "manufacturer": null,
+  "medicine": "Amlodipine Biogaran 10 mg, gélule, flacon de 30 gélules - Laboratoire Biogaran (MED21/A014/B013)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-05-26",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Amlodipine Biogaran 10 mg, gélule, flacon de 30 gélules - Laboratoire Biogaran (MED21/A014/B013)"
+  },
+  "reason": "CIP : 34009 300 505 1 4 Lot : 340048, Exp : 09/2022 Ce rappel fait suite à la mise en évidence de la présence de gélules de VENLAFAXINE 75 mg dans un flacon étiqueté AMLODIPINE BIOGARAN 10 mg.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/amlodipine-biogaran-10-mg-gelule-flacon-de-30-gelules-laboratoire-biogaran",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

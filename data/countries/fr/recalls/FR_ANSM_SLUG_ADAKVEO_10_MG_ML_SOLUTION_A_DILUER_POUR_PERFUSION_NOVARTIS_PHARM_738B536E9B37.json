@@ -1,0 +1,34 @@
+{
+  "actions": "Ce rappel fait suite au retrait de l’AMM par l’Agence Européenne des Médicaments (EMA). Le rappel est effectué en direct auprès des établissements concernés. Aucun numéro d’alerte n’a donc été attribué à ce rappel. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Con",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-08-08",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ADAKVEO_10_MG_ML_SOLUTION_A_DILUER_POUR_PERFUSION_NOVARTIS_PHARM_738B536E9B37",
+  "local_id": "SLUG_ADAKVEO_10_MG_ML_SOLUTION_A_DILUER_POUR_PERFUSION_NOVARTIS_PHARM_738B536E9B37",
+  "lots": [
+    "SHRA8",
+    "SHEK8",
+    "SFWA6",
+    "SFAU8",
+    "SELT5"
+  ],
+  "manufacturer": null,
+  "medicine": "Adakveo 10 mg/mL, solution à diluer pour perfusion - Novartis Pharma S.A.S",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-08-08",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Adakveo 10 mg/mL, solution à diluer pour perfusion - Novartis Pharma S.A.S"
+  },
+  "reason": "Lot SHRA8 (EXP : 30/06/2024) Lot SHEK8 (EXP : 31/03/2024) Lot SFWA6 (EXP : 31/03/2024) Lot SFAU8 (EXP : 30/11/2023) Lot SELT5 (EXP : 30/11/2023) Ce rappel fait suite au retrait de l’AMM par l’Agence Européenne des Médicaments (EMA).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/adakveo-10-mg-ml-solution-a-diluer-pour-perfusion-novartis-pharma-s-a-s",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

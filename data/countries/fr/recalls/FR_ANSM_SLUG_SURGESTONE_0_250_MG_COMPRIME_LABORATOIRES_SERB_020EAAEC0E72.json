@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique Pour toute information médicale , vous pouvez contacter les Laboratoires SERB au 01 73 03 20 00 Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulleti",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2020-03-04",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_SURGESTONE_0_250_MG_COMPRIME_LABORATOIRES_SERB_020EAAEC0E72",
+  "local_id": "SLUG_SURGESTONE_0_250_MG_COMPRIME_LABORATOIRES_SERB_020EAAEC0E72",
+  "lots": [
+    "suivant",
+    "0210119"
+  ],
+  "manufacturer": null,
+  "medicine": "Surgestone 0,250 mg, comprimé - Laboratoires Serb (MED20/A007)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400932491834"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-03-04",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Surgestone 0,250 mg, comprimé - Laboratoires Serb (MED20/A007)"
+  },
+  "reason": "Surgestone 0,250 mg, comprimé - Laboratoires Serb (MED20/A007) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 04/03/2020 - MIS À JOUR LE 08/04/2021 A+ A- Les laboratoires SERB procèdent, en accord avec l’ANSM et par mesure de précaution, au rappel du lot suivant de la spécialité : SURGESTONE 0,250 mg, comprimé – boite de 10 comprimés code CIP 34009 324 918 3 4 Lot 0210119, exp 06/2020 Ce rappel fait suite à la mise en évidence de résultats hors tendance lors des études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/surgestone-0-250-mg-comprime-laboratoires-serb",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

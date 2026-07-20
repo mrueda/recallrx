@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-02-24",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CROMEDIL_2_POUR_CENT_COLLYRE_EN_SOLUTION_EN_RECIPIENT_UNIDOSE_LA_EE34CBAEF5D3",
+  "local_id": "SLUG_CROMEDIL_2_POUR_CENT_COLLYRE_EN_SOLUTION_EN_RECIPIENT_UNIDOSE_LA_EE34CBAEF5D3",
+  "lots": [
+    "509",
+    "mentionn",
+    "inscrit",
+    "indiqu"
+  ],
+  "manufacturer": null,
+  "medicine": "Cromédil 2 pour cent, collyre en solution en récipient unidose - Laboratoires Europhta (MED21/A002/B005)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-02-24",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Cromédil 2 pour cent, collyre en solution en récipient unidose - Laboratoires Europhta (MED21/A002/B005)"
+  },
+  "reason": "Cromédil 2 pour cent, collyre en solution en récipient unidose - Laboratoires Europhta (MED21/A002/B005) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 24/02/2021 - MIS À JOUR LE 06/04/2021 A+ A- Ce rappel fait suite à la mise en évidence dans un certain nombre de boites du lot 509, de sachets et d’unidoses mentionnant un autre numéro de lot de la même spécialité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/cromedil-2-pour-cent-collyre-en-solution-en-recipient-unidose-laboratoires-europhta",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

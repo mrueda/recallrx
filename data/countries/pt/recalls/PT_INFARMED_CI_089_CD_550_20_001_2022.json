@@ -1,0 +1,48 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam estes lotes de medicamentos em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução. Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper o tratamento. Logo que possível, devem contactar o médico para substituir por outro lote ou um medicamento alternativo. O Conselho Diretivo",
+  "authority": "INFARMED",
+  "confidence": 0.9,
+  "country": "PT",
+  "date": "2022-08-09",
+  "expiry_dates": [
+    "10/2022",
+    "02/2023",
+    "09/2022"
+  ],
+  "id": "PT_INFARMED_CI_089_CD_550_20_001_2022",
+  "local_id": "CI 089/CD/550.20.001",
+  "lots": [
+    "0464019C",
+    "1464001D",
+    "0463004V",
+    "1462001E"
+  ],
+  "manufacturer": "Aristo Pharma Iberia S.L.",
+  "medicine": "Recolha voluntária de lotes de medicamentos Tadalafil Aristo, Tadalafil (comprimido revestido por película)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "5726500"
+    },
+    {
+      "system": "AIM",
+      "value": "5726518"
+    },
+    {
+      "system": "AIM",
+      "value": "5726526"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-08-01",
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária de lotes de medicamentos Tadalafil Aristo, Tadalafil (comprimido revestido por película)"
+  },
+  "reason": "A empresa Aristo Pharma Iberia S.L., irá proceder à recolha voluntária dos lotes abaixo indicados de medicamentos Tadalafil Aristo, Tadalafil, comprimido revestido por película, nas dosagens de 5mg, 10mg e 20mg por ter sido emitido um Relatório de Não Conformidade com as Boas Práticas de Fabrico ao fabricante dos medicamentos, pela autoridade do medicamento belga, dado terem sido detetadas falhas no cumprimento do Sistema das Boas Práticas de Fabrico de Medicamentos:",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=7065814&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-de-medicamentos-tadalafil-aristo-tadalafil-comprimido-revestido-por-pelicula&inheritRedirect=false",
+  "warnings": []
+}

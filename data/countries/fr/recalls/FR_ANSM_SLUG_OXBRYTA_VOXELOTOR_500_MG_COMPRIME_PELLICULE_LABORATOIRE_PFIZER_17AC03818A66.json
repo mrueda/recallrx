@@ -1,0 +1,36 @@
+{
+  "actions": "Niveau de rappel : établissements de santé",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-10-11",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OXBRYTA_VOXELOTOR_500_MG_COMPRIME_PELLICULE_LABORATOIRE_PFIZER_17AC03818A66",
+  "local_id": "SLUG_OXBRYTA_VOXELOTOR_500_MG_COMPRIME_PELLICULE_LABORATOIRE_PFIZER_17AC03818A66",
+  "lots": [
+    "1921915",
+    "1941107",
+    "1976038",
+    "1993066",
+    "1993072"
+  ],
+  "manufacturer": "Laboratoire Pfizer (MED24/B009)",
+  "medicine": "Oxbryta (voxelotor) 500 mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930247150"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-10-11",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Oxbryta (voxelotor) 500 mg, comprimé pelliculé – Laboratoire Pfizer (MED24/B009)"
+  },
+  "reason": "Oxbryta (voxelotor) 500 mg, comprimé pelliculé – Laboratoire Pfizer (MED24/B009) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 11/10/2024 A+ A- Niveau de rappel : établissements de santé Le laboratoire Pfizer procède, en accord avec l'ANSM, au rappel de tous les lots actuellement présents sur le marché de la spécialité : Oxbryta (voxelotor) 500 mg, comprimé pelliculé – boîte de 90 (CIP 34009 302 471 5 0) Lot 1921915 EXP 10/2024 Lot 1941107 EXP 03/2025 Lot 1976038 EXP 03/2025 Lot 1993066 EXP 11/2025 Lot 1993072 EXP 11/2025 Ce rappel fait suite à la décision de la Commission européenne du 04 octobre 2024 de suspendre temporairement l’autorisation de mise sur le marché (AMM) de cette spécialité, par mesure de précaution et pendant la réévaluation en cours à l’échelle européenne du rapport bénéf",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/oxbryta-voxelotor-500-mg-comprime-pellicule-laboratoire-pfizer",
+  "warnings": []
+}

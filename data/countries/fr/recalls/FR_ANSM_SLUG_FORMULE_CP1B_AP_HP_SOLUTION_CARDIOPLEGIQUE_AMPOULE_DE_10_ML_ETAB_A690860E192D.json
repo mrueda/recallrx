@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de Rappel : établissements de santé L'établissement Pharmaceutique de l’AP-HP – AGEPS procéde, en accord avec l'ANSM et par mesure de précaution, au rappel du lot numéro 23F020 (EXP 31/12/2024) de la préparation hospitalière : Formule CP1B AP-HP, solution cardioplégique, ampoule de 10 mL code AGEPS 7140894 - code SAP 10253331 - code CIPH 77362987 Ce rappel fait suite à la mise en évidence d’une particule de verre dans une ampoule lors du mirage des ampoules mises en stabilité. L’établissement Pharmaceutique de l’AP-HP précise qu’aucune réclamation ni aucun cas de pharmacovigilance en lien avec le défaut qualité n'ont été rapportés à ce jour. Ce rappel est effectué en direct auprès des établissements concernés. Par conséquent, aucun numéro d’alerte n’a été attribué à ce rappel. Pour ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-07-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_FORMULE_CP1B_AP_HP_SOLUTION_CARDIOPLEGIQUE_AMPOULE_DE_10_ML_ETAB_A690860E192D",
+  "local_id": "SLUG_FORMULE_CP1B_AP_HP_SOLUTION_CARDIOPLEGIQUE_AMPOULE_DE_10_ML_ETAB_A690860E192D",
+  "lots": [
+    "num"
+  ],
+  "manufacturer": "AGEPS",
+  "medicine": "Formule CP1B AP-HP, solution cardioplégique, ampoule de 10 mL– Établissement Pharmaceutique de l’AP-HP",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2024-07-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Formule CP1B AP-HP, solution cardioplégique, ampoule de 10 mL– Établissement Pharmaceutique de l’AP-HP – AGEPS"
+  },
+  "reason": "Formule CP1B AP-HP, solution cardioplégique, ampoule de 10 mL– Établissement Pharmaceutique de l’AP-HP – AGEPS RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/07/2024 A+ A- Niveau de Rappel : établissements de santé L'établissement Pharmaceutique de l’AP-HP – AGEPS procéde, en accord avec l'ANSM et par mesure de précaution, au rappel du lot numéro 23F020 (EXP 31/12/2024) de la préparation hospitalière : Formule CP1B AP-HP, solution cardioplégique, ampoule de 10 mL code AGEPS 7140894 - code SAP 10253331 - code CIPH 77362987 Ce rappel fait suite à la mise en évidence d’une particule de verre dans une ampoule lors du mirage des ampoules mises en stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/formule-cp1b-ap-hp-solution-cardioplegique-ampoule-de-10-ml-etablissement-pharmaceutique-de-lap-hp-ageps",
+  "warnings": [
+    "missing_cip"
+  ]
+}

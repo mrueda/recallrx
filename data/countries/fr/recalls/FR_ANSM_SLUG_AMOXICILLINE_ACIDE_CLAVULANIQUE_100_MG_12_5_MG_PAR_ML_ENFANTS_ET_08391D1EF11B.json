@@ -1,0 +1,49 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique Les laboratoires Biogaran et Zentiva procèdent, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous des spécialités : Amoxicilline / Acide Clavulanique Biogaran 100 mg / 12,5 mg par ml enfants poudre pour suspension buvable en flacon de 60 ml (CIP 3400935355690) Lot FM5C – EXP 05/2025 Lot FK8T – EXP 05/2025 Lot GD5V – EXP 10/2025 Amoxicilline / Acide Clavulanique Biogaran 100 mg / 12,5 mg par ml nourrissons poudre pour suspension buvable en flacon de 30 ml (CIP 3400935355522) Lot FM5F – EXP 05/2025 Amoxicilline / Acide Clavulanique Zentiva Lab 100mg/12,50 mg par ml enfants, poudre pour suspension buvable en flacon (CIP 3400935355751) Lot FU6G – EXP 10/2025 Amoxicilline / Acide Cla",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-09-23",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_AMOXICILLINE_ACIDE_CLAVULANIQUE_100_MG_12_5_MG_PAR_ML_ENFANTS_ET_08391D1EF11B",
+  "local_id": "SLUG_AMOXICILLINE_ACIDE_CLAVULANIQUE_100_MG_12_5_MG_PAR_ML_ENFANTS_ET_08391D1EF11B",
+  "lots": [
+    "FM5C",
+    "FK8T",
+    "GD5V",
+    "FM5F",
+    "FU6G",
+    "GD5T"
+  ],
+  "manufacturer": "Laboratoires Biogaran et Zentiva (MED24/A013)",
+  "medicine": "Amoxicilline / Acide Clavulanique 100 mg/12,5 mg par ml enfants et nourrissons poudre pour suspension buvable en flacon",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400935355690"
+    },
+    {
+      "system": "CIP",
+      "value": "3400935355522"
+    },
+    {
+      "system": "CIP",
+      "value": "3400935355751"
+    },
+    {
+      "system": "CIP",
+      "value": "3400933295226"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-09-23",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Amoxicilline / Acide Clavulanique 100 mg/12,5 mg par ml enfants et nourrissons poudre pour suspension buvable en flacon – Laboratoires Biogaran et Zentiva (MED24/A013)"
+  },
+  "reason": "Amoxicilline / Acide Clavulanique 100 mg/12,5 mg par ml enfants et nourrissons poudre pour suspension buvable en flacon – Laboratoires Biogaran et Zentiva (MED24/A013) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 23/09/2024 A+ A- Niveau de rappel : Officines et circuit de distribution pharmaceutique Les laboratoires Biogaran et Zentiva procèdent, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous des spécialités : Amoxicilline / Acide Clavulanique Biogaran 100 mg / 12,5 mg par ml enfants poudre pour suspension buvable en flacon de 60 ml (CIP 3400935355690) Lot FM5C – EXP 05/2025 Lot FK8T – EXP 05/2025 Lot GD5V – EXP 10/2025 Amoxicilline / Acide Clavulanique Biogaran 100 mg / 12,5 mg par ml nourrissons poudre pour suspension buvable en flacon de 30 ml",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/amoxicilline-acide-clavulanique-100-mg-12-5-mg-par-ml-enfants-et-nourrissons-poudre-pour-suspension-buvable-en-flacon-laboratoires-biogaran-et-zentiva",
+  "warnings": []
+}

@@ -10,7 +10,7 @@
   "lots": [
     "A001A"
   ],
-  "manufacturer": null,
+  "manufacturer": "Alter Genéricos – Comercialização de Produtos Genéricos Lda.",
   "medicine": "Recolha voluntária de lote do medicamento Telmisartan Alter Genéricos, 80 mg",
   "pdf_url": null,
   "product_codes": [
@@ -28,8 +28,6 @@
   },
   "reason": "A empresa Alter Genéricos – Comercialização de Produtos Genéricos Lda. irá proceder à recolha voluntária do Lote nº A001A, prazo de validade 02/2027 do medicamento Telmisartan Alter Genéricos, 80 mg, nº de registo 5439773- apresentação de 28 comprimidos, por terem sido detetados valores fora de especificação no ensaio de dissolução, durante os estudos de estabilidade.",
   "recall_class": null,
-  "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11451662",
-  "warnings": [
-    "missing_manufacturer"
-  ]
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11451666&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-telmisartan-alter-genericos-80-mg-comprimidos-lote-n-a001a-prazo-de-validade-02-20-1&inheritRedirect=false",
+  "warnings": []
 }

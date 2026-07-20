@@ -13,7 +13,12 @@
   "manufacturer": "Santen Oy",
   "medicine": "Ikervis (Ciclosporina) 1 mg-ml (colírio, emulsão, Lote 4T92C)",
   "pdf_url": null,
-  "product_codes": [],
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "5672266"
+    }
+  ],
   "product_type": "medicine",
   "publication_date": "2026-03-17",
   "raw": {
@@ -25,7 +30,6 @@
   "recall_class": null,
   "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12596631",
   "warnings": [
-    "missing_registration_number",
     "missing_lot"
   ]
 }

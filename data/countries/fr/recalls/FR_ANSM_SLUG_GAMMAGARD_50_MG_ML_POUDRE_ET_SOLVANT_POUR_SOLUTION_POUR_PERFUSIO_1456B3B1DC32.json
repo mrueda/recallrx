@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : établissements de santé, patients",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-07-21",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_GAMMAGARD_50_MG_ML_POUDRE_ET_SOLVANT_POUR_SOLUTION_POUR_PERFUSIO_1456B3B1DC32",
+  "local_id": "SLUG_GAMMAGARD_50_MG_ML_POUDRE_ET_SOLVANT_POUR_SOLUTION_POUR_PERFUSIO_1456B3B1DC32",
+  "lots": [
+    "mentionn",
+    "BE08C020AD",
+    "est",
+    "concern"
+  ],
+  "manufacturer": null,
+  "medicine": "Gammagard 50 mg/ml, poudre et solvant pour solution pour perfusion (présentation 10g) - Takeda France SAS (MED 23/B012)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-07-21",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Gammagard 50 mg/ml, poudre et solvant pour solution pour perfusion (présentation 10g) - Takeda France SAS (MED 23/B012)"
+  },
+  "reason": "Gammagard 50 mg/ml, poudre et solvant pour solution pour perfusion (présentation 10g) - Takeda France SAS (MED 23/B012) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 21/07/2023 A+ A- Niveau de rappel : établissements de santé, patients Le laboratoire Takeda France procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité Gammagard 50 mg/ml, poudre et solvant pour solution pour perfusion (présentation 10 g) (Code CIP : 34009 560 315 7 3 ; code UCD 3400891990553) : Lot BE08C020AD (date de péremption: 31-AOUT-2024) Ce rappel fait suite à la mise en évidence d’un taux atypique de signalements de réactions d’hypersensibilité pour ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/gammagard-50-mg-ml-poudre-et-solvant-pour-solution-pour-perfusion-presentation-10g-takeda-france-sas",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

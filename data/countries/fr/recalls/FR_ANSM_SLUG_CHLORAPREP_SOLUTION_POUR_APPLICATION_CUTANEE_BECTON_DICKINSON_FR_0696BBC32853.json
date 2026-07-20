@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des établissements de santé destinataires du lot",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-05-16",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CHLORAPREP_SOLUTION_POUR_APPLICATION_CUTANEE_BECTON_DICKINSON_FR_0696BBC32853",
+  "local_id": "SLUG_CHLORAPREP_SOLUTION_POUR_APPLICATION_CUTANEE_BECTON_DICKINSON_FR_0696BBC32853",
+  "lots": [
+    "mentionn",
+    "4108700",
+    "indiqu",
+    "objet"
+  ],
+  "manufacturer": "Becton Dickinson France",
+  "medicine": "Chloraprep, solution pour application cutanée",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-05-16",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Chloraprep, solution pour application cutanée – Becton Dickinson France"
+  },
+  "reason": "Chloraprep, solution pour application cutanée – Becton Dickinson France RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 16/05/2025 A+ A- Niveau de rappel : en direct auprès des établissements de santé destinataires du lot Le laboratoire Becton Dickinson France procède, en accord avec l'ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité Chloraprep, solution pour application cutanée (CIP : 3400955062400 - Ref 930901) Lot 4108700 (04/2027) Ce rappel fait suite à la mise en évidence, hors du marché français, d’un défaut de scellage de l’emballage de certains applicateurs.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/chloraprep-solution-pour-application-cutanee-becton-dickinson-france",
+  "warnings": [
+    "missing_cip"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "actions": "Niveau de rappel : Officines, Etablissements de santé, Circuit de distribution pharmaceutique. Pour toute information complémentaire, adressez un mail à scientifique@ethypharm.com Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre a",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-06-18",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_BACLOCUR_10_MG_COMPRIME_PELLICULE_SECABLE_BACLOCUR_20_MG_COMPRIM_BA50667F4C66",
+  "local_id": "SLUG_BACLOCUR_10_MG_COMPRIME_PELLICULE_SECABLE_BACLOCUR_20_MG_COMPRIM_BA50667F4C66",
+  "lots": [
+    "28640",
+    "28641",
+    "28642",
+    "30555",
+    "30556",
+    "30557",
+    "31031",
+    "31032",
+    "31033",
+    "28646",
+    "28647",
+    "28648",
+    "28649"
+  ],
+  "manufacturer": null,
+  "medicine": "Baclocur 10 mg, comprimé pelliculé sécable - Baclocur 20 mg, comprimé pelliculé sécable - Baclocur 40 mg, comprimé pelliculé sécable - Laboratoires Ethypharm",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-06-18",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Baclocur 10 mg, comprimé pelliculé sécable - Baclocur 20 mg, comprimé pelliculé sécable - Baclocur 40 mg, comprimé pelliculé sécable - Laboratoires Ethypharm"
+  },
+  "reason": null,
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/baclocur-10-mg-comprime-pellicule-secable-baclocur-20-mg-comprime-pellicule-secable-baclocur-40-mg-comprime-pellicule-secable-laboratoires-ethypharm-rappel-de-lots",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

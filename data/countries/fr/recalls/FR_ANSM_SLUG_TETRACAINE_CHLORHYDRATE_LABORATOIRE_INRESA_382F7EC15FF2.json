@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : En direct auprès des officines et établissements de santé destinataires d’un des lots objet du rappel",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-04-04",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_TETRACAINE_CHLORHYDRATE_LABORATOIRE_INRESA_382F7EC15FF2",
+  "local_id": "SLUG_TETRACAINE_CHLORHYDRATE_LABORATOIRE_INRESA_382F7EC15FF2",
+  "lots": [
+    "23001023004",
+    "23001023001"
+  ],
+  "manufacturer": "Laboratoire Inresa",
+  "medicine": "Tétracaïne chlorhydrate",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2024-04-04",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Tétracaïne chlorhydrate – Laboratoire Inresa"
+  },
+  "reason": "Tétracaïne chlorhydrate – Laboratoire Inresa RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 04/04/2024 A+ A- Niveau de rappel : En direct auprès des officines et établissements de santé destinataires d’un des lots objet du rappel Le laboratoire Inresa procède, en accord avec l’ANSM, au retrait des lots de matière première à usage pharmaceutique mentionnés ci-dessous : Tétracaïne chlorhydrate 10g (référence Inresa : 13647-10) Lot 23001023004, date de péremption 28/02/2028 Tétracaïne chlorhydrate 100g (référence Inresa : 13647-100) Lot 23001023001, date de péremption 28/02/2028 Ce rappel fait suite à la mise en évidence d’un résultat hors spécifications (aspect de la solution) lors d’un contrôle analytique du produit.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/tetracaine-chlorhydrate-laboratoire-inresa",
+  "warnings": [
+    "missing_cip"
+  ]
+}

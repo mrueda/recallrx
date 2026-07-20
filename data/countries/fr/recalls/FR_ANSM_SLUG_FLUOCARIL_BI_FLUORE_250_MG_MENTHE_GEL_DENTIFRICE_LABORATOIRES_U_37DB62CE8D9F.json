@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique. Contact : Service & appel gratuits - Information médicale et Pharmacovigilance : 0 800 800 544 Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulleti",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-11-18",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_FLUOCARIL_BI_FLUORE_250_MG_MENTHE_GEL_DENTIFRICE_LABORATOIRES_U_37DB62CE8D9F",
+  "local_id": "SLUG_FLUOCARIL_BI_FLUORE_250_MG_MENTHE_GEL_DENTIFRICE_LABORATOIRES_U_37DB62CE8D9F",
+  "lots": [
+    "T1670",
+    "T1671",
+    "T2452",
+    "T2453"
+  ],
+  "manufacturer": null,
+  "medicine": "Fluocaril bi-fluoré 250 mg menthe, gel dentifrice - Laboratoires U-Labs (MED20/A025)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-11-18",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Fluocaril bi-fluoré 250 mg menthe, gel dentifrice - Laboratoires U-Labs (MED20/A025)"
+  },
+  "reason": "Fluocaril bi-fluoré 250 mg menthe, gel dentifrice - Laboratoires U-Labs (MED20/A025) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 18/11/2020 - MIS À JOUR LE 07/04/2021 A+ A- Les Laboratoires U-LABS procèdent, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous des spécialités FLUOCARIL BI-FLUORE 250 mg MENTHE, gel dentifrice, tube de 75 ml (3400936256118) Lot T1670 – 05/2023 Lot T1671 – 05/2023 FLUOCARIL BI-FLUORE 250 mg MENTHE, gel dentifrice, tube de 125 ml (3400936256286) Lot T2452 – 06/2023 Lot T2453 – 06/2023 Ce rappel fait suite à la présence, dans les étuis des lots concernés, d’une notice relative à cette spécialité sous forme de pâte dentifrice à la place de la notice relative à cette spécialité sous forme de gel dentifrice.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/fluocaril-bi-fluore-250-mg-menthe-gel-dentifrice-laboratoires-u-labs-rappel-de-lots",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

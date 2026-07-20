@@ -1,0 +1,38 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-03-14",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_GONAPEPTYL_3_75_MG_POUDRE_ET_SOLVANT_POUR_SUSPENSION_INJECTABLE_7EA3160A3221",
+  "local_id": "SLUG_GONAPEPTYL_3_75_MG_POUDRE_ET_SOLVANT_POUR_SUSPENSION_INJECTABLE_7EA3160A3221",
+  "lots": [
+    "T16656H",
+    "T16656L",
+    "T16656M",
+    "U11571L",
+    "U11571M",
+    "U11571N",
+    "U11571P",
+    "U11571R",
+    "U15102F",
+    "U15102G"
+  ],
+  "manufacturer": "Laboratoire Ferring SAS (MED23/A010/B007)",
+  "medicine": "Gonapeptyl 3,75 mg, poudre et solvant pour suspension injectable à libération prolongée en seringues pré-remplies",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-03-14",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Gonapeptyl 3,75 mg, poudre et solvant pour suspension injectable à libération prolongée en seringues pré-remplies – Laboratoire Ferring SAS (MED23/A010/B007)"
+  },
+  "reason": "Le laboratoire Ferring SAS procède en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la spécialité pharmaceutique Gonapeptyl 3,75 mg, poudre et solvant pour suspension injectable à libération prolongée en seringues pré-remplies (CIP : 34009 358 446 7 5) : lot T16656H, péremption le 04/2024 lot T16656L, péremption le 04/2024 lot T16656M, péremption le 04/2024 lot U11571L, péremption le 11/2024 lot U11571M, péremption le 07/2024 lot U11571N, péremption le 12/2024 lot U11571P, péremption le 12/2024 lot U11571R, péremption le 12/2024 lot U15102F, péremption le 05/2025 lot U15102G, péremption le 01/2025 Ce rappel fait suite à la mise en évidence d’un scellage insuffisant des blisters de l’aiguille d’injection sous-cutanée (30 mm).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/gonapeptyl-3-75-mg-poudre-et-solvant-pour-suspension-injectable-a-liberation-prolongee-en-seringues-pre-remplies-laboratoire-ferring-sas",
+  "warnings": [
+    "missing_cip"
+  ]
+}

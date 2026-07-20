@@ -1,0 +1,33 @@
+{
+  "actions": "Ce rappel fait suite à un signalement ayant révélé la présence d'un morceau de verre dans un flacon de ce lot. Panpharma précise qu'aucune autre réclamation relative à ce défaut n'a été signalée à ce jour et qu'aucun cas de pharmacovigilance n'a été rapporté en lien avec ce défaut à la date du rappel. Niveau du rappel : Etablissements de santé et circuit de distribution pharmaceutique. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-01-16",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CEFEPIME_PANPHARMA_2_G_POUDRE_POUR_SOLUTION_INJECTABLE_IV_PANPHA_F0E75EC9FFA7",
+  "local_id": "SLUG_CEFEPIME_PANPHARMA_2_G_POUDRE_POUR_SOLUTION_INJECTABLE_IV_PANPHA_F0E75EC9FFA7",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Céfépime Panpharma 2 g, poudre pour solution injectable (IV) - Panpharma (MED 20/B002)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400949476183"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-01-16",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Céfépime Panpharma 2 g, poudre pour solution injectable (IV) - Panpharma (MED 20/B002)"
+  },
+  "reason": "Ce rappel fait suite à un signalement ayant révélé la présence d'un morceau de verre dans un flacon de ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/cefepime-panpharma-2-g-poudre-pour-solution-injectable-iv-panpharma",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

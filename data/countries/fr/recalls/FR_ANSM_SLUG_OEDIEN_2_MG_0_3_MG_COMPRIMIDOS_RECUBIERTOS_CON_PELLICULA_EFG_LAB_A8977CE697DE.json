@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique. Les Laboratoires Bailleul procèdent, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous de la spécialité : Oedien 2 mg/ 0,03 mg, comprimidos recubiertos con pelicula EFG lot 220534, péremption 02/2025 lot 220535, péremption 02/2025 lot 220536, péremption 02/2025 Ce rappel fait suite à la détection sur le marché français de boîtes de ces 3 lots destinés au marché espagnol. Ces boîtes ont été distribuées entre le 13 avril et le 14 avril 2022. Les Laboratoires Bailleul précisent que cette spécialité est équivalente à la spécialité Oedien 2 mg/0,03 mg, comprimé pelliculé. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lance",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-04-15",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OEDIEN_2_MG_0_3_MG_COMPRIMIDOS_RECUBIERTOS_CON_PELLICULA_EFG_LAB_A8977CE697DE",
+  "local_id": "SLUG_OEDIEN_2_MG_0_3_MG_COMPRIMIDOS_RECUBIERTOS_CON_PELLICULA_EFG_LAB_A8977CE697DE",
+  "lots": [
+    "220534",
+    "220535",
+    "220536"
+  ],
+  "manufacturer": null,
+  "medicine": "Oedien 2 mg / 0,3 mg comprimidos recubiertos con pellicula EFG - Laboratoires Bailleul (MED22/A010)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-04-15",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Oedien 2 mg / 0,3 mg comprimidos recubiertos con pellicula EFG - Laboratoires Bailleul (MED22/A010)"
+  },
+  "reason": "Les Laboratoires Bailleul procèdent, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous de la spécialité : Oedien 2 mg/ 0,03 mg, comprimidos recubiertos con pelicula EFG lot 220534, péremption 02/2025 lot 220535, péremption 02/2025 lot 220536, péremption 02/2025 Ce rappel fait suite à la détection sur le marché français de boîtes de ces 3 lots destinés au marché espagnol.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/oedien-2-mg-0-3-mg-comprimidos-recubiertos-con-pellicula-efg-laboratoires-bailleul",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "actions": "Ce rappel de lot fait suite à la mise en évidence d'une possible perte d'intégrité de certaines ampoules en verre. Niveau du rappel : Etablissements de santé et circuit de distribution pharmaceutique. Pour toute information complémentaire, vous pouvez contacter : Mme Géraldine Bindel Tél : 02 99 97 92 12 E-mail : HopitalL@panpharma.fr Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la vei",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-09-17",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_KETAMINE_PANPHARMA_10_MG_ML_SOLUTION_INJECTABLE_I_V_I_M_LABORATO_BA08E12B5587",
+  "local_id": "SLUG_KETAMINE_PANPHARMA_10_MG_ML_SOLUTION_INJECTABLE_I_V_I_M_LABORATO_BA08E12B5587",
+  "lots": [
+    "mentionn",
+    "40169",
+    "fait"
+  ],
+  "manufacturer": null,
+  "medicine": "Ketamine Panpharma 10 mg/mL, solution injectable (I.V.-I.M.) - Laboratoire Panpharma (MED 24/B008)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400958397998"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-09-17",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Ketamine Panpharma 10 mg/mL, solution injectable (I.V.-I.M.) - Laboratoire Panpharma (MED 24/B008)"
+  },
+  "reason": "Le laboratoire Panpharma procède, en accord avec l'ANSM, au retrait du lot mentionné ci-dessous de la spécialité pharmaceutique : Ketamine Panpharma 10 mg/mL, solution injectable (I.V.-I.M.) - boite de 10 ampoules de 5 mL (CIP 34009 583 979 9 8) Lot 40169 - 03/2027 Ce rappel de lot fait suite à la mise en évidence d'une possible perte d'intégrité de certaines ampoules en verre.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/ketamine-panpharma-10-mg-ml-solution-injectable-i-v-i-m-laboratoire-panpharma",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des établissements de santé ayant reçu le lot objet du rappel",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-06-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LABORATOIRE_CENTRE_LAB_GELULES_DE_BICARBONATE_DE_SODIUM_500_MG_T_0C7BE0726DF7",
+  "local_id": "SLUG_LABORATOIRE_CENTRE_LAB_GELULES_DE_BICARBONATE_DE_SODIUM_500_MG_T_0C7BE0726DF7",
+  "lots": [
+    "objet",
+    "mentionn",
+    "0003605",
+    "sur",
+    "0003635"
+  ],
+  "manufacturer": "Gélules de Bicarbonate de sodium 500 mg T1 ivoire (Préparation hospitalière)",
+  "medicine": "Laboratoire Centre Lab",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2024-06-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Laboratoire Centre Lab – Gélules de Bicarbonate de sodium 500 mg T1 ivoire (Préparation hospitalière)"
+  },
+  "reason": "Laboratoire Centre Lab – Gélules de Bicarbonate de sodium 500 mg T1 ivoire (Préparation hospitalière) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 27/06/2024 A+ A- Niveau de rappel : en direct auprès des établissements de santé ayant reçu le lot objet du rappel Le laboratoire Centre Lab procède, en accord avec l'ANSM, au retrait du lot mentionné ci-dessous de la préparation hospitalière dénommée : Gélules de Bicarbonate de sodium 500 mg T1 ivoire Lot 0003605 – EXP 01/2027 Ce rappel fait suite à la mise en évidence d’une erreur d’inscription du numéro de lot sur une alvéole du blister.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/laboratoire-centre-lab-gelules-de-bicarbonate-de-sodium-500-mg-t1-ivoire-preparation-hospitaliere",
+  "warnings": [
+    "missing_cip"
+  ]
+}

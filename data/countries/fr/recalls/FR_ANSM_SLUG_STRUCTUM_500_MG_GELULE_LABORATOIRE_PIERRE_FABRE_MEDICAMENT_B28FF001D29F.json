@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : Circuit de distribution pharmaceutique, officine et patient. Il est demandé aux pharmaciens d’officine de contacter, par tous les moyens dont ils disposent, les patients susceptibles de détenir et/ou d’avoir utilisé les lots de la spécialité concernée. Il est demandé aux pharmaciens d’officine de mentionner à leurs patients d’interrompre leurs traitements et de ramener les boites des lots concernés. Publié le 07/07/2022 Rappel patient pour deux lots du médicament Structum 500 mg, gélule (boîte de 60) en raison d’un défaut de qualité Surveillance Pharmacovigilance Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel -",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-07-07",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_STRUCTUM_500_MG_GELULE_LABORATOIRE_PIERRE_FABRE_MEDICAMENT_B28FF001D29F",
+  "local_id": "SLUG_STRUCTUM_500_MG_GELULE_LABORATOIRE_PIERRE_FABRE_MEDICAMENT_B28FF001D29F",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Structum 500 mg, gélule - Laboratoire Pierre Fabre médicament (MED 22/A019)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400935464323"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-07-07",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Structum 500 mg, gélule - Laboratoire Pierre Fabre médicament (MED 22/A019)"
+  },
+  "reason": "Structum 500 mg, gélule - Laboratoire Pierre Fabre médicament (MED 22/A019) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 07/07/2022 A+ A- Information destinée aux professionnels de santé et aux patients Le laboratoire Pierre Fabre Médicament procède, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous de la spécialité STRUCTUM 500 mg, gélule - CIP 34009 354 643 2 3 : G20078 – Péremption : 11/2024 G20079 – Péremption : 11/2024 Ce rappel fait suite à la mise en évidence de résultats hors spécification pour le paramètre DGAT (Dénombrement des Germes Aérobies Totaux).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/structum-500-mg-gelule-laboratoire-pierre-fabre-medicament",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique. Pour toute question merci de contacter le Service Client Biogaran au 0811 907 917. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel d",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-07-16",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_DUTASTERIDE_TAMSULOSINE_BIOGARAN_0_5_MG_0_4_MG_GELULE_BIOGARAN_R_FBF866EBE54C",
+  "local_id": "SLUG_DUTASTERIDE_TAMSULOSINE_BIOGARAN_0_5_MG_0_4_MG_GELULE_BIOGARAN_R_FBF866EBE54C",
+  "lots": [
+    "201611",
+    "201612"
+  ],
+  "manufacturer": null,
+  "medicine": "Dutastéride / Tamsulosine Biogaran 0,5 mg/0,4 mg, gélule - Biogaran (MED 20/A014)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-07-16",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Dutastéride / Tamsulosine Biogaran 0,5 mg/0,4 mg, gélule - Biogaran (MED 20/A014)"
+  },
+  "reason": "Dutastéride / Tamsulosine Biogaran 0,5 mg/0,4 mg, gélule - Biogaran (MED 20/A014) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 16/07/2020 - MIS À JOUR LE 07/04/2021 A+ A- Le Laboratoire Biogaran procède, en accord avec l’ANSM, au rappel de 2 lots de la spécialité : DUTASTERIDE/TAMSULOSINE Biogaran 0,5 mg/0,4 mg, gélule Lot 201611 – EXP 12/2022 Lot 201612 – EXP 12/2022 Ce rappel fait suite à la détection de flacons dont les mentions variables imprimées (n° de lot / péremption) se sont effacées au cours du temps.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/dutasteride-tamsulosine-biogaran-0-5-mg-0-4-mg-gelule-biogaran-rappel-de-lots",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

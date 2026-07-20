@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-10-16",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_HYDREA_500_MG_GELULE_LABORATOIRE_CHEPLAPHARM_FRANCE_RAPPEL_DE_LO_EFC1C3A8A92F",
+  "local_id": "SLUG_HYDREA_500_MG_GELULE_LABORATOIRE_CHEPLAPHARM_FRANCE_RAPPEL_DE_LO_EFC1C3A8A92F",
+  "lots": [],
+  "manufacturer": "Rappel de lots et conduite à tenir pour les pharmaciens (MED25/A021/B019)",
+  "medicine": "Hydrea 500 mg, gélule – Laboratoire Cheplapharm France",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930512685"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-10-16",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Hydrea 500 mg, gélule – Laboratoire Cheplapharm France – Rappel de lots et conduite à tenir pour les pharmaciens (MED25/A021/B019)"
+  },
+  "reason": "Hydrea 500 mg, gélule – Laboratoire Cheplapharm France – Rappel de lots et conduite à tenir pour les pharmaciens (MED25/A021/B019) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 16/10/2025 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Cheplapharm France procède, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous de la spécialité : Hydrea 500 mg, gélule (CIP 34009 305 126 8 5) Lots Date de péremption 4F8986 31/12/2026 4F8987 31/12/2026 4F8988 31/12/2026 4F8989 31/12/2026 4E8792 30/11/2026 4E8925 31/12/2026 4E8926 31/12/2026 4E8927 31/12/2026 4E8928 31/12/2026 4F8985 31/12/2026 4M9951 31/07/2027 4M9955 31/07/2027 4M9969 31/07/2027 4M9970 31/08/2027 4M9972 31/08/2027 4M9973 31/08/2027 4M0012 31/08/2027 4M0015 31/",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/hydrea-500-mg-gelule-laboratoire-cheplapharm-france-rappel-de-lots-et-conduite-a-tenir-pour-les-pharmaciens",
+  "warnings": [
+    "missing_lot"
+  ]
+}

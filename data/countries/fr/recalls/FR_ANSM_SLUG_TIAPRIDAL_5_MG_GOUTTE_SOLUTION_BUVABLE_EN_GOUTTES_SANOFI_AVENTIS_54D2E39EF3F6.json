@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : Officine, Etablissements de santé et circuit de distribution pharmaceutique. Pour toute information médicale, contacter: Pour la métropole : 0 800 394 000 (Service et appel gratuits) Pour les DOM-TOM : 0 800 626 626 (Service et appel gratuits) Coordonnées du laboratoire : sanofi-aventis France, 82 avenue Raspail, 94255 Gentilly cedex. RISQUES MEDICAMENTEUX Médicaments Publié le 05/03/2020 - Mis à jour le 07/04/2021 Tiapridal en solution buvable : nouveau dispositif d'administration et changement de la dénomination Information destinée aux médecins généralistes, psychiatres, neurologues, pédiatres, pharmaciens d’officine et pharmaciens hospitaliers Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers th",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-03-19",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_TIAPRIDAL_5_MG_GOUTTE_SOLUTION_BUVABLE_EN_GOUTTES_SANOFI_AVENTIS_54D2E39EF3F6",
+  "local_id": "SLUG_TIAPRIDAL_5_MG_GOUTTE_SOLUTION_BUVABLE_EN_GOUTTES_SANOFI_AVENTIS_54D2E39EF3F6",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "TIAPRIDAL 5 mg/goutte, solution buvable en gouttes - sanofi-aventis France (MED20/A009/B006)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-03-19",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "TIAPRIDAL 5 mg/goutte, solution buvable en gouttes - sanofi-aventis France (MED20/A009/B006)"
+  },
+  "reason": "RISQUES MEDICAMENTEUX Médicaments Publié le 05/03/2020 - Mis à jour le 07/04/2021 Tiapridal en solution buvable : nouveau dispositif d'administration et changement de la dénomination Information destinée aux médecins généralistes, psychiatres, neurologues, pédiatres, pharmaciens d’officine et pharmaciens hospitaliers Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée ",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/tiapridal-5-mg-goutte-solution-buvable-en-gouttes-sanofi-aventis-france-rappel-de-produits",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

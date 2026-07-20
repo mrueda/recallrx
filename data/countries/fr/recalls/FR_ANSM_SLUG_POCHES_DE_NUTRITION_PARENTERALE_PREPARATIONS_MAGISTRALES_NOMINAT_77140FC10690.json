@@ -1,0 +1,28 @@
+{
+  "actions": "Niveau de rappel : rappel en direct auprès des établissements concernés",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-02-19",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_POCHES_DE_NUTRITION_PARENTERALE_PREPARATIONS_MAGISTRALES_NOMINAT_77140FC10690",
+  "local_id": "SLUG_POCHES_DE_NUTRITION_PARENTERALE_PREPARATIONS_MAGISTRALES_NOMINAT_77140FC10690",
+  "lots": [],
+  "manufacturer": "Baxter Façonnage",
+  "medicine": "Poches de nutrition parentérale (préparations magistrales nominatives)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-02-19",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Poches de nutrition parentérale (préparations magistrales nominatives) – Baxter Façonnage"
+  },
+  "reason": "Ce rappel, réalisé le 17 février en direct auprès des établissement concernés, fait suite à l’identification lors de la lecture quotidienne des prélèvements environnementaux d’une contamination sur un prélèvement.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/poches-de-nutrition-parenterale-preparations-magistrales-nominatives-baxter-faconnage-1",
+  "warnings": [
+    "missing_cip",
+    "missing_lot"
+  ]
+}

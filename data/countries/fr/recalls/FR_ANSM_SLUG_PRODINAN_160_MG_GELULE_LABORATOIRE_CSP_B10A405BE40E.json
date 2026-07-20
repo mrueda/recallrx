@@ -1,0 +1,37 @@
+{
+  "actions": "Niveau de rappel : officines, circuit de distribution pharmaceutique et établissements de santé",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-04-22",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PRODINAN_160_MG_GELULE_LABORATOIRE_CSP_B10A405BE40E",
+  "local_id": "SLUG_PRODINAN_160_MG_GELULE_LABORATOIRE_CSP_B10A405BE40E",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Prodinan 160 mg, gélule - Laboratoire CSP (MED21/A009/B011)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400937531542"
+    },
+    {
+      "system": "CIP",
+      "value": "3400937531832"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-04-22",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Prodinan 160 mg, gélule - Laboratoire CSP (MED21/A009/B011)"
+  },
+  "reason": "Ce rappel fait suite à l'abrogation de l'Autorisation de Mise sur le Marché à compter du 22 avril 2021.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/prodinan-160-mg-gelule-laboratoire-csp",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

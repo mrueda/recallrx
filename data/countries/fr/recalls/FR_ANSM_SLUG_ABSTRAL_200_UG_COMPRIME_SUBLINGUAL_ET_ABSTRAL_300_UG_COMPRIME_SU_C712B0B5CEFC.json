@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : Officines, Circuits de distribution pharmaceutique. Pour tout complément d'information, vous pouvez nous contacter au numéro mis en place pour ce rappel de lots : 01.55.39.14.30 ou à l'adresse email suivante : infomedfr@kyowakirin.com Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'ins",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-07-16",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ABSTRAL_200_UG_COMPRIME_SUBLINGUAL_ET_ABSTRAL_300_UG_COMPRIME_SU_C712B0B5CEFC",
+  "local_id": "SLUG_ABSTRAL_200_UG_COMPRIME_SUBLINGUAL_ET_ABSTRAL_300_UG_COMPRIME_SU_C712B0B5CEFC",
+  "lots": [
+    "608134101",
+    "608134102",
+    "608920201"
+  ],
+  "manufacturer": null,
+  "medicine": "Abstral 200 µg, comprimé sublingual et Abstral 300 µg, comprimé sublingual - Laboratoire Kyowa Kirin Pharma (MED 20/A013)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-07-16",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Abstral 200 µg, comprimé sublingual et Abstral 300 µg, comprimé sublingual - Laboratoire Kyowa Kirin Pharma (MED 20/A013)"
+  },
+  "reason": "Abstral 200 µg, comprimé sublingual et Abstral 300 µg, comprimé sublingual - Laboratoire Kyowa Kirin Pharma (MED 20/A013) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 16/07/2020 - MIS À JOUR LE 07/04/2021 A+ A- Le laboratoire Kyowa Kirin Pharma procède, en accord avec l'ANSM et par mesure de précaution, au rappel des lots figurant ci-après des spécialités : Abstral 200 µg, comprimé sublingual, boite de 10 comprimés (34009 391 044 1 6) Lot 608134101 - 10/2020 Abstral 200 µg, comprimé sublingual, boite de 30 comprimés (34009 391 045 8 4) Lot 608134102 - 10/2020 Abstral 300 µg, comprimé sublingual, boite de 30 comprimés (34009 391 047 0 6) Lot 608920201 - 08/2021 Ce rappel fait suite à la présence potentielle d’un comprimé supplémentaire au niveau de quelques blisters.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/abstral-200-ug-comprime-sublingual-et-abstral-300-ug-comprime-sublingual-laboratoire-kyowa-kirin-pharma-rappel-de-lots",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

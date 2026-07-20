@@ -1,0 +1,29 @@
+{
+  "actions": null,
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-02-18",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_RESPREEZA_ALPHA_1_ANTITRYPSINE_HUMAINE_27F876186BCC",
+  "local_id": "SLUG_RESPREEZA_ALPHA_1_ANTITRYPSINE_HUMAINE_27F876186BCC",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Respreeza (alpha-1 antitrypsine humaine)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-02-18",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Respreeza (alpha-1 antitrypsine humaine)"
+  },
+  "reason": null,
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/respreeza-alpha-1-antitrypsine-humaine",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

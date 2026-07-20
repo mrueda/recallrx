@@ -1,10 +1,12 @@
 from __future__ import annotations
 
+import hashlib
 import re
 import time
 import unicodedata
 from dataclasses import dataclass, field
-from urllib.parse import urljoin
+from datetime import datetime
+from urllib.parse import urlencode, urljoin
 
 from bs4 import BeautifulSoup
 
@@ -23,15 +25,18 @@ class AnsmFranceAdapter:
     http: HttpClient
     max_pages: int = 20
     request_delay_seconds: float = 0.2
+    start_year: int = 2020
+    mode: str = "incremental"
     country: str = "FR"
     authority: str = "ANSM"
     rejected: list[dict] = field(default_factory=list)
     warnings: list[str] = field(default_factory=list)
+    pages_fetched: int = 0
 
     def build(self) -> tuple[list[RecallRecord], dict]:
         candidates = self.discover()
         records: list[RecallRecord] = []
-        seen_records: set[str] = set()
+        seen_records: dict[str, str] = {}
 
         for candidate in candidates:
             try:
@@ -43,9 +48,12 @@ class AnsmFranceAdapter:
                     )
                     continue
                 if record.id in seen_records:
+                    self.warnings.append(
+                        f"duplicate_record_id id={record.id} urls={seen_records[record.id]},{candidate.url}"
+                    )
                     continue
                 records.append(record)
-                seen_records.add(record.id)
+                seen_records[record.id] = candidate.url
             except Exception as exc:  # pragma: no cover - exercised through integration runs
                 self.rejected.append({"url": candidate.url, "title": candidate.title, "reason": str(exc)})
 
@@ -56,42 +64,63 @@ class AnsmFranceAdapter:
             "accepted": len(records),
             "rejected": self.rejected,
             "warnings": self.warnings,
-            "pages": self.max_pages,
+            "pages": self.pages_fetched,
+            "mode": self.mode,
         }
         return records, report
 
     def discover(self) -> list[Candidate]:
         candidates: list[Candidate] = []
         seen: set[str] = set()
-        for page in range(1, self.max_pages + 1):
-            html = self.http.get_text(self._page_url(page))
-            soup = BeautifulSoup(html, "html.parser")
-            for anchor in soup.find_all("a", href=True):
-                text = clean_text(anchor.get_text(" "))
-                href = str(anchor["href"])
-                if "/informations-de-securite/" not in href:
-                    continue
-                if not self._listing_text_is_medicine_recall(text):
-                    continue
-                url = urljoin(ANSM_BASE_URL, href).split("#", 1)[0]
-                if url in seen:
-                    continue
-                seen.add(url)
-                candidates.append(
-                    Candidate(
-                        source_id=url.rstrip("/").rsplit("/", 1)[-1],
-                        title=self._candidate_title(text),
-                        url=url,
-                        excerpt=text,
+        for year in self.discovery_years():
+            for page in range(1, self.max_pages + 1):
+                html = self.http.get_text(self._page_url(year, page))
+                self.pages_fetched += 1
+                soup = BeautifulSoup(html, "html.parser")
+                articles = soup.select("article.article-security")
+                if not articles:
+                    break
+
+                for article in articles:
+                    anchor = article.find("a", href=True)
+                    if anchor is None:
+                        continue
+                    text = clean_text(article.get_text(" "))
+                    if not self._listing_text_is_medicine_recall(text):
+                        continue
+                    url = urljoin(ANSM_BASE_URL, str(anchor["href"])).split("#", 1)[0]
+                    if url in seen:
+                        continue
+                    seen.add(url)
+                    title_node = article.select_one(".article-title")
+                    title = clean_text(title_node.get_text(" ") if title_node else "")
+                    candidates.append(
+                        Candidate(
+                            source_id=url.rstrip("/").rsplit("/", 1)[-1],
+                            title=title or self._candidate_title(text),
+                            url=url,
+                            excerpt=text,
+                        )
                     )
-                )
-            time.sleep(self.request_delay_seconds)
+                if len(articles) < 20:
+                    break
+                time.sleep(self.request_delay_seconds)
         return candidates
 
-    def _page_url(self, page: int) -> str:
-        if page <= 1:
-            return ANSM_SECURITY_URL
-        return f"{ANSM_SECURITY_URL}?page={page}"
+    def discovery_years(self) -> list[int]:
+        current_year = datetime.now().year
+        start_year = current_year if self.mode == "incremental" else self.start_year
+        return list(range(current_year, start_year - 1, -1))
+
+    def _page_url(self, year: int, page: int) -> str:
+        params = {
+            "safety_news_filter[safetyNewsModels][0]": "5",
+            "safety_news_filter[healthProducts][0]": "20",
+            "safety_news_filter[startDate]": f"{year}-01-01",
+            "safety_news_filter[endDate]": f"{year}-12-31",
+            "page": str(page),
+        }
+        return f"{ANSM_SECURITY_URL}?{urlencode(params)}"
 
     def _listing_text_is_medicine_recall(self, text: str) -> bool:
         normalized = fold(text)
@@ -163,7 +192,8 @@ class AnsmFranceAdapter:
         if match:
             return match.group(1).upper()
         slug = source_url.rstrip("/").rsplit("/", 1)[-1]
-        return f"SLUG_{slug_token(slug, 80)}"
+        digest = hashlib.sha256(slug.encode("utf-8")).hexdigest()[:12].upper()
+        return f"SLUG_{slug_token(slug, 64)}_{digest}"
 
     def _extract_cip_codes(self, text: str) -> list[str]:
         values = []

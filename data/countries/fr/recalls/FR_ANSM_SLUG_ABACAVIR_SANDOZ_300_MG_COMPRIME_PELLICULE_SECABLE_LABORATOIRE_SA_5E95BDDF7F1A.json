@@ -1,0 +1,34 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à la disposition du public ",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2020-07-17",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ABACAVIR_SANDOZ_300_MG_COMPRIME_PELLICULE_SECABLE_LABORATOIRE_SA_5E95BDDF7F1A",
+  "local_id": "SLUG_ABACAVIR_SANDOZ_300_MG_COMPRIME_PELLICULE_SECABLE_LABORATOIRE_SA_5E95BDDF7F1A",
+  "lots": [
+    "mentionn"
+  ],
+  "manufacturer": null,
+  "medicine": "Abacavir Sandoz 300 mg, comprimé pelliculé sécable - Laboratoire Sandoz (MED 20/A015)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930089958"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-07-17",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Abacavir Sandoz 300 mg, comprimé pelliculé sécable - Laboratoire Sandoz (MED 20/A015)"
+  },
+  "reason": "Abacavir Sandoz 300 mg, comprimé pelliculé sécable - Laboratoire Sandoz (MED 20/A015) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 17/07/2020 - MIS À JOUR LE 07/04/2021 A+ A- Le laboratoire SANDOZ procède, en accord avec l'ANSM, au rappel du lot mentionné ci-dessous de la spécialité ABACAVIR SANDOZ 300 mg Le laboratoire SANDOZ procède, en accord avec l'ANSM, au rappel du lot mentionné ci-dessous de la spécialité ABACAVIR SANDOZ 300 mg, comprimé pelliculé sécable, boite de 60 comprimés (CIP 3400930089958) : Lot : ABA19015 (péremption : 11/2021) Ce rappel fait suite à la mise en évidence de la présence de l’ancienne version de la notice dans les étuis de ce lot, ne prenant pas en considération le changement de formulation du pelliculage des comprimés.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/abacavir-sandoz-300-mg-comprime-pellicule-secable-laboratoire-sandoz-rappel-de-lot",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

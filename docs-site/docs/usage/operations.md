@@ -4,14 +4,36 @@ RecallRx is designed to run as a scheduled static data pipeline.
 
 ## Daily update
 
-The documentation workflow runs daily. It builds a fresh static export from all
-enabled country adapters, validates the generated JSON, embeds the browser app,
-builds Docusaurus, and deploys the resulting static site to GitHub Pages.
+The documentation workflow runs daily in incremental mode. It checks the recent
+or current-year views of all enabled authorities, merges new and updated records
+into retained history, validates the generated JSON, embeds the browser app,
+builds Docusaurus, and deploys the result to GitHub Pages.
 
 ```bash
-python -m recallrx build --output data
+python -m recallrx build --output data --mode incremental
 python -m recallrx validate data
 ```
+
+When recall details change, the workflow commits the updated `data/` tree. This
+retains records after they leave an authority's recent listing. A daily run with
+no substantive record changes still publishes a current export timestamp but
+does not create a data commit.
+
+## Historical backfill
+
+Historical collection is an explicit operator action, not a daily task:
+
+```bash
+python -m recallrx build --output data --mode full
+python -m recallrx validate data
+```
+
+Full mode scans from `backfill_start_year` and replaces data for the selected
+source countries. The GitHub Actions manual-run form also exposes this mode.
+Portuguese historical records marked `source_detail_fallback` came from an
+official INFARMED search summary because its older detail route did not respond;
+operators can corroborate them in INFARMED's "Anos anteriores (Alertas)"
+circular archive.
 
 The collectors use Python HTTP requests rather than `wget`, so they can set a
 clear user agent, retry transient failures, page through authority search
@@ -26,7 +48,7 @@ country metadata.
 
 ## Manual checks
 
-When a scheduled update changes many records, inspect:
+When an update changes many records, inspect:
 
 - `data/countries/<country>/build-report.json`
 - rejected candidate counts

@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : Officines, Etablissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-02-02",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_GEL_RECTOPANBILINE_GEL_RECTAL_LABORATOIRE_MYLAN_MEDICAL_SAS_63D97FC93BF2",
+  "local_id": "SLUG_GEL_RECTOPANBILINE_GEL_RECTAL_LABORATOIRE_MYLAN_MEDICAL_SAS_63D97FC93BF2",
+  "lots": [
+    "mentionn",
+    "210521A"
+  ],
+  "manufacturer": null,
+  "medicine": "Gel Rectopanbiline, gel rectal - Laboratoire Mylan Médical SAS (MED22/A004/B003)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930898741"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-02-02",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Gel Rectopanbiline, gel rectal - Laboratoire Mylan Médical SAS (MED22/A004/B003)"
+  },
+  "reason": "Gel Rectopanbiline, gel rectal - Laboratoire Mylan Médical SAS (MED22/A004/B003) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 02/02/2022 A+ A- Niveau de rappel : Officines, Etablissements de santé et circuit de distribution pharmaceutique Le laboratoire Mylan Médical SAS procède, en accord avec l’ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité Gel Rectopanbiline, gel rectal (CIP 34009 308 987 4 1) : Lot 210521A – Exp 05/2024 Ce rappel fait suite à la mise en évidence d’informations erronées dans le Datamatrix, renvoyant vers un autre produit.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/gel-rectopanbiline-gel-rectal-laboratoire-mylan-medical-sas",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

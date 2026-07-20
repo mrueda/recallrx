@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : établissements de santé et circuit de distribution",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-06-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_DACARBAZINE_MEDAC_100_MG_POUDRE_POUR_SOLUTION_INJECTABLE_OU_PERF_A80BE79A3F78",
+  "local_id": "SLUG_DACARBAZINE_MEDAC_100_MG_POUDRE_POUR_SOLUTION_INJECTABLE_OU_PERF_A80BE79A3F78",
+  "lots": [
+    "D220154B",
+    "F220301A"
+  ],
+  "manufacturer": null,
+  "medicine": "Dacarbazine Medac 100 mg, poudre pour solution injectable ou perfusion et Dacarbazine Medac 500 mg, poudre pour solution pour perfusion - Laboratoire Medac SAS (MED 23/B010)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-06-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Dacarbazine Medac 100 mg, poudre pour solution injectable ou perfusion et Dacarbazine Medac 500 mg, poudre pour solution pour perfusion - Laboratoire Medac SAS (MED 23/B010)"
+  },
+  "reason": "Dacarbazine Medac 100 mg, poudre pour solution injectable ou perfusion et Dacarbazine Medac 500 mg, poudre pour solution pour perfusion - Laboratoire Medac SAS (MED 23/B010) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/06/2023 A+ A- Niveau de rappel : établissements de santé et circuit de distribution Le laboratoire Medac SAS procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous des spécialités pharmaceutiques dénommées : Dacarbazine Medac 100 mg, poudre pour solution injectable ou perfusion (CIP : 34009 586 983 7 8) Lot D220154B (EXP 04/2025) Dacarbazine Medac 500 mg, poudre pour solution pour perfusion (CIP : 34009 586 986 6 8) Lot F220301A (EXP 05/2025) Ce rappel fait suite à la mise en évidence d’une possible oxydation du principe actif ",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/dacarbazine-medac-100-mg-poudre-pour-solution-injectable-ou-perfusion-et-dacarbazine-medac-500-mg-poudre-pour-solution-pour-perfusion-laboratoire-medac-sas",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

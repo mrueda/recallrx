@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des établissements concernés",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-06-14",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OCTAPLASLG_POUDRE_ET_SOLVANT_POUR_SOLUTION_POUR_PERFUSION_LABORA_1443450F3C62",
+  "local_id": "SLUG_OCTAPLASLG_POUDRE_ET_SOLVANT_POUR_SOLUTION_POUR_PERFUSION_LABORA_1443450F3C62",
+  "lots": [
+    "M343A9423",
+    "M343A9426"
+  ],
+  "manufacturer": "Laboratoire Octapharma",
+  "medicine": "Octaplaslg, poudre et solvant pour solution pour perfusion",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400955094197"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-06-14",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Octaplaslg, poudre et solvant pour solution pour perfusion – Laboratoire Octapharma"
+  },
+  "reason": "30/09/2025) Ce rappel fait suite à la mise en évidence d’un résultat non conforme lors d’une étude de stabilité sur ces lots.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/octaplaslg-poudre-et-solvant-pour-solution-pour-perfusion-laboratoire-octapharma",
+  "warnings": []
+}

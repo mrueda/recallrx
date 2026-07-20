@@ -1,0 +1,32 @@
+{
+  "actions": "Ce rappel fait suite à la mise en évidence d'une possible perte d'intégrité de certains flacons en verre des lots objet du rappel. Niveau du rappel : Etablissements de santé. Pour toute information complémentaire, vous pouvez contacter l'administration des ventes. Tél : 02 99 97 98 74 E-mail : hopitalL@panpharma.fr Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-03-11",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_AMOXICILLINE_ACIDE_CLAVULANIQUE_PANPHARMA_1_G_200_MG_ADULTES_POU_15C71021251E",
+  "local_id": "SLUG_AMOXICILLINE_ACIDE_CLAVULANIQUE_PANPHARMA_1_G_200_MG_ADULTES_POU_15C71021251E",
+  "lots": [],
+  "manufacturer": "Laboratoire Panpharma (MED 25/B006)",
+  "medicine": "Amoxicilline/acide clavulanique Panpharma 1 g/200 mg adultes, poudre pour solution injectable",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938213416"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-03-11",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Amoxicilline/acide clavulanique Panpharma 1 g/200 mg adultes, poudre pour solution injectable – Laboratoire Panpharma (MED 25/B006)"
+  },
+  "reason": "Amoxicilline/acide clavulanique Panpharma 1 g/200 mg adultes, poudre pour solution injectable – Laboratoire Panpharma (MED 25/B006) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 11/03/2025 A+ A- Information destinée aux établissements de santé Le laboratoire Panpharma procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité pharmaceutique Amoxicilline/acide Clavulanique Panpharma 1 g/200 mg adultes, poudre pour solution injectable - boite de 10 flacons (CIP 3400938213416) : 308865 (Exp 06/2026) 308952 (Exp 07/2026) 308958 (Exp 07/2026) Ce rappel fait suite à la mise en évidence d'une possible perte d'intégrité de certains flacons en verre des lots objet du rappel.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/amoxicilline-acide-clavulanique-panpharma-1-g-200-mg-adultes-poudre-pour-solution-injectable-laboratoire-panpharma-1",
+  "warnings": [
+    "missing_lot"
+  ]
+}

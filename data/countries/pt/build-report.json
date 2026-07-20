@@ -1,11 +1,19 @@
 {
   "reports": [
     {
-      "accepted": 29,
-      "candidates": 39,
+      "accepted": 27,
+      "candidates": 37,
       "country": "pt",
+      "discovery": "recent_alerts",
+      "fallback_records": 0,
+      "mode": "incremental",
       "pages": 7,
       "rejected": [
+        {
+          "reason": "not_human_medicine_recall",
+          "title": "Suspensão imediata da comercialização e retirada do mercado nacional | Perfect Skin. 50 FPS - Protetor Solar",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13273263"
+        },
         {
           "reason": "not_human_medicine_recall",
           "title": "Suspensão imediata da comercialização e retirada do mercado | Produtos cosméticos da Pessoa responsável FBeauty, Lda.",
@@ -50,14 +58,12 @@
           "reason": "not_human_medicine_recall",
           "title": "Recolha de lotes do sistema de peróxido a 3% para a desinfeção de lentes de contacto (DISOP, S.A.)",
           "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11546421"
-        },
-        {
-          "reason": "not_human_medicine_recall",
-          "title": "Suspensão da comercialização e retirada do mercado de todos os produtos cosméticos da Gold Spell Portugal Lda.",
-          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11450853"
         }
       ],
+      "semantic_retries": 0,
       "source": "pt_infarmed",
+      "stored_after": 104,
+      "stored_before": 104,
       "warnings": []
     }
   ]

@@ -40,6 +40,7 @@ class AempsSpainAdapter:
     posts_per_page: int = 100
     request_delay_seconds: float = 0.35
     start_year: int = 2020
+    mode: str = "incremental"
     country: str = "ES"
     authority: str = "AEMPS"
     rejected: list[dict] = field(default_factory=list)
@@ -73,6 +74,7 @@ class AempsSpainAdapter:
             "accepted": len(records),
             "rejected": self.rejected,
             "warnings": self.warnings,
+            "mode": self.mode,
             "discovery_queries": self.discovery_queries(),
         }
         return records, report
@@ -91,7 +93,8 @@ class AempsSpainAdapter:
 
     def discovery_years(self) -> list[int]:
         current_year = datetime.now().year
-        return list(range(current_year, self.start_year - 1, -1))
+        start_year = current_year if self.mode == "incremental" else self.start_year
+        return list(range(current_year, start_year - 1, -1))
 
     def discover(self) -> list[Candidate]:
         candidates = self._discover_wp_posts()
@@ -127,7 +130,7 @@ class AempsSpainAdapter:
             stop = False
             for item in payload:
                 post_year = self._post_year(item)
-                if post_year is not None and post_year < self.start_year:
+                if post_year is not None and post_year < self.discovery_years()[-1]:
                     stop = True
                     continue
                 if not self._post_could_be_recall(item):
@@ -206,7 +209,7 @@ class AempsSpainAdapter:
             ]
         )
         ids = re.findall(r"\bR_\d+/\d{4}\b", html)
-        if not any(int(local_id[-4:]) >= self.start_year for local_id in ids):
+        if not any(int(local_id[-4:]) >= self.discovery_years()[-1] for local_id in ids):
             return False
 
         text = fold(BeautifulSoup(html, "html.parser").get_text(" "))

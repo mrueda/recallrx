@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : officines, circuit de distribution pharmaceutique et patients. Pour toutes questions, merci de contacter Guerbet : 01.45.91.50 00 / client.complaint.france@guerbet.com Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous ",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2020-09-24",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OPTIJECT_300_MG_DI_ML_SOLUTION_INJECTABLE_OU_POUR_PERFUSION_ET_O_5D349E2CEA1F",
+  "local_id": "SLUG_OPTIJECT_300_MG_DI_ML_SOLUTION_INJECTABLE_OU_POUR_PERFUSION_ET_O_5D349E2CEA1F",
+  "lots": [
+    "20PJ511A",
+    "20PJ509A"
+  ],
+  "manufacturer": null,
+  "medicine": "Optiject 300 mg d'I/mL, solution injectable ou pour perfusion et Optiject 350 mg d'I/mL, solution injectable ou pour perfusion - Guerbet France - Rappel de lots (MED 20/A022)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930187883"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-09-24",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Optiject 300 mg d'I/mL, solution injectable ou pour perfusion et Optiject 350 mg d'I/mL, solution injectable ou pour perfusion - Guerbet France - Rappel de lots (MED 20/A022)"
+  },
+  "reason": "Optiject 300 mg d'I/mL, solution injectable ou pour perfusion et Optiject 350 mg d'I/mL, solution injectable ou pour perfusion - Guerbet France - Rappel de lots (MED 20/A022) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 24/09/2020 A+ A- Optiject 300 mg d'I/mL, solution injectable ou pour perfusion et Optiject 350 mg d'I/mL, solution injectable ou pour perfusion - Guerbet France - Rappel de lots Le laboratoire Guerbet France procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous, des deux spécialités : OPTIJECT 300 mg d'I/ml, solution injectable ou pour perfusion, 1 seringue préremplie polypropylène 125 mL pour perfuseur électrique avec nécessaire d'administration pour injecteur Optivantag - CIP 340093018769 Lot 20PJ511A - 09/2022 OPTIJECT 350 mg d'I/ml, solution injectable",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/optiject-300-mg-di-ml-solution-injectable-ou-pour-perfusion-et-optiject-350-mg-di-ml-solution-injectable-ou-pour-perfusion-guerbet-france-rappel-de-lots",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

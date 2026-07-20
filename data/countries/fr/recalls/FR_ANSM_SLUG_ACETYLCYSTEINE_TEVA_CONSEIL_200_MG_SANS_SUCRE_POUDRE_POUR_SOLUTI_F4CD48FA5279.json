@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : officines, hôpital et circuit de distribution pharmaceutique Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à la disposition d",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2020-11-26",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ACETYLCYSTEINE_TEVA_CONSEIL_200_MG_SANS_SUCRE_POUDRE_POUR_SOLUTI_F4CD48FA5279",
+  "local_id": "SLUG_ACETYLCYSTEINE_TEVA_CONSEIL_200_MG_SANS_SUCRE_POUDRE_POUR_SOLUTI_F4CD48FA5279",
+  "lots": [
+    "160531",
+    "160532"
+  ],
+  "manufacturer": null,
+  "medicine": "Acetylcysteine Téva Conseil 200 mg sans sucre, poudre pour solution buvable en sachet-dose - Teva Sante (MED20/A026/B015)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400926691387"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-11-26",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Acetylcysteine Téva Conseil 200 mg sans sucre, poudre pour solution buvable en sachet-dose - Teva Sante (MED20/A026/B015)"
+  },
+  "reason": "Acetylcysteine Téva Conseil 200 mg sans sucre, poudre pour solution buvable en sachet-dose - Teva Sante (MED20/A026/B015) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 26/11/2020 - MIS À JOUR LE 07/04/2021 A+ A- Le laboratoire TEVA SANTE procède, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous de la spécialité suivante ACETYLCYSTEINE TEVA CONSEIL 200 mg SANS SUCRE, poudre pour solution buvable en sachet-dose, boite de 18 sachets–CIP 3400926691387 Lot 160531 Exp 07/2021 Lot 160532 Exp 07/2021 Ce rappel fait suite à la mise en évidence d’une incohérence relative à la population cible mentionnée sur une partie ou l’intégralité des articles de conditionnement.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/acetylcysteine-teva-conseil-200-mg-sans-sucre-poudre-pour-solution-buvable-en-sachet-dose-teva-sante-rappel-de-lots",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

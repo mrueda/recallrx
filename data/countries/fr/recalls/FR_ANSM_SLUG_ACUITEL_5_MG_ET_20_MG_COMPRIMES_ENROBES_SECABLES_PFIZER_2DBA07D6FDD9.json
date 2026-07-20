@@ -1,0 +1,45 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-04-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ACUITEL_5_MG_ET_20_MG_COMPRIMES_ENROBES_SECABLES_PFIZER_2DBA07D6FDD9",
+  "local_id": "SLUG_ACUITEL_5_MG_ET_20_MG_COMPRIMES_ENROBES_SECABLES_PFIZER_2DBA07D6FDD9",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Acuitel 5 mg et 20 mg, comprimés enrobés sécables - Pfizer (MED 22/A012/B011)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400933172527"
+    },
+    {
+      "system": "CIP",
+      "value": "3400937296359"
+    },
+    {
+      "system": "CIP",
+      "value": "3400933172237"
+    },
+    {
+      "system": "CIP",
+      "value": "3400937296410"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-04-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Acuitel 5 mg et 20 mg, comprimés enrobés sécables - Pfizer (MED 22/A012/B011)"
+  },
+  "reason": "Acuitel 5 mg et 20 mg, comprimés enrobés sécables - Pfizer (MED 22/A012/B011) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 27/04/2022 A+ A- Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Pfizer procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous des spécialités ACUITEL 5 mg, comprimé enrobé sécable – boîte de 28 (CIP 34009 331 725 2 7) et boîte de 90 (CIP 34009 372 963 5 9) et ACUITEL 20 mg, comprimé enrobé sécable – boîte de 28 (CIP 34009 331 722 3 7) et boîte de 90 (CIP 34009 372 964 1 0) ACUITEL 5 mg, comprimé enrobé sécable – boîte de 28 CIP 34009 331 725 2 7 Lot : FF2056 - EXP : 05/2024 Lot : FN5559 - EXP : 05/2024 ACUITEL 5 mg, comprimé enrobé sécable – boîte de 90 CIP 34009 372 963 5 9 Lot : FF2037 -",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/acuitel-5-mg-et-20-mg-comprimes-enrobes-secables-pfizer",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

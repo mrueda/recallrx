@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : établissements de santé",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-07-04",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_KYPROLIS_60_MG_POUDRE_POUR_SOLUTION_POUR_PERFUSION_LABORATOIRE_A_484C7F5E5BF1",
+  "local_id": "SLUG_KYPROLIS_60_MG_POUDRE_POUR_SOLUTION_POUR_PERFUSION_LABORATOIRE_A_484C7F5E5BF1",
+  "lots": [
+    "mentionn",
+    "1169751B",
+    "portent",
+    "1169751"
+  ],
+  "manufacturer": "Laboratoire Amgen SAS",
+  "medicine": "Kyprolis 60 mg, poudre pour solution pour perfusion",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400955015017"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-07-04",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Kyprolis 60 mg, poudre pour solution pour perfusion – Laboratoire Amgen SAS"
+  },
+  "reason": "Kyprolis 60 mg, poudre pour solution pour perfusion – Laboratoire Amgen SAS RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 04/07/2024 A+ A- Niveau de rappel : établissements de santé Le laboratoire Amgen SAS procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité pharmaceutique dénommée : Kyprolis 60 mg, poudre pour solution pour perfusion (CIP 34009 550 150 1 7) Lot 1169751B – EXP 07/2026 Les flacons de ce lot portent les mentions : Lot 1169751 – EXP 07/2026 Ce rappel fait suite à la mise en évidence d’un possible défaut de sertissage sur un nombre très limité de flacons au sein de ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/kyprolis-60-mg-poudre-pour-solution-pour-perfusion-laboratoire-amgen-sas",
+  "warnings": []
+}

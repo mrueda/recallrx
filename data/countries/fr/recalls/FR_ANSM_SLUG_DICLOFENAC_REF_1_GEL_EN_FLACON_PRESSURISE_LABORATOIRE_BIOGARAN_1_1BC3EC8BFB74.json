@@ -1,0 +1,38 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique En complément du rappel des lots 306003 et 307004 (alerte MED24/A001 du 11/01/2024),",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-02-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_DICLOFENAC_REF_1_GEL_EN_FLACON_PRESSURISE_LABORATOIRE_BIOGARAN_1_1BC3EC8BFB74",
+  "local_id": "SLUG_DICLOFENAC_REF_1_GEL_EN_FLACON_PRESSURISE_LABORATOIRE_BIOGARAN_1_1BC3EC8BFB74",
+  "lots": [
+    "307005",
+    "307006",
+    "307007",
+    "307008",
+    "307009",
+    "307010",
+    "307011",
+    "307012",
+    "307013"
+  ],
+  "manufacturer": null,
+  "medicine": "Diclofenac Ref 1 %, gel en flacon pressurisé - Laboratoire Biogaran (MED 24/A004)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2024-02-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Diclofenac Ref 1 %, gel en flacon pressurisé - Laboratoire Biogaran (MED 24/A004)"
+  },
+  "reason": "Diclofenac Ref 1 %, gel en flacon pressurisé - Laboratoire Biogaran (MED 24/A004) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/02/2024 A+ A- Niveau de rappel : Officines et circuit de distribution pharmaceutique En complément du rappel des lots 306003 et 307004 (alerte MED24/A001 du 11/01/2024), le laboratoire BIOGARAN procède, en accord avec l’ANSM, au rappel de 9 autres lots mentionnés ci-dessous de la spécialité : DICLOFENAC REF 1 %, gel en flacon pressurisé : Lot 307005 – EXP 07/2026 Lot 307006 – EXP 07/2026 Lot 307007 – EXP 07/2026 Lot 307008 – EXP 07/2026 Lot 307009 – EXP 07/2026 Lot 307010 – EXP 07/2026 Lot 307011 – EXP 07/2026 Lot 307012 – EXP 07/2026 Lot 307013 – EXP 07/2026 Ce rappel fait suite à la détection d’un dysfonctionnement du flacon pressurisé rendant le produit inutil",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/diclofenac-ref-1-gel-en-flacon-pressurise-laboratoire-biogaran-1",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "actions": "Niveau de rappel : Officines et Circuit de distribution pharmaceutique Les laboratoires Biogaran et Viatris Santé procèdent, en accord avec l'ANSM et par mesure de précaution, au rappel des lots mentionnés des spécialités (annexe). Ce rappel fait suite à la mise en évidence d'une hétérogénéité de teneur en principe actif sur certaines gélules. Les laboratoires Biogaran et Viatris Santé précisent qu'aucun cas de pharmacovigilance en relation avec le défaut n'a été signalé à ce jour. Il est à noter que les spécialités suivantes ne sont pas concernées par ce rappel : Trandolapril Biogaran 0,5 mg gélule boîte de 28 (CIP 3400938814552) Trandolapril Biogaran 0,5 mg gélule boîte de 84 (CIP 3400938814781) Trandolapril Mylan 0,5 mg gélule boîte de 28 (CIP 3400938471977) Trandolapril Viatris 0,5 mg ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-10-08",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_TRANDOLAPRIL_BIOGARAN_2_ET_4_MG_GELULE_ET_DE_TRANDOLAPRIL_VIATRI_700A182E420F",
+  "local_id": "SLUG_TRANDOLAPRIL_BIOGARAN_2_ET_4_MG_GELULE_ET_DE_TRANDOLAPRIL_VIATRI_700A182E420F",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Trandolapril Biogaran 2 et 4 mg, gélule et de Trandolapril Viatris 2 et 4 mg, gélule - Laboratoires Biogaran et Mylan / Viatris Santé (MED24/A014)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938814552"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938814781"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938471977"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-10-08",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Trandolapril Biogaran 2 et 4 mg, gélule et de Trandolapril Viatris 2 et 4 mg, gélule - Laboratoires Biogaran et Mylan / Viatris Santé (MED24/A014)"
+  },
+  "reason": "Ce rappel fait suite à la mise en évidence d'une hétérogénéité de teneur en principe actif sur certaines gélules.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/trandolapril-biogaran-2-et-4-mg-gelule-et-de-trandolapril-viatris-2-et-4-mg-gelule-laboratoires-biogaran-et-mylan-viatris-sante",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

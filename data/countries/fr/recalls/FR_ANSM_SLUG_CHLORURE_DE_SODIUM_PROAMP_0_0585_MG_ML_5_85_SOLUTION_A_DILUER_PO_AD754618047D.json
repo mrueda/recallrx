@@ -1,0 +1,34 @@
+{
+  "actions": "Niveau de rappel : Etablissements de santé et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-08-01",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CHLORURE_DE_SODIUM_PROAMP_0_0585_MG_ML_5_85_SOLUTION_A_DILUER_PO_AD754618047D",
+  "local_id": "SLUG_CHLORURE_DE_SODIUM_PROAMP_0_0585_MG_ML_5_85_SOLUTION_A_DILUER_PO_AD754618047D",
+  "lots": [
+    "mentionn",
+    "2109532",
+    "conditionn"
+  ],
+  "manufacturer": "Laboratoire Aguettant",
+  "medicine": "Chlorure de sodium Proamp 0,0585 mg/ml (5,85 %), solution à diluer pour perfusion",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400936694651"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-08-01",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Chlorure de sodium Proamp 0,0585 mg/ml (5,85 %), solution à diluer pour perfusion – Laboratoire Aguettant"
+  },
+  "reason": "Le Laboratoire Aguettant procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Chlorure de sodium Proamp 0,0585 g/ml (5,85%), solution à diluer pour perfusion, (en boite de 20 ampoules de 20 ml, Code CIP 34009 366 946 5 1) lot 2109532 - péremption 12/2023 Ce rappel fait suite à la détection de quelques ampoules de ce lot conditionnées dans des étuis destinés à la spécialité Chlorure de sodium Proamp 0,20 g/ml (20 %), solution à diluer pour perfusion (en boite de 20 ampoules de 20 ml).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/chlorure-de-sodium-proamp-0-0585-mg-ml-5-85-solution-a-diluer-pour-perfusion-laboratoire-aguettant",
+  "warnings": []
+}

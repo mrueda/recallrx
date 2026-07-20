@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : établissements de santé",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-10-31",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CARBOCAINE_20_MG_ML_SOLUTION_INJECTABLE_LABORATOIRE_ASPEN_FRANCE_425AB6EDA07B",
+  "local_id": "SLUG_CARBOCAINE_20_MG_ML_SOLUTION_INJECTABLE_LABORATOIRE_ASPEN_FRANCE_425AB6EDA07B",
+  "lots": [
+    "mentionn"
+  ],
+  "manufacturer": "Laboratoire Aspen France (MED25/B021)",
+  "medicine": "Carbocaine 20 mg/ml, solution injectable",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-10-31",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Carbocaine 20 mg/ml, solution injectable – Laboratoire Aspen France (MED25/B021)"
+  },
+  "reason": "Ce rappel fait suite à des signalements relatifs à une diminution de l’efficacité clinique observée après administration du produit, se traduisant par une durée d’action anormalement réduite ou prolongée.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/carbocaine-20-mg-ml-solution-injectable-laboratoire-aspen-france",
+  "warnings": [
+    "missing_cip"
+  ]
+}

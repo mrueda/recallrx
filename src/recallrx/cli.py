@@ -17,6 +17,12 @@ def main(argv: list[str] | None = None) -> None:
     build_parser.add_argument("--output", type=Path, default=Path("data"))
     build_parser.add_argument("--config", type=Path, default=Path("recallrx.config.json"))
     build_parser.add_argument("--source", action="append", dest="sources")
+    build_parser.add_argument(
+        "--mode",
+        choices=("incremental", "full"),
+        default="incremental",
+        help="Collect recent entries and merge them, or replace with a full historical backfill",
+    )
 
     validate_parser = subparsers.add_parser("validate", help="Validate generated data")
     validate_parser.add_argument("root", type=Path)
@@ -28,7 +34,7 @@ def main(argv: list[str] | None = None) -> None:
 
     args = parser.parse_args(argv)
     if args.command == "build":
-        metadata = build_dataset(args.output, sources=args.sources, config_path=args.config)
+        metadata = build_dataset(args.output, sources=args.sources, config_path=args.config, mode=args.mode)
         print(f"Built {metadata['record_count']} records into {args.output}")
     elif args.command == "validate":
         errors = validate_dataset(args.root)

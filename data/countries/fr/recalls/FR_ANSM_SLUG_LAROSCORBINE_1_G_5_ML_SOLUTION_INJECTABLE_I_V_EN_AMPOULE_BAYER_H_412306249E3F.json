@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : établissements de santé, officines et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-01-10",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LAROSCORBINE_1_G_5_ML_SOLUTION_INJECTABLE_I_V_EN_AMPOULE_BAYER_H_412306249E3F",
+  "local_id": "SLUG_LAROSCORBINE_1_G_5_ML_SOLUTION_INJECTABLE_I_V_EN_AMPOULE_BAYER_H_412306249E3F",
+  "lots": [
+    "G214929",
+    "G215568"
+  ],
+  "manufacturer": "Bayer HealthCare (MED23/A003/B004)",
+  "medicine": "Laroscorbine 1 g/5 ml, solution injectable I.V. en ampoule",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400934213571"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-01-10",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Laroscorbine 1 g/5 ml, solution injectable I.V. en ampoule – Bayer HealthCare (MED23/A003/B004)"
+  },
+  "reason": "en ampoule – Boite de 6 ampoules CIP 3400934213571 – UCD 9049812 Lot G214929 - 06/2024 Lot G215568 - 10/2024 Ce rappel fait suite à la mise en évidence de la présence de particules dans la solution de quelques ampoules.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/laroscorbine-1-g-5-ml-solution-injectable-i-v-en-ampoule-bayer-healthcare",
+  "warnings": []
+}

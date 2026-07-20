@@ -1,0 +1,48 @@
+{
+  "actions": "Face ao exposto: • As entidades que possuam estes lotes de medicamentos em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução. • Os doentes que estejam a utilizar medicamentos pertencentes a este lote não devem interromper o tratamento. Logo que possível, devem contactar o médico para que este possa analisar a necessidade ou não da substituição por um medicamento alternativo. A Vogal do Conselho Diretivo (Erica Viegas)",
+  "authority": "INFARMED",
+  "confidence": 0.9,
+  "country": "PT",
+  "date": "2025-07-18",
+  "expiry_dates": [
+    "09/2027",
+    "10/2026"
+  ],
+  "id": "PT_INFARMED_CI_087_CD_550_20_001_2025",
+  "local_id": "CI 087/CD/550.20.001",
+  "lots": [
+    "4V14F",
+    "4V14C",
+    "4V30B",
+    "4V31B",
+    "5V18D"
+  ],
+  "manufacturer": "Dorcilfree, Dorzolamida, 20 mg/ml) Colírio, solução, Frasco 5 mL 5782065 4V14F 09/2027 Laboratório Edol - Produtos Farmacêuticos, S",
+  "medicine": "Recolha de vários lotes dos medicamentos Dorcilfree®, Demax® e Oftacilox® (colírios multidose)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "5782065"
+    },
+    {
+      "system": "AIM",
+      "value": "5859731"
+    },
+    {
+      "system": "AIM",
+      "value": "3549185"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-07-18",
+  "raw": {
+    "alert_type": null,
+    "source": "pt_infarmed",
+    "title": "Recolha de vários lotes dos medicamentos Dorcilfree®, Demax® e Oftacilox® (colírios multidose)"
+  },
+  "reason": "Na sequência de ter sido detetado o risco de contaminação microbiana em lotes dos medicamentos Dorcilfree®, Demax® e Oftacilox® Colírios Multidose decorrente de inspeção realizada pela Agência Francesa (ANSM na sigla em inglês) ao fabricante dos mesmos, como medida de precaução, o Infarmed ordena a suspensão da comercialização e a recolha imediata dos lotes constantes na seguinte tabela:",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11472000&_101_type=content&_101_urlTitle=recolha-de-varios-lotes-dos-medicamentos-dorcilfree-demax-e-oftacilox-colirios-multidose&inheritRedirect=false",
+  "warnings": []
+}

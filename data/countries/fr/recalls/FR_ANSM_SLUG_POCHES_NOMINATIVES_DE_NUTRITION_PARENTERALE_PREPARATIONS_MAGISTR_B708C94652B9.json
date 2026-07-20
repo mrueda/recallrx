@@ -1,0 +1,28 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des deux établissements concernés",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-04-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_POCHES_NOMINATIVES_DE_NUTRITION_PARENTERALE_PREPARATIONS_MAGISTR_B708C94652B9",
+  "local_id": "SLUG_POCHES_NOMINATIVES_DE_NUTRITION_PARENTERALE_PREPARATIONS_MAGISTR_B708C94652B9",
+  "lots": [],
+  "manufacturer": "Baxter Façonnage",
+  "medicine": "Poches nominatives de nutrition parentérale (préparations magistrales)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-04-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Poches nominatives de nutrition parentérale (préparations magistrales) – Baxter Façonnage"
+  },
+  "reason": "Poches nominatives de nutrition parentérale (préparations magistrales) – Baxter Façonnage RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/04/2026 A+ A- Niveau de rappel : en direct auprès des deux établissements concernés Le laboratoire Baxter Façonnage procède, par mesure de précaution, au rappel des Poches nominatives de nutrition parentérale (préparations magistrales) fabriquées le 23 avril 2026 sur le site de Montpellier mentionnées ci-dessous : 04 M 6 113 F02 778 04 M 6 113 F02 779 04 M 6 113 F02 780 04 M 6 113 F02 781 04 M 6 113 F02 782 04 M 6 113 F02 783 04 M 6 113 F02 784 04 M 6 113 F02 785 Ce rappel, réalisé le 27 avril 2026 en direct auprès des établissement concernés, fait suite à l’identification lors de la lecture quotidienne des prélèvements environnementaux, d’une contaminati",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/poches-nominatives-de-nutrition-parenterale-preparations-magistrales-baxter-faconnage",
+  "warnings": [
+    "missing_cip",
+    "missing_lot"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "actions": "Face ao exposto: Atendendo a que este medicamento é utilizado apenas em meio hospitalar, as entidades que que deles disponham não os poderão vender ou administrar, devendo proceder à sua devolução. O Conselho Diretivo",
+  "authority": "INFARMED",
+  "confidence": 0.9,
+  "country": "PT",
+  "date": "2021-02-10",
+  "expiry_dates": [
+    "2023-04-30",
+    "2022-12-31",
+    "2021-08-31",
+    "2021-11-30",
+    "2022-01-31"
+  ],
+  "id": "PT_INFARMED_CI_016_CD_550_20_001_2021",
+  "local_id": "CI 016/CD/550.20.001",
+  "lots": [
+    "P100266784",
+    "P100258963",
+    "P100043497",
+    "P100079861",
+    "P100126451"
+  ],
+  "manufacturer": null,
+  "medicine": "Respreeza - Antitripsina alfa-1, 1000 mg-20 ml, Pó e solvente para solução para perfusão",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "5761937"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-02-02",
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária de lotes do medicamento Respreeza - Antitripsina alfa-1, 1000 mg-20 ml, Pó e solvente para solução para perfusão"
+  },
+  "reason": "Na sequência de uma notificação de defeito de qualidade emitida pela Autoridade Europeia do Medicamento (EMA na sigla em inglês) relativamente aos medicamentos Respreeza (Antitripsina alfa-1), 1000 mg/20 ml, na forma farmacêutica - Pó e solvente para solução para perfusão, com o número de registo 5761937, a CSL Behring, Lda., irá proceder à recolha voluntária dos lotes do medicamento conforme tabela em baixo, por medida cautelar, na sequência de ter sido detetado uma falha na fase de enchimento dos frascos do medicamento, podendo conduzir a contaminação microbiológica do produto.",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4213947&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-do-medicamento-respreeza-antitripsina-alfa-1-1000-mg-20-ml-po-e-solvente-para-solucao-para-perfusao&inheritRedirect=false",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

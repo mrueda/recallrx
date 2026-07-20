@@ -1,0 +1,69 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Les laboratoires Arrow et Almus France procèdent, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous des spécialités mentionnées suivantes : Laboratoire Arrow Névirapine Arrow LP 400 mg, comprimé à libération prolongée, boite de 30 (CIP 3400930222133) Lot NN4021003A – Exp. 09/2024 Olanzapine Arrow 10 mg, comprimé, boite de 28 (CIP 3400922080871) Lot OLASD22018D – Exp. 10/2024 Lot OLASD23001A – Exp. 01/2025 Lot OLASD23002A – Exp. 01/2025 Olanzapine Arrow 7,5 mg, comprimé, boite de 28 (CIP 3400922080062) Lot OLASC22010A – Exp. 09/2024 Lot OLASC23003A – Exp. 01/2025 Olanzapine Arrow 5 mg, comprimé, boite de 28 (CIP 3400922079004) Lot OLASB22016E – Exp. 10/2024 Lot OLASB23004F – Exp. 02",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-07-03",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_NEVIRAPINE_OLANZAPINE_LABORATOIRE_ARROW_ET_METFORMINE_TRAMADOL_L_0B47EAD64C98",
+  "local_id": "SLUG_NEVIRAPINE_OLANZAPINE_LABORATOIRE_ARROW_ET_METFORMINE_TRAMADOL_L_0B47EAD64C98",
+  "lots": [
+    "NN4021003A",
+    "OLASD22018D",
+    "OLASD23001A",
+    "OLASD23002A",
+    "OLASC22010A",
+    "OLASC23003A",
+    "OLASB22016E",
+    "OLASB23004F",
+    "30A0039C",
+    "30B0021A",
+    "30A0039A",
+    "30A0075A",
+    "TL462FCE22001",
+    "TL462FCE22002"
+  ],
+  "manufacturer": "Laboratoire Almus France (MED24/A007/B002)",
+  "medicine": "Nevirapine, Olanzapine – Laboratoire Arrow et Metformine, Tramadol",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930222133"
+    },
+    {
+      "system": "CIP",
+      "value": "3400922080871"
+    },
+    {
+      "system": "CIP",
+      "value": "3400922080062"
+    },
+    {
+      "system": "CIP",
+      "value": "3400922079004"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930160893"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930184684"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930176870"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-07-03",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Nevirapine, Olanzapine – Laboratoire Arrow et Metformine, Tramadol – Laboratoire Almus France (MED24/A007/B002)"
+  },
+  "reason": "02/2025 Ce rappel fait suite à la décision de la Commission européenne qui impose la suspension de l’AMM de ces spécialités en l’absence de démonstration de la bioéquivalence entre ces spécialités génériques et la spécialité de référence.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/nevirapine-olanzapine-laboratoire-arrow-et-metformine-tramadol-laboratoire-almus-france",
+  "warnings": []
+}

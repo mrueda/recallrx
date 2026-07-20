@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-11-24",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOSARTAN_EVOLUGEN_50_MG_COMPRIME_PELLICULE_SECABLE_LABORATOIRE_E_BA889C4911F3",
+  "local_id": "SLUG_LOSARTAN_EVOLUGEN_50_MG_COMPRIME_PELLICULE_SECABLE_LABORATOIRE_E_BA889C4911F3",
+  "lots": [
+    "177621"
+  ],
+  "manufacturer": null,
+  "medicine": "Losartan Evolugen 50 mg comprimé pelliculé sécable - Laboratoire Evolupharm - Addendum au Rappel de lots MED21/A045 (MED21/A047)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-11-24",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Losartan Evolugen 50 mg comprimé pelliculé sécable - Laboratoire Evolupharm - Addendum au Rappel de lots MED21/A045 (MED21/A047)"
+  },
+  "reason": "09/2023 Ce rappel fait suite à la mise en évidence d'une impureté azide appelée \" impureté azoturée de losartan \" à des taux supérieurs aux limites acceptables dans la substance active entrant dans la composition de ces spécialités.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/losartan-evolugen-50-mg-comprime-pellicule-secable-laboratoire-evolupharm-addendum-au-rappel-de-lots-med21-a045",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

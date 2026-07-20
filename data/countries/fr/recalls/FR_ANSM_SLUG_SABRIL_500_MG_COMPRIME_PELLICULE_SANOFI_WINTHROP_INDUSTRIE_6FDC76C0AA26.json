@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-07-12",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_SABRIL_500_MG_COMPRIME_PELLICULE_SANOFI_WINTHROP_INDUSTRIE_6FDC76C0AA26",
+  "local_id": "SLUG_SABRIL_500_MG_COMPRIME_PELLICULE_SANOFI_WINTHROP_INDUSTRIE_6FDC76C0AA26",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Sabril 500 mg, comprimé pelliculé - Sanofi Winthrop Industrie (MED 23/A013/B013)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-07-12",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Sabril 500 mg, comprimé pelliculé - Sanofi Winthrop Industrie (MED 23/A013/B013)"
+  },
+  "reason": "Sabril 500 mg, comprimé pelliculé - Sanofi Winthrop Industrie (MED 23/A013/B013) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 12/07/2023 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Sanofi Winthrop Industrie procède, en accord avec l’ANSM et par mesure de précaution, au rappel des deux lots mentionnés ci-dessous de la spécialité pharmaceutique dénommée : Sabril 500 mg, comprimé pelliculé (CIP : 34009 337 804 1 8) Lot : 2006A – péremption : 11/2025 Lot : 2986C – péremption : 03/2025 Ce rappel fait suite à la détection, à l’état de traces, d’une impureté dans le principe actif mis en œuvre dans la fabrication des lots objet du rappel.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/sabril-500-mg-comprime-pellicule-sanofi-winthrop-industrie",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

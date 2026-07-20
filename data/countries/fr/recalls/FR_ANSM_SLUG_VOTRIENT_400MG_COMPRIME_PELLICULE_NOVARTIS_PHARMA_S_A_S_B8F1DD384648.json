@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-11-14",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_VOTRIENT_400MG_COMPRIME_PELLICULE_NOVARTIS_PHARMA_S_A_S_B8F1DD384648",
+  "local_id": "SLUG_VOTRIENT_400MG_COMPRIME_PELLICULE_NOVARTIS_PHARMA_S_A_S_B8F1DD384648",
+  "lots": [
+    "mentionn",
+    "ME7893"
+  ],
+  "manufacturer": "Novartis Pharma S.A.S (MED23/A023)",
+  "medicine": "Votrient 400mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400949131631"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-11-14",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Votrient 400mg, comprimé pelliculé – Novartis Pharma S.A.S (MED23/A023)"
+  },
+  "reason": "02/2025) Ce rappel fait suite à la mise en évidence de résultats hors spécifications pour le paramètre de dissolution lors d’essais de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/votrient-400mg-comprime-pellicule-novartis-pharma-s-a-s",
+  "warnings": []
+}

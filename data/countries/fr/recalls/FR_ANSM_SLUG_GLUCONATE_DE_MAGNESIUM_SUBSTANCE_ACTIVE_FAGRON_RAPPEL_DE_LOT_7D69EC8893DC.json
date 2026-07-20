@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et patients. Compte tenu du nombre réduit de destinataires, le rappel est effectué en direct auprès des destinataires du lot concerné. Aucun numéro d'alerte n’a donc été attribué à ce retrait. Pour toute information médicale, vous pouvez contacter FAGRON au 01 48 90 17 29. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille perso",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-12-11",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_GLUCONATE_DE_MAGNESIUM_SUBSTANCE_ACTIVE_FAGRON_RAPPEL_DE_LOT_7D69EC8893DC",
+  "local_id": "SLUG_GLUCONATE_DE_MAGNESIUM_SUBSTANCE_ACTIVE_FAGRON_RAPPEL_DE_LOT_7D69EC8893DC",
+  "lots": [
+    "mentionn",
+    "18129-B08-PPR1925190",
+    "concern"
+  ],
+  "manufacturer": null,
+  "medicine": "Gluconate de Magnésium (substance active) - Fagron",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-12-11",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Gluconate de Magnésium (substance active) - Fagron"
+  },
+  "reason": "FAGRON : 700459) Lot 18129-B08-PPR1925190 1kg (péremption 15.08.2021) Ce rappel fait suite à la mise en évidence d'une erreur de substance active présente dans les conditionnements étiquetés Gluconate de Magnésium, qui contiennent en réalité du Gluconate de Potassium.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/gluconate-de-magnesium-substance-active-fagron-rappel-de-lot",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

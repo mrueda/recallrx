@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des établissements de santé concernés",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-12-31",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOCAMETZ_25_MICROGRAMMES_TROUSSE_POUR_PREPARATION_RADIOPHARMACEU_56450EB5A5DA",
+  "local_id": "SLUG_LOCAMETZ_25_MICROGRAMMES_TROUSSE_POUR_PREPARATION_RADIOPHARMACEU_56450EB5A5DA",
+  "lots": [
+    "pour"
+  ],
+  "manufacturer": "Laboratoire Novartis Pharma SAS",
+  "medicine": "Locametz 25 microgrammes, trousse pour préparation radiopharmaceutique",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-12-31",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Locametz 25 microgrammes, trousse pour préparation radiopharmaceutique – Laboratoire Novartis Pharma SAS"
+  },
+  "reason": "Locametz 25 microgrammes, trousse pour préparation radiopharmaceutique – Laboratoire Novartis Pharma SAS RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 31/12/2025 A+ A- Niveau de rappel : en direct auprès des établissements de santé concernés Le Laboratoire Novartis Pharma SAS procède, en accord avec l’ANSM, au rappel du lot pour étude clinique mentionné ci-dessous de la spécialité : Locametz 25 microgrammes, trousse pour préparation radiopharmaceutique - Boîte de 1 flacon multidose en verre de 10 ml CIP : 34009 550 926 7 4 Lot : CT225FR2501, péremption : 11/07/2026 Ce rappel fait suite à la mise en évidence d’une non-conformité analytique relative à l’évaluation des impuretés.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/locametz-25-microgrammes-trousse-pour-preparation-radiopharmaceutique-laboratoire-novartis-pharma-sas",
+  "warnings": [
+    "missing_cip"
+  ]
+}

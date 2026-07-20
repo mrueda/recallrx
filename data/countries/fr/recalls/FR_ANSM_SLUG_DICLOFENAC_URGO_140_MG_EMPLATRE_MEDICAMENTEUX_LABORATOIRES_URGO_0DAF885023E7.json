@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique. Pour tout complément d’information : nous vous remercions de contacter l’information médicale en écrivant à l’adresse : info@laboratoiresurgo.fr Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous C",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-10-22",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_DICLOFENAC_URGO_140_MG_EMPLATRE_MEDICAMENTEUX_LABORATOIRES_URGO_0DAF885023E7",
+  "local_id": "SLUG_DICLOFENAC_URGO_140_MG_EMPLATRE_MEDICAMENTEUX_LABORATOIRES_URGO_0DAF885023E7",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Diclofenac Urgo 140 mg, emplâtre médicamenteux - Laboratoires Urgo Healthcare (MED20/A023)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-10-22",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Diclofenac Urgo 140 mg, emplâtre médicamenteux - Laboratoires Urgo Healthcare (MED20/A023)"
+  },
+  "reason": "CIP : 34009 301 760 30 Lot : 191102 (péremption : 10/2022) Lot : 191102A (péremption : 10/2022) Ce rappel fait suite à la mise en évidence, sur l’étui des lots concernés, d’un pictogramme « grossesse » non conforme à la réglementation, sur lequel il est imprimé « \"DICLOFENAC URGO + GROSSESSE = DANGER\" au lieu de \"DICLOFENAC URGO + GROSSESSE = INTERDIT\".",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/diclofenac-urgo-140-mg-emplatre-medicamenteux-laboratoires-urgo-healthcare",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

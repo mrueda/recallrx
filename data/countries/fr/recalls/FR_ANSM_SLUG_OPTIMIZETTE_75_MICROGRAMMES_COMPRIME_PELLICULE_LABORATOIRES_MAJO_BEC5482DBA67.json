@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : Officine, Établissements de santé et circuit de distribution pharmaceutique. Pour toute information complémentaire, vous pouvez contacter les Laboratoires Majorelle au 01 83 96 84 70. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse ",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-03-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OPTIMIZETTE_75_MICROGRAMMES_COMPRIME_PELLICULE_LABORATOIRES_MAJO_BEC5482DBA67",
+  "local_id": "SLUG_OPTIMIZETTE_75_MICROGRAMMES_COMPRIME_PELLICULE_LABORATOIRES_MAJO_BEC5482DBA67",
+  "lots": [
+    "2288600",
+    "2319320"
+  ],
+  "manufacturer": null,
+  "medicine": "Optimizette 75 microgrammes, comprimé pelliculé - Laboratoires Majorelle (MED 21/A007/B009)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400927406980"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-03-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Optimizette 75 microgrammes, comprimé pelliculé - Laboratoires Majorelle (MED 21/A007/B009)"
+  },
+  "reason": "Optimizette 75 microgrammes, comprimé pelliculé - Laboratoires Majorelle (MED 21/A007/B009) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/03/2021 A+ A- Rappel de lots Les Laboratoires Majorelle procèdent, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité : OPTIMIZETTE 75 microgrammes, comprimé pelliculé, 3 plaquettes de 28 comprimés Code CIP 34009 274 069 8 0 Lot 2288600 - 05/2021 Lot 2319320 - 09/2021 Ce rappel fait suite à l'identification de résultats hors spécifications lors des études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/optimizette-75-microgrammes-comprime-pellicule-laboratoires-majorelle",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

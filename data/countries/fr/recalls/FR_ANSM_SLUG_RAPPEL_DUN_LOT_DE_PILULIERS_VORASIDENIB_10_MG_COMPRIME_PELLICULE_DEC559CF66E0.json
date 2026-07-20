@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : établissements de santé concernés Les laboratoires Servier procèdent, en accord avec l’ANSM, au rappel du lot LC002326 (Exp 31/10/2026) de piluliers de Vorasidenib 10 mg, comprimé pelliculé emballés dans des cartons étiquetés Vorasidenib 40 mg, comprimé pelliculé (lot LC002326 – Exp 31/10/2026). L’erreur porte sur l’étiquette apposée sur les cartons logistiques mentionnant Vorasidenib 40 mg. Ce rappel est effectué en direct auprès des établissements concernés. Par conséquent, aucun numéro d’alerte n’a été attribué. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Pat",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-10-31",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_RAPPEL_DUN_LOT_DE_PILULIERS_VORASIDENIB_10_MG_COMPRIME_PELLICULE_DEC559CF66E0",
+  "local_id": "SLUG_RAPPEL_DUN_LOT_DE_PILULIERS_VORASIDENIB_10_MG_COMPRIME_PELLICULE_DEC559CF66E0",
+  "lots": [
+    "LC002326"
+  ],
+  "manufacturer": "Les laboratoires Servier",
+  "medicine": "Rappel d’un lot de piluliers Vorasidenib 10 mg, comprimé pelliculé emballés dans un carton logistique étiqueté Vorasidenib 40mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2024-10-31",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Rappel d’un lot de piluliers Vorasidenib 10 mg, comprimé pelliculé emballés dans un carton logistique étiqueté Vorasidenib 40mg, comprimé pelliculé – Les laboratoires Servier"
+  },
+  "reason": null,
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/rappel-dun-lot-de-piluliers-vorasidenib-10-mg-comprime-pellicule-emballes-dans-un-carton-logistique-etiquete-vorasidenib-40mg-comprime-pellicule-les-laboratoires-servier",
+  "warnings": [
+    "missing_cip"
+  ]
+}

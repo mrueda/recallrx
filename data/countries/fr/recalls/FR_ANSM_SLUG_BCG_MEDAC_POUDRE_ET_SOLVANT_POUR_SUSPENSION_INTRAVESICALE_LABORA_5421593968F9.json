@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : Établissements de santé et patients",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-03-07",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_BCG_MEDAC_POUDRE_ET_SOLVANT_POUR_SUSPENSION_INTRAVESICALE_LABORA_5421593968F9",
+  "local_id": "SLUG_BCG_MEDAC_POUDRE_ET_SOLVANT_POUR_SUSPENSION_INTRAVESICALE_LABORA_5421593968F9",
+  "lots": [
+    "C230298A",
+    "C230298D"
+  ],
+  "manufacturer": "Laboratoire Medac SAS (MED24-B001)",
+  "medicine": "BCG-Medac, poudre et solvant pour suspension intravésicale",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930018644"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-03-07",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "BCG-Medac, poudre et solvant pour suspension intravésicale – Laboratoire Medac SAS (MED24-B001)"
+  },
+  "reason": "BCG-Medac, poudre et solvant pour suspension intravésicale – Laboratoire Medac SAS (MED24-B001) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 07/03/2024 A+ A- Niveau de rappel : Établissements de santé et patients Le laboratoire Medac SAS procède, en accord avec l’ANSM, au rappel des 2 lots mentionnés ci-dessous de la spécialité pharmaceutique dénommée : BCG-Medac, poudre et solvant pour suspension intravésicale (CIP 34009 300 186 4 4) Lot C230298A - 09/2024 Lot C230298D - 09/2024 Ce rappel fait suite à la mise en évidence d’un possible défaut de sertissage, sur un nombre très limité de flacons au sein de ces 2 lots, pouvant entrainer une fuite du produit au moment de sa reconstitution.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/bcg-medac-poudre-et-solvant-pour-suspension-intravesicale-laboratoire-medac-sas",
+  "warnings": []
+}

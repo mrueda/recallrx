@@ -1,0 +1,41 @@
+{
+  "actions": "Niveau de rappel : Établissements de santé et Circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-10-11",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ISOVOL_6_SOLUTION_POUR_PERFUSION_ET_RESTORVOL_6_SOLUTION_POUR_PE_33DDB0ECED30",
+  "local_id": "SLUG_ISOVOL_6_SOLUTION_POUR_PERFUSION_ET_RESTORVOL_6_SOLUTION_POUR_PE_33DDB0ECED30",
+  "lots": [
+    "204747641",
+    "204847642",
+    "210847642",
+    "212637641",
+    "213447641",
+    "214747642",
+    "220547641",
+    "221817641",
+    "210847643",
+    "13QDL192",
+    "13QFL293",
+    "13QIL063",
+    "13QLL041"
+  ],
+  "manufacturer": "Laboratoire Fresenius Kabi France (MED 22/B021)",
+  "medicine": "Isovol 6 %, solution pour perfusion et Restorvol 6 %, solution pour perfusion - Laboratoire B.Braun Medical et Voluven, solution pour perfusion",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-10-11",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Isovol 6 %, solution pour perfusion et Restorvol 6 %, solution pour perfusion - Laboratoire B.Braun Medical et Voluven, solution pour perfusion – Laboratoire Fresenius Kabi France (MED 22/B021)"
+  },
+  "reason": "Braun Medical Lot 210847643 - Exp 01/2023 Voluven, solution pour perfusion, poche 500 ml (3400936740419) - Fresenius Kabi France Lot 13QDL192 - Exp 04/2023 Lot 13QFL293 - Exp 06/2023 Lot 13QIL063 - Exp 08/2023 Lot 13QLL041 - Exp 10/2023 Ce rappel fait suite à la décision de la Commission européenne du 24 mai 2022, publiée dans le registre communautaire des médicaments, qui impose aux Etats membres de suspendre les AMM de ces solutions pour perfusion à base d'hydroxyméthylamidon (HEA).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/isovol-6-solution-pour-perfusion-et-restorvol-6-solution-pour-perfusion-laboratoire-b-braun-medical-et-voluven-solution-pour-perfusion-laboratoire-fresenius-kabi-france",
+  "warnings": [
+    "missing_cip"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "actions": "ce RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 24/11/2022 A+ A- Ce rappel de lot est effectué en direct auprès des établissements de santé concernés, aucun numéro d'alerte n'a donc été attribué à ce rappel. Le laboratoire Accord Healthcare France procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité Lenalidomide Accord 2.5 mg, gélule. Lot RLCN0221A – EXP 07/2024 (boite de 7 gélules - CIP 34009 302 172 0 7) Lot RLCN0221B – EXP 07/2024 (boite de 21 gélules - CIP 34009 302 172 1 4) Ce rappel de lots fait suite à la mise en évidence de résultats non conformes lors d’un test d’uniformité de teneur reflétant une inhomogénéité dans la teneur en substance active de certaines gélules de ces lots. Pour toute information vous pouvez contacter le service d'informati",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-11-24",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LENALIDOMIDE_ACCORD_2_5_MG_GELULE_LABORATOIRE_ACCORD_HEALTHCARE_5792C8627E75",
+  "local_id": "SLUG_LENALIDOMIDE_ACCORD_2_5_MG_GELULE_LABORATOIRE_ACCORD_HEALTHCARE_5792C8627E75",
+  "lots": [
+    "est",
+    "RLCN0221A",
+    "RLCN0221B"
+  ],
+  "manufacturer": null,
+  "medicine": "Lenalidomide Accord 2,5 mg, gélule - Laboratoire Accord Healthcare France",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930217207"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930217214"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-11-24",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Lenalidomide Accord 2,5 mg, gélule - Laboratoire Accord Healthcare France"
+  },
+  "reason": "Lot RLCN0221A – EXP 07/2024 (boite de 7 gélules - CIP 34009 302 172 0 7) Lot RLCN0221B – EXP 07/2024 (boite de 21 gélules - CIP 34009 302 172 1 4) Ce rappel de lots fait suite à la mise en évidence de résultats non conformes lors d’un test d’uniformité de teneur reflétant une inhomogénéité dans la teneur en substance active de certaines gélules de ces lots.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/lenalidomide-accord-2-5-mg-gelule-laboratoire-accord-healthcare-france",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

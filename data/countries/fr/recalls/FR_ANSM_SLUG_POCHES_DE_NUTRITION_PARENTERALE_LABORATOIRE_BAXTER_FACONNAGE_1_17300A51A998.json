@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : Hôpitaux et patients. Compte tenu du nombre réduit de destinataires, le rappel est effectué en direct auprès des hôpitaux destinataires des poches concernés, qui ont été contactés. Aucun numéro d'alerte n’a donc été attribué à ce retrait. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-07-16",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_POCHES_DE_NUTRITION_PARENTERALE_LABORATOIRE_BAXTER_FACONNAGE_1_17300A51A998",
+  "local_id": "SLUG_POCHES_DE_NUTRITION_PARENTERALE_LABORATOIRE_BAXTER_FACONNAGE_1_17300A51A998",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Poches de nutrition parentérale - Laboratoire Baxter Façonnage",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-07-16",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Poches de nutrition parentérale - Laboratoire Baxter Façonnage"
+  },
+  "reason": "Ce rappel fait suite à la détection d’une perte d’intégrité sur cet isolateur lors de contrôles réguliers.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/poches-de-nutrition-parenterale-laboratoire-baxter-faconnage-1",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

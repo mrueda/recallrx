@@ -1,0 +1,44 @@
+{
+  "actions": "Niveau de rappel : Etablissements de santé Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à la disposition du public Opérations donnant lieu au p",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-07-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_XYLOCARD_20_MG_ML_INTRAVEINEUX_SOLUTION_INJECTABLE_ET_XYLOCARD_5_712625B05322",
+  "local_id": "SLUG_XYLOCARD_20_MG_ML_INTRAVEINEUX_SOLUTION_INJECTABLE_ET_XYLOCARD_5_712625B05322",
+  "lots": [
+    "F0077-1",
+    "F0077-2",
+    "F0078-1",
+    "F0088-1",
+    "F0088-2",
+    "F0088-3",
+    "F0088-4",
+    "F0089-3",
+    "9945860",
+    "9946053",
+    "9946600",
+    "9947360",
+    "9947414",
+    "9947443",
+    "9948880"
+  ],
+  "manufacturer": null,
+  "medicine": "Xylocard 20 mg/ml Intraveineux, solution injectable et Xylocard 50 mg/ml, solution injectable pour perfusion - Aspen France (MED21/B019)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-07-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Xylocard 20 mg/ml Intraveineux, solution injectable et Xylocard 50 mg/ml, solution injectable pour perfusion - Aspen France (MED21/B019)"
+  },
+  "reason": "Des lots avec un nouvel étiquetage, ont été mis en distribution depuis le 28 mai 2021 pour Xylocard 20 mg/ml Intraveineux, solution injectable et depuis le 2 juin 2021 pour Xylocard 50 mg/ml, solution injectable pour perfusion dans le but de réduire le risque d'erreur médicamenteuse.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/xylocard-20-mg-ml-intraveineux-solution-injectable-et-xylocard-50-mg-ml-solution-injectable-pour-perfusion-aspen-france",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

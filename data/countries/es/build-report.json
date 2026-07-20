@@ -1,8 +1,8 @@
 {
   "reports": [
     {
-      "accepted": 157,
-      "candidates": 157,
+      "accepted": 21,
+      "candidates": 21,
       "country": "es",
       "discovery_queries": [
         "Nº alerta",
@@ -16,28 +16,13 @@
         "Medidas cautelares adoptadas",
         "Nº alerta medicamento 2026",
         "retirada medicamento lote 2026",
-        "defecto calidad medicamento 2026",
-        "Nº alerta medicamento 2025",
-        "retirada medicamento lote 2025",
-        "defecto calidad medicamento 2025",
-        "Nº alerta medicamento 2024",
-        "retirada medicamento lote 2024",
-        "defecto calidad medicamento 2024",
-        "Nº alerta medicamento 2023",
-        "retirada medicamento lote 2023",
-        "defecto calidad medicamento 2023",
-        "Nº alerta medicamento 2022",
-        "retirada medicamento lote 2022",
-        "defecto calidad medicamento 2022",
-        "Nº alerta medicamento 2021",
-        "retirada medicamento lote 2021",
-        "defecto calidad medicamento 2021",
-        "Nº alerta medicamento 2020",
-        "retirada medicamento lote 2020",
-        "defecto calidad medicamento 2020"
+        "defecto calidad medicamento 2026"
       ],
+      "mode": "incremental",
       "rejected": [],
       "source": "es_aemps",
+      "stored_after": 157,
+      "stored_before": 157,
       "warnings": []
     }
   ]

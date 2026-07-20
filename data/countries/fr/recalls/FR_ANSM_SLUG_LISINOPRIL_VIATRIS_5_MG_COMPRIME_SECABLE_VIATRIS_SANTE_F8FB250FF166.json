@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : officines, circuit de distribution pharmaceutique et patients Les laboratoires Viatris Santé procèdent, en accord avec l'ANSM et par mesure de précaution, au rappel des 4 lots mentionnés ci-dessous de la spécialité : Lisinopril Viatris 5 mg, comprimé sécable. Lisinopril Viatris 5 mg, 28 comprimés sécables (CIP : 3400937445405) Lot 8172295 - 01/2026 Lot 8189879 - 03/2027 Lisinopril Viatris 5 mg, 84 comprimés sécables (CIP : 3400937445863) Lot 8172296 - 01/2026 Lot 8192737 - 03/2027 Ce rappel fait suite à la mise en évidence d'une erreur d'impression sur l'aluminium des blisters qui pourrait prêter à confusion sur la posologie : les jours de la semaine imprimés sur l'aluminium ne correspondent pas aux encoches des comprimés et peuvent inciter les patients à prendre plusieu",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-05-06",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LISINOPRIL_VIATRIS_5_MG_COMPRIME_SECABLE_VIATRIS_SANTE_F8FB250FF166",
+  "local_id": "SLUG_LISINOPRIL_VIATRIS_5_MG_COMPRIME_SECABLE_VIATRIS_SANTE_F8FB250FF166",
+  "lots": [
+    "8172295",
+    "8189879",
+    "8172296",
+    "8192737"
+  ],
+  "manufacturer": "Viatris Santé (MED25/A009)",
+  "medicine": "Lisinopril Viatris 5 mg, comprimé sécable",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-05-06",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Lisinopril Viatris 5 mg, comprimé sécable – Viatris Santé (MED25/A009)"
+  },
+  "reason": "Lisinopril Viatris 5 mg, 28 comprimés sécables (CIP : 3400937445405) Lot 8172295 - 01/2026 Lot 8189879 - 03/2027 Lisinopril Viatris 5 mg, 84 comprimés sécables (CIP : 3400937445863) Lot 8172296 - 01/2026 Lot 8192737 - 03/2027 Ce rappel fait suite à la mise en évidence d'une erreur d'impression sur l'aluminium des blisters qui pourrait prêter à confusion sur la posologie : les jours de la semaine imprimés sur l'aluminium ne correspondent pas aux encoches des comprimés et peuvent inciter les patients à prendre plusieurs comprimés certains jours.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/lisinopril-viatris-5-mg-comprime-secable-viatris-sante",
+  "warnings": [
+    "missing_cip"
+  ]
+}

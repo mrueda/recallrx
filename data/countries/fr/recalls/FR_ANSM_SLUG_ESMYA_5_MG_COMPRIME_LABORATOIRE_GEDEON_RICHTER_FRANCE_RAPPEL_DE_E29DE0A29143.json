@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : officines et circuits de distribution pharmaceutique Pour toute information merci de contacter : l'information médicale en tapant le choix 3 sur notre numéro de téléphone 01 47 42 03 20 ou en écrivant à l'adresse: Medinfo.fr@gedeonrichter.eu Publié le 13/03/2020 - Mis à jour le 27/10/2022 Le médicament ESMYA (ulipristal) ne doit plus être utilisé dans l’attente des résultats de la réévaluation de son rapport bénéfice/risque Surveillance Pharmacovigilance Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-03-18",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ESMYA_5_MG_COMPRIME_LABORATOIRE_GEDEON_RICHTER_FRANCE_RAPPEL_DE_E29DE0A29143",
+  "local_id": "SLUG_ESMYA_5_MG_COMPRIME_LABORATOIRE_GEDEON_RICHTER_FRANCE_RAPPEL_DE_E29DE0A29143",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Esmya 5 mg, comprimé - Laboratoire Gedeon Richter France (MED20/A008)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-03-18",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Esmya 5 mg, comprimé - Laboratoire Gedeon Richter France (MED20/A008)"
+  },
+  "reason": "07/2021) Ce rappel fait suite à la recommandation de l'EMA de suspendre l'AMM à titre provisoire dans l'attente des conclusions de la réévaluation de la balance bénéfice risque en cours.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/esmya-5-mg-comprime-laboratoire-gedeon-richter-france-rappel-de-lots-1",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

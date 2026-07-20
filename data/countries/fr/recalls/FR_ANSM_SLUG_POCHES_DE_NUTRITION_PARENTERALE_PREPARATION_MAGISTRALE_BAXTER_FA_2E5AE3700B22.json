@@ -1,0 +1,28 @@
+{
+  "actions": "Niveau de rappel : En direct auprès des établissements de santé concernés et des patients Ce rappel de lots fait suite à des résultats non conformes après des contrôles environnementaux sur les isolateurs utilisés lors de la fabrication. Des analyses sont en cours pour identifier les germes à l'origine de la contamination des isolateurs. Les poches de nutrition concernées ont été livrées cette semaine à des pharmacies à usage intérieur et à une dizaine de patients (hospitalisation à domicile). Tous les patients ont été avertis par les pharmacies de ne pas utiliser ces poches. Celles-ci seront échangées d'ici la fin de semaine. Pour rappel, des essais de stérilité sont effectués lors de chaque cycle de production sur une des poches produites, avant toute mise à disposition des hôpitaux et d",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-08-05",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_POCHES_DE_NUTRITION_PARENTERALE_PREPARATION_MAGISTRALE_BAXTER_FA_2E5AE3700B22",
+  "local_id": "SLUG_POCHES_DE_NUTRITION_PARENTERALE_PREPARATION_MAGISTRALE_BAXTER_FA_2E5AE3700B22",
+  "lots": [],
+  "manufacturer": "Baxter Façonnage",
+  "medicine": "Poches de nutrition parentérale (préparation magistrale)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-08-05",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Poches de nutrition parentérale (préparation magistrale) – Baxter Façonnage"
+  },
+  "reason": "Poches de nutrition parentérale (préparation magistrale) – Baxter Façonnage RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 05/08/2022 A+ A- Niveau de rappel : En direct auprès des établissements de santé concernés et des patients Ce rappel de lots fait suite à des résultats non conformes après des contrôles environnementaux sur les isolateurs utilisés lors de la fabrication.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/poches-de-nutrition-parenterale-preparation-magistrale-baxter-faconnage",
+  "warnings": [
+    "missing_cip",
+    "missing_lot"
+  ]
+}

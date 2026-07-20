@@ -1,0 +1,32 @@
+{
+  "actions": null,
+  "authority": "INFARMED",
+  "confidence": 0.6,
+  "country": "PT",
+  "date": "2022-09-09",
+  "expiry_dates": [],
+  "id": "PT_INFARMED_ASSET_7305572",
+  "local_id": "ASSET_7305572",
+  "lots": [
+    "21032"
+  ],
+  "manufacturer": null,
+  "medicine": "Lorazepam Labesfal, 1mg, comprimido - lote n.º 21032, validade 01/2023",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-09-09",
+  "raw": {
+    "asset_id": "7305572",
+    "source": "pt_infarmed_search_result",
+    "title": "Recolha voluntária do medicamento Lorazepam Labesfal, 1mg, comprimido - lote n.º 21032, validade 01/2023"
+  },
+  "reason": null,
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=7305572&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-lorazepam-labesfal-1mg-comprimido-lote-n-21032-validade-01-2023&inheritRedirect=false",
+  "warnings": [
+    "source_detail_fallback",
+    "missing_registration_number",
+    "missing_manufacturer"
+  ]
+}

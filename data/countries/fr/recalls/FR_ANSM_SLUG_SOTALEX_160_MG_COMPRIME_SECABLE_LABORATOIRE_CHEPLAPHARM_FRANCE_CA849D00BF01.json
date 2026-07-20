@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2025-11-06",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_SOTALEX_160_MG_COMPRIME_SECABLE_LABORATOIRE_CHEPLAPHARM_FRANCE_CA849D00BF01",
+  "local_id": "SLUG_SOTALEX_160_MG_COMPRIME_SECABLE_LABORATOIRE_CHEPLAPHARM_FRANCE_CA849D00BF01",
+  "lots": [
+    "mentionn",
+    "1187"
+  ],
+  "manufacturer": "Laboratoire Cheplapharm France (MED 25/A022/B022)",
+  "medicine": "Sotalex 160 mg, comprimé sécable",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400932225637"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-11-06",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Sotalex 160 mg, comprimé sécable – Laboratoire Cheplapharm France (MED 25/A022/B022)"
+  },
+  "reason": "Sotalex 160 mg, comprimé sécable – Laboratoire Cheplapharm France (MED 25/A022/B022) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 06/11/2025 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Cheplapharm France procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous : Spécialité Sotalex 160 mg, comprimé sécable (CIP 34009 322 256 3 7) Lot : 1187 péremption 05/2027 Ce rappel fait suite à la mise en évidence de la présence d’impuretés de type nitrosamine à des taux supérieurs aux normes fixées par les autorités européennes dans le cadre des études de stabilité du lot 1187.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/sotalex-160-mg-comprime-secable-laboratoire-cheplapharm-france",
+  "warnings": []
+}

@@ -61,10 +61,16 @@ Validate the bundled seed dataset:
 python3 -m recallrx validate data
 ```
 
-Build fresh recall data with the Python collector:
+Collect recent recall data and merge it into the retained dataset:
 
 ```bash
-python3 -m recallrx build --output data
+python3 -m recallrx build --output data --mode incremental
+```
+
+Run an explicit historical backfill from the configured start year:
+
+```bash
+python3 -m recallrx build --output data --mode full
 ```
 
 Build the static deploy directory:
@@ -117,11 +123,18 @@ requests, retries, pagination, structured APIs or HTML parsing where available,
 and transient PDF fallback parsing when useful. They do not rely on `wget`, and
 they do not commit downloaded PDFs.
 
+Collection has two modes. `incremental` is the daily path: it checks recent or
+current-year authority listings and merges updated records into the retained
+dataset. `full` is an operator-triggered historical backfill: it scans from
+`backfill_start_year` and replaces the selected countries only after collection
+finishes.
+
 The current Spain / AEMPS source flow is:
 
 - Discover candidates through the public AEMPS WordPress posts API, with the
   AEMPS search endpoint as fallback.
-- Use a configurable backfill start year.
+- Scan the current year during incremental updates and use the configurable
+  start year for full backfills.
 - Parse AEMPS detail pages as the primary source.
 - Accept human-medicine recall IDs such as `R_21/2026`.
 - Reject veterinary alerts, cosmetics, product-safety notices, and general news.
@@ -129,7 +142,12 @@ The current Spain / AEMPS source flow is:
 
 The current Portugal / INFARMED source flow is:
 
-- Discover candidates from the official paginated INFARMED Alertas listing.
+- Use the compact paginated Alertas feed for daily incremental discovery.
+- Use INFARMED's human-medicine search for historical backfills, retaining only
+  content pages and deduplicating their attached PDF search results.
+- Retain an explicitly marked record from the official search summary when an
+  older Liferay detail route is unavailable; INFARMED's year-organized alert
+  archive provides the corresponding circular-PDF corroboration path.
 - Accept medicine recall and withdrawal notices marked as `Tipo de alerta: med`.
 - Reject cosmetic and device alerts even when their titles mention withdrawal.
 - Parse circular IDs, dates, medicine names, INFARMED registration numbers,
@@ -138,15 +156,19 @@ The current Portugal / INFARMED source flow is:
 
 The current France / ANSM source flow is:
 
-- Discover candidates from the official paginated ANSM information-safety list.
-- Accept entries marked as `RAPPEL DE PRODUIT` and `Médicaments`.
+- Query ANSM's official year and product filters for `RAPPEL DE PRODUIT` and
+  `Médicaments`, using the current year incrementally and all configured years
+  during a backfill.
 - Reject device, diagnostic, cosmetic, and other non-medicine recalls.
 - Parse publication dates, medicine names, manufacturers, CIP codes, lots,
   expiry dates, reasons, and recall-level text from the detail page.
 - Write parser warnings and rejected candidates to `build-report.json`.
 
-Daily GitHub Pages deployments rebuild fresh recall data before publishing the
-static app. The workflow can also be run manually from GitHub Actions.
+Daily GitHub Pages deployments collect recent entries, merge them into retained
+history, validate the result, and publish the static app. Substantive record
+changes are committed by the workflow so entries remain available after they
+leave an authority's recent feed. A manual workflow run can select either
+collection mode.
 
 ## Development
 

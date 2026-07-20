@@ -1,0 +1,29 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam estes lotes de medicamentos em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução. Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper o tratamento. Logo que possível, devem contactar o médico para substituir por outro lote ou um medicamento alternativo. A Vogal do Conselho Diretivo Erica Viegas",
+  "authority": "INFARMED",
+  "confidence": 0.78,
+  "country": "PT",
+  "date": "2025-03-28",
+  "expiry_dates": [],
+  "id": "PT_INFARMED_CI_033_CD_550_20_001_2025",
+  "local_id": "CI 033/CD/550.20.001",
+  "lots": [],
+  "manufacturer": "Generis Farmacêutica",
+  "medicine": "Recolha voluntária de lotes de medicamento Fluoxetina Generis 20 mg cápsulas",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-03-28",
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária de lotes de medicamento Fluoxetina Generis 20 mg cápsulas"
+  },
+  "reason": "A empresa Generis Farmacêutica, S.A. irá proceder à recolha voluntária dos lotes indicados em anexo do medicamento Fluoxetina Generis 20 mg Cápsulas por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11092096&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-de-medicamento-fluoxetina-generis-20-mg-capsulas&inheritRedirect=false",
+  "warnings": [
+    "missing_registration_number",
+    "missing_lot"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des établissements de santé ayant été destinataires du lot",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-11-14",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_THERACAP131_IODURE_131I_DE_SODIUM_POUR_THERAPIE_GELULE_GE_HEALTH_EAAA3093D5FB",
+  "local_id": "SLUG_THERACAP131_IODURE_131I_DE_SODIUM_POUR_THERAPIE_GELULE_GE_HEALTH_EAAA3093D5FB",
+  "lots": [
+    "mentionn",
+    "23-4-45"
+  ],
+  "manufacturer": "GE Healthcare SAS",
+  "medicine": "Theracap131, Iodure (131I) de sodium pour thérapie, gélule",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400957149512"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-11-14",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Theracap131, Iodure (131I) de sodium pour thérapie, gélule – GE Healthcare SAS"
+  },
+  "reason": "Theracap131, Iodure (131I) de sodium pour thérapie, gélule – GE Healthcare SAS RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 14/11/2023 A+ A- Niveau de rappel : en direct auprès des établissements de santé ayant été destinataires du lot Le laboratoire GE Healthcare SAS procède au retrait du lot mentionné ci-dessous de la spécialité pharmaceutique dénommée : Theracap131, iodure (131I) de sodium pour thérapie, gélule (CIP 34009 571 495 1 2) Lot 23-4-45 (péremption 01/12/2023) Ce rappel fait suite à la mise en évidence d’un problème survenu lors de la fabrication du lot 23-4-45 de Theracap131, qui aurait pu entraîner la pénétration de petites quantités de verre dans les flacons contenant la gélule.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/theracap131-iodure-131i-de-sodium-pour-therapie-gelule-ge-healthcare-sas",
+  "warnings": []
+}

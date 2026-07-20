@@ -1,0 +1,46 @@
+{
+  "actions": "Niveau de rappel : établissements de santé. Pour toute demande d’information médicale : Vous pouvez joindre le service d’information médicale au 01.53.58.54.00 ou infomedfrance@cslbehring.com RAPPEL DE PRODUIT Médicaments Publié le 18/02/2021 - Mis à jour le 06/04/2021 Respreeza (alpha-1 antitrypsine humaine) Un rappel de lots de Respreeza 1 000, 4 000 et 5 000 mg poudre et solvant pour solution injectable/ perfusion a été réalisé par",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-02-12",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_RESPREEZA_1000_MG_4000_MG_ET_5000MG_POUDRE_ET_SOLVANT_POUR_SOLUT_8E698AB8C32F",
+  "local_id": "SLUG_RESPREEZA_1000_MG_4000_MG_ET_5000MG_POUDRE_ET_SOLVANT_POUR_SOLUT_8E698AB8C32F",
+  "lots": [
+    "P100043506",
+    "P100060572",
+    "P100061842",
+    "P100124789",
+    "P100123524",
+    "P100255904",
+    "P100122845",
+    "P100139195",
+    "P100159373",
+    "P100176288",
+    "P100199908",
+    "P100225633",
+    "P100140534",
+    "P100170463",
+    "P100212155",
+    "P100225242",
+    "P100283546"
+  ],
+  "manufacturer": null,
+  "medicine": "Respreeza 1000 mg, 4000 mg et 5000mg, poudre et solvant pour solution injectable/perfusion - Laboratoire CSL Behring SA (MED 21/B003)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-02-12",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Respreeza 1000 mg, 4000 mg et 5000mg, poudre et solvant pour solution injectable/perfusion - Laboratoire CSL Behring SA (MED 21/B003)"
+  },
+  "reason": "Respreeza 1000 mg, 4000 mg et 5000mg, poudre et solvant pour solution injectable/perfusion - Laboratoire CSL Behring SA (MED 21/B003) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 12/02/2021 - MIS À JOUR LE 06/04/2021 A+ A- Le laboratoire CSL Behring SA procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous des spécialités : RESPREEZA 1000 mg, poudre et solvant pour solution injectable/perfusion - (CIP : 34009 550 124 3 6) Lot P100043506 (péremption : 08/2021) Lot P100060572 (péremption : 08/2021) Lot P100061842 (péremption : 10/2021) Lot P100124789 (péremption : 01/2022) Lot P100123524 (péremption : 03/2022) Lot P100255904 (péremption : 12/2022) RESPREEZA 4000 mg, poudre et solvant pour solution injectable/perfusion - (CIP : 34009 550 570 1 7) L",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/respreeza-1000-mg-4000-mg-et-5000mg-poudre-et-solvant-pour-solution-injectable-perfusion-laboratoire-csl-behring-sa",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

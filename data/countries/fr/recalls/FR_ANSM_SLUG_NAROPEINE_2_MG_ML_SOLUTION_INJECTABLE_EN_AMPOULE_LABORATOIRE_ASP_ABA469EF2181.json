@@ -1,0 +1,36 @@
+{
+  "actions": "Niveau de rappel : en direct auprés des établissements hospitaliers concernés.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-12-10",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_NAROPEINE_2_MG_ML_SOLUTION_INJECTABLE_EN_AMPOULE_LABORATOIRE_ASP_ABA469EF2181",
+  "local_id": "SLUG_NAROPEINE_2_MG_ML_SOLUTION_INJECTABLE_EN_AMPOULE_LABORATOIRE_ASP_ABA469EF2181",
+  "lots": [
+    "mentionn",
+    "CAVG",
+    "LCDH"
+  ],
+  "manufacturer": null,
+  "medicine": "Naropeine 2 mg/ml, solution injectable en ampoule - Laboratoire Aspen France",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400955991779"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-12-10",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Naropeine 2 mg/ml, solution injectable en ampoule - Laboratoire Aspen France"
+  },
+  "reason": "Le Laboratoire Aspen France, procéde, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité Naropeine 2 mg/ml, solution injectable en ampoule - 5 Ampoules de 10 ml Chlorhydrate de ropivacaïne anhydre CIP 3400955991779 Lot : CAVG Date d’expiration : 05/2024 Ce rappel fait suite à un défaut qualité enregistré le 07/12/2021 concernant l’identification dans un blister de la spécialité Naropeine 2 mg/ml, solution injectable (lot CAVG) d’une ampoule étiquetée en chinois indiquant une concentration de Naropéine de 75 mg/10 ml (lot LCDH – date de fabrication 06/2021 et date d’expiration 05/2024).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/naropeine-2-mg-ml-solution-injectable-en-ampoule-laboratoire-aspen-france",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

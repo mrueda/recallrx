@@ -1,0 +1,42 @@
+{
+  "actions": "ce RAPPEL DE PRODUIT Médicaments Publié le 18/06/2020 - Mis à jour le 07/04/2021 Baclocur 10 mg, comprimé pelliculé sécable - Baclocur 20 mg, comprimé pelliculé sécable - Baclocur 40 mg, comprimé pelliculé sécable - Laboratoires Ethypharm Baclocur 10 mg, comprimé pelliculé sécable - Baclocur 20 mg, comprimé pelliculé sécable - Baclocur 40 mg, comprimé pelliculé sécable - Laboratoires Ethypharm - Rappel de lots Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-12-01",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_BACLOCUR_10_MG_20_MG_ET_40_MG_COMPRIME_PELLICULE_SECABLE_LABORAT_324660AD49C6",
+  "local_id": "SLUG_BACLOCUR_10_MG_20_MG_ET_40_MG_COMPRIME_PELLICULE_SECABLE_LABORAT_324660AD49C6",
+  "lots": [
+    "28640",
+    "28641",
+    "28642",
+    "30555",
+    "30556",
+    "30557",
+    "31031",
+    "31032",
+    "31033",
+    "28646",
+    "28647",
+    "28648",
+    "28649"
+  ],
+  "manufacturer": null,
+  "medicine": "Baclocur 10 mg, 20 mg, et 40 mg, comprimé pelliculé sécable - Laboratoires Ethypharm - Annulation du rappel de lots MED20-A010-B007 (MED 20/A028/B017)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-12-01",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Baclocur 10 mg, 20 mg, et 40 mg, comprimé pelliculé sécable - Laboratoires Ethypharm - Annulation du rappel de lots MED20-A010-B007 (MED 20/A028/B017)"
+  },
+  "reason": null,
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/baclocur-10-mg-20-mg-et-40-mg-comprime-pellicule-secable-laboratoires-ethypharm-annulation-du-rappel-de-lots-med20-a010-b007",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "actions": "Niveau de rappel : Officines, Etablissements de santé et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-10-19",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PAXELADINE_0_2_POUR_CENT_SIROP_LABORATOIRE_IPSEN_CONSUMER_HEALTH_E8EC8012DE0D",
+  "local_id": "SLUG_PAXELADINE_0_2_POUR_CENT_SIROP_LABORATOIRE_IPSEN_CONSUMER_HEALTH_E8EC8012DE0D",
+  "lots": [
+    "T00446",
+    "T00455",
+    "T06603",
+    "U00237",
+    "U00238",
+    "U00239"
+  ],
+  "manufacturer": "Laboratoire Ipsen Consumer Healthcare (MED22/A025/B022)",
+  "medicine": "Paxeladine 0,2 pour cent, sirop",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400932889709"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-10-19",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Paxeladine 0,2 pour cent, sirop – Laboratoire Ipsen Consumer Healthcare (MED22/A025/B022)"
+  },
+  "reason": "Lot T00446 - 03/2023 Lot T00455 - 05/2023 Lot T06603 - 09/2023 Lot U00237 - 02/2024 Lot U00238 - 02/2024 Lot U00239 - 02/2024 Ce rappel fait suite à l’identification d’une impureté lors des études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/paxeladine-0-2-pour-cent-sirop-laboratoire-ipsen-consumer-healthcare",
+  "warnings": []
+}

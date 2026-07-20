@@ -1,0 +1,69 @@
+{
+  "actions": "Niveau de rappel : officines, circuit de distribution pharmaceutique et établissements de santé.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-11-02",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOSARTAN_ARROW_LAB_50_MG_ET_100_MG_CP_PELLICULE_ET_LOSARTAN_HYDR_A5A040546361",
+  "local_id": "SLUG_LOSARTAN_ARROW_LAB_50_MG_ET_100_MG_CP_PELLICULE_ET_LOSARTAN_HYDR_A5A040546361",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Losartan Arrow Lab 50 mg et 100 mg, cp pelliculé, et Losartan/Hydrochlorothiazide Arrow Lab 50 mg/12,5 mg, 100 mg/12,5 mg, et 100 mg/25 mg, cp pelliculé - Laboratoire Arrow génériques (MED21/A035/B027)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930159064"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930159071"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930159040"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930159057"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921871845"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921872217"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921872965"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921873337"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921873856"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921874396"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-11-02",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Losartan Arrow Lab 50 mg et 100 mg, cp pelliculé, et Losartan/Hydrochlorothiazide Arrow Lab 50 mg/12,5 mg, 100 mg/12,5 mg, et 100 mg/25 mg, cp pelliculé - Laboratoire Arrow génériques (MED21/A035/B027)"
+  },
+  "reason": "Le laboratoire Arrow génériques procède, en accord avec l'ANSM et par mesure de précaution, au rappel de tous les lots non périmés sur le marché des spécialités mentionnées ci-dessous : LOSARTAN ARROW LAB 50 mg, comprimé pelliculé sécable (boite de 30) – CIP 3400930159064 Lots : OL5019002-B (Exp 04/2022) ; ADW5020014A (Exp 11/2023) LOSARTAN ARROW LAB 50 mg, comprimé pelliculé sécable (boite de 90) – CIP 3400930159071 Lots : OL5019001-A (Exp 04/2022) ; OL5019012-A (Exp 09/2022) ; ADW5021006A (Exp 02/2024) LOSARTAN ARROW LAB 100 mg, comprimé pelliculé (boite de 30) – CIP 3400930159040 Lots : OL1019007-C (Exp 04/2022) ; OL1019020-F (Exp 07/2022); OL1019025-B (Exp 09/2022) ; ADW1020004B (Exp 08/2023) ; ADW1020005A (Exp 08/2023) ; ADW1020014C (Exp 11/2023) ; ADW1021028B (Exp 02/2024) LOSARTAN A",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/losartan-arrow-lab-50-mg-et-100-mg-cp-pellicule-et-losartan-hydrochlorothiazide-arrow-lab-50-mg-12-5-mg-100-mg-12-5-mg-et-100-mg-25-mg-cp-pellicule-laboratoire-arrow-generiques",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

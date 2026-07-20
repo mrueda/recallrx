@@ -1,0 +1,41 @@
+{
+  "actions": "ce RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 12/02/2021 - MIS À JOUR LE 06/04/2021 A+ A- Le laboratoire AIR LIQUIDE SANTE FRANCE procède, en accord avec l’ANSM, au rappel des bouteilles concernées par un défaut dont vous avez été destinataire. Les bouteilles que vous devez nous retourner, ont les références suivantes : Bouteille de 5 L en acier ou en aluminium frettée, munie d'un robinet en laiton avec manodétendeur et prises normalisées (CIP 34009 343 519 3 8 (343 519-3)) Bouteille de 2 L en aluminium, munie d'un robinet en laiton avec manodétendeur et prises normalisées (CIP 34009 343 516 4 8 (343 516-4)) Bouteille de 15 L en aluminium ou en aluminium frettée, munie d'un robinet en laiton avec manodétendeur et prises normalisées (CIP 34009 343 522 4 9 (343 522-4)) Ce rappel fait suite ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-02-12",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OXYGENE_MEDICINAL_AIR_LIQUIDE_SANTE_FRANCE_200_BAR_AIR_LIQUIDE_S_19562497E84F",
+  "local_id": "SLUG_OXYGENE_MEDICINAL_AIR_LIQUIDE_SANTE_FRANCE_200_BAR_AIR_LIQUIDE_S_19562497E84F",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Oxygène médicinal Air Liquide Sante France 200 bar - Air Liquide Santé France",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400934351938"
+    },
+    {
+      "system": "CIP",
+      "value": "3400934351648"
+    },
+    {
+      "system": "CIP",
+      "value": "3400934352249"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-02-12",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Oxygène médicinal Air Liquide Sante France 200 bar - Air Liquide Santé France"
+  },
+  "reason": "Oxygène médicinal Air Liquide Sante France 200 bar - Air Liquide Santé France RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 12/02/2021 - MIS À JOUR LE 06/04/2021 A+ A- Le laboratoire AIR LIQUIDE SANTE FRANCE procède, en accord avec l’ANSM, au rappel des bouteilles concernées par un défaut dont vous avez été destinataire.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/oxygene-medicinal-air-liquide-sante-france-200-bar-air-liquide-sante-france",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

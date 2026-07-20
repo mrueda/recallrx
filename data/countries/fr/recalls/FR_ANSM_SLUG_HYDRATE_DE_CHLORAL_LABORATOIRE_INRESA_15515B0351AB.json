@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des établissements de santé destinataires des lots objet du rappel",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-06-19",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_HYDRATE_DE_CHLORAL_LABORATOIRE_INRESA_15515B0351AB",
+  "local_id": "SLUG_HYDRATE_DE_CHLORAL_LABORATOIRE_INRESA_15515B0351AB",
+  "lots": [
+    "24000264005",
+    "24000264004"
+  ],
+  "manufacturer": "Laboratoire Inresa",
+  "medicine": "Hydrate de chloral",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2024-06-19",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Hydrate de chloral – Laboratoire Inresa"
+  },
+  "reason": null,
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/hydrate-de-chloral-laboratoire-inresa",
+  "warnings": [
+    "missing_cip"
+  ]
+}

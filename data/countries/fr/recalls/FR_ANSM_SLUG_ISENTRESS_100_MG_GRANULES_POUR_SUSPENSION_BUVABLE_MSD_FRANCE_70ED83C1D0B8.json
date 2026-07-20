@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé Actualisation du 21/05/2025 - Note importante Le numéro de lot du produit fini et le numéro de lot intermédiaire figurent sur la boîte (conditionnement secondaire). Si les sachets ont été déconditionnés, seul le numéro de lot intermédiaire 0001778190 y est mentionné : Lot produit fini figurant uniquement sur la boîte : Lot Y009242 – Exp. 31/01/2027 Lot intermédiaire figurant sur la boîte et sur le sachet : 0001778190 – Exp. 01/2027",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-05-19",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ISENTRESS_100_MG_GRANULES_POUR_SUSPENSION_BUVABLE_MSD_FRANCE_70ED83C1D0B8",
+  "local_id": "SLUG_ISENTRESS_100_MG_GRANULES_POUR_SUSPENSION_BUVABLE_MSD_FRANCE_70ED83C1D0B8",
+  "lots": [
+    "interm",
+    "produit",
+    "Y009242",
+    "mentionn"
+  ],
+  "manufacturer": "MSD France (MED 25/A010/B011)",
+  "medicine": "Isentress 100 mg, granulés pour suspension buvable",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-05-19",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Isentress 100 mg, granulés pour suspension buvable – MSD France (MED 25/A010/B011)"
+  },
+  "reason": "01/2027 Le laboratoire MSD France procède, en accord avec l'ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité Isentress 100 mg, granulés pour suspension buvable (CIP : 34009 279 463 6 3) : Lot Y009242 : Exp 01/2027 Ce rappel fait suite à la détection d'un défaut du sachet en aluminium pour ce lot spécifique, ce qui pourrait avoir un impact sur la qualité du produit au cours de sa durée de conservation.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/isentress-100-mg-granules-pour-suspension-buvable-msd-france",
+  "warnings": [
+    "missing_cip"
+  ]
+}

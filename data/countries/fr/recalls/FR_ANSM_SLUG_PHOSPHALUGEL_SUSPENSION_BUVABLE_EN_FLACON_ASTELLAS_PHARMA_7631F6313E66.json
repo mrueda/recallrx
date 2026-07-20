@@ -1,0 +1,40 @@
+{
+  "actions": "Niveau de rappel : Officines, Etablissements de santé et Circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-03-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PHOSPHALUGEL_SUSPENSION_BUVABLE_EN_FLACON_ASTELLAS_PHARMA_7631F6313E66",
+  "local_id": "SLUG_PHOSPHALUGEL_SUSPENSION_BUVABLE_EN_FLACON_ASTELLAS_PHARMA_7631F6313E66",
+  "lots": [
+    "928327",
+    "028081",
+    "028315",
+    "028316",
+    "028317",
+    "028414",
+    "028415"
+  ],
+  "manufacturer": null,
+  "medicine": "Phosphalugel, suspension buvable en flacon - Astellas Pharma (MED22/A009/B009)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400932462629"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-03-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Phosphalugel, suspension buvable en flacon - Astellas Pharma (MED22/A009/B009)"
+  },
+  "reason": "Le laboratoire Astellas Pharma procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité Phosphalugel, suspension buvable en flacon - flacon de 250 g (CIP 34009 324 626 2 9) : Lot 928327 (Exp : 05/22) Lot 028081 (Exp : 01/23) Lot 028315 (Exp : 05/23) Lot 028316 (Exp : 05/23) Lot 028317 (Exp : 05/23) Lot 028414 (Exp : 06/23) Lot 028415 (Exp : 06/23) Ce rappel fait suite à la mise en évidence de teneurs en plomb à des taux supérieurs aux limites acceptables dans la substance active entrant dans la composition de la spécialité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/phosphalugel-suspension-buvable-en-flacon-astellas-pharma",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

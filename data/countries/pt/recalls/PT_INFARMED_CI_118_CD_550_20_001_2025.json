@@ -1,14 +1,16 @@
 {
   "actions": "Face ao exposto: - As entidades que possuam este lote de medicamento em stock não o podem vender, dispensar ou administrar, devendo proceder à sua devolução. - Os doentes que estejam a utilizar o medicamento pertencente a este lote devem, logo que possível, contactar o médico para que este possa analisar a necessidade da substituição por um medicamento alternativo. A Vogal do Conselho Diretivo (Erica Viegas)",
   "authority": "INFARMED",
-  "confidence": 0.78,
+  "confidence": 0.9,
   "country": "PT",
   "date": "2025-10-08",
   "expiry_dates": [],
   "id": "PT_INFARMED_CI_118_CD_550_20_001_2025",
   "local_id": "CI 118/CD/550.20.001",
-  "lots": [],
-  "manufacturer": "Boehringer Ingelheim Portugal",
+  "lots": [
+    "R1335"
+  ],
+  "manufacturer": "Boehringer Ingelheim Portugal, Lda",
   "medicine": "Nolotil 2000 mg/5 ml, solução injetável",
   "pdf_url": null,
   "product_codes": [
@@ -27,7 +29,5 @@
   "reason": "A empresa Boehringer Ingelheim Portugal, Lda, irá proceder à recolha voluntária do lote n.º R1335 , com a validade 05/2028 , do medicamento Nolotil (Metamizol magnésico) 2000mg/5ml, solução injetável , com o número de registo 8512202, por ter sido detetada a presença de fragmentos de vidro de ampolas e pó na embalagem secundária do medicamento.",
   "recall_class": null,
   "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11744636",
-  "warnings": [
-    "missing_lot"
-  ]
+  "warnings": []
 }

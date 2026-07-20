@@ -45,3 +45,44 @@ def test_rejects_ansm_device_recall():
     )
 
     assert record is None
+
+
+def test_fallback_ids_do_not_collide_when_long_slugs_share_a_prefix():
+    adapter = AnsmFranceAdapter(http=DummyHttp())
+    prefix = "poches-de-nutrition-parenterale-avec-electrolytes-baxter-" + ("long-" * 20)
+
+    first = adapter._extract_local_id("", f"https://ansm.sante.fr/informations-de-securite/{prefix}one")
+    second = adapter._extract_local_id("", f"https://ansm.sante.fr/informations-de-securite/{prefix}two")
+
+    assert first != second
+    assert len(first) < 90
+
+
+def test_discovery_uses_ansm_medicine_recall_filters():
+    listing = """
+    <article class="article-item article-security">
+      <a href="/informations-de-securite/example-recall">
+        <span class="article-category">RAPPEL DE PRODUIT</span>
+        <span class="article-health-product">Médicaments</span>
+        <span class="article-date">PUBLIÉ LE 10/07/2026</span>
+        <span class="article-title">Example medicine - Example laboratory</span>
+      </a>
+    </article>
+    """
+
+    class ListingHttp:
+        def __init__(self):
+            self.urls = []
+
+        def get_text(self, url):
+            self.urls.append(url)
+            return listing
+
+    http = ListingHttp()
+    adapter = AnsmFranceAdapter(http=http, mode="incremental", max_pages=1, request_delay_seconds=0)
+
+    candidates = adapter.discover()
+
+    assert [candidate.title for candidate in candidates] == ["Example medicine - Example laboratory"]
+    assert "safety_news_filter%5BsafetyNewsModels%5D%5B0%5D=5" in http.urls[0]
+    assert "safety_news_filter%5BhealthProducts%5D%5B0%5D=20" in http.urls[0]

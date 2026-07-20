@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : établissements de santé",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-10-05",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PANTROPRAZOLE_ZENTIVA_40_MG_POUDRE_POUR_SOLUTION_INJECTABLE_LABO_5DBA9343A727",
+  "local_id": "SLUG_PANTROPRAZOLE_ZENTIVA_40_MG_POUDRE_POUR_SOLUTION_INJECTABLE_LABO_5DBA9343A727",
+  "lots": [
+    "U89M2",
+    "U89L1"
+  ],
+  "manufacturer": "Laboratoire Zentiva (MED23/B019)",
+  "medicine": "Pantroprazole Zentiva 40 mg, poudre pour solution injectable",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-10-05",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Pantroprazole Zentiva 40 mg, poudre pour solution injectable – Laboratoire Zentiva (MED23/B019)"
+  },
+  "reason": "Pantroprazole Zentiva 40 mg, poudre pour solution injectable – Laboratoire Zentiva (MED23/B019) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 05/10/2023 A+ A- Niveau de rappel : établissements de santé Le Laboratoire Zentiva France procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la spécialité Pantoprazole Zentiva 40 mg, poudre pour solution injectable – 10 flacons en verre (CIP : 34009 302 515 9 1): Lot U89M2 – per 10/2024 Lot U89L1 – per 10/2024 Ce rappel fait suite à la détection de la présence de micro-fissures sur quelques flacons de ces lots ayant entrainé une coloration jaunâtre de la poudre.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/pantroprazole-zentiva-40-mg-poudre-pour-solution-injectable-laboratoire-zentiva",
+  "warnings": [
+    "missing_cip"
+  ]
+}

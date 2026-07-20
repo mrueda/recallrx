@@ -1,0 +1,38 @@
+{
+  "actions": "Niveau de rappel : Officines et Circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-06-02",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_METFORMINE_CRISTERS_500_MG_ET_850_MG_COMPRIME_PELLICULE_LABORATO_BDBED84F1672",
+  "local_id": "SLUG_METFORMINE_CRISTERS_500_MG_ET_850_MG_COMPRIME_PELLICULE_LABORATO_BDBED84F1672",
+  "lots": [
+    "CRI"
+  ],
+  "manufacturer": null,
+  "medicine": "Metformine Cristers 500 mg et 850 mg, comprimé pelliculé - Laboratoire Cristers",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400936122871"
+    },
+    {
+      "system": "CIP",
+      "value": "3400936122932"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-06-02",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Metformine Cristers 500 mg et 850 mg, comprimé pelliculé - Laboratoire Cristers"
+  },
+  "reason": "Le laboratoire Cristers procède, en accord avec l'ANSM et par mesure de précaution, au rappel des deux lots mentionnés ci-dessous des spécialités : Metformine Cristers 500 mg, comprimé pelliculé B90 - CIP 3400936122871 Lot CRI 022 (péremption 04/2024) Metformine Cristers 850 mg, comprimé pelliculé B30 - CIP 3400936122932 Lot CRI 022 (péremption 10/2023) Ce rappel fait suite à la distribution par erreur de ces deux lots présentant une non-conformité au dossier d’autorisation de mise sur le marché (présence d’un excipient en quantité supérieure à la formule approuvée).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/metformine-cristers-500-mg-et-850-mg-comprime-pellicule-laboratoire-cristers",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

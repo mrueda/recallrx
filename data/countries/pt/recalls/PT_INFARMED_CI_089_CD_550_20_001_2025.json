@@ -1,17 +1,24 @@
 {
   "actions": "Face ao exposto: - As entidades que possuam este lote de medicamento em stock não o podem vender, dispensar ou administrar, devendo proceder à sua devolução. - Os doentes que estejam a utilizar medicamentos pertencentes a este lote não devem interromper o tratamento. Logo que possível, devem contactar o médico para que este possa analisar a necessidade ou não da substituição por um medicamento alternativo. A Vogal do Conselho Diretivo (Erica Viegas)",
   "authority": "INFARMED",
-  "confidence": 0.78,
+  "confidence": 0.9,
   "country": "PT",
   "date": "2025-07-21",
   "expiry_dates": [],
   "id": "PT_INFARMED_CI_089_CD_550_20_001_2025",
   "local_id": "CI 089/CD/550.20.001",
-  "lots": [],
-  "manufacturer": null,
+  "lots": [
+    "E1314"
+  ],
+  "manufacturer": "Generis Farmacêutica",
   "medicine": "Recolha voluntária | Lorazepam Labesfal, 1 mg, comprimido, 60 unidades (lote n.º E1314)",
   "pdf_url": null,
-  "product_codes": [],
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "5615927"
+    }
+  ],
   "product_type": "medicine",
   "publication_date": "2025-07-18",
   "raw": {
@@ -21,10 +28,6 @@
   },
   "reason": "A empresa Generis Farmacêutica S.A. irá proceder à recolha voluntária do lote n.º E1314 do medicamento Lorazepam Labesfal, 1 mg, comprimido, 60 unidades, n.º de registo 5615927 em virtude de ter sido detetado um resultado fora de especificação no parâmetro doseamento no âmbito de um estudo de estabilidade.",
   "recall_class": null,
-  "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11476652",
-  "warnings": [
-    "missing_registration_number",
-    "missing_lot",
-    "missing_manufacturer"
-  ]
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11476656&_101_type=content&_101_urlTitle=recolha-voluntaria-do-lote-n-e1314-prazo-de-validade-03-2026-do-medicamento-lorazepam-labesfal-1-mg-comprimido-60-unidades&inheritRedirect=false",
+  "warnings": []
 }

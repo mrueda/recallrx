@@ -1,0 +1,46 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et grossistes répartiteurs",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-07-22",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_COAPROVEL_300_MG_12_5_MG_ET_300_MG_25_MG_COMPRIME_PELLICULE_LABO_B8A09E5EF801",
+  "local_id": "SLUG_COAPROVEL_300_MG_12_5_MG_ET_300_MG_25_MG_COMPRIME_PELLICULE_LABO_B8A09E5EF801",
+  "lots": [
+    "FT013",
+    "FT014",
+    "FT018",
+    "FT019",
+    "FT034"
+  ],
+  "manufacturer": null,
+  "medicine": "Coaprovel 300 mg/12,5 mg et 300 mg/25 mg, comprimé pelliculé - Laboratoire Sanofi-Aventis France (MED 21/A024/B018)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938015454"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938015515"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938015683"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-07-22",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Coaprovel 300 mg/12,5 mg et 300 mg/25 mg, comprimé pelliculé - Laboratoire Sanofi-Aventis France (MED 21/A024/B018)"
+  },
+  "reason": "Coaprovel 300 mg/12,5 mg et 300 mg/25 mg, comprimé pelliculé - Laboratoire Sanofi-Aventis France (MED 21/A024/B018) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 22/07/2021 - MIS À JOUR LE 23/07/2021 A+ A- Niveau de rappel : Officines, établissements de santé et grossistes répartiteurs Le laboratoire Sanofi-Aventis France procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous des spécialités : Coaprovel 300 mg/12,5 mg, comprimé pelliculé - boîte de 30 comprimés (CIP 34009 380 154 5 4) Lot FT013 (exp 02/2023) Coaprovel 300 mg/12,5 mg, comprimé pelliculé - boîte de 90 comprimés (CIP 34009 380 155 1 5) Lot FT014 (exp 02/2023) Lot FT018 (exp 02/2023) Lot FT019 (exp 02/2023) Coaprovel 300 mg/25 mg, comprimé pelliculé - boîte de 30 comprimés (CIP 34009 380 156 8 3) Lot FT034 (exp",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/coaprovel-300-mg-12-5-mg-et-300-mg-25-mg-comprime-pellicule-laboratoire-sanofi-aventis-france",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam este lote de medicamento em stock não o podem vender, dispensar ou administrar, devendo proceder à sua devolução. Os doentes que estejam a utilizar medicamentos pertencentes a este lote não devem interromper o tratamento. A Vogal do Conselho Diretivo (Erica Viegas)",
+  "authority": "INFARMED",
+  "confidence": 0.9,
+  "country": "PT",
+  "date": "2023-07-14",
+  "expiry_dates": [],
+  "id": "PT_INFARMED_CI_067_CD_2023_2023",
+  "local_id": "CI 067/CD/2023",
+  "lots": [
+    "G220299AB"
+  ],
+  "manufacturer": "Medac Gesellschalft fur Klinische Spezialpraparatem GmbH",
+  "medicine": "Recolha voluntária | Dacarbazina Medac, dacarbazina, 500 mg, pó para solução para perfusão (lote n.º G220299AB)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "2626786"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-07-11",
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária | Dacarbazina Medac, dacarbazina, 500 mg, pó para solução para perfusão (lote n.º G220299AB)"
+  },
+  "reason": "A empresa Medac Gesellschalft fur Klinische Spezialpraparatem GmbH irá proceder à recolha voluntária do lote n.º G220299AB (validade 2025/06/30), do medicamento Dacarbazina Medac, dacarbazina, 500 mg, pó para solução para perfusão, n.º de registo 2626786, por ter sido detetado alteração da coloração da solução após reconstituição.",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=8954178&_101_type=content&_101_urlTitle=recolha-voluntaria-do-lote-n-g220299ab-validade-2025-06-30-do-medicamento-dacarbazina-medac-dacarbazina-500-mg-po-para-solucao-para-perfusao-n-de-regi&inheritRedirect=false",
+  "warnings": []
+}

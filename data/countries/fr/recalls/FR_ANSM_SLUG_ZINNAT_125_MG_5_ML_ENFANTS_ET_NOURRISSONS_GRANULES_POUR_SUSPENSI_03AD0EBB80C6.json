@@ -1,0 +1,41 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-06-03",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ZINNAT_125_MG_5_ML_ENFANTS_ET_NOURRISSONS_GRANULES_POUR_SUSPENSI_03AD0EBB80C6",
+  "local_id": "SLUG_ZINNAT_125_MG_5_ML_ENFANTS_ET_NOURRISSONS_GRANULES_POUR_SUSPENSI_03AD0EBB80C6",
+  "lots": [
+    "DA4G",
+    "8A7N",
+    "JX2G",
+    "KP5S"
+  ],
+  "manufacturer": null,
+  "medicine": "Zinnat 125 mg/5 ml Enfants et Nourrissons, granulés pour suspension buvable en flacon - Laboratoire GlaxoSmithKline (MED22/A015/B014)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400933403287"
+    },
+    {
+      "system": "CIP",
+      "value": "3400933403577"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-06-03",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Zinnat 125 mg/5 ml Enfants et Nourrissons, granulés pour suspension buvable en flacon - Laboratoire GlaxoSmithKline (MED22/A015/B014)"
+  },
+  "reason": "Zinnat Suspension buvable 125 mg/5 ml flacon de 40 ml (CIP 3400933403287) Lot DA4G - 05/2022 Zinnat Suspension buvable 125 mg/5 ml flacon de 80 ml (CIP 3400933403577) Lot 8A7N - 05/2023 Lot JX2G - 07/2022 Lot KP5S - 05/2023 Ce rappel de lots fait suite à un changement de seringue doseuse pour l’administration orale du produit : remplacement d’une seringue doseuse pour administration orale graduée en kg par une seringue doseuse graduée en ml.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/zinnat-125-mg-5-ml-enfants-et-nourrissons-granules-pour-suspension-buvable-en-flacon-laboratoire-glaxosmithkline",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des clients concernés",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-09-19",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LIPIDEM_200_MG_ML_EMULSION_POUR_PERFUSION_LABORATOIRE_B_BRAUN_ME_F411EB0CBE23",
+  "local_id": "SLUG_LIPIDEM_200_MG_ML_EMULSION_POUR_PERFUSION_LABORATOIRE_B_BRAUN_ME_F411EB0CBE23",
+  "lots": [
+    "234578081",
+    "242838082"
+  ],
+  "manufacturer": "Laboratoire B. Braun Medical",
+  "medicine": "Lipidem 200 mg/ml, émulsion pour perfusion",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-09-19",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Lipidem 200 mg/ml, émulsion pour perfusion – Laboratoire B. Braun Medical"
+  },
+  "reason": "Lot 234578081 – Exp 10/2025 Lot 242838082 – Exp 06/2026 Ce rappel fait suite à la mise évidence de la présence d’agglomérats en forme de gouttelettes dans certains lots.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/lipidem-200-mg-ml-emulsion-pour-perfusion-laboratoire-b-braun-medical",
+  "warnings": [
+    "missing_cip"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique Il est demandé aux pharmaciens de contacter si possible les patients traités par Ludiomil (maprotiline) pour les inviter à consulter leur médecin sans attendre la date du prochain renouvellement, afin que le traitement le plus adapté à leur pathologie soit prescrit sans interruption. Lire aussi Publié le 29/07/2025 Rappel de lots de Ludiomil (maprotiline) et remplacement de cet antidépresseur Disponibilité des produits de santé Médicaments Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Pat",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-07-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LUDIOMIL_25_MG_COMPRIME_PELLICULE_ET_LUDIOMIL_75_MG_COMPRIME_PEL_81573699B4DC",
+  "local_id": "SLUG_LUDIOMIL_25_MG_COMPRIME_PELLICULE_ET_LUDIOMIL_75_MG_COMPRIME_PEL_81573699B4DC",
+  "lots": [
+    "F0016",
+    "F0017",
+    "F0018"
+  ],
+  "manufacturer": "Laboratoire Centre Spécialités Pharmaceutiques (MED 25/A015/B015)",
+  "medicine": "Ludiomil 25 mg, comprimé pelliculé et Ludiomil 75 mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-07-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Ludiomil 25 mg, comprimé pelliculé et Ludiomil 75 mg, comprimé pelliculé – Laboratoire Centre Spécialités Pharmaceutiques (MED 25/A015/B015)"
+  },
+  "reason": "boîte de 28 comprimés (CIP: 34009 322 291 3 0) Ludiomil 25 mg, comprimé pelliculé Lot F0016 – 05/2026 Lot F0017 – 10/2027 Ludiomil 75 mg, comprimé pelliculé Lot F0018 – 03/2026 Ce rappel fait suite à la mise en évidence de la présence de l’impureté N-Nitroso-maprotiline dans le produit fini à des taux supérieurs aux normes fixées par les autorités européennes.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/ludiomil-25-mg-comprime-pellicule-et-ludiomil-75-mg-comprime-pellicule-laboratoire-centre-specialites-pharmaceutiques",
+  "warnings": [
+    "missing_cip"
+  ]
+}

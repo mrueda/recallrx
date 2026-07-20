@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à la disposition du public ",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-01-11",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_DICLOFENAC_REF_1_GEL_EN_FLACON_PRESSURISE_LABORATOIRE_BIOGARAN_4F3DA39C09E5",
+  "local_id": "SLUG_DICLOFENAC_REF_1_GEL_EN_FLACON_PRESSURISE_LABORATOIRE_BIOGARAN_4F3DA39C09E5",
+  "lots": [
+    "306003",
+    "307004"
+  ],
+  "manufacturer": "Laboratoire Biogaran (MED24/A001)",
+  "medicine": "Diclofenac Ref 1 %, gel en flacon pressurisé",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938981193"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-01-11",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Diclofenac Ref 1 %, gel en flacon pressurisé – Laboratoire Biogaran (MED24/A001)"
+  },
+  "reason": "Diclofenac Ref 1 %, gel en flacon pressurisé – Laboratoire Biogaran (MED24/A001) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 11/01/2024 - MIS À JOUR LE 29/02/2024 A+ A- Information destinée aux officines et circuit de distribution pharmaceutique Le laboratoire Biogaran procède, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous de la spécialité Diclofenac Ref 1 % gel en flacon pressurisé (CIP 34009 389 811 9 3) : Lot 306003 – EXP 06/2026 Lot 307004 – EXP 07/2026 Ce rappel fait suite à la détection d’un dysfonctionnement du flacon pressurisé rendant le produit inutilisable.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/diclofenac-ref-1-gel-en-flacon-pressurise-laboratoire-biogaran",
+  "warnings": []
+}

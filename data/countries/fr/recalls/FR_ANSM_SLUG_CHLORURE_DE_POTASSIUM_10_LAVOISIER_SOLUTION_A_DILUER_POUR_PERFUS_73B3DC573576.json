@@ -1,0 +1,33 @@
+{
+  "actions": "Ce rappel fait suite à la mise en évidence d'une possible non conformité au niveau des paramètres physico-chimiques de la solution contenue dans quelques ampoules de ce lot. Le laboratoire précise qu'aucun événement indésirable n'a été rapporté à ce jour en lien avec ce défaut qualité. Pour tout complément d'information, vous pouvez contacter le laboratoire au numéro mis en place pour ce rappel de lot : 01.55.37.83.89 ou à l'adresse email suivante : commercial@lavoisier.com Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-01-11",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CHLORURE_DE_POTASSIUM_10_LAVOISIER_SOLUTION_A_DILUER_POUR_PERFUS_73B3DC573576",
+  "local_id": "SLUG_CHLORURE_DE_POTASSIUM_10_LAVOISIER_SOLUTION_A_DILUER_POUR_PERFUS_73B3DC573576",
+  "lots": [
+    "mentionn",
+    "2A376"
+  ],
+  "manufacturer": "Laboratoires Chaix et Du Marais (MED23/A005)",
+  "medicine": "Chlorure de Potassium 10 % Lavoisier, solution à diluer pour perfusion",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400936300323"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-01-11",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Chlorure de Potassium 10 % Lavoisier, solution à diluer pour perfusion – Laboratoires Chaix et Du Marais (MED23/A005)"
+  },
+  "reason": "Lot 2A376 - Per : 08/2025 Ce rappel fait suite à la mise en évidence d'une possible non conformité au niveau des paramètres physico-chimiques de la solution contenue dans quelques ampoules de ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/chlorure-de-potassium-10-lavoisier-solution-a-diluer-pour-perfusion-laboratoires-chaix-et-du-marais",
+  "warnings": []
+}

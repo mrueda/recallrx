@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à ",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-06-16",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_QUINAPRIL_HYDROCHLOROTHIAZIDE_ARROW_LAB_20_MG_12_5_MG_COMPRIME_P_6F8542F6FE10",
+  "local_id": "SLUG_QUINAPRIL_HYDROCHLOROTHIAZIDE_ARROW_LAB_20_MG_12_5_MG_COMPRIME_P_6F8542F6FE10",
+  "lots": [
+    "QN2020007-A",
+    "QN2020009-A"
+  ],
+  "manufacturer": "Laboratoire Arrow génériques (MED22/A016/B015)",
+  "medicine": "Quinapril/Hydrochlorothiazide Arrow Lab 20 mg/12,5 mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400949270187"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-06-16",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Quinapril/Hydrochlorothiazide Arrow Lab 20 mg/12,5 mg, comprimé pelliculé – Laboratoire Arrow génériques (MED22/A016/B015)"
+  },
+  "reason": "Quinapril/Hydrochlorothiazide Arrow Lab 20 mg/12,5 mg, comprimé pelliculé – Laboratoire Arrow génériques (MED22/A016/B015) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 16/06/2022 A+ A- Officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Arrow génériques procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité : Quinapril/Hydrochlorothiazide Arrow Lab 20 mg/12,5 mg, comprimé pelliculé – boîte de 28 (CIP 34009 492 701 8 7) Lot QN2020007-A – 08/2023 Lot QN2020009-A – 08/2023 Ce rappel fait suite à la mise en évidence d’une impureté de type nitrosamine (N-nitroso-quinapril) dans le médicament à des taux supérieurs à la dose limite journalière acceptable.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/quinapril-hydrochlorothiazide-arrow-lab-20-mg-12-5-mg-comprime-pellicule-laboratoire-arrow-generiques",
+  "warnings": []
+}

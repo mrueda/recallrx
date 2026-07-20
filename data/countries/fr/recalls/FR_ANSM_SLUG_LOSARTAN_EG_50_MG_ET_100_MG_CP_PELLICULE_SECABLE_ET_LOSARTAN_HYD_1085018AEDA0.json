@@ -1,0 +1,112 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et grossistes répartiteurs Les laboratoires Eurogenerics, procèdent en accord avec l’ANSM et par mesure de précaution, au rappel de tous les lots non périmés sur le marché des spécialités mentionnées ci-dessous : Losartan EG 100 mg, comprimé pelliculé - boite de 30 (CIP 3400939332703) Lot 00913 (Exp 02/2023) Lot 00927 (Exp 02/2023) Lot 01229 (Exp 03/2023) Lot 02966 (Exp 07/2023) Lot 02967 (Exp 07/2023) Lot 02968 (Exp 07/2023) Lot 02969 (Exp 07/2023) Lot 84020 (Exp 10/2021) Lot 84537 (Exp 11/2021) Lot 84538 (Exp 11/2021) Losartan EG 100 mg, comprimé pelliculé - boite de 90 (CIP 3400939333014) Lot 00701 (Exp 02/2023) Lot 00926 (Exp 02/2023) Lot 00927 (Exp 02/2023) Lot 01229 (Exp 03/2023) Lot 01348 (Exp 03/2023) Lot 02964 (Exp 07/2023) Lot",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-11-03",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOSARTAN_EG_50_MG_ET_100_MG_CP_PELLICULE_SECABLE_ET_LOSARTAN_HYD_1085018AEDA0",
+  "local_id": "SLUG_LOSARTAN_EG_50_MG_ET_100_MG_CP_PELLICULE_SECABLE_ET_LOSARTAN_HYD_1085018AEDA0",
+  "lots": [
+    "00913",
+    "00927",
+    "01229",
+    "02966",
+    "02967",
+    "02968",
+    "02969",
+    "84020",
+    "84537",
+    "84538",
+    "00701",
+    "00926",
+    "01348",
+    "02964",
+    "02965",
+    "84539",
+    "00510",
+    "01111",
+    "01419",
+    "02135",
+    "02946",
+    "02950",
+    "84844",
+    "00509",
+    "02136",
+    "02947",
+    "02951",
+    "03860",
+    "84845",
+    "00901",
+    "02912",
+    "12510",
+    "03413",
+    "10807",
+    "00823",
+    "00824",
+    "01326",
+    "02040",
+    "02955",
+    "01325",
+    "02956",
+    "03657",
+    "01307",
+    "01608",
+    "02811"
+  ],
+  "manufacturer": "Laboratoires Eurogenerics (MED21/A037/B028)",
+  "medicine": "Losartan EG 50 mg et 100 mg, cp pelliculé sécable et Losartan/Hydrochlorothiazide EG 50 mg/12,5 mg, 100 mg/12,5 mg et 100 mg/25 mg, cp pelliculé",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400939332703"
+    },
+    {
+      "system": "CIP",
+      "value": "3400939333014"
+    },
+    {
+      "system": "CIP",
+      "value": "3400939326849"
+    },
+    {
+      "system": "CIP",
+      "value": "3400939327150"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921943856"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921944167"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938919622"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938920222"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938923933"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938924244"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-11-03",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Losartan EG 50 mg et 100 mg, cp pelliculé sécable et Losartan/Hydrochlorothiazide EG 50 mg/12,5 mg, 100 mg/12,5 mg et 100 mg/25 mg, cp pelliculé – Laboratoires Eurogenerics (MED21/A037/B028)"
+  },
+  "reason": "Losartan EG 50 mg et 100 mg, cp pelliculé sécable et Losartan/Hydrochlorothiazide EG 50 mg/12,5 mg, 100 mg/12,5 mg et 100 mg/25 mg, cp pelliculé – Laboratoires Eurogenerics (MED21/A037/B028) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 03/11/2021 A+ A- Niveau de rappel : Officines, établissements de santé et grossistes répartiteurs Les laboratoires Eurogenerics, procèdent en accord avec l’ANSM et par mesure de précaution, au rappel de tous les lots non périmés sur le marché des spécialités mentionnées ci-dessous : Losartan EG 100 mg, comprimé pelliculé - boite de 30 (CIP 3400939332703) Lot 00913 (Exp 02/2023) Lot 00927 (Exp 02/2023) Lot 01229 (Exp 03/2023) Lot 02966 (Exp 07/2023) Lot 02967 (Exp 07/2023) Lot 02968 (Exp 07/2023) Lot 02969 (Exp 07/2023) Lot 84020 (Exp 10/2021) Lot 84537 (Exp 1",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/losartan-eg-50-mg-et-100-mg-cp-pellicule-secable-et-losartan-hydrochlorothiazide-eg-50-mg-12-5-mg-100-mg-12-5-mg-et-100-mg-25-mg-cp-pellicule-laboratoires-eurogenerics",
+  "warnings": []
+}

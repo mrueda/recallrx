@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : Officines, circuit de distribution pharmaceutique et patients Les laboratoires Servier procèdent, en accord avec l’ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité pharmaceutique dénommée : Daflon 500 mg, comprimé pelliculé (boite de 60 comprimés) (CIP 3400938341836) Lot n°6068122 (péremption 11/2026) distribué entre janvier et mars 2023. Ce rappel fait suite à la détection de traces de la substance Trimétazidine dans des comprimés de ce lot. Les investigations sont en cours. Par mesure de précaution, il est demandé aux patients de ne plus utiliser les comprimés de Daflon 500 mg de ce lot et de rapporter les boites en leur possession en pharmacie pour l'échanger avec une boite d’un autre lot. Pour toute question d’ordre médical, le",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-08-12",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_DAFLON_500_MG_COMPRIME_PELLICULE_LES_LABORATOIRES_SERVIER_265BEBA32B4C",
+  "local_id": "SLUG_DAFLON_500_MG_COMPRIME_PELLICULE_LES_LABORATOIRES_SERVIER_265BEBA32B4C",
+  "lots": [
+    "mentionn"
+  ],
+  "manufacturer": "Les laboratoires Servier (MED24/A009)",
+  "medicine": "Daflon 500 mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938341836"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-08-12",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Daflon 500 mg, comprimé pelliculé – Les laboratoires Servier (MED24/A009)"
+  },
+  "reason": "Ce rappel fait suite à la détection de traces de la substance Trimétazidine dans des comprimés de ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/daflon-500-mg-comprime-pellicule-les-laboratoires-servier",
+  "warnings": []
+}

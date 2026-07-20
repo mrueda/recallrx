@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des établissements de santé destinataires des lots",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2025-06-25",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_KIMMTRAK_100_MICROGRAMMES_0_5_ML_SOLUTION_A_DILUER_POUR_PERFUSIO_47FFC70C16D6",
+  "local_id": "SLUG_KIMMTRAK_100_MICROGRAMMES_0_5_ML_SOLUTION_A_DILUER_POUR_PERFUSIO_47FFC70C16D6",
+  "lots": [
+    "3D009AA11",
+    "3D009AA21"
+  ],
+  "manufacturer": "Laboratoire Alloga France",
+  "medicine": "Kimmtrak 100 microgrammes/0,5 mL, solution à diluer pour perfusion",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400955089162"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-06-25",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Kimmtrak 100 microgrammes/0,5 mL, solution à diluer pour perfusion – Laboratoire Alloga France"
+  },
+  "reason": "Kimmtrak 100 microgrammes/0,5 mL, solution à diluer pour perfusion – Laboratoire Alloga France RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 25/06/2025 A+ A- Niveau de rappel : en direct auprès des établissements de santé destinataires des lots Le laboratoire Alloga France procède, en accord avec l'ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la spécialité : Kimmtrak 100 microgrammes/0,5 mL, solution à diluer pour perfusion (CIP 34009 550 891 6 2) Lot 3D009AA11 (Exp 03/2026) Lot 3D009AA21 (Exp 03/2026) Ce rappel fait suite à la confirmation de résultats non conformes en potentiel d’activité cellulaire obtenus lors d’études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/kimmtrak-100-microgrammes-0-5-ml-solution-a-diluer-pour-perfusion-laboratoire-alloga-france",
+  "warnings": []
+}

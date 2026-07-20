@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des établissements concernés",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-04-17",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_MAAT013_MICROBIOTE_FECAL_ALLOGENIQUE_POOL_SUSPENSION_RECTALE_CLI_676A0F4510BB",
+  "local_id": "SLUG_MAAT013_MICROBIOTE_FECAL_ALLOGENIQUE_POOL_SUSPENSION_RECTALE_CLI_676A0F4510BB",
+  "lots": [
+    "7P010"
+  ],
+  "manufacturer": "Clinigen Healthcare France",
+  "medicine": "MaaT013, microbiote fécal allogénique, pool, suspension rectale",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-04-17",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "MaaT013, microbiote fécal allogénique, pool, suspension rectale – Clinigen Healthcare France"
+  },
+  "reason": "03/03/2028) Ce rappel fait suite à la mise en évidence d’une non-conformité concernant le processus de sélection d’un donneur impliqué dans les collectes de selles utilisées pour la fabrication de lots de MaaT013.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/maat013-microbiote-fecal-allogenique-pool-suspension-rectale-clinigen-healthcare-france",
+  "warnings": [
+    "missing_cip"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2025-03-24",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_FLUCONAZOLE_10_MG_ML_POUDRE_POUR_SUSPENSION_BUVABLE_LABORATOIRE_D765BB1D2C05",
+  "local_id": "SLUG_FLUCONAZOLE_10_MG_ML_POUDRE_POUR_SUSPENSION_BUVABLE_LABORATOIRE_D765BB1D2C05",
+  "lots": [
+    "T1859",
+    "T1860"
+  ],
+  "manufacturer": "Laboratoire Arrow Génériques (MED25/A006/B008)",
+  "medicine": "Fluconazole 10 mg/ml, poudre pour suspension buvable",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400937807609"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-03-24",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Fluconazole 10 mg/ml, poudre pour suspension buvable – Laboratoire Arrow Génériques (MED25/A006/B008)"
+  },
+  "reason": null,
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/fluconazole-10-mg-ml-poudre-pour-suspension-buvable-laboratoire-arrow-generiques",
+  "warnings": []
+}

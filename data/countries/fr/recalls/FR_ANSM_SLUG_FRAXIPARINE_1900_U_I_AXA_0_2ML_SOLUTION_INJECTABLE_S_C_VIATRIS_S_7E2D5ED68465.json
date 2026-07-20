@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : établissements de santé",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-02-28",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_FRAXIPARINE_1900_U_I_AXA_0_2ML_SOLUTION_INJECTABLE_S_C_VIATRIS_S_7E2D5ED68465",
+  "local_id": "SLUG_FRAXIPARINE_1900_U_I_AXA_0_2ML_SOLUTION_INJECTABLE_S_C_VIATRIS_S_7E2D5ED68465",
+  "lots": [
+    "mentionn"
+  ],
+  "manufacturer": "Viatris Santé",
+  "medicine": "Fraxiparine 1900 U.I. Axa/0,2ml, solution injectable (S.C.)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-02-28",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Fraxiparine 1900 U.I. Axa/0,2ml, solution injectable (S.C.) – Viatris Santé"
+  },
+  "reason": "Axa/0,2ml, solution injectable (S.C.) en seringue pré-remplie, boite de 10 (CIP : 3400955679417) N° de lot : 8337 Péremption : 05/2025 Ce rappel fait suite à la présence potentielle de seringues vides dans ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/fraxiparine-1900-u-i-axa-0-2ml-solution-injectable-s-c-viatris-sante",
+  "warnings": [
+    "missing_cip"
+  ]
+}

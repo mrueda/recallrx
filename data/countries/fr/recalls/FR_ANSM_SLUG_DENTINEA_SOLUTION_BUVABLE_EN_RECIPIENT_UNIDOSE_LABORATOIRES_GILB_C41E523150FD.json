@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique. Les laboratoires Gilbert mettent à disposition le numéro de téléphone suivant pour toute question : 02 31 47 16 03. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-03-19",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_DENTINEA_SOLUTION_BUVABLE_EN_RECIPIENT_UNIDOSE_LABORATOIRES_GILB_C41E523150FD",
+  "local_id": "SLUG_DENTINEA_SOLUTION_BUVABLE_EN_RECIPIENT_UNIDOSE_LABORATOIRES_GILB_C41E523150FD",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Dentinéa, solution buvable en récipient unidose - Laboratoires Gilbert (MED 21/A004)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-03-19",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Dentinéa, solution buvable en récipient unidose - Laboratoires Gilbert (MED 21/A004)"
+  },
+  "reason": "Dentinéa, solution buvable en récipient unidose - Laboratoires Gilbert (MED 21/A004) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 19/03/2021 A+ A- Dentinéa, solution buvable en récipient unidose - Laboratoires Gilbert - Rappel de lots Les Laboratoires Gilbert procèdent, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité : DENTINEA, solution buvable en récipient unidose, boite de 15 unidoses (CIP : 3400930191477) G213306 (péremption 12/2021) DENTINEA, solution buvable en récipient unidose, boite de 30 unidoses (CIP : 3400930191484) G213492 (péremption 01/2022) G213673 (péremption 01/2022) G213937 (péremption 01/2022) G215732 (péremption 04/2022) G215862 (péremption 04/2022) G216348 (péremption 11/2023) Ce rappel fait suite à la mise en évidence d'une non-conform",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/dentinea-solution-buvable-en-recipient-unidose-laboratoires-gilbert",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

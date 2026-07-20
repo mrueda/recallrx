@@ -1,0 +1,105 @@
+{
+  "actions": "Niveau de rappel : Officines, circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-10-28",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOSARTAN_BIOGARAN_50_MG_COMPRIME_PELLICULE_SECABLE_LOSARTAN_BIOG_6B1F3B4D97DC",
+  "local_id": "SLUG_LOSARTAN_BIOGARAN_50_MG_COMPRIME_PELLICULE_SECABLE_LOSARTAN_BIOG_6B1F3B4D97DC",
+  "lots": [
+    "LC43407",
+    "LC46460",
+    "LC46461",
+    "LC47279",
+    "LC58775",
+    "LC45836",
+    "LC42864",
+    "LC45945",
+    "LC46158",
+    "LC46691-",
+    "LC56940",
+    "LC46302",
+    "LC46303",
+    "LC47007",
+    "LC47022",
+    "LC51320",
+    "LC51321",
+    "LC51710",
+    "LC56674",
+    "LC56675",
+    "LC44385",
+    "LC48308",
+    "LC43632",
+    "LC45752",
+    "LC47569",
+    "LC48307",
+    "LC44013",
+    "LC47903",
+    "LC44021",
+    "LC44055",
+    "LC44056",
+    "LC47879",
+    "F95687",
+    "F95688",
+    "F97076",
+    "F98605",
+    "F98906",
+    "F99221",
+    "F99228",
+    "F95647",
+    "F96165",
+    "F96169",
+    "F99245",
+    "F99247"
+  ],
+  "manufacturer": null,
+  "medicine": "Losartan Biogaran 50 mg comprimé pelliculé sécable, Losartan Biogaran 100 mg comprimé pelliculé, Losartan/Hydrochlorothiazide BGR 50 mg/12,5 mg et 100 mg/25 mg comprimé pelliculé et Losartan/Hydrochlorothiazide Biogaran 100 mg/12.5 mg comprimé pelliculé (MED21/A032)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938966527"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938966985"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938968019"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938968477"
+    },
+    {
+      "system": "CIP",
+      "value": "3400939852782"
+    },
+    {
+      "system": "CIP",
+      "value": "3400939853154"
+    },
+    {
+      "system": "CIP",
+      "value": "3400939853505"
+    },
+    {
+      "system": "CIP",
+      "value": "3400939932439"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-10-28",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Losartan Biogaran 50 mg comprimé pelliculé sécable, Losartan Biogaran 100 mg comprimé pelliculé, Losartan/Hydrochlorothiazide BGR 50 mg/12,5 mg et 100 mg/25 mg comprimé pelliculé et Losartan/Hydrochlorothiazide Biogaran 100 mg/12.5 mg comprimé pelliculé (MED21/A032)"
+  },
+  "reason": "LOSARTAN / HYDROCHLOROTHIAZIDE BIOGARAN 100 mg / 12.5 mg comprimé pelliculé boîte de 30, CIP (3400921977516) : lot F95687 - 10/2022, lot F95688 - 10/2022, lot F97076 - 09/2023, lot F98605 - 02/2024, lot F98906 - 02/2024, lot F99221 - 04/2024, lot F99228 - 04/2024 LOSARTAN / HYDROCHLOROTHIAZIDE BIOGARAN 100 mg / 12.5 mg comprimé pelliculé boîte de 90, CIP (3400921977806) : lot F95647 - 10/2022, lot F96165 - 09/2023, lot F96169 - 09/2023, lot F99245 - 04/2024, lot F99247 - 04/2024 Ce rappel fait suite à la mise en évidence d'une impureté azide appelée \"impureté azoturée de losartan\" à des taux supérieurs aux limites acceptables dans la substance active entrant dans la composition de ces spécialités.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/losartan-biogaran-50-mg-comprime-pellicule-secable-losartan-biogaran-100-mg-comprime-pellicule-losartan-hydrochlorothiazide-bgr-50-mg-12-5-mg-et-100-mg-25-mg-comprime-pellicule-et-losartan-hydrochlorothiazide-biogaran-100-mg-12-5-mg-comprime-pellicule",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

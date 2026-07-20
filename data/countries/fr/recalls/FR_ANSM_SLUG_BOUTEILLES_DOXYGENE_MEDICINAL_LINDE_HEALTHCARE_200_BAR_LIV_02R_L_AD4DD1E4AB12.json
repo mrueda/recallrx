@@ -1,0 +1,48 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des clients ayant reçu ces bouteilles",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2025-08-14",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_BOUTEILLES_DOXYGENE_MEDICINAL_LINDE_HEALTHCARE_200_BAR_LIV_02R_L_AD4DD1E4AB12",
+  "local_id": "SLUG_BOUTEILLES_DOXYGENE_MEDICINAL_LINDE_HEALTHCARE_200_BAR_LIV_02R_L_AD4DD1E4AB12",
+  "lots": [
+    "1072551717",
+    "1072459826",
+    "1072654032",
+    "1072458190",
+    "1072452823"
+  ],
+  "manufacturer": "Linde France",
+  "medicine": "Bouteilles d’oxygéne médicinal Linde Healthcare 200 bar LIV 02R, LIV 02V et bouteilles d’Entonox 170 bar LIV K02, LIV B05",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400934353659"
+    },
+    {
+      "system": "CIP",
+      "value": "3400936876644"
+    },
+    {
+      "system": "CIP",
+      "value": "3400922410739"
+    },
+    {
+      "system": "CIP",
+      "value": "3400922410968"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-08-14",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Bouteilles d’oxygéne médicinal Linde Healthcare 200 bar LIV 02R, LIV 02V et bouteilles d’Entonox 170 bar LIV K02, LIV B05 – Linde France"
+  },
+  "reason": "Ce rappel fait suite à l’identification d’une possibilité de non-conformité de l’étiquette d’autonomie collée au niveau du sélecteur de débit de certaines bouteilles LIV conditionnées au cours du mois de juillet 2025 sur le site de Portet sur Garonne.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/bouteilles-doxygene-medicinal-linde-healthcare-200-bar-liv-02r-liv-02v-et-bouteilles-dentonox-170-bar-liv-k02-liv-b05-linde-france",
+  "warnings": []
+}

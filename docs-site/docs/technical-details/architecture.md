@@ -18,6 +18,11 @@ The Python CLI loads enabled source adapters from the registry. Each adapter
 discovers candidate records, fetches source pages, parses source-specific
 fields, normalizes them into the shared schema, and returns build diagnostics.
 
+Incremental collection overlays records on the retained country corpus by
+stable record ID and source URL, then regenerates summaries and indexes. Full
+collection replaces selected countries from their configured historical start
+year. Countries excluded with `--source` are preserved in either mode.
+
 ## Static search app
 
 The frontend reads:

@@ -1,0 +1,40 @@
+{
+  "actions": "Ce rappel fait suite à la mise en évidence d'une impureté Azide tétrazole à des taux supérieurs aux limites acceptables dans la substance active Irbesartan entrant dans la composition de cette spécialité. Seuls les lots mentionnés ci-dessus sont concernés. Niveaux de rappel : Officines et circuit de distribution pharmaceutique. Publié le 07/07/2021 - Mis à jour le 20/01/2022 Valsartan et irbésartan : rappel de certains lots en raison d’un défaut qualité Surveillance Pharmacovigilance Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cl",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-07-22",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_IRBESARTAN_HYDROCHLOROTHIAZIDE_ZENTIVA_300_MG_12_5_MG_COMPRIME_P_B18912F705A6",
+  "local_id": "SLUG_IRBESARTAN_HYDROCHLOROTHIAZIDE_ZENTIVA_300_MG_12_5_MG_COMPRIME_P_B18912F705A6",
+  "lots": [
+    "FT018",
+    "FT015",
+    "FT019"
+  ],
+  "manufacturer": null,
+  "medicine": "Irbesartan hydrochlorothiazide Zentiva 300 mg/12,5 mg, comprimé pelliculé - Laboratoire Zentiva France (MED 21/A023)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400922191515"
+    },
+    {
+      "system": "CIP",
+      "value": "3400922191683"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-07-22",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Irbesartan hydrochlorothiazide Zentiva 300 mg/12,5 mg, comprimé pelliculé - Laboratoire Zentiva France (MED 21/A023)"
+  },
+  "reason": "Le laboratoire ZENTIVA France procède, en accord avec l'ANSM, au rappel des lots listés ci-dessous de la spécialité IRBESARTAN/HYDROCHLOROTHIAZIDE Zentiva 300 mg/12.5 mg, comprimé pelliculé : IRBESARTAN HYDROCHLOROTHIAZIDE ZENTIVA 300 mg/12,5 mg, comprimé pelliculé - boite de 30 (CIP 34009 221 915 1 5) Lot FT018 – EXP 02/2023 IRBESARTAN HYDROCHLOROTHIAZIDE ZENTIVA 300 mg/12,5 mg, comprimé pelliculé - boite de 90 (CIP 34009 221 916 8 3) Lot FT015 – EXP 02/2023 Lot FT019 – EXP 02/2023 Ce rappel fait suite à la mise en évidence d'une impureté Azide tétrazole à des taux supérieurs aux limites acceptables dans la substance active Irbesartan entrant dans la composition de cette spécialité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/irbesartan-hydrochlorothiazide-zentiva-300-mg-12-5-mg-comprime-pellicule-laboratoire-zentiva-france",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

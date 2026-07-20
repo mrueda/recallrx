@@ -1,0 +1,37 @@
+{
+  "actions": "Niveau de rappel : Officine et circuit de distribution pharmaceutique. Pour toute information médicale, contacter : Pour la métropole : 0 800 394 000 (Service et appel gratuits) Pour les DOM-TOM : 0 800 626 626 (Service et appel gratuits) Formulaire de contact en ligne : www.sanofimedicalinformation.com Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir not",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-06-02",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_BRONCHOKOD_ENFANTS_2_POUR_CENT_SIROP_FLACON_DE_125_ML_SANOFI_AVE_914574E78F55",
+  "local_id": "SLUG_BRONCHOKOD_ENFANTS_2_POUR_CENT_SIROP_FLACON_DE_125_ML_SANOFI_AVE_914574E78F55",
+  "lots": [
+    "9K2541",
+    "9K2551",
+    "0K2561",
+    "0K2571"
+  ],
+  "manufacturer": null,
+  "medicine": "Bronchokod Enfants 2 pour cent, sirop, flacon de 125 ml - Sanofi-Aventis France (MED21/A016)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400932418626"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-06-02",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Bronchokod Enfants 2 pour cent, sirop, flacon de 125 ml - Sanofi-Aventis France (MED21/A016)"
+  },
+  "reason": "Bronchokod Enfants 2 pour cent, sirop, flacon de 125 ml - Sanofi-Aventis France (MED21/A016) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 02/06/2021 A+ A- Le laboratoire Sanofi-Aventis France procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la spécialité : BRONCHOKOD ENFANTS 2 POUR CENT, sirop - flacon de 125 ml (code CIP 34009 324 186 2 6) Lot 9K2541 - 08/2021 Lot 9K2551 - 10/2021 Lot 0K2561 - 04/2022 Lot 0K2571 - 08/2022 Ce rappel fait suite à l'identification de résultats hors spécifications lors des études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/bronchokod-enfants-2-pour-cent-sirop-flacon-de-125-ml-sanofi-aventis-france",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

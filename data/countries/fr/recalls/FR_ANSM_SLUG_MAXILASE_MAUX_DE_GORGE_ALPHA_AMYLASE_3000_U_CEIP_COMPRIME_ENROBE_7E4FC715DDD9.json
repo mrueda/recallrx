@@ -1,0 +1,40 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé, circuits de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2025-04-14",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_MAXILASE_MAUX_DE_GORGE_ALPHA_AMYLASE_3000_U_CEIP_COMPRIME_ENROBE_7E4FC715DDD9",
+  "local_id": "SLUG_MAXILASE_MAUX_DE_GORGE_ALPHA_AMYLASE_3000_U_CEIP_COMPRIME_ENROBE_7E4FC715DDD9",
+  "lots": [
+    "44363",
+    "44364",
+    "44375",
+    "44704",
+    "44712",
+    "44713",
+    "44913",
+    "44914",
+    "44915"
+  ],
+  "manufacturer": "Opella Healthcare France (MED25/A008/B010)",
+  "medicine": "Maxilase maux de gorge Alpha-Amylase 3000 U. CEIP comprimé enrobé",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400934778896"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-04-14",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Maxilase maux de gorge Alpha-Amylase 3000 U. CEIP comprimé enrobé – Opella Healthcare France (MED25/A008/B010)"
+  },
+  "reason": "Ce rappel fait suite à la mise en évidence d’un résultat en dessous des spécifications pour la teneur en alpha-amylase observé durant le recontrôle des échantillons représentatifs du produit.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/maxilase-maux-de-gorge-alpha-amylase-3000-u-ceip-comprime-enrobe-opella-healthcare-france-1",
+  "warnings": []
+}

@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des officines et établissements de santé destinataires d’un des lots objet du rappel",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-02-10",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ERYTHROMYCINE_BASE_MICRONISEE_LABORATOIRE_INRESA_6B44AB306B39",
+  "local_id": "SLUG_ERYTHROMYCINE_BASE_MICRONISEE_LABORATOIRE_INRESA_6B44AB306B39",
+  "lots": [
+    "25001739006",
+    "25001739004",
+    "25001739003"
+  ],
+  "manufacturer": "Laboratoire Inresa",
+  "medicine": "Erythromycine base micronisée",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-02-10",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Erythromycine base micronisée – Laboratoire Inresa"
+  },
+  "reason": "Erythromycine base micronisée – Laboratoire Inresa RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 10/02/2026 A+ A- Niveau de rappel : en direct auprès des officines et établissements de santé destinataires d’un des lots objet du rappel Le laboratoire Inresa procède, en accord avec l'ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la matière première à usage pharmaceutique \"Erythromycine base micronisée\" fabriquée par Sm Biomed : Erythromycine base micronisée 10g (référence INRESA : 11407-10) Lot 25001739006, date de péremption 31/12/2026 Erythromycine base micronisée 50g (référence INRESA : 11407-50) Lot 25001739004, date de péremption 31/12/2026 Erythromycine base micronisée 100g (référence INRESA : 11407-100) Lot 25001739003, date de péremption 31/12/2026 Ce ra",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/erythromycine-base-micronisee-laboratoire-inresa",
+  "warnings": [
+    "missing_cip"
+  ]
+}

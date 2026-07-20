@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique. Information médicale EG Labo : 01.46.94.86.86 Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, dé",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-05-18",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PERINDOPRIL_EG_4_MG_COMPRIME_SECABLE_EG_LABO_63F6391D5657",
+  "local_id": "SLUG_PERINDOPRIL_EG_4_MG_COMPRIME_SECABLE_EG_LABO_63F6391D5657",
+  "lots": [
+    "mentionn",
+    "6017408"
+  ],
+  "manufacturer": null,
+  "medicine": "Périndopril EG 4 mg, comprimé sécable - EG Labo (MED21/A013/B012)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938910575"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-05-18",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Périndopril EG 4 mg, comprimé sécable - EG Labo (MED21/A013/B012)"
+  },
+  "reason": "Le laboratoire EG Labo procède, en accord avec l'ANSM, au rappel du lot mentionné ci-dessous de la spécialité pharmaceutique : PERINDOPRIL EG 4 mg, comprimé sécable - boite de 30 comprimés CIP 34009 389 105 7 5 Lot 6017408 - Exp 07/2022 Ce rappel fait suite à la détection d'une erreur d'impression de la notice dont les pages 1 et 4 sont correctes, mais dont les pages 2 et 3 correspondent au texte en anglais de la spécialité Natrilam, comprimé à libération modifiée.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/perindopril-eg-4-mg-comprime-secable-eg-labo",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

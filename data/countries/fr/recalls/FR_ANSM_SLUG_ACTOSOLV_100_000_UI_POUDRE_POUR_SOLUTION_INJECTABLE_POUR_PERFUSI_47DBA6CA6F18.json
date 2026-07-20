@@ -1,0 +1,50 @@
+{
+  "actions": "Ce rappel fait suite à la détection de quelques flacons contenant des particules visibles. Le laboratoire précise qu'aucun cas de pharmacovigilance, en relation avec ce défaut, n'a été signalé à ce jour. Pour tout renseignement complémentaire, merci de contacter le laboratoire EUMEDICA au Rappel_Actosolv@eumedica.com ou 06 07 14 62 29. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la ve",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-12-08",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ACTOSOLV_100_000_UI_POUDRE_POUR_SOLUTION_INJECTABLE_POUR_PERFUSI_47DBA6CA6F18",
+  "local_id": "SLUG_ACTOSOLV_100_000_UI_POUDRE_POUR_SOLUTION_INJECTABLE_POUR_PERFUSI_47DBA6CA6F18",
+  "lots": [
+    "suivant",
+    "P02964",
+    "P02229",
+    "P02458",
+    "P02459",
+    "P02489",
+    "P02582",
+    "P02847",
+    "P02907",
+    "P02984",
+    "P02314",
+    "P02412",
+    "P02712"
+  ],
+  "manufacturer": null,
+  "medicine": "Actosolv 100 000 UI, poudre pour solution injectable/pour perfusion, Actosolv 600 000 UI, poudre pour solution injectable/pour perfusion - Laboratoire Eumedica SA (Manage, Belgique) (MED21/B034)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400956510672"
+    },
+    {
+      "system": "CIP",
+      "value": "3400956510733"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-12-08",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Actosolv 100 000 UI, poudre pour solution injectable/pour perfusion, Actosolv 600 000 UI, poudre pour solution injectable/pour perfusion - Laboratoire Eumedica SA (Manage, Belgique) (MED21/B034)"
+  },
+  "reason": "Actosolv 100 000 UI, poudre pour solution injectable/pour perfusion, Actosolv 600 000 UI, poudre pour solution injectable/pour perfusion - Laboratoire Eumedica SA (Manage, Belgique) (MED21/B034) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 08/12/2021 A+ A- Niveau de retrait : Etablissements de santé Le laboratoire EUMEDICA procède, en accord avec l'ANSM, au rappel du lot suivant de la spécialité importée de Belgique : ACTOSOLV 600 000 UI, poudre pour solution injectable/pour perfusion (CNK 0290189) Lot P02964 - 04/2023 et au rappel des 11 lots mentionnés ci-dessous des spécialités : ACTOSOLV 100 000 UI, poudre pour solution injectable/pour perfusion (CIP 34009 565 106 7 2) Lot P02229 - 03/2022 Lot P02458 - 05/2022 Lot P02459 - 06/2022 Lot P02489 - 05/2022 Lot P02582 - 09/2022 Lot P02847 - 0",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/actosolv-100-000-ui-poudre-pour-solution-injectable-pour-perfusion-actosolv-600-000-ui-poudre-pour-solution-injectable-pour-perfusion-laboratoire-eumedica-sa-manage-belgique",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

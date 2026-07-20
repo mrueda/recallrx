@@ -36,6 +36,31 @@ class RecallRecord:
     warnings: list[str] = field(default_factory=list)
     raw: dict[str, Any] = field(default_factory=dict)
 
+    @classmethod
+    def from_json(cls, payload: dict[str, Any]) -> "RecallRecord":
+        return cls(
+            id=payload["id"],
+            country=payload["country"],
+            authority=payload["authority"],
+            local_id=payload["local_id"],
+            date=payload["date"],
+            publication_date=payload.get("publication_date"),
+            recall_class=payload.get("recall_class"),
+            product_type=payload.get("product_type"),
+            medicine=payload["medicine"],
+            manufacturer=payload.get("manufacturer"),
+            product_codes=[ProductCode(**code) for code in payload.get("product_codes", [])],
+            lots=list(payload.get("lots", [])),
+            expiry_dates=list(payload.get("expiry_dates", [])),
+            reason=payload.get("reason"),
+            actions=payload.get("actions"),
+            source_url=payload.get("source_url", ""),
+            pdf_url=payload.get("pdf_url"),
+            confidence=float(payload.get("confidence", 0.0)),
+            warnings=list(payload.get("warnings", [])),
+            raw=dict(payload.get("raw", {})),
+        )
+
     def to_json(self) -> dict[str, Any]:
         return {
             "id": self.id,

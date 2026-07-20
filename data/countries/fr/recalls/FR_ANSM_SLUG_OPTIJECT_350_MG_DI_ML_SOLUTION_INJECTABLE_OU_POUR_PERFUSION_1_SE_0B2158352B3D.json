@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : établissements de santé. Pour toutes questions, merci de contacter Guerbet France : Téléphone : 01.45.91.50.00 . Email : client.complaint.france@guerbet.com. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agen",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-10-21",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OPTIJECT_350_MG_DI_ML_SOLUTION_INJECTABLE_OU_POUR_PERFUSION_1_SE_0B2158352B3D",
+  "local_id": "SLUG_OPTIJECT_350_MG_DI_ML_SOLUTION_INJECTABLE_OU_POUR_PERFUSION_1_SE_0B2158352B3D",
+  "lots": [
+    "RAPPEL",
+    "mentionn",
+    "les",
+    "concern"
+  ],
+  "manufacturer": null,
+  "medicine": "Optiject 350 mg d'I/ml, solution injectable ou pour perfusion, 1 seringue(s) préremplie(s) polypropylène de 100 ml pour perfuseur électrique - Laboratoire Guerbet France - Rappel de lot",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-10-21",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Optiject 350 mg d'I/ml, solution injectable ou pour perfusion, 1 seringue(s) préremplie(s) polypropylène de 100 ml pour perfuseur électrique - Laboratoire Guerbet France - Rappel de lot"
+  },
+  "reason": "Ce rappel fait suite à l'utilisation pour ce lot d'un \"ancien\" moule dans le formage des seringues.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/optiject-350-mg-di-ml-solution-injectable-ou-pour-perfusion-1-seringue-s-preremplie-s-polypropylene-de-100-ml-pour-perfuseur-electrique-laboratoire-guerbet-france-rappel-de-lot",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des officines et établissements de santé destinataires du lot objet du rappel. Actualisation du 12/06/2024 Le lot concerné par le rappel est le 336651.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-06-07",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_BROMURE_DE_PYRIDOSTIGMINE_LABORATOIRE_INRESA_1_714147E4D44A",
+  "local_id": "SLUG_BROMURE_DE_PYRIDOSTIGMINE_LABORATOIRE_INRESA_1_714147E4D44A",
+  "lots": [
+    "objet",
+    "concern",
+    "336651"
+  ],
+  "manufacturer": "Laboratoire Inresa",
+  "medicine": "Bromure de Pyridostigmine",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2024-06-07",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Bromure de Pyridostigmine – Laboratoire Inresa"
+  },
+  "reason": "Le laboratoire Inresa procède, en accord avec l’ANSM, au retrait du lot de la matière première à usage pharmaceutique \"Bromure de Pyridostigmine\" mentionné ci-dessous : Lot 336651 (date de péremption 10/06/2026) pour les 2 références suivantes : Pyridostigmine bromure 25g (référence Inresa : 10126-25) Pyridostigmine bromure 5g (référence Inresa : 10126-5) Ce rappel fait suite à la mise en évidence d’un résultat hors spécifications (perte à la dessiccation) lors d’un contrôle analytique du produit.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/bromure-de-pyridostigmine-laboratoire-inresa-1",
+  "warnings": [
+    "missing_cip"
+  ]
+}

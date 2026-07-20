@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique Contact : Service & appel gratuits - Information médicale et Pharmacovigilance : 0 800 455 799 ou 0 800 294 489 touche 5 Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-08-07",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_VALPROATE_DE_SODIUM_SANDOZ_LP_500_MG_COMPRIME_PELLICULE_SECABLE_0D2A5A85590D",
+  "local_id": "SLUG_VALPROATE_DE_SODIUM_SANDOZ_LP_500_MG_COMPRIME_PELLICULE_SECABLE_0D2A5A85590D",
+  "lots": [
+    "mentionn"
+  ],
+  "manufacturer": null,
+  "medicine": "Valproate de Sodium Sandoz LP 500 mg, comprimé pelliculé sécable à libération prolongée - Laboratoire Sandoz (MED20/A019)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-08-07",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Valproate de Sodium Sandoz LP 500 mg, comprimé pelliculé sécable à libération prolongée - Laboratoire Sandoz (MED20/A019)"
+  },
+  "reason": "CIP : 34009 398 485 32 Lot : HV8116 (péremption : 06/2021) Ce rappel fait suite à la mise en évidence de la présence de l’ancienne version de l’étui sur ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/valproate-de-sodium-sandoz-lp-500-mg-comprime-pellicule-secable-a-liberation-prolongee-laboratoire-sandoz-rappel-de-lot",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

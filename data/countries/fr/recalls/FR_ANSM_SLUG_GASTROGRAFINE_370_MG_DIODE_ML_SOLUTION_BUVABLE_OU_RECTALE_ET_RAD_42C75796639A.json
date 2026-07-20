@@ -1,0 +1,38 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-03-03",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_GASTROGRAFINE_370_MG_DIODE_ML_SOLUTION_BUVABLE_OU_RECTALE_ET_RAD_42C75796639A",
+  "local_id": "SLUG_GASTROGRAFINE_370_MG_DIODE_ML_SOLUTION_BUVABLE_OU_RECTALE_ET_RAD_42C75796639A",
+  "lots": [
+    "MA04JLK",
+    "MA04LPB",
+    "MA04MVC",
+    "MA04NVE",
+    "MA04REF",
+    "MA04THH",
+    "MA04TJ6",
+    "MA04TJ7",
+    "MA04HP5",
+    "MA04HP0"
+  ],
+  "manufacturer": "Laboratoire Bayer Healthcare SAS (MED 26/A009/B009 et MED 26/A010/B010)",
+  "medicine": "Gastrografine 370 mg d'iode/mL, solution buvable ou rectale et Radioselectan urinaire 30 pour cent (146 mg d'Iode/ml), solution injectable",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-03-03",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Gastrografine 370 mg d'iode/mL, solution buvable ou rectale et Radioselectan urinaire 30 pour cent (146 mg d'Iode/ml), solution injectable – Laboratoire Bayer Healthcare SAS (MED 26/A009/B009 et MED 26/A010/B010)"
+  },
+  "reason": "Gastrografine 370 mg d'iode/mL, solution buvable ou rectale et Radioselectan urinaire 30 pour cent (146 mg d'Iode/ml), solution injectable – Laboratoire Bayer Healthcare SAS (MED 26/A009/B009 et MED 26/A010/B010) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 03/03/2026 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Bayer Healthcare SAS procède, en accord avec l’ANSM et par mesure de précaution, au rappel de tous les lots actuellement sur le marché, des spécialités mentionnées ci-dessous : Gastrografine 370 mg d'iode/mL, solution buvable ou rectale (CIP : 34009 300 808 3 2) Lot MA04JLK - 04/2026 Lot MA04LPB - 07/2026 Lot MA04MVC - 09/2026 Lot MA04NVE - 11/2026 Lot MA04REF - 03/2027 Lot MA04THH - 05/2027 Lot MA04TJ6 - 05/202",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/gastrografine-370-mg-diode-ml-solution-buvable-ou-rectale-et-radioselectan-urinaire-30-pour-cent-146-mg-diode-ml-solution-injectable-laboratoire-bayer-healthcare-sas",
+  "warnings": [
+    "missing_cip"
+  ]
+}

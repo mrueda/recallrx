@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-01-14",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OCTREOTIDE_TEVA_LP_20_MG_POUDRE_ET_SOLVANT_POUR_SUSPENSION_INJEC_132EEB00675A",
+  "local_id": "SLUG_OCTREOTIDE_TEVA_LP_20_MG_POUDRE_ET_SOLVANT_POUR_SUSPENSION_INJEC_132EEB00675A",
+  "lots": [
+    "4401638",
+    "4400111",
+    "4400866",
+    "4400520",
+    "4400521"
+  ],
+  "manufacturer": "Téva Santé (MED26/A002/B002)",
+  "medicine": "Octréotide Téva LP 20 mg, poudre et solvant pour suspension injectable à libération prolongée, Rispéridone Téva LP 25 mg/2 ml et 50 mg/2 ml, poudre et solvant pour suspension injectable à libération prolongée en seringue préremplie",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-01-14",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Octréotide Téva LP 20 mg, poudre et solvant pour suspension injectable à libération prolongée, Rispéridone Téva LP 25 mg/2 ml et 50 mg/2 ml, poudre et solvant pour suspension injectable à libération prolongée en seringue préremplie – Téva Santé (MED26/A002/B002)"
+  },
+  "reason": "Octréotide Téva LP 20 mg, poudre et solvant pour suspension injectable à libération prolongée, Rispéridone Téva LP 25 mg/2 ml et 50 mg/2 ml, poudre et solvant pour suspension injectable à libération prolongée en seringue préremplie – Téva Santé (MED26/A002/B002) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 14/01/2026 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Téva Santé procède, en accord avec l'ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous des spécialités : Octréotide Téva LP 20 mg , poudre et solvant pour suspension injectable à libération prolongée (3400930180518) Lot 4401638 - 12/2026 Rispéridone Téva LP 25 mg/2 ml , poudre et solvant pour suspension injectable à libération prolongée e",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/octreotide-teva-lp-20-mg-poudre-et-solvant-pour-suspension-injectable-a-liberation-prolongee-risperidone-teva-lp-25-mg-2-ml-et-50-mg-2-ml-poudre-et-solvant-pour-suspension-injectable-a-liberation-prolongee-en-seringue-preremplie-teva-sante",
+  "warnings": [
+    "missing_cip"
+  ]
+}

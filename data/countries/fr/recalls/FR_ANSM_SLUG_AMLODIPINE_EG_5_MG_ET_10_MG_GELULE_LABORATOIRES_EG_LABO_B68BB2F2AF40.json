@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé, circuit de distribution pharmaceutique et patients Les laboratoires EG Labo procèdent, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous des spécialités pharmaceutiques : Amlodipine EG 5 mg, gélule - boite de 30 (3400937944892) Lot A53014 (péremption 02/2028) Amlodipine EG 10 mg, gélule - boite de 30 (3400937944953) Lot A53014 (péremption 02/2028) Ce rappel fait suite à la mise en évidence d'une erreur lors du conditionnement du lot A53014 d'Amlodipine EG 5 mg. Quelques blisters d'Amlodipine EG 5 mg ont été conditionnés dans des boites d'Amlodipine EG 10 mg. Le code datamatrix sur ces boites encode Amlodipine EG 5 mg.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-10-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_AMLODIPINE_EG_5_MG_ET_10_MG_GELULE_LABORATOIRES_EG_LABO_B68BB2F2AF40",
+  "local_id": "SLUG_AMLODIPINE_EG_5_MG_ET_10_MG_GELULE_LABORATOIRES_EG_LABO_B68BB2F2AF40",
+  "lots": [
+    "A53014"
+  ],
+  "manufacturer": "Laboratoires EG labo (MED23/A022/B020)",
+  "medicine": "Amlodipine EG 5 mg et 10 mg, gélule",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-10-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Amlodipine EG 5 mg et 10 mg, gélule – Laboratoires EG labo (MED23/A022/B020)"
+  },
+  "reason": "Amlodipine EG 5 mg et 10 mg, gélule – Laboratoires EG labo (MED23/A022/B020) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 27/10/2023 A+ A- Niveau de rappel : Officines, établissements de santé, circuit de distribution pharmaceutique et patients Les laboratoires EG Labo procèdent, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous des spécialités pharmaceutiques : Amlodipine EG 5 mg, gélule - boite de 30 (3400937944892) Lot A53014 (péremption 02/2028) Amlodipine EG 10 mg, gélule - boite de 30 (3400937944953) Lot A53014 (péremption 02/2028) Ce rappel fait suite à la mise en évidence d'une erreur lors du conditionnement du lot A53014 d'Amlodipine EG 5 mg.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/amlodipine-eg-5-mg-et-10-mg-gelule-laboratoires-eg-labo",
+  "warnings": [
+    "missing_cip"
+  ]
+}

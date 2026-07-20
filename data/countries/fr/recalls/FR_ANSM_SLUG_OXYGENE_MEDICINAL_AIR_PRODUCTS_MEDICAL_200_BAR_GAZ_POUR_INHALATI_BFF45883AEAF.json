@@ -1,0 +1,44 @@
+{
+  "actions": "Niveau de rappel : Structures dispensatrices d’oxygène à domicile.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-04-12",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OXYGENE_MEDICINAL_AIR_PRODUCTS_MEDICAL_200_BAR_GAZ_POUR_INHALATI_BFF45883AEAF",
+  "local_id": "SLUG_OXYGENE_MEDICINAL_AIR_PRODUCTS_MEDICAL_200_BAR_GAZ_POUR_INHALATI_BFF45883AEAF",
+  "lots": [],
+  "manufacturer": "Air Products Medical",
+  "medicine": "Oxygène Médicinal Air Products Médical 200 bar, gaz pour inhalation, en bouteille",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938145717"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938145595"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938145427"
+    },
+    {
+      "system": "CIP",
+      "value": "3400935394842"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-04-12",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Oxygène Médicinal Air Products Médical 200 bar, gaz pour inhalation, en bouteille – Air Products Medical"
+  },
+  "reason": "Le Laboratoire Air Products Medical procède, en accord avec l’ANSM, au rappel de certaines bouteilles d’oxygène médicinal des tailles suivantes : ministars d’un volume de 15L (PR 142935) CIP 3400938145717 ministars d’un volume de 5L (PR 142931) CIP 3400938145595 ministars d’un volume de 2L (PR 145378) CIP 3400938145427 RM 200 d’un volume de 2L (PR 14881) CIP 3400935394842 Ce rappel fait suite à un risque de présence d’huile à l’extérieur des bouteilles sur la sache d’inviolabilité et sur le chapeau des bouteilles.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/oxygene-medicinal-air-products-medical-200-bar-gaz-pour-inhalation-en-bouteille-air-products-medical",
+  "warnings": [
+    "missing_lot"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : Hôpitaux Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à la disposition du public Opérations donnant lieu au paiement d'un dr",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-07-26",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_POCHES_DE_NUTRITION_PARENTERALE_LABORATOIRE_BAXTER_FACONNAGE_2_3FEAEE1052FF",
+  "local_id": "SLUG_POCHES_DE_NUTRITION_PARENTERALE_LABORATOIRE_BAXTER_FACONNAGE_2_3FEAEE1052FF",
+  "lots": [
+    "16PC7108"
+  ],
+  "manufacturer": null,
+  "medicine": "Poches de nutrition parentérale - Laboratoire Baxter Façonnage",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-07-26",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Poches de nutrition parentérale - Laboratoire Baxter Façonnage"
+  },
+  "reason": "Ce rappel fait suite à la mise en évidence d’un déphasage de l’émulsion sur le produit Smoflipid 20mg/ml, en flacon de 500ml (lot 16PC7108, exp 15/03/2022), utilisé pour la préparation des poches de nutrition parentérale sur les jours de production mentionnés ci-dessus.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/poches-de-nutrition-parenterale-laboratoire-baxter-faconnage-2",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

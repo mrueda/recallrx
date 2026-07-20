@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : établissements de santé. Pour toute demande d’information médicale vous pouvez joindre le service d’information médicale: au 01.80.83.52.73 ou pv-everpharma@anticipsante.com Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-02-16",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ATOSIBAN_EVER_PHARMA_37_5_MG_5_ML_SOLUTION_A_DILUER_POUR_PERFUSI_517D9BDAD46D",
+  "local_id": "SLUG_ATOSIBAN_EVER_PHARMA_37_5_MG_5_ML_SOLUTION_A_DILUER_POUR_PERFUSI_517D9BDAD46D",
+  "lots": [
+    "mentionn",
+    "C5AW1A"
+  ],
+  "manufacturer": null,
+  "medicine": "Atosiban Ever Pharma 37,5 mg/5 mL, solution à diluer pour perfusion - Laboratoire Ever Pharma France (MED21/B004)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-02-16",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Atosiban Ever Pharma 37,5 mg/5 mL, solution à diluer pour perfusion - Laboratoire Ever Pharma France (MED21/B004)"
+  },
+  "reason": "Atosiban Ever Pharma 37,5 mg/5 mL, solution à diluer pour perfusion - Laboratoire Ever Pharma France (MED21/B004) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 16/02/2021 - MIS À JOUR LE 06/04/2021 A+ A- Ce rappel fait suite à la mise en évidence d’une contamination chimique dans le lot de produit fini C5AW1A, en lien avec la substance active utilisée pour la fabrication de ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/atosiban-ever-pharma-37-5-mg-5-ml-solution-a-diluer-pour-perfusion-laboratoire-ever-pharma-france",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : Officines, circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-12-07",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_AMOXICILLINE_ACIDE_CLAVULANIQUE_CRISTERS_100_MG_12_5_MG_PAR_ML_E_1E49BCFAE9EA",
+  "local_id": "SLUG_AMOXICILLINE_ACIDE_CLAVULANIQUE_CRISTERS_100_MG_12_5_MG_PAR_ML_E_1E49BCFAE9EA",
+  "lots": [
+    "list",
+    "2CRL04B"
+  ],
+  "manufacturer": "Laboratoire Cristers (MED22/A029)",
+  "medicine": "Amoxicilline/Acide Clavulanique Cristers 100 mg/12,5 mg par ml Enfants, poudre pour suspension buvable en flacon",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-12-07",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Amoxicilline/Acide Clavulanique Cristers 100 mg/12,5 mg par ml Enfants, poudre pour suspension buvable en flacon – Laboratoire Cristers (MED22/A029)"
+  },
+  "reason": "Le laboratoire Cristers procède, en accord avec l'ANSM et par mesure de précaution, au rappel du lot listé ci dessous de la spécialité : Amoxicilline/Acide Clavulanique Cristers 100 mg/12,5 mg par ml ENFANTS - poudre pour suspension buvable en flacon (CIP : 34009 375 953 0 8) lot 2CRL04B péremption = 02/2024 Ce rappel fait suite à la détection d'une coloration jaune/orange de la suspension après reconstitution de certains flacons.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/amoxicilline-acide-clavulanique-cristers-100-mg-12-5-mg-par-ml-enfants-poudre-pour-suspension-buvable-en-flacon-laboratoire-cristers",
+  "warnings": [
+    "missing_cip"
+  ]
+}

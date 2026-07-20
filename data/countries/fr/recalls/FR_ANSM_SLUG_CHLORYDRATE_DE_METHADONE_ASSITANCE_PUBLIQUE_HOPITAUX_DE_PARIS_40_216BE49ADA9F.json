@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : pharmacies d'officine, établissements de santé (CSAPA y compris), circuits de distribution pharmaceutiques. Pour toute information médicale, vous pouvez contacter les Laboratoires Bouchara Recordati au : 01 45 19 10 00 Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-01-02",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CHLORYDRATE_DE_METHADONE_ASSITANCE_PUBLIQUE_HOPITAUX_DE_PARIS_40_216BE49ADA9F",
+  "local_id": "SLUG_CHLORYDRATE_DE_METHADONE_ASSITANCE_PUBLIQUE_HOPITAUX_DE_PARIS_40_216BE49ADA9F",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Chlorydrate de méthadone Assitance Publique -Hopitaux de Paris 40 mg/15 ml, sirop en récipient unidose - Laboratoires Bouchara Recordati (MED20/A001/B001)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400934004155"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-01-02",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Chlorydrate de méthadone Assitance Publique -Hopitaux de Paris 40 mg/15 ml, sirop en récipient unidose - Laboratoires Bouchara Recordati (MED20/A001/B001)"
+  },
+  "reason": "lot n° D9055 péremption aout 2021 Ce rappel fait suite à la mise en évidence d'un morceau de verre dans un flacon de CHLORHYDRATE DE METHADONE ASSISTANCE PUBLIQUE-HOPITAUX DE PARIS 40 mg/15 ml, sirop en récipient unidose.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/chlorydrate-de-methadone-assitance-publique-hopitaux-de-paris-40-mg-15-ml-sirop-en-recipient-unidose-laboratoires-bouchara-recordati",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

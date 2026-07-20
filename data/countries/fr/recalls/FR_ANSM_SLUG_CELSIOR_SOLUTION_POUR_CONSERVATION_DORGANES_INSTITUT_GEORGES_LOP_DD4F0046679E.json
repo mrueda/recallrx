@@ -1,0 +1,35 @@
+{
+  "actions": "Ce rappel fait suite à la mise en évidence de non-conformités et de manquements graves aux règles de bonnes pratiques de fabrication des médicaments de la part d’IGL, qui font courir un risque élevé de contamination microbiologique du médicament Celsior. L’Institut Georges Lopez indique qu'à ce jour, aucune déclaration n'a été rapportée sur ces lots en lien avec le défaut qualité. L’Institut Georges Lopez précise que ce rappel concerne uniquement les lots mentionnés ci-dessus. Niveau du rappel : établissements de santé. Pour toute information complémentaire, vous pouvez contacter l’Institut Georges Lopez par téléphone au +33 (0)4 37 64 63 32 ou par mail à safety@groupe-igl.com . Lire aussi L’ANSM suspend l’activité de l’Institut Georges Lopez et rappelle les lots de Celsior fabriqués depui",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2025-03-13",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CELSIOR_SOLUTION_POUR_CONSERVATION_DORGANES_INSTITUT_GEORGES_LOP_DD4F0046679E",
+  "local_id": "SLUG_CELSIOR_SOLUTION_POUR_CONSERVATION_DORGANES_INSTITUT_GEORGES_LOP_DD4F0046679E",
+  "lots": [
+    "SL240261-1",
+    "SL240266-1",
+    "SL240272-1",
+    "SL240280-2"
+  ],
+  "manufacturer": "Institut Georges Lopez (MED 25/B007)",
+  "medicine": "Celsior, solution pour conservation d'organes",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400955049517"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-03-13",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Celsior, solution pour conservation d'organes – Institut Georges Lopez (MED 25/B007)"
+  },
+  "reason": "Lot SL240261-1 - 16/04/2025 Lot SL240266-1 - 28/05/2025 Lot SL240272-1 - 15/07/2025 Lot SL240280-2 - 20/08/2025 Ce rappel fait suite à la mise en évidence de non-conformités et de manquements graves aux règles de bonnes pratiques de fabrication des médicaments de la part d’IGL, qui font courir un risque élevé de contamination microbiologique du médicament Celsior.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/celsior-solution-pour-conservation-dorganes-institut-georges-lopez",
+  "warnings": []
+}

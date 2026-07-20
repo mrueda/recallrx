@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : Circuit de distribution pharmaceutique, officines. Pour toute information complémentaire, nous vous invitons à contacter le 04.72.21.51.84. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin offici",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2020-01-14",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_YERBALAXA_PLANTES_POUR_TISANE_EN_SACHET_DOSE_LABORATOIRES_IPHYM_7275A86FD881",
+  "local_id": "SLUG_YERBALAXA_PLANTES_POUR_TISANE_EN_SACHET_DOSE_LABORATOIRES_IPHYM_7275A86FD881",
+  "lots": [
+    "ci-dessous",
+    "18-65436"
+  ],
+  "manufacturer": null,
+  "medicine": "Yerbalaxa, plantes pour tisane en sachet dose - Laboratoires Iphym (MED 20/A002)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400934190537"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-01-14",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Yerbalaxa, plantes pour tisane en sachet dose - Laboratoires Iphym (MED 20/A002)"
+  },
+  "reason": "Yerbalaxa, plantes pour tisane en sachet dose - Laboratoires Iphym (MED 20/A002) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 14/01/2020 - MIS À JOUR LE 08/04/2021 A+ A- Les laboratoires IPHYM procèdent en accord avec l'ANSM et par mesure de précaution, au rappel du lot ci-dessous de la spécialité : YERBALAXA, plantes pour tisane en sachet-dose CIP 3400934190537 Lot 18-65436 péremption 05/2021 Ce rappel fait suite à la mise en évidence de résultats microbiologiques hors spécifications.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/yerbalaxa-plantes-pour-tisane-en-sachet-dose-laboratoires-iphym",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

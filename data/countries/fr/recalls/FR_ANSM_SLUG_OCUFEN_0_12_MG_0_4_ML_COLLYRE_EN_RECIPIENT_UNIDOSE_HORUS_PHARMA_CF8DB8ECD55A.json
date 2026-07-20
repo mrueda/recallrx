@@ -1,0 +1,34 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique. Pour toute information complémentaire, vous pouvez contacter Horus Pharma : par téléphone au 04 93 19 54 03 par mail : quality@horus-pharma.fr par fax :04 97 19 36 31 Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t te",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-04-20",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OCUFEN_0_12_MG_0_4_ML_COLLYRE_EN_RECIPIENT_UNIDOSE_HORUS_PHARMA_CF8DB8ECD55A",
+  "local_id": "SLUG_OCUFEN_0_12_MG_0_4_ML_COLLYRE_EN_RECIPIENT_UNIDOSE_HORUS_PHARMA_CF8DB8ECD55A",
+  "lots": [
+    "OC309"
+  ],
+  "manufacturer": null,
+  "medicine": "Ocufen 0,12 mg/ 0,4 ml, collyre en récipient unidose - Horus Pharma (MED21/A008/B010)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400933443498"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-04-20",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Ocufen 0,12 mg/ 0,4 ml, collyre en récipient unidose - Horus Pharma (MED21/A008/B010)"
+  },
+  "reason": "Ocufen 0,12 mg/ 0,4 ml, collyre en récipient unidose - Horus Pharma (MED21/A008/B010) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 20/04/2021 A+ A- Le laboratoire HORUS PHARMA procède, en accord avec l'ANSM, au rappel du lot OC309 de la spécialité OCUFEN 0,12 mg/ 0,4 ml, collyre en récipient unidose - Boite de 20 unidoses - Code CIP 34009 334 434 9 8 - date de péremption 10/2022 Ce rappel fait suite à la découverte de 10 unidoses contenant une solution de couleur jaune sans mention du numéro de lot et de la date de péremption dans une boite d'Ocufen.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/ocufen-0-12-mg-0-4-ml-collyre-en-recipient-unidose-horus-pharma",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

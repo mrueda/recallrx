@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-11-23",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOSARTAN_EVOLUGEN_50_MG_COMPRIME_PELLICULE_SECABLE_ET_LOSARTAN_E_609B810C8F91",
+  "local_id": "SLUG_LOSARTAN_EVOLUGEN_50_MG_COMPRIME_PELLICULE_SECABLE_ET_LOSARTAN_E_609B810C8F91",
+  "lots": [
+    "177921",
+    "113221"
+  ],
+  "manufacturer": null,
+  "medicine": "Losartan Evolugen 50 mg comprimé pelliculé sécable et Losartan Evolugen 100 mg comprimé pelliculé - Laboratoire Evolupharm (MED 21/A045)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-11-23",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Losartan Evolugen 50 mg comprimé pelliculé sécable et Losartan Evolugen 100 mg comprimé pelliculé - Laboratoire Evolupharm (MED 21/A045)"
+  },
+  "reason": "10/2023 Ce rappel fait suite à la mise en évidence d'une impureté azide appelée \" impureté azoturée de losartan \" à des taux supérieurs aux limites acceptables dans la substance active entrant dans la composition de cette spécialité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/losartan-evolugen-50-mg-comprime-pellicule-secable-et-losartan-evolugen-100-mg-comprime-pellicule-laboratoire-evolupharm",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

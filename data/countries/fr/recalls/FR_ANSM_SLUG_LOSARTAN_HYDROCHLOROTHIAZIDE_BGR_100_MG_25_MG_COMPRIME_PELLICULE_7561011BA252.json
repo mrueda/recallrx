@@ -1,0 +1,36 @@
+{
+  "actions": "Niveau de rappel : circuit de distribution pharmaceutique, hôpitaux, officines et patients.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-06-01",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOSARTAN_HYDROCHLOROTHIAZIDE_BGR_100_MG_25_MG_COMPRIME_PELLICULE_7561011BA252",
+  "local_id": "SLUG_LOSARTAN_HYDROCHLOROTHIAZIDE_BGR_100_MG_25_MG_COMPRIME_PELLICULE_7561011BA252",
+  "lots": [
+    "suivant",
+    "LC67239",
+    "entre"
+  ],
+  "manufacturer": null,
+  "medicine": "Losartan / Hydrochlorothiazide BGR 100 mg/25 mg comprimé pelliculé - Biogaran (MED22/A014/B013)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400939853505"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-06-01",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Losartan / Hydrochlorothiazide BGR 100 mg/25 mg comprimé pelliculé - Biogaran (MED22/A014/B013)"
+  },
+  "reason": "Le laboratoire Biogaran, procède, en accord avec l’ANSM, au rappel du lot suivant de la spécialité ci-dessous : Losartan / Hydrochlorothiazide BGR 100 mg/25 mg comprimé pelliculé boîte de 30 - CIP 34009 398 535 0 5 Lot LC67239 - péremption 01/2025 Ce rappel fait suite à la détection de blisters comportant la mention « Atorvastatine Cristers Pharma 40mg comprimé pelliculé » au lieu de « Losartan / Hydrochlorothiazide BGR 100 mg/25 mg comprimé pelliculé ».",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/losartan-hydrochlorothiazide-bgr-100-mg-25-mg-comprime-pellicule-biogaran",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

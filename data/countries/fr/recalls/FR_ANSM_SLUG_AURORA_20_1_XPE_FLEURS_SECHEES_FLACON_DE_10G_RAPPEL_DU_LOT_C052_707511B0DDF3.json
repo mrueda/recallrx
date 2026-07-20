@@ -1,0 +1,32 @@
+{
+  "actions": "Ce rappel fait suite à la mise en évidence d'un sous dosage en THC, sans risque pour le patient . Un nouveau lot est disponible à la commande depuis le 12 janvier 2023 (lot C090 Exp : 09/2023) Téléchargez le courrier destiné aux pharmacies d’officines et aux pharmacies à usage intérieur des établissements de santé autorisées à commander et délivrer du cannabis médical dans le cadre de l’expérimentation française (17/01/2023) Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de do",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-01-17",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_AURORA_20_1_XPE_FLEURS_SECHEES_FLACON_DE_10G_RAPPEL_DU_LOT_C052_707511B0DDF3",
+  "local_id": "SLUG_AURORA_20_1_XPE_FLEURS_SECHEES_FLACON_DE_10G_RAPPEL_DU_LOT_C052_707511B0DDF3",
+  "lots": [
+    "C052",
+    "mentionn",
+    "est",
+    "C090"
+  ],
+  "manufacturer": "Rappel du Lot C052 et mise à disposition d’un nouveau lot (C090)",
+  "medicine": "Aurora 20/1 XPE – Fleurs séchées – Flacon de 10g",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-01-17",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Aurora 20/1 XPE – Fleurs séchées – Flacon de 10g – Rappel du Lot C052 et mise à disposition d’un nouveau lot (C090)"
+  },
+  "reason": "Ce rappel fait suite à la mise en évidence d'un sous dosage en THC, sans risque pour le patient .",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/aurora-20-1-xpe-fleurs-sechees-flacon-de-10g-rappel-du-lot-c052-et-mise-a-disposition-dun-nouveau-lot-c090",
+  "warnings": [
+    "missing_cip"
+  ]
+}

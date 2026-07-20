@@ -1,0 +1,41 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-02-03",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CHLORMADINONE_TEVA_10_MG_COMPRIME_ADDENDUM_AU_RAPPEL_DE_LOTS_MUL_EEFF99F92BB0",
+  "local_id": "SLUG_CHLORMADINONE_TEVA_10_MG_COMPRIME_ADDENDUM_AU_RAPPEL_DE_LOTS_MUL_EEFF99F92BB0",
+  "lots": [
+    "FC165",
+    "FC166",
+    "FC167",
+    "FC168",
+    "FC169",
+    "FC170",
+    "FC171",
+    "FC172",
+    "FC173",
+    "FC175",
+    "FC176",
+    "FC179"
+  ],
+  "manufacturer": null,
+  "medicine": "Chlormadinone Téva 10 mg, comprimé. Addendum au rappel de lots multi laboratoires MED22/A003/B002 - Laboratoire Téva santé (MED22/A005)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-02-03",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Chlormadinone Téva 10 mg, comprimé. Addendum au rappel de lots multi laboratoires MED22/A003/B002 - Laboratoire Téva santé (MED22/A005)"
+  },
+  "reason": "Addendum au rappel de lots multi laboratoires MED22/A003/B002 - Laboratoire Téva santé (MED22/A005) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 03/02/2022 A+ A- Niveau de rappel : Officines et circuit de distribution pharmaceutique Le laboratoire Téva Santé, procède en accord avec l'ANSM, et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la spécialité à base d'acétate de chlormadinone : Chlormadinone Téva 10 mg, comprimé (3400936561847) : Lot FC165 - 06/2022 Lot FC166 - 06/2022 Lot FC167 - 07/2022 Lot FC168 - 10/2022 Lot FC169 - 10/2022 Lot FC170 - 10/2022 Lot FC171 - 10/2022 Lot FC172 - 10/2022 Lot FC173 - 01/2023 Lot FC175 - 01/2023 Lot FC176 - 01/2023 Lot FC179 - 02/2023 Ce rappel fait suite à une modification de la notice et des conditions de prescription et de d",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/chlormadinone-teva-10-mg-comprime-addendum-au-rappel-de-lots-multi-laboratoires-med22-a003-b002-laboratoire-teva-sante",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé, circuit de distribution pharmaceutique et patients",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-11-21",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ATORVASTATINE_ARROW_GENERIQUES_10_MG_FLACON_DE_30_COMPRIMES_PELL_1AD107618958",
+  "local_id": "SLUG_ATORVASTATINE_ARROW_GENERIQUES_10_MG_FLACON_DE_30_COMPRIMES_PELL_1AD107618958",
+  "lots": [
+    "mentionn",
+    "JBM2300810F",
+    "concern"
+  ],
+  "manufacturer": "Arrow Génériques (MED 24/A015/B010)",
+  "medicine": "Atorvastatine Arrow Génériques 10 mg – Flacon de 30 comprimés pelliculés",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2024-11-21",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Atorvastatine Arrow Génériques 10 mg – Flacon de 30 comprimés pelliculés – Arrow Génériques (MED 24/A015/B010)"
+  },
+  "reason": null,
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/atorvastatine-arrow-generiques-10-mg-flacon-de-30-comprimes-pellicules-arrow-generiques",
+  "warnings": [
+    "missing_cip"
+  ]
+}

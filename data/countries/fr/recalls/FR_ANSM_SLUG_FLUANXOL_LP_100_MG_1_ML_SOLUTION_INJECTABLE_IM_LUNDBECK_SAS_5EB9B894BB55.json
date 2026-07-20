@@ -1,0 +1,33 @@
+{
+  "actions": "Ce rappel fait suite à la découverte d'une ampoule de Clopixol Depot, dans une boite de Fluanxol LP 100 mg/1 ml, lot 2759155 (Exp 01/2027). Pour toute question, merci de contacter Lundbeck SAS (Paris La Défense - France) au 01 79 41 29 79. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos fl",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-09-08",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_FLUANXOL_LP_100_MG_1_ML_SOLUTION_INJECTABLE_IM_LUNDBECK_SAS_5EB9B894BB55",
+  "local_id": "SLUG_FLUANXOL_LP_100_MG_1_ML_SOLUTION_INJECTABLE_IM_LUNDBECK_SAS_5EB9B894BB55",
+  "lots": [
+    "mentionn",
+    "2759155"
+  ],
+  "manufacturer": "Lundbeck SAS (MED 23/A016/B015)",
+  "medicine": "Fluanxol LP 100 mg/1 ml, solution injectable (IM)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400932634965"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-09-08",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Fluanxol LP 100 mg/1 ml, solution injectable (IM) – Lundbeck SAS (MED 23/A016/B015)"
+  },
+  "reason": "Ce rappel fait suite à la découverte d'une ampoule de Clopixol Depot, dans une boite de Fluanxol LP 100 mg/1 ml, lot 2759155 (Exp 01/2027).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/fluanxol-lp-100-mg-1-ml-solution-injectable-im-lundbeck-sas",
+  "warnings": []
+}

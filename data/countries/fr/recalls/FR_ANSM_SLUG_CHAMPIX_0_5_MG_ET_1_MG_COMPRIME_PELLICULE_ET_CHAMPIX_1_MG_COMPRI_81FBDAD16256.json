@@ -1,0 +1,64 @@
+{
+  "actions": "Niveau de rappel : Officines, établissement de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-10-01",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CHAMPIX_0_5_MG_ET_1_MG_COMPRIME_PELLICULE_ET_CHAMPIX_1_MG_COMPRI_81FBDAD16256",
+  "local_id": "SLUG_CHAMPIX_0_5_MG_ET_1_MG_COMPRIME_PELLICULE_ET_CHAMPIX_1_MG_COMPRI_81FBDAD16256",
+  "lots": [
+    "DM0274",
+    "EG8374",
+    "00021356",
+    "DL9587",
+    "DR1762",
+    "DR2385",
+    "DR2391",
+    "DR2392",
+    "DW4475",
+    "00019656",
+    "00019659",
+    "DH2704",
+    "DK4770",
+    "DR1611",
+    "DW8756",
+    "DY4023",
+    "EA6727",
+    "EA6771",
+    "EC8469",
+    "EC8473",
+    "EH7992",
+    "EH8037",
+    "EJ7908"
+  ],
+  "manufacturer": null,
+  "medicine": "Champix 0,5 mg et 1 mg, comprimé pelliculé et Champix 1 mg, comprimé pelliculé - Laboratoire Pfizer (MED 21/A027/B024)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400927332098"
+    },
+    {
+      "system": "CIP",
+      "value": "3400927331619"
+    },
+    {
+      "system": "CIP",
+      "value": "3400927331787"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-10-01",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Champix 0,5 mg et 1 mg, comprimé pelliculé et Champix 1 mg, comprimé pelliculé - Laboratoire Pfizer (MED 21/A027/B024)"
+  },
+  "reason": "Champix 0,5 mg et 1 mg, comprimé pelliculé et Champix 1 mg, comprimé pelliculé - Laboratoire Pfizer (MED 21/A027/B024) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 01/10/2021 A+ A- Niveau de rappel : Officines, établissement de santé et circuit de distribution pharmaceutique Le laboratoire Pfizer procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous des spécialités : CHAMPIX 0,5 mg et 1 mg, comprimé pelliculé (CIP 34009 273 320 9 8) Lot DM0274 - 11/2022 Lot EG8374 - 01/2023 CHAMPIX 1 mg, comprimé pelliculé, boîte de 28 (CIP 34009 273 316 1 9) Lot 00021356 - 05/2022 Lot DL9587 - 08/2022 Lot DR1762 - 10/2022 Lot DR2385 - 06/2022 Lot DR2391 - 07/2022 Lot DR2392 - 07/2022 Lot DW4475 - 10/2022 CHAMPIX 1mg, comprimé pelliculé, boîte de 56 (CIP 34009 273 317 8 7) Lot 00019656 - ",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/champix-0-5-mg-et-1-mg-comprime-pellicule-et-champix-1-mg-comprime-pellicule-laboratoire-pfizer",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

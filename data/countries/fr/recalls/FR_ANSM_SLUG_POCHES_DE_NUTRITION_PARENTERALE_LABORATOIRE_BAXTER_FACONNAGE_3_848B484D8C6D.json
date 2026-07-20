@@ -1,0 +1,28 @@
+{
+  "actions": "Ce rappel est effectué en direct auprès des trois hôpitaux concernés. Aucun numéro d'alerte n'a donc été attribué à ce rappel. Le Laboratoire Baxter Façonnage procède, en accord avec l’ANSM et par mesure de précaution, au rappel de poches de nutrition parentérale (préparations hospitalières et préparations magistrales) fabriquées le 18 avril 2025 sur le site de Montpellier. Ce rappel fait suite à l’identification lors de la lecture quotidienne des prélèvements environnementaux d’une contamination sur 2 prélèvements. L’essai de stérilité concerné est, à ce stade de l’incubation, conforme. Les 13 poches concernées par le rappel et livrées à trois hôpitaux portent les numéros d’ordonnancier suivants : Hôpital Timone AP-HM : 02 M 5 108 F07 387 (Formule PDAMA10LK) 02 M 5 108 F07 388 (Formule PD",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-04-24",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_POCHES_DE_NUTRITION_PARENTERALE_LABORATOIRE_BAXTER_FACONNAGE_3_848B484D8C6D",
+  "local_id": "SLUG_POCHES_DE_NUTRITION_PARENTERALE_LABORATOIRE_BAXTER_FACONNAGE_3_848B484D8C6D",
+  "lots": [],
+  "manufacturer": "Laboratoire Baxter Façonnage",
+  "medicine": "Poches de nutrition parentérale",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-04-24",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Poches de nutrition parentérale – Laboratoire Baxter Façonnage"
+  },
+  "reason": "Ce rappel fait suite à l’identification lors de la lecture quotidienne des prélèvements environnementaux d’une contamination sur 2 prélèvements.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/poches-de-nutrition-parenterale-laboratoire-baxter-faconnage-3",
+  "warnings": [
+    "missing_cip",
+    "missing_lot"
+  ]
+}

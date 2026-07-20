@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : Etablissements de santé, circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-01-10",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_GLUCOSE_5_PROAMP_SOLUTION_INJECTABLE_LABORATOIRE_AGUETTANT_1D9A487555E3",
+  "local_id": "SLUG_GLUCOSE_5_PROAMP_SOLUTION_INJECTABLE_LABORATOIRE_AGUETTANT_1D9A487555E3",
+  "lots": [
+    "mentionn",
+    "2109298"
+  ],
+  "manufacturer": "Laboratoire Aguettant (MED23/B003)",
+  "medicine": "Glucose 5 % Proamp, solution injectable",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400937173599"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-01-10",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Glucose 5 % Proamp, solution injectable – Laboratoire Aguettant (MED23/B003)"
+  },
+  "reason": "Le Laboratoire Aguettant procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Glucose 5 % Proamp, solution injectable (en boite de 50 ampoules de 10 ml ; CIP 34009 371 735 9 9) Lot 2109298 - Péremption 12/2024 Ce rappel fait suite à la détection de la présence, dans une boîte de Glucose 5 % Proamp, solution injectable de ce lot, de 50 ampoules de 10 ml et d’une notice de la spécialité Glucose 30 % Proamp, solution injectable à la place de 50 ampoules de 10 ml de Glucose 5 % Proamp.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/glucose-5-proamp-solution-injectable-laboratoire-aguettant",
+  "warnings": []
+}

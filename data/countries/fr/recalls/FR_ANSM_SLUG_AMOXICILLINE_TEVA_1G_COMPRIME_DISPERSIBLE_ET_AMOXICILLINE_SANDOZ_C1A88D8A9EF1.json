@@ -1,0 +1,43 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Les laboratoires Teva Santé et Sandoz procèdent, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous des spécialités : Amoxicilline Sandoz 1g, comprimé dispersible (B/14) (CIP 3400939207872) Lot MR8824 - 11/2025 Amoxicilline Teva 1g, comprimé dispersible - B/14 (CIP 3400938829341) Lot MS8584 - 12/2025 Lot MT2985 - 12/2025 Amoxicilline Teva 1g, comprimé dispersible – B/6 (CIP 3400938829112) Lot MS8574 - 12/2025 Ce rappel de lots fait suite à la mise en évidence de résultats microbiologiques non conformes lors du contrôle de stabilité des lots (présence de Bacillus subtilis au-delà de la norme autorisée). Aucun signalement relatif à la qualité des lots n'a été rapporté aux laboratoires",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-08-20",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_AMOXICILLINE_TEVA_1G_COMPRIME_DISPERSIBLE_ET_AMOXICILLINE_SANDOZ_C1A88D8A9EF1",
+  "local_id": "SLUG_AMOXICILLINE_TEVA_1G_COMPRIME_DISPERSIBLE_ET_AMOXICILLINE_SANDOZ_C1A88D8A9EF1",
+  "lots": [
+    "MR8824",
+    "MS8584",
+    "MT2985",
+    "MS8574"
+  ],
+  "manufacturer": "Laboratoires Teva Santé et Sandoz (MED24/A010/B005)",
+  "medicine": "Amoxicilline Teva 1g, comprimé dispersible et Amoxicilline Sandoz 1g, comprimé dispersible",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400939207872"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938829341"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938829112"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-08-20",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Amoxicilline Teva 1g, comprimé dispersible et Amoxicilline Sandoz 1g, comprimé dispersible – Laboratoires Teva Santé et Sandoz (MED24/A010/B005)"
+  },
+  "reason": "Amoxicilline Teva 1g, comprimé dispersible et Amoxicilline Sandoz 1g, comprimé dispersible – Laboratoires Teva Santé et Sandoz (MED24/A010/B005) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 20/08/2024 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Les laboratoires Teva Santé et Sandoz procèdent, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous des spécialités : Amoxicilline Sandoz 1g, comprimé dispersible (B/14) (CIP 3400939207872) Lot MR8824 - 11/2025 Amoxicilline Teva 1g, comprimé dispersible - B/14 (CIP 3400938829341) Lot MS8584 - 12/2025 Lot MT2985 - 12/2025 Amoxicilline Teva 1g, comprimé dispersible – B/6 (CIP 3400938829112) Lot MS8574 - 12/2025 Ce rappel de lots fait suite à la mise en évidence de résultats microbio",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/amoxicilline-teva-1g-comprime-dispersible-et-amoxicilline-sandoz-1g-comprime-dispersible-laboratoires-teva-sante-et-sandoz",
+  "warnings": []
+}

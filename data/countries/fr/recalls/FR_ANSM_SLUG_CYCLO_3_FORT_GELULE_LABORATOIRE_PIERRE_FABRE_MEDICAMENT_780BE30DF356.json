@@ -1,0 +1,34 @@
+{
+  "actions": "Niveau de rappel : Officine et circuit de distribution pharmaceutique Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à la disposition du public O",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-06-16",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CYCLO_3_FORT_GELULE_LABORATOIRE_PIERRE_FABRE_MEDICAMENT_780BE30DF356",
+  "local_id": "SLUG_CYCLO_3_FORT_GELULE_LABORATOIRE_PIERRE_FABRE_MEDICAMENT_780BE30DF356",
+  "lots": [
+    "mentionn"
+  ],
+  "manufacturer": null,
+  "medicine": "Cyclo 3 Fort Gélule - Laboratoire Pierre Fabre Médicament (MED21/A017)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400933038762"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-06-16",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Cyclo 3 Fort Gélule - Laboratoire Pierre Fabre Médicament (MED21/A017)"
+  },
+  "reason": "Cyclo 3 Fort Gélule - Laboratoire Pierre Fabre Médicament (MED21/A017) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 16/06/2021 A+ A- Le laboratoire Pierre Fabre Médicament procède, en accord avec l’ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : CYCLO 3 FORT Gélule Pl/60 - CIP 34009 330 387 6 2 Lot : G01087 – Péremption : 03/2023 Ce rappel fait suite à la présence potentielle de particules étrangères dans quelques gélules de ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/cyclo-3-fort-gelule-laboratoire-pierre-fabre-medicament",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

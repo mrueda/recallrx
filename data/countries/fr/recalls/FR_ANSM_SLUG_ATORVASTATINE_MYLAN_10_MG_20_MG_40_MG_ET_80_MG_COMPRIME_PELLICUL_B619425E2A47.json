@@ -1,0 +1,72 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-01-05",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ATORVASTATINE_MYLAN_10_MG_20_MG_40_MG_ET_80_MG_COMPRIME_PELLICUL_B619425E2A47",
+  "local_id": "SLUG_ATORVASTATINE_MYLAN_10_MG_20_MG_40_MG_ET_80_MG_COMPRIME_PELLICUL_B619425E2A47",
+  "lots": [
+    "Date"
+  ],
+  "manufacturer": "Laboratoire Viatris Sante (MED23/A002/B002)",
+  "medicine": "Atorvastatine Mylan 10 mg, 20 mg, 40 mg et 80 mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930080085"
+    },
+    {
+      "system": "CIP",
+      "value": "3400922284286"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930080092"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930080108"
+    },
+    {
+      "system": "CIP",
+      "value": "3400922284576"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930080115"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930080122"
+    },
+    {
+      "system": "CIP",
+      "value": "3400922284927"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930080139"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930080146"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930080153"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-01-05",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Atorvastatine Mylan 10 mg, 20 mg, 40 mg et 80 mg, comprimé pelliculé – Laboratoire Viatris Sante (MED23/A002/B002)"
+  },
+  "reason": "Le laboratoire Viatris Santé procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous des spécialités suivantes : Atorvastatine Mylan 10 mg, comprimé pelliculé (boite de 30 comprimés - CIP 3400930080085) Lot Date péremption 8107689 31/01/2023 8112981 30/06/2023 8118643 30/06/2023 8115547 31/08/2023 8117444 30/09/2023 8120624 31/10/2023 8120625 31/12/2023 8127943 31/05/2024 8125384 30/06/2024 8129901 31/08/2024 8131483 30/09/2024 8132703 30/09/2024 8132704 30/11/2024 Atorvastatine Mylan 10 mg, comprimé pelliculé (flacon de 30 comprimés - CIP 3400922284286) Lot Date péremption 8104695 31/03/2023 8108489 30/06/2023 8119122 29/02/2024 8120139 31/03/2024 8124166 30/06/2024 8126424 31/08/2024 8131861 31/12/2024 8134998 28/02/2025 Atorvastatine Mylan 10 mg, comprimé pelliculé (boi",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/atorvastatine-mylan-10-mg-20-mg-40-mg-et-80-mg-comprime-pellicule-laboratoire-viatris-sante",
+  "warnings": []
+}

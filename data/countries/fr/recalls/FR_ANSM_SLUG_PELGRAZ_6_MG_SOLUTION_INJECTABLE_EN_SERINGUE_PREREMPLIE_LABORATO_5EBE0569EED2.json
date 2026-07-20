@@ -1,0 +1,34 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-08-23",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PELGRAZ_6_MG_SOLUTION_INJECTABLE_EN_SERINGUE_PREREMPLIE_LABORATO_5EBE0569EED2",
+  "local_id": "SLUG_PELGRAZ_6_MG_SOLUTION_INJECTABLE_EN_SERINGUE_PREREMPLIE_LABORATO_5EBE0569EED2",
+  "lots": [
+    "mentionn",
+    "5840021",
+    "fait"
+  ],
+  "manufacturer": "Laboratoire Accord Healthcare France SAS (MED24/A012/B007)",
+  "medicine": "Pelgraz 6 mg, solution injectable en seringue préremplie",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930157640"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-08-23",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Pelgraz 6 mg, solution injectable en seringue préremplie – Laboratoire Accord Healthcare France SAS (MED24/A012/B007)"
+  },
+  "reason": "Pelgraz 6 mg, solution injectable en seringue préremplie – Laboratoire Accord Healthcare France SAS (MED24/A012/B007) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 23/08/2024 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Accord Healthcare France SAS procède, en accord avec l'ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : Pelgraz 6 mg, solution injectable en seringue préremplie (CIP 34009 301 576 4 0) Lot 5840021 – EXP 06/2026 Ce rappel de lot fait suite à la mise en évidence d’une notice en langue tchèque à la place d’une notice en langue française dans certaines boites de médicament destinées au marché français.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/pelgraz-6-mg-solution-injectable-en-seringue-preremplie-laboratoire-accord-healthcare-france-sas",
+  "warnings": []
+}

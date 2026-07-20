@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé, circuit de distribution pharmaceutique. Pour tout renseignement complémentaire ou toute remontée d'information, vous pouvez contacter",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-01-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PICATO_150_MICROGRAMMES_GRAMME_GEL_ET_500_MICROGRAMMES_GRAMME_GE_C7C0F33D289F",
+  "local_id": "SLUG_PICATO_150_MICROGRAMMES_GRAMME_GEL_ET_500_MICROGRAMMES_GRAMME_GE_C7C0F33D289F",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "PICATO 150 microgrammes/gramme, gel et 500 microgrammes/gramme, gel - Laboratoires LEO (MED 20/A003/B003)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-01-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "PICATO 150 microgrammes/gramme, gel et 500 microgrammes/gramme, gel - Laboratoires LEO (MED 20/A003/B003)"
+  },
+  "reason": "Ce rappel fait suite à la décision de l'Agence européenne des médicaments (EMA) de suspendre dans toute l'Europe, par mesure de précaution, les autorisations de mise sur le marché du médicament PICATO dans l'attente des conclusions de la réévaluation du rapport bénéfice / risque de ce médicament.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/picato-150-microgrammes-gramme-gel-et-500-microgrammes-gramme-gel-laboratoires-leo",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

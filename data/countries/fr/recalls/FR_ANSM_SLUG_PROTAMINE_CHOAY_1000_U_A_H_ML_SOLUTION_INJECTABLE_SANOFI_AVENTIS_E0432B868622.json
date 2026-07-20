@@ -1,0 +1,52 @@
+{
+  "actions": "Niveau de rappel : officine, établissements de santé et circuit de distribution pharmaceutique. Pour toute information médicale, contacter : Pour la métropole : 0 800 394 000 (Service et appel gratuits) Pour les DOM-TOM : 0 800 626 626 (Service et appel gratuits) Coordonnées du laboratoire : Sanofi-Aventis France, 82 avenue Raspail, 94255 Gentilly cedex Publié le 30/07/2020 - Mis à jour le 14/03/2021 Défaut qualité de la Protamine Choay 1000 UAH/ml : recommandations pour les professionnels de santé Surveillance Pharmacovigilance Publié le 22/10/2020 - Mis à jour le 30/03/2021 Défaut qualité de la Protamine Choay 1000 UAH/ml : recommandations pour les professionnels de santé Surveillance Pharmacovigilance Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référen",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2020-10-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PROTAMINE_CHOAY_1000_U_A_H_ML_SOLUTION_INJECTABLE_SANOFI_AVENTIS_E0432B868622",
+  "local_id": "SLUG_PROTAMINE_CHOAY_1000_U_A_H_ML_SOLUTION_INJECTABLE_SANOFI_AVENTIS_E0432B868622",
+  "lots": [
+    "147000A",
+    "147010A",
+    "154160A",
+    "156040A",
+    "157870A",
+    "157880A",
+    "160570A",
+    "164580A",
+    "169011A",
+    "169012A",
+    "169020A",
+    "173380A",
+    "177210A",
+    "182410A",
+    "182600A",
+    "182610A",
+    "190630A",
+    "207710A",
+    "objet"
+  ],
+  "manufacturer": null,
+  "medicine": "Protamine Choay 1000 U.A.H./ml, solution injectable - sanofi-aventis France (MED 20/A024/B014)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400931011736"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-10-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Protamine Choay 1000 U.A.H./ml, solution injectable - sanofi-aventis France (MED 20/A024/B014)"
+  },
+  "reason": "Protamine Choay 1000 U.A.H./ml, solution injectable - sanofi-aventis France (MED 20/A024/B014) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/10/2020 - MIS À JOUR LE 07/04/2021 A+ A- Le laboratoire sanofi-aventis France procède, en accord avec l’ANSM, au rappel des 17 lots en cours de validité sur le marché, mentionnés ci-dessous, de la spécialité PROTAMINE CHOAY 1000 U.A.H./ml, solution injectable (CIP 34009 310 117 3 6) Lot 147000A - 10/2020 Lot 147010A - 10/2020 Lot 154160A - 12/2020 Lot 156040A - 01/2021 Lot 157870A - 02/2021 Lot 157880A - 02/2021 Lot 160570A - 03/2021 Lot 164580A - 04/2021 Lot 169011A - 05/2021 Lot 169012A - 05/2021 Lot 169020A - 05/2021 Lot 173380A - 06/2021 Lot 177210A - 08/2021 Lot 182410A - 09/2021 Lot 182600A - 09/2021 Lot 182610A - 09/2021 Lot 190630A - 01/2022 ",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/protamine-choay-1000-u-a-h-ml-solution-injectable-sanofi-aventis-france-rappel-de-lots",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

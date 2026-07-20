@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : Etablissements de santé.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-09-16",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_MITOMYCINE_SUBSTIPHARM_20_MG_POUDRE_POUR_SOLUTION_INJECTABLE_PER_A4C515A140DB",
+  "local_id": "SLUG_MITOMYCINE_SUBSTIPHARM_20_MG_POUDRE_POUR_SOLUTION_INJECTABLE_PER_A4C515A140DB",
+  "lots": [
+    "mentionn",
+    "0-20022AAR"
+  ],
+  "manufacturer": null,
+  "medicine": "Mitomycine Substipharm 20 mg, poudre pour solution injectable/perfusion ou voie intravésicale - Laboratoire Substipharm (MED21/B023)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930186510"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-09-16",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Mitomycine Substipharm 20 mg, poudre pour solution injectable/perfusion ou voie intravésicale - Laboratoire Substipharm (MED21/B023)"
+  },
+  "reason": "Le laboratoire Substipharm procède, en accord avec l'ANSM, au rappel du lot mentionné ci-dessous de la spécialité MITOMYCINE SUBSTIPHARM 20 mg, poudre pour solution injectable/perfusion ou voie intravésicale (CIP 3400930186510) : Lot 0-20022AAR – Péremption : 02/2023 Ce rappel fait suite à la mise en évidence d’un résultat hors spécifications lors d’une étude de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/mitomycine-substipharm-20-mg-poudre-pour-solution-injectable-perfusion-ou-voie-intravesicale-laboratoire-substipharm",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

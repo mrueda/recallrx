@@ -4,7 +4,7 @@ import json
 import shutil
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any
+from typing import Any, Literal
 
 from recallrx.adapters.registry import DEFAULT_SOURCES, create_adapter
 from recallrx.http import HttpClient
@@ -12,6 +12,7 @@ from recallrx.models import RecallRecord
 
 
 DEFAULT_CONFIG_PATH = Path("recallrx.config.json")
+CollectionMode = Literal["incremental", "full"]
 
 
 def load_config(path: Path | None = None) -> dict[str, Any]:
@@ -41,44 +42,108 @@ def country_info(config: dict[str, Any], country: str) -> dict[str, Any]:
     return info
 
 
-def build_dataset(output: Path, sources: list[str] | None = None, config_path: Path | None = None) -> dict[str, Any]:
+def build_dataset(
+    output: Path,
+    sources: list[str] | None = None,
+    config_path: Path | None = None,
+    mode: CollectionMode = "incremental",
+) -> dict[str, Any]:
+    if mode not in {"incremental", "full"}:
+        raise ValueError(f"Unsupported collection mode: {mode}")
+
     output.mkdir(parents=True, exist_ok=True)
     config = load_config(config_path)
     selected_sources = sources or enabled_sources(config)
     http = HttpClient()
-    all_reports: list[dict[str, Any]] = []
     reports_by_country: dict[str, list[dict[str, Any]]] = {}
-    records_by_country: dict[str, list[RecallRecord]] = {}
+    collected_by_country: dict[str, list[RecallRecord]] = {}
+    selected_countries: set[str] = set()
 
     for source in selected_sources:
-        adapter = create_adapter(source, http=http, config=config)
+        adapter = create_adapter(source, http=http, config=config, mode=mode)
         records, report = adapter.build()
         country = adapter.country.lower()
-        report = {**report, "country": country}
-        all_reports.append(report)
+        selected_countries.add(country)
+        report = {**report, "country": country, "mode": mode}
         reports_by_country.setdefault(country, []).append(report)
-        records_by_country.setdefault(country, []).extend(records)
+        collected_by_country.setdefault(country, []).extend(records)
 
     countries = []
     configured_countries = list(config.get("countries", {}))
+    stored_countries_root = output / "countries"
+    stored_countries = (
+        sorted(path.name for path in stored_countries_root.iterdir() if path.is_dir())
+        if stored_countries_root.exists()
+        else []
+    )
     all_country_codes = configured_countries + [
-        country for country in sorted(records_by_country) if country not in configured_countries
+        country
+        for country in sorted(set(stored_countries) | set(collected_by_country))
+        if country not in configured_countries
     ]
     for country in all_country_codes:
-        records = records_by_country.get(country, [])
+        existing = load_country_records(output, country)
+        collected = deduplicate_records(collected_by_country.get(country, []))
+        if country not in selected_countries:
+            records = existing
+        elif mode == "incremental":
+            records = merge_records(existing, collected)
+        else:
+            records = collected
+
         info = country_info(config, country)
-        write_country(output, country, records, reports_by_country.get(country, []), info)
+        country_root = output / "countries" / country
+        if country in selected_countries or not country_root.exists():
+            reports = reports_by_country.get(country, [])
+            for report in reports:
+                report["stored_before"] = len(existing)
+                report["stored_after"] = len(records)
+            write_country(output, country, records, reports, info)
         countries.append({**info, "records": len(records)})
 
     metadata = {
         "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
+        "collection_mode": mode,
         "countries": countries,
         "default_country": config.get("default_country", countries[0]["code"] if countries else None),
-        "sources": selected_sources,
+        "sources": enabled_sources(config),
+        "sources_updated": selected_sources,
         "record_count": sum(item["records"] for item in countries),
     }
     write_json(output / "metadata.json", metadata)
     return metadata
+
+
+def load_country_records(output: Path, country: str) -> list[RecallRecord]:
+    recalls_root = output / "countries" / country / "recalls"
+    if not recalls_root.exists():
+        return []
+    return [
+        RecallRecord.from_json(json.loads(path.read_text(encoding="utf-8")))
+        for path in sorted(recalls_root.glob("*.json"))
+    ]
+
+
+def deduplicate_records(records: list[RecallRecord]) -> list[RecallRecord]:
+    return list({record.id: record for record in records}.values())
+
+
+def merge_records(existing: list[RecallRecord], collected: list[RecallRecord]) -> list[RecallRecord]:
+    merged = {record.id: record for record in existing}
+    ids_by_source = {
+        record.source_url.rstrip("/"): record.id
+        for record in existing
+        if record.source_url
+    }
+    for record in collected:
+        source_key = record.source_url.rstrip("/")
+        previous_id = ids_by_source.get(source_key)
+        if previous_id and previous_id != record.id:
+            merged.pop(previous_id, None)
+        merged[record.id] = record
+        if source_key:
+            ids_by_source[source_key] = record.id
+    return list(merged.values())
 
 
 def write_country(

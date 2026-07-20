@@ -1,0 +1,37 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-03-09",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ACUILIX_20_MG_12_5_MG_COMPRIME_PELLICULE_SECABLE_PFIZER_9B8072829638",
+  "local_id": "SLUG_ACUILIX_20_MG_12_5_MG_COMPRIME_PELLICULE_SECABLE_PFIZER_9B8072829638",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Acuilix 20 mg/12,5 mg, comprimé pelliculé sécable - Pfizer (MED22/A008/B008)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400933640798"
+    },
+    {
+      "system": "CIP",
+      "value": "3400937243940"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-03-09",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Acuilix 20 mg/12,5 mg, comprimé pelliculé sécable - Pfizer (MED22/A008/B008)"
+  },
+  "reason": "Acuilix 20 mg/12,5 mg, comprimé pelliculé sécable - Pfizer (MED22/A008/B008) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 09/03/2022 A+ A- Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Pfizer procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité : Acuilix 20 mg/12,5 mg, comprimé pelliculé sécable – boîte de 28 (CIP 34009 336 407 9 8) Lot : FF8041 – EXP : 04/2023 Acuilix 20 mg/12,5 mg, comprimé pelliculé sécable – boîte de 90 (CIP 34009 372 439 4 0) Lot : FF2031 – EXP : 04/2023 Ce rappel fait suite à la mise en évidence d’une impureté de type nitrosamine (N-nitroso-quinapril) dans le médicament à des taux supérieurs à la dose limite journalière acceptable.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/acuilix-20-mg-12-5-mg-comprime-pellicule-secable-pfizer",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

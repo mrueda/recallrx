@@ -1,0 +1,64 @@
+{
+  "actions": "Niveau de rappel : Structures dispensatrices de gaz médicinaux.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-06-02",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OXYGENE_MEDICINAL_LINDE_HEALTHCARE_200_BAR_GAZ_POUR_INHALATION_E_729EB92A9672",
+  "local_id": "SLUG_OXYGENE_MEDICINAL_LINDE_HEALTHCARE_200_BAR_GAZ_POUR_INHALATION_E_729EB92A9672",
+  "lots": [],
+  "manufacturer": "Linde France",
+  "medicine": "Oxygène Médicinal Linde Healthcare 200 bar, gaz pour inhalation, en bouteille, Entonox 170 bar, gaz pour inhalation, en bouteille",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400934353659"
+    },
+    {
+      "system": "CIP",
+      "value": "3400934354250"
+    },
+    {
+      "system": "CIP",
+      "value": "3400934354601"
+    },
+    {
+      "system": "CIP",
+      "value": "3400936876644"
+    },
+    {
+      "system": "CIP",
+      "value": "3400936876705"
+    },
+    {
+      "system": "CIP",
+      "value": "3400936876873"
+    },
+    {
+      "system": "CIP",
+      "value": "3400956057429"
+    },
+    {
+      "system": "CIP",
+      "value": "3400922410968"
+    },
+    {
+      "system": "CIP",
+      "value": "3400958295881"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-06-02",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Oxygène Médicinal Linde Healthcare 200 bar, gaz pour inhalation, en bouteille, Entonox 170 bar, gaz pour inhalation, en bouteille – Linde France"
+  },
+  "reason": "Le Laboratoire Linde France procède, en accord avec l’ANSM, au rappel de certaines bouteilles des spécialités mentionnées ci-dessous : Oxygène Médicinal Linde Healthcare 200 bar, gaz pour inhalation, en bouteille LIV02R d’un volume de 02L (code article 2020137) CIP 34009 343 536 5 9 Oxygène Médicinal Linde Healthcare 200 bar, gaz pour inhalation, en bouteille LIV05R d’un volume de 05L (code article 2020179) CIP 34009 343 542 5 0 Oxygène Médicinal Linde Healthcare 200 bar, gaz pour inhalation, en bouteille LIV15R d’un volume de 15L (code article 2020197) CIP 34009 343 546 0 1 Oxygène Médicinal Linde Healthcare 200 bar, gaz pour inhalation, en bouteille LIV02V d’un volume de 02L (code article 2020178) CIP 34009 368 766 4 4 Oxygène Médicinal Linde Healthcare 200 bar, gaz pour inhalation, en b",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/oxygene-medicinal-linde-healthcare-200-bar-gaz-pour-inhalation-en-bouteille-entonox-170-bar-gaz-pour-inhalation-en-bouteille-linde-france",
+  "warnings": [
+    "missing_lot"
+  ]
+}

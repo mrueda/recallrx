@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : établissements de santé concernés",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-09-30",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_BIOBAG_50_SACHET_LABORATOIRE_INRESA_7E81B5BD31D8",
+  "local_id": "SLUG_BIOBAG_50_SACHET_LABORATOIRE_INRESA_7E81B5BD31D8",
+  "lots": [
+    "mentionn",
+    "02-240924"
+  ],
+  "manufacturer": "Laboratoire Inresa",
+  "medicine": "Biobag 50, sachet",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2024-09-30",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Biobag 50, sachet – Laboratoire Inresa"
+  },
+  "reason": "Biobag 50, sachet – Laboratoire Inresa RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 30/09/2024 A+ A- Niveau de rappel : établissements de santé concernés Le laboratoire Inresa procède, en accord avec l'ANSM, au rappel du lot mentionné ci-dessous de la spécialité en accès compassionnel dénommée : Biobag 50, sachet Lot 02-240924 (Exp 26/09/2024) Ce rappel fait suite à la mise en évidence d’un résultat de stérilité non conforme lors d’un test de routine.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/biobag-50-sachet-laboratoire-inresa",
+  "warnings": [
+    "missing_cip"
+  ]
+}

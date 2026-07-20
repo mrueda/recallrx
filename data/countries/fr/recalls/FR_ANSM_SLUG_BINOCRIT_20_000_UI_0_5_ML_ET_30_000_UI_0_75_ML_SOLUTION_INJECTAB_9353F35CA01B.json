@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-07-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_BINOCRIT_20_000_UI_0_5_ML_ET_30_000_UI_0_75_ML_SOLUTION_INJECTAB_9353F35CA01B",
+  "local_id": "SLUG_BINOCRIT_20_000_UI_0_5_ML_ET_30_000_UI_0_75_ML_SOLUTION_INJECTAB_9353F35CA01B",
+  "lots": [
+    "1910040053",
+    "1912120008",
+    "2003110049"
+  ],
+  "manufacturer": null,
+  "medicine": "Binocrit 20 000 UI/0,5 ml et 30 000 UI/0,75 ml, solution injectable en seringue préremplie - Laboratoire Sandoz (MED20/A018/B010)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-07-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Binocrit 20 000 UI/0,5 ml et 30 000 UI/0,75 ml, solution injectable en seringue préremplie - Laboratoire Sandoz (MED20/A018/B010)"
+  },
+  "reason": "Binocrit 20 000 UI/0,5 ml et 30 000 UI/0,75 ml, solution injectable en seringue préremplie - Laboratoire Sandoz (MED20/A018/B010) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/07/2020 - MIS À JOUR LE 07/04/2021 A+ A- Le laboratoire SANDOZ procède, en accord avec l'ANSM, et par mesure de précaution, au rappel des lots mentionnés ci-dessous BINOCRIT 20 000 UI/0,5 ml, solution injectable en seringue préremplie (CIP : 34009 498 183 96) Lot 1910040053 (péremption 05/2021) Lot 1912120008 (péremption 05/2021) BINOCRIT 30 000 UI/0,75 ml, solution injectable en seringue préremplie (CIP : 34009 498 185 18) Lot 2003110049 (péremption 11/2021) Ce rappel fait suite à la mise en évidence de résultats hors spécifications lors des études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/binocrit-20-000-ui-0-5-ml-et-30-000-ui-0-75-ml-solution-injectable-en-seringue-preremplie-laboratoire-sandoz-rappel-de-lots",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

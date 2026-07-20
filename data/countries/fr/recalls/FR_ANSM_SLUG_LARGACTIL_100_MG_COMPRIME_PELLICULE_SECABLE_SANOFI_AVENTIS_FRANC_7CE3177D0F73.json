@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : Officine, Etablissements de santé et circuit de distribution pharmaceutique. Pour toute information médicale, contacter : Pour la métropole : 0 800 394 000 (Service et appel gratuits) Pour les DOM-TOM : 0 800 626 626 (Service et appel gratuits) Formulaire de contact en ligne : www.sanofimedicalinformation.com Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille per",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-03-15",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LARGACTIL_100_MG_COMPRIME_PELLICULE_SECABLE_SANOFI_AVENTIS_FRANC_7CE3177D0F73",
+  "local_id": "SLUG_LARGACTIL_100_MG_COMPRIME_PELLICULE_SECABLE_SANOFI_AVENTIS_FRANC_7CE3177D0F73",
+  "lots": [
+    "M197864",
+    "M208693"
+  ],
+  "manufacturer": null,
+  "medicine": "Largactil 100 mg, comprimé pelliculé sécable,sanofi aventis France (MED21/A003/B006)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930571248"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-03-15",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Largactil 100 mg, comprimé pelliculé sécable,sanofi aventis France (MED21/A003/B006)"
+  },
+  "reason": "Largactil 100 mg, comprimé pelliculé sécable,sanofi aventis France (MED21/A003/B006) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 15/03/2021 - MIS À JOUR LE 06/04/2021 A+ A- Le laboratoire sanofi-aventis France procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la spécialité : LARGACTIL 100 mg, comprimé pelliculé sécable – boîte de 30 comprimés (CIP 34009 305 712 4 8) Lot M197864 - exp : 05/2022 Lot M208693 - exp : 08/2023 Ce rappel fait suite à la mise en évidence d’un défaut de scellage des blisters.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/largactil-100-mg-comprime-pellicule-secable-sanofi-aventis-france",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

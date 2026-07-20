@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : Circuits de distribution pharmaceutique, Etablissements de santé. Les laboratoires Chaix et Du Marais procèdent, en accord avec l’ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité pharmaceutique Chlorure de sodium hypertonique 20 % Lavoisier, solution à diluer injectable – boite de 10 ampoules en verre de 10 ml (CIP 34009 363 413 6 4) : Lot n°1A326 (EXP 06/2024) Ce rappel fait suite à la mise en évidence d’un risque de présence de fissures à la base des ampoules en verre.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-02-04",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CHLORURE_DE_SODIUM_HYPERTONIQUE_20_LAVOISIER_SOLUTION_A_DILUER_I_034268B05ED9",
+  "local_id": "SLUG_CHLORURE_DE_SODIUM_HYPERTONIQUE_20_LAVOISIER_SOLUTION_A_DILUER_I_034268B05ED9",
+  "lots": [
+    "mentionn"
+  ],
+  "manufacturer": "Laboratoires Chaix et Du Marais (MED22/A006/B004)",
+  "medicine": "Chlorure de sodium hypertonique 20 % Lavoisier, solution à diluer injectable",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400936341364"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-02-04",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Chlorure de sodium hypertonique 20 % Lavoisier, solution à diluer injectable – Laboratoires Chaix et Du Marais (MED22/A006/B004)"
+  },
+  "reason": "Les laboratoires Chaix et Du Marais procèdent, en accord avec l’ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité pharmaceutique Chlorure de sodium hypertonique 20 % Lavoisier, solution à diluer injectable – boite de 10 ampoules en verre de 10 ml (CIP 34009 363 413 6 4) : Lot n°1A326 (EXP 06/2024) Ce rappel fait suite à la mise en évidence d’un risque de présence de fissures à la base des ampoules en verre.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/chlorure-de-sodium-hypertonique-20-lavoisier-solution-a-diluer-injectable-laboratoires-chaix-et-du-marais",
+  "warnings": []
+}

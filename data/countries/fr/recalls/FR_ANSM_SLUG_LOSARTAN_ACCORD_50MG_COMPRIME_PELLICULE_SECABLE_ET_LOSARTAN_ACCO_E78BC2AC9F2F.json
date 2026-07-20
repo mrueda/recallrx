@@ -1,0 +1,49 @@
+{
+  "actions": "Niveau de rappel : Officines, hôpitaux et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-11-10",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOSARTAN_ACCORD_50MG_COMPRIME_PELLICULE_SECABLE_ET_LOSARTAN_ACCO_E78BC2AC9F2F",
+  "local_id": "SLUG_LOSARTAN_ACCORD_50MG_COMPRIME_PELLICULE_SECABLE_ET_LOSARTAN_ACCO_E78BC2AC9F2F",
+  "lots": [
+    "PY07212",
+    "PY07148",
+    "PY07188",
+    "PY07211"
+  ],
+  "manufacturer": null,
+  "medicine": "Losartan Accord 50mg, comprimé pelliculé sécable et Losartan Accord 100mg, comprimé pelliculé - Accord Healthcare France SAS (MED 21/A042/B029)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400937516693"
+    },
+    {
+      "system": "CIP",
+      "value": "3400937516983"
+    },
+    {
+      "system": "CIP",
+      "value": "3400937515573"
+    },
+    {
+      "system": "CIP",
+      "value": "3400937515924"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-11-10",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Losartan Accord 50mg, comprimé pelliculé sécable et Losartan Accord 100mg, comprimé pelliculé - Accord Healthcare France SAS (MED 21/A042/B029)"
+  },
+  "reason": "Losartan Accord 50mg, comprimé pelliculé sécable et Losartan Accord 100mg, comprimé pelliculé - Accord Healthcare France SAS (MED 21/A042/B029) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 10/11/2021 A+ A- Niveau de rappel : Officines, hôpitaux et circuit de distribution pharmaceutique Le laboratoire Accord Healthcare France SAS, procède en accord avec l'ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous des spécialités : LOSARTAN ACCORD 50 mg, comprimé pelliculé sécable - boite de 30 (CIP 34009 375 166 9 3) - Lot PY07212 - Nov 2022 LOSARTAN ACCORD 50 mg, comprimé pelliculé sécable - boite de 90 (CIP 34009 375 169 8 3) - Lot PY07148 - Nov 2022 LOSARTAN ACCORD 100 mg, comprimé pelliculé - boite de 30 (CIP 34009 375 155 7 3) - Lot PY07188 - Nov 2022 LOSARTAN ACCORD 100",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/losartan-accord-50mg-comprime-pellicule-secable-et-losartan-accord-100mg-comprime-pellicule-accord-healthcare-france-sas",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

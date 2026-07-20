@@ -1,0 +1,51 @@
+{
+  "actions": "Niveau de rappel : Officines, circuit de distribution pharmaceutique Les laboratoires Cristers procèdent, en accord avec l'ANSM et par mesure de précaution, au rappel des cinq lots mentionnés ci-dessous des spécialités : LOSARTAN CRISTERS PHARMA 100 mg, comprimé pelliculé (Boîte de 90) - CIP 3400930119754 Lot LC56993 (péremption août-23) LOSARTAN CRISTERS 50 mg, comprimé pelliculé sécable (Boîte de 30) - CIP 3400939680507 Lot M012415 (péremption sept-23) Lot M010051 (péremption juin-23) LOSARTAN CRISTERS 50 mg, comprimé pelliculé sécable (Boîte de 90) - CIP 3400939680965 Lot M010052 (péremption juin-23) LOSARTAN/HYDROCHLOROTHIAZIDE CRISTERS PHARMA 50 mg/12,5 mg, comprimé pelliculé (Boîte de 30) - CIP 3400930173992 Lot LC51771 (péremption oct-21) Ce rappel fait suite à la mise en évidence d",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-10-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOSARTAN_CRISTERS_PHARMA_100_MG_COMPRIME_PELLICULE_LOSARTAN_CRIS_2D451E1E70AD",
+  "local_id": "SLUG_LOSARTAN_CRISTERS_PHARMA_100_MG_COMPRIME_PELLICULE_LOSARTAN_CRIS_2D451E1E70AD",
+  "lots": [
+    "LC56993",
+    "M012415",
+    "M010051",
+    "M010052",
+    "LC51771",
+    "MED21"
+  ],
+  "manufacturer": null,
+  "medicine": "Losartan Cristers Pharma 100 mg, comprimé pelliculé, Losartan Cristers 50 mg, comprimé pelliculé sécable et Losartan/Hydrochlorothiazide Cristers Pharma 50 mg/12,5 mg, comprimé pelliculé - Laboratoires Cristers (MED21/A033)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930119754"
+    },
+    {
+      "system": "CIP",
+      "value": "3400939680507"
+    },
+    {
+      "system": "CIP",
+      "value": "3400939680965"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930173992"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-10-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Losartan Cristers Pharma 100 mg, comprimé pelliculé, Losartan Cristers 50 mg, comprimé pelliculé sécable et Losartan/Hydrochlorothiazide Cristers Pharma 50 mg/12,5 mg, comprimé pelliculé - Laboratoires Cristers (MED21/A033)"
+  },
+  "reason": "Losartan Cristers Pharma 100 mg, comprimé pelliculé, Losartan Cristers 50 mg, comprimé pelliculé sécable et Losartan/Hydrochlorothiazide Cristers Pharma 50 mg/12,5 mg, comprimé pelliculé - Laboratoires Cristers (MED21/A033) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/10/2021 - MIS À JOUR LE 05/11/2021 A+ A- Niveau de rappel : Officines, circuit de distribution pharmaceutique Les laboratoires Cristers procèdent, en accord avec l'ANSM et par mesure de précaution, au rappel des cinq lots mentionnés ci-dessous des spécialités : LOSARTAN CRISTERS PHARMA 100 mg, comprimé pelliculé (Boîte de 90) - CIP 3400930119754 Lot LC56993 (péremption août-23) LOSARTAN CRISTERS 50 mg, comprimé pelliculé sécable (Boîte de 30) - CIP 3400939680507 Lot M012415 (péremption sept-23) Lot M010051 (péremption juin-",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/losartan-cristers-pharma-100-mg-comprime-pellicule-losartan-cristers-50-mg-comprime-pellicule-secable-et-losartan-hydrochlorothiazide-cristers-pharma-50-mg-12-5-mg-comprime-pellicule-laboratoires-cristers",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

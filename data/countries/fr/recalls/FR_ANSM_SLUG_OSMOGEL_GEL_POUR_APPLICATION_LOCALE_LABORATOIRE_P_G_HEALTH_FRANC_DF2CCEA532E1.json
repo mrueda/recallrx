@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : officines, hôpitaux et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-10-02",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OSMOGEL_GEL_POUR_APPLICATION_LOCALE_LABORATOIRE_P_G_HEALTH_FRANC_DF2CCEA532E1",
+  "local_id": "SLUG_OSMOGEL_GEL_POUR_APPLICATION_LOCALE_LABORATOIRE_P_G_HEALTH_FRANC_DF2CCEA532E1",
+  "lots": [
+    "5078C60108",
+    "5079C60104"
+  ],
+  "manufacturer": "Laboratoire P&G Health France (MED25/A019/B017)",
+  "medicine": "Osmogel, gel pour application locale",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-10-02",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Osmogel, gel pour application locale – Laboratoire P&G Health France (MED25/A019/B017)"
+  },
+  "reason": "Osmogel, gel pour application locale – Laboratoire P&G Health France (MED25/A019/B017) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 02/10/2025 A+ A- Niveau de rappel : officines, hôpitaux et circuit de distribution pharmaceutique Le Laboratoire P&G Health France procède, en accord avec l’ANSM, au rappel des 2 lots mentionnés ci-dessous de la spécialité : Osmogel, gel pour application locale (CIP : 34009 307 641 7 6) Lot 5078C60108, péremption 29/02/2028 Lot 5079C60104, péremption 29/02/2028 Ce rappel fait suite à la mise en évidence d’un défaut de soudure de l’extrémité de certains tubes, pouvant entrainer la présence de tubes ouverts au sein de ces lots.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/osmogel-gel-pour-application-locale-laboratoire-p-g-health-france",
+  "warnings": [
+    "missing_cip"
+  ]
+}

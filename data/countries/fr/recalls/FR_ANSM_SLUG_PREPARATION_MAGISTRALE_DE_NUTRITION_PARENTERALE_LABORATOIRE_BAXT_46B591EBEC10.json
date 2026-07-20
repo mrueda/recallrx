@@ -1,0 +1,28 @@
+{
+  "actions": "Ce rappel fait suite à la détection d’un signal positif au niveau d’un essai de stérilité et concerne un des trois flacons relatifs à ces productions. Tous les autres essais de stérilité en cours sont conformes à ce jour et font l’objet d’une surveillance particulière. Les prélèvements environnementaux sont également conformes à ce jour. Poches : 03 M 3 320 F06 601 à 615 (15 poches) Poches : 03 M 3 320 F07 731 à 736 (6 poches) Poches : 03 M 3 320 F07 738 à 744 (7 poches) Poche : 03 M 3 320 F08 721 (1 poche) Ce rappel est effectué en direct auprès des deux hôpitaux concernés. Aucun numéro d'alerte n'a donc été attribué à ce rappel. Pour toute information complémentaire appeler le 04 11 28 25 08. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informa",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-11-22",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PREPARATION_MAGISTRALE_DE_NUTRITION_PARENTERALE_LABORATOIRE_BAXT_46B591EBEC10",
+  "local_id": "SLUG_PREPARATION_MAGISTRALE_DE_NUTRITION_PARENTERALE_LABORATOIRE_BAXT_46B591EBEC10",
+  "lots": [],
+  "manufacturer": "Laboratoire Baxter Façonnage",
+  "medicine": "Préparation magistrale de nutrition parentérale",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-11-22",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Préparation magistrale de nutrition parentérale – Laboratoire Baxter Façonnage"
+  },
+  "reason": "Ce rappel fait suite à la détection d’un signal positif au niveau d’un essai de stérilité et concerne un des trois flacons relatifs à ces productions.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/preparation-magistrale-de-nutrition-parenterale-laboratoire-baxter-faconnage",
+  "warnings": [
+    "missing_cip",
+    "missing_lot"
+  ]
+}

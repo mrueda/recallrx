@@ -1,0 +1,35 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam estes lotes de medicamento em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper o tratamento. Logo que possível, devem contactar o médico para substituir por outro lote ou um medicamento alternativo. O Conselho Diretivo",
+  "authority": "INFARMED",
+  "confidence": 0.9,
+  "country": "PT",
+  "date": "2021-06-25",
+  "expiry_dates": [
+    "30/09/2021"
+  ],
+  "id": "PT_INFARMED_CI_075_CD_550_20_001_2021",
+  "local_id": "CI 075/CD/550.20.001",
+  "lots": [
+    "00019064"
+  ],
+  "manufacturer": "Laboratórios Pfizer, Lda., informou que",
+  "medicine": "Recolha voluntária de dois lotes do medicamento Champix® (0,5 mg) + (1 mg), comprimidos revestidos por película",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "5557301"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-06-22",
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária de dois lotes do medicamento Champix® (0,5 mg) + (1 mg), comprimidos revestidos por película"
+  },
+  "reason": "A empresa Laboratórios Pfizer, Lda., informou que irá proceder à recolha voluntária dos lotes n.º 00019064 e n.º 00020016 , ambos com a validade 30/09/2021 , do medicamento Champix® (0,5 mg) + (1 mg), comprimido revestidos por película com o número de registo 5557301 , por terem sido detetados valores elevados de uma impureza. Os Laboratórios Pfizer, Lda. confirmaram que foi detetada a presença da impureza N-nitroso-vareniclina acima do limite de ingestão diária aceitável calculado pela Pfizer de 733 ng/dia. Assim, o Infarmed determina a suspensão imediata da comercialização destes lotes. Face ao exposto:",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4462762&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-champix-0-5-mg-1-mg-comprimidos-revestidos-por-pelicula-lote-n-00019064-e-n-00020016-ambos-com-a-validade-30-09-2021&inheritRedirect=false",
+  "warnings": []
+}

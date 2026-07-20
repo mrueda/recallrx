@@ -1,0 +1,36 @@
+{
+  "actions": "Assim, o Infarmed determina a suspensão imediata da comercialização dos lotes acima identificados deste medicamento.",
+  "authority": "INFARMED",
+  "confidence": 0.6,
+  "country": "PT",
+  "date": "2021-11-25",
+  "expiry_dates": [
+    "31/12/2023"
+  ],
+  "id": "PT_INFARMED_ASSET_4965001",
+  "local_id": "ASSET_4965001",
+  "lots": [],
+  "manufacturer": "Guerbert",
+  "medicine": "Recolha voluntária de dois lotes do medicamento Dotarem",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "8787903"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-11-25",
+  "raw": {
+    "asset_id": "4965001",
+    "source": "pt_infarmed_search_result",
+    "title": "Recolha voluntária de dois lotes do medicamento Dotarem"
+  },
+  "reason": "\"A empresa Guerbert irá proceder à recolha voluntária de dois lotes do medicamento Dotarem, frasco para injetáveis 1x10 ml, com o número de registo 8787903, na sequência de ter sido identificado um defeito de qualidade que coloca em risco a estanquicidade nalguns frascos dos lotes 21GD006A04 (validade:31/12/2023 ) e 21GD006B05 (validade: 31/12/2023). Assim, o Infarmed determina a suspensão imediata da comercialização dos lotes acima identificados deste medicamento. Face ao exposto, as entidades que possuam este lote de medicamento em stock não o podem vender, dispensar ou administrar, devendo proceder à sua devolução. O Conselho Diretivo\"",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4965001&_101_type=content&_101_urlTitle=recolha-voluntaria-de-dois-lotes-do-medicamento-dotarem&inheritRedirect=false",
+  "warnings": [
+    "source_detail_fallback",
+    "missing_lot"
+  ]
+}

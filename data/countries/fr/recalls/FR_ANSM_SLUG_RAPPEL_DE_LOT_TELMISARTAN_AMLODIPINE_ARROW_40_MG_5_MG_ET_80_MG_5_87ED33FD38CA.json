@@ -1,0 +1,34 @@
+{
+  "actions": "Niveau de rappel : circuit de distribution pharmaceutique, officines et patients",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-01-13",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_RAPPEL_DE_LOT_TELMISARTAN_AMLODIPINE_ARROW_40_MG_5_MG_ET_80_MG_5_87ED33FD38CA",
+  "local_id": "SLUG_RAPPEL_DE_LOT_TELMISARTAN_AMLODIPINE_ARROW_40_MG_5_MG_ET_80_MG_5_87ED33FD38CA",
+  "lots": [
+    "mentionn",
+    "21221",
+    "est"
+  ],
+  "manufacturer": "Laboratoire Arrow Génériques (MED23/A004)",
+  "medicine": "Rappel de lot – Telmisartan/Amlodipine Arrow 40 mg/5 mg et 80 mg/5 mg, comprimé",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930222713"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-01-13",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Rappel de lot – Telmisartan/Amlodipine Arrow 40 mg/5 mg et 80 mg/5 mg, comprimé – Laboratoire Arrow Génériques (MED23/A004)"
+  },
+  "reason": "Rappel de lot – Telmisartan/Amlodipine Arrow 40 mg/5 mg et 80 mg/5 mg, comprimé – Laboratoire Arrow Génériques (MED23/A004) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 13/01/2023 A+ A- Niveau de rappel : circuit de distribution pharmaceutique, officines et patients Le laboratoire Arrow Génériques procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous des spécialités : Telmisartan/Amlodipine Arrow 40 mg/5 mg, comprimé - boite de 90 (CIP 34009 302 227 1 3) : Lot 21221 (EXP 12/2023) Telmisartan/Amlodipine Arrow 80 mg/5 mg, comprimé - boite de 90 Lot 21221 (EXP 12/2023) Ce rappel fait suite à la détection, à ce jour, d’un étui de Telmisartan/Amlodipine Arrow 80 mg/5 mg dans le lot 21221 de Telmisartan/Amlodipine Arrow 40 mg/5 mg.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/rappel-de-lot-telmisartan-amlodipine-arrow-40-mg-5-mg-et-80-mg-5-mg-comprime-laboratoire-arrow-generiques",
+  "warnings": []
+}

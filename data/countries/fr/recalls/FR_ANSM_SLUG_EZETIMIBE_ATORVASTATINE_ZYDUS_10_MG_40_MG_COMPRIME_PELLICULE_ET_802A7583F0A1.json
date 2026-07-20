@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-06-18",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_EZETIMIBE_ATORVASTATINE_ZYDUS_10_MG_40_MG_COMPRIME_PELLICULE_ET_802A7583F0A1",
+  "local_id": "SLUG_EZETIMIBE_ATORVASTATINE_ZYDUS_10_MG_40_MG_COMPRIME_PELLICULE_ET_802A7583F0A1",
+  "lots": [
+    "BEG10124B"
+  ],
+  "manufacturer": "Laboratoire Zydus France (MED25/A011)",
+  "medicine": "Ezetimibe/Atorvastatine Zydus 10 mg/40 mg, comprimé pelliculé et Ezetimibe/Atorvastatine Zydus 10 mg/80 mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-06-18",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Ezetimibe/Atorvastatine Zydus 10 mg/40 mg, comprimé pelliculé et Ezetimibe/Atorvastatine Zydus 10 mg/80 mg, comprimé pelliculé – Laboratoire Zydus France (MED25/A011)"
+  },
+  "reason": "Ezetimibe/Atorvastatine Zydus 10 mg/40 mg, comprimé pelliculé et Ezetimibe/Atorvastatine Zydus 10 mg/80 mg, comprimé pelliculé – Laboratoire Zydus France (MED25/A011) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 18/06/2025 A+ A- Niveau de rappel : officines et circuit de distribution pharmaceutique Le laboratoire Zydus France procède, en accord avec l'ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous des spécialités : Ezetimibe/Atorvastatine Zydus 10 mg/40 mg, comprimé pelliculé – boite de 90 (CIP : 34009 302 850 8 4) Lot BEG10124B – 10/2026 Ezetimibe/Atorvastatine Zydus 10 mg/80 mg, comprimé pelliculé – boite de 90 (CIP : 34009 302 850 8 4) Lot BEG10124B – 10/2026 Ce rappel fait suite à la mise en évidence d'une erreur de conditionnement avec utilisation d’étuis d’",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/ezetimibe-atorvastatine-zydus-10-mg-40-mg-comprime-pellicule-et-ezetimibe-atorvastatine-zydus-10-mg-80-mg-comprime-pellicule-laboratoire-zydus-france",
+  "warnings": [
+    "missing_cip"
+  ]
+}

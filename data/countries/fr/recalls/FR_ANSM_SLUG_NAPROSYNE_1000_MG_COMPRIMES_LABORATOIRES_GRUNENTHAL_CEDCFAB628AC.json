@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé, circuit de distribution pharmaceutique, patients Les Laboratoires Grünenthal, procèdent, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité : Naprosyne 1000 mg, comprimés, (boîte de 8 - CIP 3400933449933) Lot 237T02 - 05/2025 Lot 237T03 - 05/2025 Lot 237T04 - 05/2025 Lot 238V01 - 12/2025 Ce rappel fait suite à l'identification d'une erreur de transcription en Braille du dosage sur le conditionnement secondaire : il est mentionné \"500 mg\" au lieu de \"1000 mg\". Les mentions imprimées sur le conditionnement secondaire sont conformes, seul l'encodage en Braille est erroné. Les comprimés, les blisters et la notice contenus dans les étuis présentant le défaut de Braille correspondent bien à Naprosyne 1000 mg, co",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-09-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_NAPROSYNE_1000_MG_COMPRIMES_LABORATOIRES_GRUNENTHAL_CEDCFAB628AC",
+  "local_id": "SLUG_NAPROSYNE_1000_MG_COMPRIMES_LABORATOIRES_GRUNENTHAL_CEDCFAB628AC",
+  "lots": [
+    "237T02",
+    "237T03",
+    "237T04",
+    "238V01"
+  ],
+  "manufacturer": "Laboratoires Grünenthal (MED23/A017/B016)",
+  "medicine": "Naprosyne 1000 mg, comprimés",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400933449933"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-09-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Naprosyne 1000 mg, comprimés – Laboratoires Grünenthal (MED23/A017/B016)"
+  },
+  "reason": "Naprosyne 1000 mg, comprimés – Laboratoires Grünenthal (MED23/A017/B016) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 27/09/2023 A+ A- Niveau de rappel : Officines, établissements de santé, circuit de distribution pharmaceutique, patients Les Laboratoires Grünenthal, procèdent, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité : Naprosyne 1000 mg, comprimés, (boîte de 8 - CIP 3400933449933) Lot 237T02 - 05/2025 Lot 237T03 - 05/2025 Lot 237T04 - 05/2025 Lot 238V01 - 12/2025 Ce rappel fait suite à l'identification d'une erreur de transcription en Braille du dosage sur le conditionnement secondaire : il est mentionné \"500 mg\" au lieu de \"1000 mg\".",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/naprosyne-1000-mg-comprimes-laboratoires-grunenthal",
+  "warnings": []
+}

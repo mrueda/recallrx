@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique, en direct auprès des établissements de santé ayant reçu le lot.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-02-13",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_AGYRAX_COMPRIME_SECABLE_LABORATOIRE_GEN_ORPH_45770289725E",
+  "local_id": "SLUG_AGYRAX_COMPRIME_SECABLE_LABORATOIRE_GEN_ORPH_45770289725E",
+  "lots": [
+    "FR1519"
+  ],
+  "manufacturer": "Laboratoire Gen.Orph (MED23/A009)",
+  "medicine": "Agyrax, comprimé sécable",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400933488383"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-02-13",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Agyrax, comprimé sécable – Laboratoire Gen.Orph (MED23/A009)"
+  },
+  "reason": "Ce rappel fait suite à la mise en évidence de taches sur certains comprimés.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/agyrax-comprime-secable-laboratoire-gen-orph",
+  "warnings": []
+}

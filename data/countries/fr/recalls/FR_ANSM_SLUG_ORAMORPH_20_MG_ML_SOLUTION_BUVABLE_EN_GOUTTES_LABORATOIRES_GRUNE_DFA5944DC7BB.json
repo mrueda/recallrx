@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Les Laboratoires Grünenthal procèdent, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la spécialité : Oramorph 20 mg/1 ml, solution buvable en gouttes (CIP 3400936587281) Lot n° 22025401, péremption 06/2025 Lot n° 22025501, péremption 06/2025 Lot n° 22025601, péremption 06/2025 Lot n° 22025701, péremption 06/2025 Lot n° 22046601, péremption 12/2025 Lot n° 22046701, péremption 12/2025 Lot n° 22046801, péremption 12/2025 Lot n° 23009401, péremption 02/2026 Lot n° 23009501, péremption 02/2026 Lot n° 23009601, péremption 02/2026 Lot n° 23009701, péremption 02/2026 Le rappel des lots concerne des boites contenant l’ancienne notice, de façon à assurer un",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-03-26",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ORAMORPH_20_MG_ML_SOLUTION_BUVABLE_EN_GOUTTES_LABORATOIRES_GRUNE_DFA5944DC7BB",
+  "local_id": "SLUG_ORAMORPH_20_MG_ML_SOLUTION_BUVABLE_EN_GOUTTES_LABORATOIRES_GRUNE_DFA5944DC7BB",
+  "lots": [],
+  "manufacturer": "Laboratoires Grünenthal (MED25/A007/B009)",
+  "medicine": "Oramorph 20 mg/ml, solution buvable en gouttes",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400936587281"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-03-26",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Oramorph 20 mg/ml, solution buvable en gouttes – Laboratoires Grünenthal (MED25/A007/B009)"
+  },
+  "reason": "Oramorph 20 mg/ml, solution buvable en gouttes – Laboratoires Grünenthal (MED25/A007/B009) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 26/03/2025 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Les Laboratoires Grünenthal procèdent, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la spécialité : Oramorph 20 mg/1 ml, solution buvable en gouttes (CIP 3400936587281) Lot n° 22025401, péremption 06/2025 Lot n° 22025501, péremption 06/2025 Lot n° 22025601, péremption 06/2025 Lot n° 22025701, péremption 06/2025 Lot n° 22046601, péremption 12/2025 Lot n° 22046701, péremption 12/2025 Lot n° 22046801, péremption 12/2025 Lot n° 23009401, péremption 02/2026 Lot n° 23009501, péremption 02/2026 Lot n° 23",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/oramorph-20-mg-ml-solution-buvable-en-gouttes-laboratoires-grunenthal",
+  "warnings": [
+    "missing_lot"
+  ]
+}

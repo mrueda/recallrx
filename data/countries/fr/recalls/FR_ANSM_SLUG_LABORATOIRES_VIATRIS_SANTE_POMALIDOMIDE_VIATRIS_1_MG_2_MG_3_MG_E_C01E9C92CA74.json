@@ -1,0 +1,47 @@
+{
+  "actions": "Niveau de rappel : établissements de santé, circuit de distribution pharmaceutique et patients. Les laboratoires Viatris Santé procèdent, en accord avec l'ANSM et par mesure de précaution, au rappel de tous les lots actuellement sur le marché, des spécialités mentionnées ci-dessous : Pomalidomide Viatris 1 mg, gélule (blister de 21 gélules - CIP 3400930291283) Lot 8188963 (Exp : 06/26) Pomalidomide Viatris 2 mg, gélule (blister de 21 gélules - CIP 3400930291320) Lot 8190673 (Exp : 03/26) Pomalidomide Viatris 3 mg, gélule (blister de 21 gélules - CIP 3400930291368) Lot 8190665 (Exp : 06/26) Pomalidomide Viatris 4 mg, gélule (blister de 21 gélules - CIP 3400930291412) Lot 8190667 (Exp : 06/26) Ce rappel fait suite à la mise en évidence de traces de poudre de produit, dans un très faible nomb",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2025-01-20",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LABORATOIRES_VIATRIS_SANTE_POMALIDOMIDE_VIATRIS_1_MG_2_MG_3_MG_E_C01E9C92CA74",
+  "local_id": "SLUG_LABORATOIRES_VIATRIS_SANTE_POMALIDOMIDE_VIATRIS_1_MG_2_MG_3_MG_E_C01E9C92CA74",
+  "lots": [
+    "8188963",
+    "8190673",
+    "8190665",
+    "8190667"
+  ],
+  "manufacturer": "Pomalidomide Viatris 1 mg, 2 mg, 3 mg et 4 mg, gélule (MED25/B002)",
+  "medicine": "Laboratoires Viatris Santé",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930291283"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930291320"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930291368"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930291412"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-01-20",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Laboratoires Viatris Santé – Pomalidomide Viatris 1 mg, 2 mg, 3 mg et 4 mg, gélule (MED25/B002)"
+  },
+  "reason": "Les laboratoires Viatris Santé procèdent, en accord avec l'ANSM et par mesure de précaution, au rappel de tous les lots actuellement sur le marché, des spécialités mentionnées ci-dessous : Pomalidomide Viatris 1 mg, gélule (blister de 21 gélules - CIP 3400930291283) Lot 8188963 (Exp : 06/26) Pomalidomide Viatris 2 mg, gélule (blister de 21 gélules - CIP 3400930291320) Lot 8190673 (Exp : 03/26) Pomalidomide Viatris 3 mg, gélule (blister de 21 gélules - CIP 3400930291368) Lot 8190665 (Exp : 06/26) Pomalidomide Viatris 4 mg, gélule (blister de 21 gélules - CIP 3400930291412) Lot 8190667 (Exp : 06/26) Ce rappel fait suite à la mise en évidence de traces de poudre de produit, dans un très faible nombre d’alvéoles des blisters de ces lots.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/laboratoires-viatris-sante-pomalidomide-viatris-1-mg-2-mg-3-mg-et-4-mg-gelule",
+  "warnings": []
+}

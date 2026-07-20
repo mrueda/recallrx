@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-06-13",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_IBUPROFENE_BIOGARAN_CONSEIL_400_MG_CAPSULE_MOLLE_LABORATOIRE_BIO_DB7B5C816B50",
+  "local_id": "SLUG_IBUPROFENE_BIOGARAN_CONSEIL_400_MG_CAPSULE_MOLLE_LABORATOIRE_BIO_DB7B5C816B50",
+  "lots": [
+    "L230097",
+    "L230094",
+    "L230194",
+    "L230801"
+  ],
+  "manufacturer": "Laboratoire Biogaran (MED24/A006)",
+  "medicine": "Ibuprofène Biogaran Conseil 400 mg, capsule molle",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2024-06-13",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Ibuprofène Biogaran Conseil 400 mg, capsule molle – Laboratoire Biogaran (MED24/A006)"
+  },
+  "reason": "Ibuprofène Biogaran Conseil 400 mg, capsule molle – Laboratoire Biogaran (MED24/A006) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 13/06/2024 A+ A- Niveau de rappel : officines et circuit de distribution pharmaceutique Le laboratoire Biogaran procède, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous de la spécialité Ibuprofène Biogaran Conseil 400 mg, capsule molle boîte de 10 (CIP : 3400930258613) : Lot L230097– EXP 02/2026 Lot L230094 – EXP 02/2026 Lot L230194 – EXP 03/2026 Lot L230801 – EXP 10/2026 Ce rappel fait suite à la décision de suspension de l’AMM de cette spécialité consécutivement à une réévaluation européenne du dossier d’AMM concluant à l’absence de démonstration de la bioéquivalence entre cette spécialité générique et la spécialité de référence.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/ibuprofene-biogaran-conseil-400-mg-capsule-molle-laboratoire-biogaran",
+  "warnings": [
+    "missing_cip"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "actions": "Ce rappel fait suite à la mise en évidence de résultats hors spécifications lors des études de stabilité. Le laboratoire ZENTIVA France précise qu'aucun cas de pharmacovigilance en relation avec ce défaut qualité n'a été rapporté à la date du rappel. Niveaux de rappel : Officines et circuit de distribution pharmaceutique. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnal",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-07-09",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PANTOPRAZOLE_ZENTIVA_40_MG_COMPRIME_GASTRO_RESISTANT_LABORATOIRE_0747B6E15DDF",
+  "local_id": "SLUG_PANTOPRAZOLE_ZENTIVA_40_MG_COMPRIME_GASTRO_RESISTANT_LABORATOIRE_0747B6E15DDF",
+  "lots": [
+    "CRL2P2",
+    "ARL2P0",
+    "DRL2P2"
+  ],
+  "manufacturer": null,
+  "medicine": "Pantoprazole Zentiva 40 mg, comprimé gastro-résistant - Laboratoire Zentiva France (MED 21/A022)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938782172"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938782462"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-07-09",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Pantoprazole Zentiva 40 mg, comprimé gastro-résistant - Laboratoire Zentiva France (MED 21/A022)"
+  },
+  "reason": "Le laboratoire ZENTIVA France procède, en accord avec l'ANSM, au rappel des lots listés ci-dessous de la spécialité PANTOPRAZOLE 40 mg, comprimé gastro-résistants PANTOPRAZOLE 40 mg, comprimé gastro-résistant, boite de 14 (CIP 34009 387 821 7 2) Lot CRL2P2 - EXP 07/2022 PANTOPRAZOLE 40 mg, comprimé gastro-résistant, boite de 28 (CIP 34009 387 824 6 2) Lot ARL2P0 - EXP 07/2022 Lot DRL2P2 - EXP 07/2022 Ce rappel fait suite à la mise en évidence de résultats hors spécifications lors des études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/pantoprazole-zentiva-40-mg-comprime-gastro-resistant-laboratoire-zentiva-france",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

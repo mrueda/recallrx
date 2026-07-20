@@ -1,0 +1,33 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam este lote de medicamento em stock não o podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a este lote não devem interromper o tratamento. Logo que possível, devem solicitar a substituição por outro lote ou pedir ao médico ou farmacêutico a indicação de um medicamento alternativo. A Vogal do Conselho Diretivo Erica Viegas",
+  "authority": "INFARMED",
+  "confidence": 0.78,
+  "country": "PT",
+  "date": "2025-02-11",
+  "expiry_dates": [],
+  "id": "PT_INFARMED_CI_005_CD_550_20_001_2025",
+  "local_id": "CI 005/CD/550.20.001",
+  "lots": [],
+  "manufacturer": "Hikma Farmacêutica (Portugal)",
+  "medicine": "Recolha voluntária de lote do medicamento Lacosamida Hikma, 10 mg ml, Solução para perfusão",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "5867759"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-02-10",
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária de lote do medicamento Lacosamida Hikma, 10 mg ml, Solução para perfusão"
+  },
+  "reason": "A empresa Hikma Farmacêutica (Portugal), S.A. irá proceder à recolha voluntária do lote 24020991, prazo de validade 04/2026, do medicamento Lacosamida Hikma, 10 mg/ml, solução para perfusão n.º de registo 5867759 - 1 frasco para injetáveis 20 ml, por terem sido detetadas partículas visíveis.",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=10929268&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-lacosamida-hikma-10-mg-ml-solucao-para-perfusao-lote-24020991-prazo-de-validade-04-20-1&inheritRedirect=false",
+  "warnings": [
+    "missing_lot"
+  ]
+}

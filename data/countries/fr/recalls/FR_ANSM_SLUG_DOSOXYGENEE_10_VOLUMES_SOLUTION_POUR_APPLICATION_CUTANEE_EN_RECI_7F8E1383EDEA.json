@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : Officine et circuit de distribution pharmaceutique. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à la disposition du public ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-05-17",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_DOSOXYGENEE_10_VOLUMES_SOLUTION_POUR_APPLICATION_CUTANEE_EN_RECI_7F8E1383EDEA",
+  "local_id": "SLUG_DOSOXYGENEE_10_VOLUMES_SOLUTION_POUR_APPLICATION_CUTANEE_EN_RECI_7F8E1383EDEA",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Dosoxygénée 10 volumes, solution pour application cutanée en récipient unidose - Laboratoires Gifrer Barbezat (MED21/A010)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-05-17",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Dosoxygénée 10 volumes, solution pour application cutanée en récipient unidose - Laboratoires Gifrer Barbezat (MED21/A010)"
+  },
+  "reason": "Lots : AE1513 (Date de péremption : 06/2023) AE1515 (Date de péremption : 06/2023) Ce rappel fait suite à un risque de défaut de stérilité sur les lignes de fabrication des unidoses.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/dosoxygenee-10-volumes-solution-pour-application-cutanee-en-recipient-unidose-laboratoires-gifrer-barbezat",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

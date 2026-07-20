@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : hôpital. Ce rappel est effectué en direct auprés d'un seul hôpital. Aucun numéro d'alerte n'a donc été attribué à ce rappel. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, d",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-01-09",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_NETSPOT_KIT_FOR_THE_PREPARATION_OF_GA_68_DOTATATE_INJECTION_FOR_45BF626D24F8",
+  "local_id": "SLUG_NETSPOT_KIT_FOR_THE_PREPARATION_OF_GA_68_DOTATATE_INJECTION_FOR_45BF626D24F8",
+  "lots": [
+    "mentionn"
+  ],
+  "manufacturer": null,
+  "medicine": "Netspot (Kit for the preparation of Ga 68 dotatate injection for intravenous use) 40 mcg dotatate - Laboratoire Advanced Accelerator Applications",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-01-09",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Netspot (Kit for the preparation of Ga 68 dotatate injection for intravenous use) 40 mcg dotatate - Laboratoire Advanced Accelerator Applications"
+  },
+  "reason": "Ce rappel fait suite à un défaut du sertissage du flacon n°2 de solution tampon.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/netspot-kit-for-the-preparation-of-ga-68-dotatate-injection-for-intravenous-use-40-mcg-dotatate-laboratoire-advanced-accelerator-applications",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

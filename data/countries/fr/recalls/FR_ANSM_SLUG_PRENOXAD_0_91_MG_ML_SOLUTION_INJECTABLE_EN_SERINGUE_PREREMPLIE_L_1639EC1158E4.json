@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : Officines, Etablissements de santé et circuit de distribution pharmaceutique. Les Laboratoires Ethypharm procèdent, en accord avec l'ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Prenoxad 0,91 mg/ml, solution injectable en seringue préremplie (CIP : 34009 301 545 7 1) : Lot 0130205 - Exp : 08/2023 Ce rappel fait suite à la détection de l'absence des deux aiguilles dans quelques kits de Prenoxad 0,91 mg/ml, solution injectable en seringue préremplie. Un nouveau lot conforme est d'ores et déjà disponible chez le dépositaire Conduite à tenir vis-à-vis des utilisateurs finaux Identifier : Pour les officines : les professionnels de santé, structures spécialisées (ex : CSAPA/CAARUD) ou les patients ayant reçus un kit du lot impacté (pour rappel, Prenoxad peut ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-10-26",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PRENOXAD_0_91_MG_ML_SOLUTION_INJECTABLE_EN_SERINGUE_PREREMPLIE_L_1639EC1158E4",
+  "local_id": "SLUG_PRENOXAD_0_91_MG_ML_SOLUTION_INJECTABLE_EN_SERINGUE_PREREMPLIE_L_1639EC1158E4",
+  "lots": [
+    "mentionn",
+    "0130205",
+    "conforme",
+    "impact"
+  ],
+  "manufacturer": "Rappel de lot et conduite à tenir vis à vis des utilisateurs finaux (MED22/A027/B023)",
+  "medicine": "Prenoxad 0,91 mg/ml, solution injectable en seringue préremplie – Laboratoires Ethypharm",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-10-26",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Prenoxad 0,91 mg/ml, solution injectable en seringue préremplie – Laboratoires Ethypharm – Rappel de lot et conduite à tenir vis à vis des utilisateurs finaux (MED22/A027/B023)"
+  },
+  "reason": "Les Laboratoires Ethypharm procèdent, en accord avec l'ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Prenoxad 0,91 mg/ml, solution injectable en seringue préremplie (CIP : 34009 301 545 7 1) : Lot 0130205 - Exp : 08/2023 Ce rappel fait suite à la détection de l'absence des deux aiguilles dans quelques kits de Prenoxad 0,91 mg/ml, solution injectable en seringue préremplie.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/prenoxad-0-91-mg-ml-solution-injectable-en-seringue-preremplie-laboratoires-ethypharm-rappel-de-lot-et-conduite-a-tenir-vis-a-vis-des-utilisateurs-finaux",
+  "warnings": [
+    "missing_cip"
+  ]
+}

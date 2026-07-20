@@ -1,0 +1,145 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique Les laboratoires Eurogenerics procèdent, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous des spécialités : IRBESARTAN IRBESARTAN EG 150 mg, comprimé pelliculé – boite de 30 CIP 3400938621914 Lot 84465 (Exp 11/2023) IRBESARTAN EG 150 mg, comprimé pelliculé – boite de 90 CIP 3400938632040 Lot 84465 (Exp 11/2023) IRBESARTAN EG 300 mg, comprimé pelliculé – boite de 30 CIP 3400938679007 Lot 70569 (Exp 02/2022) IRBESARTAN EG 300 mg, comprimé pelliculé - boite de 90 CIP 3400938681185 Lot 70570 (Exp 02/2022) IRBESARTAN/HYDROCHLOROTHIAZIDE EG 150 mg/12,5 mg, comprimé pelliculé - boite de 30 CIP 3400941967382 Lot 70322 (Exp 01/2022) IRBESARTAN/HYDROCHLOROTHIAZIDE EG 150 mg/12,5 mg, comprim",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-07-07",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_SPECIALITES_A_BASE_DIRBESARTAN_ET_DE_VALSARTAN_LABORATOIRES_EURO_17E14EC8D533",
+  "local_id": "SLUG_SPECIALITES_A_BASE_DIRBESARTAN_ET_DE_VALSARTAN_LABORATOIRES_EURO_17E14EC8D533",
+  "lots": [
+    "84465",
+    "70569",
+    "70570",
+    "70322",
+    "111FAD",
+    "64228",
+    "64052",
+    "11FG5C",
+    "11FG5A",
+    "11A5VA",
+    "11AAVA",
+    "11APVA",
+    "11DHSA",
+    "11J1XA",
+    "11DHUA",
+    "11DHUH",
+    "11EG2A",
+    "11EFVE",
+    "11EFVD",
+    "11EGVA",
+    "11FL1C",
+    "11FKVC",
+    "11J2VG",
+    "11J2VD",
+    "11J2VC",
+    "11J5VC",
+    "11K4XA",
+    "11K4XC"
+  ],
+  "manufacturer": null,
+  "medicine": "Spécialités à base d’Irbésartan et de Valsartan - Laboratoires Eurogenerics (MED 21/A020/B016)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938621914"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938632040"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938679007"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938681185"
+    },
+    {
+      "system": "CIP",
+      "value": "3400941967382"
+    },
+    {
+      "system": "CIP",
+      "value": "3400941967733"
+    },
+    {
+      "system": "CIP",
+      "value": "3400941971464"
+    },
+    {
+      "system": "CIP",
+      "value": "3400941971983"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930177983"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930178027"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930178249"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930178454"
+    },
+    {
+      "system": "CIP",
+      "value": "3400949105496"
+    },
+    {
+      "system": "CIP",
+      "value": "3400949105786"
+    },
+    {
+      "system": "CIP",
+      "value": "3400949106097"
+    },
+    {
+      "system": "CIP",
+      "value": "3400949106387"
+    },
+    {
+      "system": "CIP",
+      "value": "3400949106677"
+    },
+    {
+      "system": "CIP",
+      "value": "3400949107049"
+    },
+    {
+      "system": "CIP",
+      "value": "3400949819348"
+    },
+    {
+      "system": "CIP",
+      "value": "3400949819638"
+    },
+    {
+      "system": "CIP",
+      "value": "3400949820528"
+    },
+    {
+      "system": "CIP",
+      "value": "3400949820818"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-07-07",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Spécialités à base d’Irbésartan et de Valsartan - Laboratoires Eurogenerics (MED 21/A020/B016)"
+  },
+  "reason": "Spécialités à base d’Irbésartan et de Valsartan - Laboratoires Eurogenerics (MED 21/A020/B016) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 07/07/2021 A+ A- Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique Les laboratoires Eurogenerics procèdent, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous des spécialités : IRBESARTAN IRBESARTAN EG 150 mg, comprimé pelliculé – boite de 30 CIP 3400938621914 Lot 84465 (Exp 11/2023) IRBESARTAN EG 150 mg, comprimé pelliculé – boite de 90 CIP 3400938632040 Lot 84465 (Exp 11/2023) IRBESARTAN EG 300 mg, comprimé pelliculé – boite de 30 CIP 3400938679007 Lot 70569 (Exp 02/2022) IRBESARTAN EG 300 mg, comprimé pelliculé - boite de 90 CIP 3400938681185 Lot 70570 (Exp 02/2022) IRBESARTAN/HYDROCHLOROTHIA",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/specialites-a-base-dirbesartan-et-de-valsartan-laboratoires-eurogenerics",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

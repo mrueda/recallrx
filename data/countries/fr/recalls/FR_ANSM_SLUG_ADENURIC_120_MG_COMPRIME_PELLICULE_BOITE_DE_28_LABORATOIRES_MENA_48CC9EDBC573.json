@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : Officines, hôpitaux et circuit de distribution pharmaceutique. Les laboratoires Menarini France procèdent, en accord avec l'ANSM, au rappel du lot mentionné ci-dessous de la spécialité : ADENURIC 120 mg, comprimé pelliculé (CIP 34009 385 725 0 6) Lot 08002 - péremption 01/2023 Ce rappel fait suite à la découverte sur le marché français de plusieurs boîtes d’ADENURIC 120 mg destinées au marché espagnol. Les Laboratoires Menarini France précisent que la spécialité ADENURIC 120 mg destinée au marché espagnol est strictement identique à la spécialité destinée au marché français. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - ",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-11-18",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ADENURIC_120_MG_COMPRIME_PELLICULE_BOITE_DE_28_LABORATOIRES_MENA_48CC9EDBC573",
+  "local_id": "SLUG_ADENURIC_120_MG_COMPRIME_PELLICULE_BOITE_DE_28_LABORATOIRES_MENA_48CC9EDBC573",
+  "lots": [
+    "mentionn",
+    "08002"
+  ],
+  "manufacturer": null,
+  "medicine": "Adenuric 120 mg, comprimé pelliculé, boite de 28 - Laboratoires Menarini France (MED21/A044/B032)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938572506"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-11-18",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Adenuric 120 mg, comprimé pelliculé, boite de 28 - Laboratoires Menarini France (MED21/A044/B032)"
+  },
+  "reason": "Les laboratoires Menarini France procèdent, en accord avec l'ANSM, au rappel du lot mentionné ci-dessous de la spécialité : ADENURIC 120 mg, comprimé pelliculé (CIP 34009 385 725 0 6) Lot 08002 - péremption 01/2023 Ce rappel fait suite à la découverte sur le marché français de plusieurs boîtes d’ADENURIC 120 mg destinées au marché espagnol.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/adenuric-120-mg-comprime-pellicule-boite-de-28-laboratoires-menarini-france",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "actions": "Niveau de rappel : circuit de distribution pharmaceutique, officines et patients.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-10-19",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ALPRAZOLAM_HCS_0_25_MG_COMPRIME_ET_ALPRAZOLAM_HCS_0_5_MG_COMPRIM_E2ED1B967046",
+  "local_id": "SLUG_ALPRAZOLAM_HCS_0_25_MG_COMPRIME_ET_ALPRAZOLAM_HCS_0_5_MG_COMPRIM_E2ED1B967046",
+  "lots": [
+    "D86731",
+    "D90677",
+    "D93064",
+    "D97349",
+    "DA1451",
+    "D91255",
+    "D93149",
+    "D95574",
+    "D97590",
+    "DA1931"
+  ],
+  "manufacturer": null,
+  "medicine": "Alprazolam HCS 0,25 mg, comprimé et Alprazolam HCS 0,5 mg, comprimé - Laboratoire KRKA France - Rappel de tous les lots actuellement sur le marché (MED21/A028)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-10-19",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Alprazolam HCS 0,25 mg, comprimé et Alprazolam HCS 0,5 mg, comprimé - Laboratoire KRKA France - Rappel de tous les lots actuellement sur le marché (MED21/A028)"
+  },
+  "reason": "Le laboratoire KRKA France procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous (tous les lots actuellement sur le marché) des spécialités Alprazolam HCS 0,25 mg, comprimé, boîte de 30 (CIP : 34009 301 664 2 0) et Alprazolam HCS 0,5 mg, comprimé, boîte de 30 (CIP : 34009 301 667 0 3) : Alprazolam HCS 0,25 mg, comprimé Lot D86731 - EXP 02/2022 Lot D90677 - EXP 02/2022 Lot D93064 - EXP 05/2022 Lot D97349 - EXP 01/2023 Lot DA1451 - EXP 05/2023 Alprazolam HCS 0,5 mg, comprimé Lot D91255 - EXP 02/2022 Lot D93149 - EXP 08/2022 Lot D95574 - EXP 09/2022 Lot D97590 - EXP 01/2023 Lot DA1931 - EXP 05/2023 Ce rappel fait suite à la mise en évidence d’une erreur dans la rubrique 3 de la notice au niveau de la dose maximale recommandée dans le traitement de l’anxiété.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/alprazolam-hcs-0-25-mg-comprime-et-alprazolam-hcs-0-5-mg-comprime-laboratoire-krka-france-rappel-de-tous-les-lots-actuellement-sur-le-marche",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

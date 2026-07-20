@@ -1,0 +1,39 @@
+{
+  "actions": "Ce rappel de lots fait suite à la mise en évidence d’une teneur en résidus d’évaporation non conforme dans le flacon de solvant. A ce jour, il n’a pas été identifié de signal de Pharmacovigilance lié à ce défaut. Pour toute information, vous pouvez contacter le service d'information médicale d'Accord Healthcare France SAS au 03.20.40.17.70 (touche 2). Ce rappel de lot est effectué en direct auprès des établissements hospitaliers concernés. Aucun numéro d'alerte n'a été attribué. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniqu",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2026-01-22",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CARMUSTINE_ACCORD_100_MG_POUDRE_ET_SOLVANT_POUR_SOLUTION_POUR_PE_13464699DD0B",
+  "local_id": "SLUG_CARMUSTINE_ACCORD_100_MG_POUDRE_ET_SOLVANT_POUR_SOLUTION_POUR_PE_13464699DD0B",
+  "lots": [
+    "M2408883",
+    "M2503811",
+    "M2408563",
+    "est"
+  ],
+  "manufacturer": "Laboratoire Accord Healthcare France SAS",
+  "medicine": "Carmustine Accord 100 mg, poudre et solvant pour solution pour perfusion et Carmustine Accordpharma 300 mg, poudre et solvant pour solution à diluer pour perfusion",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400955086536"
+    },
+    {
+      "system": "CIP",
+      "value": "3400955090151"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2026-01-22",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Carmustine Accord 100 mg, poudre et solvant pour solution pour perfusion et Carmustine Accordpharma 300 mg, poudre et solvant pour solution à diluer pour perfusion – Laboratoire Accord Healthcare France SAS"
+  },
+  "reason": "Le laboratoire Accord Healthcare France SAS procède, en accord avec l'ANSM, au rappel des lots des spécialités mentionnées ci-dessous : Carmustine Accord 100 mg, poudre et solvant pour solution pour perfusion (CIP 34009 550 865 3 6) : Lot M2408883 – Exp 07/2026 Lot M2503811 – Exp 03/2027 Carmustine AccordPharma 300 mg, poudre et solvant pour solution à diluer pour perfusion (CIP 34009 550 901 5 1) : Lot M2408563 – Exp 08/2026 Ce rappel de lots fait suite à la mise en évidence d’une teneur en résidus d’évaporation non conforme dans le flacon de solvant.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/carmustine-accord-100-mg-poudre-et-solvant-pour-solution-pour-perfusion-et-carmustine-accordpharma-300-mg-poudre-et-solvant-pour-solution-a-diluer-pour-perfusion-laboratoire-accord-healthcare-france-sas",
+  "warnings": []
+}

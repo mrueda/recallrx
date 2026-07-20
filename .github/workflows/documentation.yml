@@ -2,11 +2,20 @@ name: Documentation
 
 on:
   workflow_dispatch:
+    inputs:
+      collection_mode:
+        description: Data collection mode
+        required: true
+        default: incremental
+        type: choice
+        options:
+          - incremental
+          - full
   schedule:
     - cron: "17 4 * * *"
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -16,6 +25,7 @@ concurrency:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  COLLECTION_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.collection_mode || 'incremental' }}
 
 jobs:
   build:
@@ -39,11 +49,32 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -e .
 
-      - name: Build fresh recall data
-        run: python -m recallrx build --output data --config recallrx.config.json
+      - name: Collect recall data
+        run: python -m recallrx build --output data --config recallrx.config.json --mode "$COLLECTION_MODE"
 
-      - name: Validate fresh recall data
+      - name: Validate recall data
         run: python -m recallrx validate data
+
+      - name: Detect substantive data changes
+        id: data_changes
+        shell: bash
+        run: |
+          changes="$(git status --porcelain --untracked-files=all -- ':(glob)data/countries/*/recalls-summary.json' ':(glob)data/countries/*/recalls/*.json')"
+          if [ -z "$changes" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Persist updated recall records
+        if: steps.data_changes.outputs.changed == 'true'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Update recall data ($(date -u +%F))"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
 
       - name: Build live search app for docs site
         run: python -m recallrx dist --output docs-site/static/app

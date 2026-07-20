@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : établissements de santé, officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2024-08-21",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_PROGESTERONE_RETARD_PHARLON_500_MG_2_ML_SOLUTION_INJECTABLE_IM_E_88587D3CB8DF",
+  "local_id": "SLUG_PROGESTERONE_RETARD_PHARLON_500_MG_2_ML_SOLUTION_INJECTABLE_IM_E_88587D3CB8DF",
+  "lots": [],
+  "manufacturer": "Laboratoire Bayer Healthcare (MED24/A011/B006)",
+  "medicine": "Progesterone Retard Pharlon 500 mg/2 ml, solution injectable IM en ampoule",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930865972"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-08-21",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Progesterone Retard Pharlon 500 mg/2 ml, solution injectable IM en ampoule – Laboratoire Bayer Healthcare (MED24/A011/B006)"
+  },
+  "reason": "Ce rappel fait suite à la décision de l'ANSM du 14/08/2024 portant suspension de l’autorisation de mise sur le marché (AMM) de cette spécialité à compter du 21/08/2024.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/progesterone-retard-pharlon-500-mg-2-ml-solution-injectable-im-en-ampoule-laboratoire-bayer-healthcare",
+  "warnings": [
+    "missing_lot"
+  ]
+}

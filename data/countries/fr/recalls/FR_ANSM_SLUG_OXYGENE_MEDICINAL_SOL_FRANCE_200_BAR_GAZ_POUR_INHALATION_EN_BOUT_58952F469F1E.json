@@ -1,0 +1,41 @@
+{
+  "actions": "Niveau de rappel : Structures dispensatrices de gaz médicinaux.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-06-22",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OXYGENE_MEDICINAL_SOL_FRANCE_200_BAR_GAZ_POUR_INHALATION_EN_BOUT_58952F469F1E",
+  "local_id": "SLUG_OXYGENE_MEDICINAL_SOL_FRANCE_200_BAR_GAZ_POUR_INHALATION_EN_BOUT_58952F469F1E",
+  "lots": [
+    "mentionn",
+    "2014130623X00054UF"
+  ],
+  "manufacturer": "Sol France",
+  "medicine": "Oxygène Médicinal Sol France 200 bar, gaz pour inhalation, en bouteille",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400935059994"
+    },
+    {
+      "system": "CIP",
+      "value": "3400934584909"
+    },
+    {
+      "system": "CIP",
+      "value": "3400934585159"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-06-22",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Oxygène Médicinal Sol France 200 bar, gaz pour inhalation, en bouteille – Sol France"
+  },
+  "reason": "Le Laboratoire Sol France procède, en accord avec l’ANSM, au rappel de certaines bouteilles d'oxygène médicinal Sol France 200 bar de volumes différents du lot mentionné ci-dessous : Lot 2014130623X00054UF (péremption 13/06/2028) Oxygène médicinal Sol France 200 bar, gaz pour inhalation, en bouteille d’un volume de 2 L (code article 23-40128 / B2) CIP 34009 350 599 9 4 Oxygène médicinal Sol France 200 bar, gaz pour inhalation, en bouteille d’un volume de 5 L (code article 23-40129 / B5) CIP 34009 345 849 0 9 Oxygène médicinal Sol France 200 bar, gaz pour inhalation, en bouteille d’un volume de 15 L (code article 23-40144 / B15) CIP 34009 345 851 5 9 Ce rappel fait suite à un risque de présence d’un code CIP13 erroné dans le code Datamatrix figurant sur l’étiquette de certaines bouteilles, ",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/oxygene-medicinal-sol-france-200-bar-gaz-pour-inhalation-en-bouteille-sol-france",
+  "warnings": []
+}

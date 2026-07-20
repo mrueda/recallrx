@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : officine et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-06-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ROCEPHINE_1_G_10_ML_POUDRE_ET_SOLVANT_POUR_SOLUTION_INJECTABLE_I_A0A1AC5E9781",
+  "local_id": "SLUG_ROCEPHINE_1_G_10_ML_POUDRE_ET_SOLVANT_POUR_SOLUTION_INJECTABLE_I_A0A1AC5E9781",
+  "lots": [
+    "mentionn",
+    "B0746B07"
+  ],
+  "manufacturer": "Laboratoire Roche (MED22/A018)",
+  "medicine": "Rocephine 1 g/10 ml, poudre et solvant pour solution injectable (IV)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400932674886"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-06-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Rocephine 1 g/10 ml, poudre et solvant pour solution injectable (IV) – Laboratoire Roche (MED22/A018)"
+  },
+  "reason": "- Code CIP 3400932674886 Lot B0746B07 - Péremption 03/2024 Ce rappel fait suite à la détection d’une anomalie de scellage des ampoules de 10 ml d’eau pour préparation injectable (eau PPI) pouvant potentiellement impacter le lot d’ampoules d’eau PPI conditionné avec le lot de Rocéphine mentionné ci-dessus.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/rocephine-1-g-10-ml-poudre-et-solvant-pour-solution-injectable-iv-laboratoire-roche",
+  "warnings": []
+}

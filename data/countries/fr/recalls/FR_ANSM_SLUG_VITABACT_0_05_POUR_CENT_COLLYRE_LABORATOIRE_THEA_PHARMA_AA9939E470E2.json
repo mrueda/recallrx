@@ -1,0 +1,36 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-06-30",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_VITABACT_0_05_POUR_CENT_COLLYRE_LABORATOIRE_THEA_PHARMA_AA9939E470E2",
+  "local_id": "SLUG_VITABACT_0_05_POUR_CENT_COLLYRE_LABORATOIRE_THEA_PHARMA_AA9939E470E2",
+  "lots": [
+    "mentionn",
+    "3S78",
+    "est"
+  ],
+  "manufacturer": null,
+  "medicine": "Vitabact 0,05 pour cent, collyre - Laboratoire Théa Pharma (MED 23/A012/B011)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400932279807"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-06-30",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Vitabact 0,05 pour cent, collyre - Laboratoire Théa Pharma (MED 23/A012/B011)"
+  },
+  "reason": "Lot 3S78 - péremption 02/2025 Ce rappel fait suite à la mise en évidence d’une possible perte d’intégrité d’un nombre limité de flacons.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/vitabact-0-05-pour-cent-collyre-laboratoire-thea-pharma",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

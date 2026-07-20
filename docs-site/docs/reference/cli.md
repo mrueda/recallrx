@@ -5,13 +5,17 @@ Run commands from the repository root.
 ## Build data
 
 ```bash
-python3 -m recallrx build --output data
+python3 -m recallrx build --output data --mode incremental
 ```
 
 Options:
 
 - `--output PATH`: output directory for generated JSON.
 - `--source NAME`: source adapter to run. Can be supplied more than once.
+- `--mode incremental`: collect recent/current-year entries and merge them into
+  records already under `--output`. This is the default and scheduled mode.
+- `--mode full`: scan from `backfill_start_year` and replace records for the
+  selected source countries. Use this for deliberate historical backfills.
 
 ## Validate data
 

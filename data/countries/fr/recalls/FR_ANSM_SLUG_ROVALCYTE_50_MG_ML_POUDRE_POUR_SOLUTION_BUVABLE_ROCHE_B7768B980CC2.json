@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : Officine, Établissements de santé et circuit de distribution pharmaceutique. Pour toute question ou information complémentaire, vous pouvez contacter l’Information Médicale de Roche, au numéro suivant : 01 47 61 47 61. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-05-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ROVALCYTE_50_MG_ML_POUDRE_POUR_SOLUTION_BUVABLE_ROCHE_B7768B980CC2",
+  "local_id": "SLUG_ROVALCYTE_50_MG_ML_POUDRE_POUR_SOLUTION_BUVABLE_ROCHE_B7768B980CC2",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Rovalcyte 50 mg/ml, poudre pour solution buvable - Roche (MED21/A015/B014)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938673371"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-05-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Rovalcyte 50 mg/ml, poudre pour solution buvable - Roche (MED21/A015/B014)"
+  },
+  "reason": "Ce rappel fait suite à la modification des graduations de la nouvelle seringue pour administration orale de la spécialité (de mg en ml).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/rovalcyte-50-mg-ml-poudre-pour-solution-buvable-roche",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : Hôpitaux",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-09-24",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CHLORURE_DE_SODIUM_0_9_B_BRAUN_SOLUTION_POUR_PERFUSION_ECOBAG_SU_802C136D7602",
+  "local_id": "SLUG_CHLORURE_DE_SODIUM_0_9_B_BRAUN_SOLUTION_POUR_PERFUSION_ECOBAG_SU_802C136D7602",
+  "lots": [
+    "mentionn",
+    "concern"
+  ],
+  "manufacturer": null,
+  "medicine": "Chlorure De Sodium 0,9 % B. Braun, solution pour perfusion, Ecobag surpochée - B. Braun Medical",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-09-24",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Chlorure De Sodium 0,9 % B. Braun, solution pour perfusion, Ecobag surpochée - B. Braun Medical"
+  },
+  "reason": "BRAUN, solution pour perfusion, ECOBAG surpochée - Code CIP : 3400936049451 Lot : 212537661 Date de péremption : 01/2023 Ce rappel fait suite à la mise en évidence d'un défaut de scellage au niveau de la tubulure de remplissage de la poche (située entre les deux ports).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/chlorure-de-sodium-0-9-b-braun-solution-pour-perfusion-ecobag-surpochee-b-braun-medical-1",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

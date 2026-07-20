@@ -1,0 +1,39 @@
+{
+  "actions": "Ce rappel fait suite à l’identification d’un risque d’apparition au cours du temps de micro-particules de principe actif (ciclosporine) dans le collyre. Le laboratoire précise l’absence de risque sur la santé publique identifié à ce jour. Ce rappel fait suite aux rappels de lots d’Ikervis initiés en septembre puis novembre 2021. Pour tout renseignement complémentaire, merci de contacter le laboratoire Santen au 01.70.75.26.84 ou medinfo@santen.fr RAPPEL DE PRODUIT Médicaments Publié le 07/09/2021 - Mis à jour le 21/04/2022 Ikervis 1 mg/ml, collyre en émulsion - Laboratoire Santen Niveau de retrait : Etablissements de santé RAPPEL DE PRODUIT Médicaments Publié le 17/11/2021 - Mis à jour le 21/04/2022 Ikervis 1 mg/ml, collyre en émulsion - Laboratoire Santen Niveau de retrait : Etablissement",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-04-21",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_IKERVIS_ET_VERKAZIA_1_MG_ML_COLLYRES_EN_EMULSION_LABORATOIRE_SAN_0D6024B735C9",
+  "local_id": "SLUG_IKERVIS_ET_VERKAZIA_1_MG_ML_COLLYRES_EN_EMULSION_LABORATOIRE_SAN_0D6024B735C9",
+  "lots": [
+    "4P58D",
+    "9N20K"
+  ],
+  "manufacturer": null,
+  "medicine": "Ikervis et Verkazia 1 mg/ml, collyres en émulsion - Laboratoire Santen (MED22/A011/B010)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930010648"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930172032"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-04-21",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Ikervis et Verkazia 1 mg/ml, collyres en émulsion - Laboratoire Santen (MED22/A011/B010)"
+  },
+  "reason": "Ce rappel fait suite à l’identification d’un risque d’apparition au cours du temps de micro-particules de principe actif (ciclosporine) dans le collyre.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/ikervis-et-verkazia-1-mg-ml-collyres-en-emulsion-laboratoire-santen",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

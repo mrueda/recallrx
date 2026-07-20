@@ -1,0 +1,65 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-10-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOSARTAN_MYLAN_50_MG_ET_100_MG_CP_PELLICULE_LOSARTAN_HYDROCHLORO_75BC7C3DE701",
+  "local_id": "SLUG_LOSARTAN_MYLAN_50_MG_ET_100_MG_CP_PELLICULE_LOSARTAN_HYDROCHLORO_75BC7C3DE701",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Losartan Mylan 50 mg et 100 mg, cp pelliculé, Losartan/Hydrochlorothiazide Mylan 50 mg/12,5 mg et 100 mg/25 mg, cp pelliculé et Losartan/Hydrochlorothiazide Mylan Pharma 100 mg/12,5 mg, cp pelliculé - Mylan SAS (MED21/A034)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938355505"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938356045"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938356564"
+    },
+    {
+      "system": "CIP",
+      "value": "3400938356915"
+    },
+    {
+      "system": "CIP",
+      "value": "3400939521787"
+    },
+    {
+      "system": "CIP",
+      "value": "3400939522500"
+    },
+    {
+      "system": "CIP",
+      "value": "3400939559520"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921643497"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921644098"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-10-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Losartan Mylan 50 mg et 100 mg, cp pelliculé, Losartan/Hydrochlorothiazide Mylan 50 mg/12,5 mg et 100 mg/25 mg, cp pelliculé et Losartan/Hydrochlorothiazide Mylan Pharma 100 mg/12,5 mg, cp pelliculé - Mylan SAS (MED21/A034)"
+  },
+  "reason": "Losartan Mylan 50 mg et 100 mg, cp pelliculé, Losartan/Hydrochlorothiazide Mylan 50 mg/12,5 mg et 100 mg/25 mg, cp pelliculé et Losartan/Hydrochlorothiazide Mylan Pharma 100 mg/12,5 mg, cp pelliculé - Mylan SAS (MED21/A034) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/10/2021 A+ A- Niveau de rappel : Officines et circuit de distribution pharmaceutique Le laboratoire Mylan SAS (Viatris Santé) procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous des spécialités : LOSARTAN MYLAN 50 mg, comprimé pelliculé sécable (boîte de 28) – CIP 3400938355505 Lots : LC46459 (Exp 03/2022) ; LC46817 (Exp 03/2022) ; LC46818 (Exp 03/2022) ; LC60291 (Exp 03/2024) ; LC60292 (Exp 03/2024) LOSARTAN MYLAN 50 mg, comprimé pelliculé sécable (boîte de 90) – CIP 3400938",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/losartan-mylan-50-mg-et-100-mg-cp-pellicule-losartan-hydrochlorothiazide-mylan-50-mg-12-5-mg-et-100-mg-25-mg-cp-pellicule-et-losartan-hydrochlorothiazide-mylan-pharma-100-mg-12-5-mg-cp-pellicule-mylan-sas",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

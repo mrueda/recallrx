@@ -1,0 +1,31 @@
+{
+  "actions": "Ce rappel fait suite à la mise en évidence de poches présentant une rupture possible de la soudure latérale lors de la purge de celles-ci. A ce jour, le laboratoire Carelide n’a pas enregistré de cas de pharmacovigilance lié à ce défaut. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-02-18",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CHLORURE_DE_SODIUM_0_9_CARELIDE_SOLUTION_POUR_PERFUSION_CARELIDE_F3FC42DCB4AB",
+  "local_id": "SLUG_CHLORURE_DE_SODIUM_0_9_CARELIDE_SOLUTION_POUR_PERFUSION_CARELIDE_F3FC42DCB4AB",
+  "lots": [
+    "mentionn",
+    "21100090"
+  ],
+  "manufacturer": null,
+  "medicine": "Chlorure de Sodium 0,9 % Carelide, solution pour perfusion - Carelide",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-02-18",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Chlorure de Sodium 0,9 % Carelide, solution pour perfusion - Carelide"
+  },
+  "reason": "Le Laboratoire Carelide procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Chlorure de sodium 0.9% Carelide, solution pour perfusion – Poches de 250 mL Macoflex N CIP : 34009 356 317 5 6 Lot 21100090 (péremption 10/2023) Ce rappel fait suite à la mise en évidence de poches présentant une rupture possible de la soudure latérale lors de la purge de celles-ci.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/chlorure-de-sodium-0-9-carelide-solution-pour-perfusion-carelide",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

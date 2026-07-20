@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique. Les laboratoires MENARINI France procèdent, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité : MERCRYL SOLUTION MOUSSANTE, solution pour application cutanée, flacon de 1L (34009 353 653 5 2) Lot CH489 – 03/2024 Lot CH490 – 03/2024 Lot CH491 – 03/2024 Ce rappel fait suite au conditionnement de ces 3 lots avec des flacons dont les bouchons sont non conformes car il manque le système d’inviolabilité. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Che",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-04-17",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_MERCRYL_SOLUTION_MOUSSANTE_SOLUTION_POUR_APPLICATION_CUTANEE_FLA_ACC9C7373F3F",
+  "local_id": "SLUG_MERCRYL_SOLUTION_MOUSSANTE_SOLUTION_POUR_APPLICATION_CUTANEE_FLA_ACC9C7373F3F",
+  "lots": [
+    "CH489",
+    "CH490",
+    "CH491"
+  ],
+  "manufacturer": null,
+  "medicine": "Mercryl solution moussante, solution pour application cutanée, flacon de 1 L - Laboratoires Menarini France (MED 23/A011/B008)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-04-17",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Mercryl solution moussante, solution pour application cutanée, flacon de 1 L - Laboratoires Menarini France (MED 23/A011/B008)"
+  },
+  "reason": "Les laboratoires MENARINI France procèdent, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité : MERCRYL SOLUTION MOUSSANTE, solution pour application cutanée, flacon de 1L (34009 353 653 5 2) Lot CH489 – 03/2024 Lot CH490 – 03/2024 Lot CH491 – 03/2024 Ce rappel fait suite au conditionnement de ces 3 lots avec des flacons dont les bouchons sont non conformes car il manque le système d’inviolabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/mercryl-solution-moussante-solution-pour-application-cutanee-flacon-de-1-l-laboratoires-menarini-france",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

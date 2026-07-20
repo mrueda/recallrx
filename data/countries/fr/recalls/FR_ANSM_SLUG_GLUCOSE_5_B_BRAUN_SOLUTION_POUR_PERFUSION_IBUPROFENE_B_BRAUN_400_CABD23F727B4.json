@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-07-28",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_GLUCOSE_5_B_BRAUN_SOLUTION_POUR_PERFUSION_IBUPROFENE_B_BRAUN_400_CABD23F727B4",
+  "local_id": "SLUG_GLUCOSE_5_B_BRAUN_SOLUTION_POUR_PERFUSION_IBUPROFENE_B_BRAUN_400_CABD23F727B4",
+  "lots": [
+    "20396408",
+    "22126403",
+    "21183411",
+    "22246409"
+  ],
+  "manufacturer": null,
+  "medicine": "Glucose 5 % B.Braun, solution pour perfusion ; Ibuprofène B. Braun 400 mg/100 mL, solution pour perfusion et Chlorure de sodium 0,9% B. Braun, solution pour perfusion - Laboratoire B. Braun Medical (MED 23/A015/B014)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-07-28",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Glucose 5 % B.Braun, solution pour perfusion ; Ibuprofène B. Braun 400 mg/100 mL, solution pour perfusion et Chlorure de sodium 0,9% B. Braun, solution pour perfusion - Laboratoire B. Braun Medical (MED 23/A015/B014)"
+  },
+  "reason": "Braun, solution pour perfusion – 100 ml en poche Ecoflac (polyéthylène) (CIP : 34009 360 488 5 0) Lot 22246409 (péremption 05/2025) Ce rappel fait suite à la mise en évidence lors de contrôles qualité d’une contamination croisée à un niveau de traces.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/glucose-5-b-braun-solution-pour-perfusion-ibuprofene-b-braun-400-mg-100-ml-solution-pour-perfusion-et-chlorure-de-sodium-0-9-b-braun-solution-pour-perfusion-laboratoire-b-braun-medical",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

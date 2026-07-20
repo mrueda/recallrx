@@ -1,0 +1,30 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam este(s) lote(s) de medicamento em stock não o(s) podem vender, dispensar ou administrar, devendo proceder à sua devolução. Os doentes que estejam a utilizar medicamentos pertencentes a este(s) lote(s) não devem interromper o tratamento. Logo que possível, devem consultar o médico assistente para que lhes seja prescrito um medicamento alternativo. O Presidente do Conselho Diretivo Rui Santos Ivo",
+  "authority": "INFARMED",
+  "confidence": 0.78,
+  "country": "PT",
+  "date": "2022-03-09",
+  "expiry_dates": [],
+  "id": "PT_INFARMED_CI_017_CD_8_1_7_2022",
+  "local_id": "CI 017/CD/8.1.7.",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Recolha voluntária do lote FT056 do medicamento Aprovel, 150 mg, Irbesartan, comprimido, validade 03-2023",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": null,
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária do lote FT056 do medicamento Aprovel, 150 mg, Irbesartan, comprimido, validade 03-2023"
+  },
+  "reason": null,
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=5919264&_101_type=content&_101_urlTitle=recolha-voluntaria-do-lote-ft056-do-medicamento-aprovel-150-mg-irbesartan-comprimido-validade-03-2023&inheritRedirect=false",
+  "warnings": [
+    "missing_registration_number",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

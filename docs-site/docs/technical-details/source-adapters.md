@@ -21,6 +21,18 @@ The `build()` method returns normalized recall records and a build report.
 Internally, adapters may split this into discovery, fetch, parse, and normalize
 steps.
 
+Every active adapter accepts the shared collection mode and
+`backfill_start_year`. Incremental discovery is deliberately bounded to recent
+or current-year records. Full discovery uses authority-specific historical
+searches:
+
+- AEMPS: current-year or multi-year WordPress/API discovery.
+- INFARMED: recent Alertas pages or the human-medicine historical search, with
+  content/PDF result deduplication. If an older detail route fails, a lower-
+  confidence record is retained from the official search summary and marked
+  for review; year-organized archived circulars are the corroboration source.
+- ANSM: filtered medicine product-recall listings, queried by year.
+
 ## Adding a country
 
 To add a new source:

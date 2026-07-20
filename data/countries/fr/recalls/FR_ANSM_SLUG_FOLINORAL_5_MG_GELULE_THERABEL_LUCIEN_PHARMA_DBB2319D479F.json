@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-02-21",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_FOLINORAL_5_MG_GELULE_THERABEL_LUCIEN_PHARMA_DBB2319D479F",
+  "local_id": "SLUG_FOLINORAL_5_MG_GELULE_THERABEL_LUCIEN_PHARMA_DBB2319D479F",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Folinoral 5 mg, gélule - Therabel Lucien Pharma (MED 20/A004/B004)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-02-21",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Folinoral 5 mg, gélule - Therabel Lucien Pharma (MED 20/A004/B004)"
+  },
+  "reason": "Folinoral 5 mg, gélule - Therabel Lucien Pharma (MED 20/A004/B004) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 21/02/2020 - MIS À JOUR LE 08/04/2021 A+ A- Le laboratoire Therabel Lucien Pharma procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous, de la spécialité : FOLINORAL 5 mg, gélule (CIP : 34009 330 737 7 0) - Lots : 18D04 - Exp 05/2020 18D06 - Exp 05/2020 18D07 - Exp 05/2020 18I01 - Exp 09/2020 18I02 - Exp 09/2020 Ce rappel fait suite à la mise en évidence de résultats hors spécification lors d’essais sur l’échantillothèque.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/folinoral-5-mg-gelule-therabel-lucien-pharma",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

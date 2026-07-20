@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : établissements de santé concernés",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-08-24",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LORAZEPAM_4MG_ML_SOLUTION_INJECTABLE_LABORATOIRE_INRESA_1A22C2FF54DF",
+  "local_id": "SLUG_LORAZEPAM_4MG_ML_SOLUTION_INJECTABLE_LABORATOIRE_INRESA_1A22C2FF54DF",
+  "lots": [
+    "mentionn",
+    "070096"
+  ],
+  "manufacturer": "Laboratoire Inresa",
+  "medicine": "Lorazepam 4mg/ml, solution injectable",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-08-24",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Lorazepam 4mg/ml, solution injectable – Laboratoire Inresa"
+  },
+  "reason": "Lorazepam 4mg/ml, solution injectable – Laboratoire Inresa RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 24/08/2022 A+ A- Niveau de rappel : établissements de santé concernés Le laboratoire Inresa procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité pharmaceutique en accès compassionnel : Lorazepam 4mg/ml, solution injectable - boîte de 25 ampoules de 1ml (référence INRESA : 641604525) Lot 070096 (péremption 07/2023) Ce rappel fait suite à l’obtention d’un résultat hors spécification au cours des études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/lorazepam-4mg-ml-solution-injectable-laboratoire-inresa",
+  "warnings": [
+    "missing_cip"
+  ]
+}

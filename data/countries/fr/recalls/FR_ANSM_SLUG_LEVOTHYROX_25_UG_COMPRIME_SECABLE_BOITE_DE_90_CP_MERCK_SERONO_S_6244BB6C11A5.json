@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique et patients",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2023-10-18",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LEVOTHYROX_25_UG_COMPRIME_SECABLE_BOITE_DE_90_CP_MERCK_SERONO_S_6244BB6C11A5",
+  "local_id": "SLUG_LEVOTHYROX_25_UG_COMPRIME_SECABLE_BOITE_DE_90_CP_MERCK_SERONO_S_6244BB6C11A5",
+  "lots": [
+    "mentionn",
+    "est",
+    "concern",
+    "G01U7X"
+  ],
+  "manufacturer": "Merck Serono s.a.s (MED23/A020)",
+  "medicine": "Levothyrox 25 µg, comprimé sécable (boite de 90 cp)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2023-10-18",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Levothyrox 25 µg, comprimé sécable (boite de 90 cp) – Merck Serono s.a.s (MED23/A020)"
+  },
+  "reason": "Levothyrox 25 µg, comprimé sécable (boite de 90 cp) – Merck Serono s.a.s (MED23/A020) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 18/10/2023 A+ A- Niveau de rappel : officines et circuit de distribution pharmaceutique et patients Le Laboratoire Merck Serono s.a.s procède en accord avec l'ANSM, et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité pharmaceutique dénommée : Levothyrox 25 µg, comprimé sécable – boite de 90 (CIP : 34009 300 655 7 0) Lot : G01U7X – péremption : 12/2025 Ce rappel fait suite à la mise en évidence par le laboratoire, lors d’une étude de stabilité, d’un taux de Levothyroxine sodique légèrement supérieur aux spécifications.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/levothyrox-25-ug-comprime-secable-boite-de-90-cp-merck-serono-s-a-s",
+  "warnings": [
+    "missing_cip"
+  ]
+}

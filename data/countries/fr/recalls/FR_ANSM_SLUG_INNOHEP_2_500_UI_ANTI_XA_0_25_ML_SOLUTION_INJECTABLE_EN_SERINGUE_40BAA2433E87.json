@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Les Laboratoires Leo procèdent, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Innohep 2 500 UI anti‑Xa/0,25 ml, solution injectable en seringue préremplie - boîte de 10 seringues (CIP : 34009 334 331 5 4) lot D46686 (exp. 09/2028) Ce rappel fait suite à la mise en évidence d’une seringue d’Innohep 3 500 UI anti-Xa/0,35 ml dans une boîte d’Innohep 2 500 UI anti-Xa/0,25 ml.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-02-02",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_INNOHEP_2_500_UI_ANTI_XA_0_25_ML_SOLUTION_INJECTABLE_EN_SERINGUE_40BAA2433E87",
+  "local_id": "SLUG_INNOHEP_2_500_UI_ANTI_XA_0_25_ML_SOLUTION_INJECTABLE_EN_SERINGUE_40BAA2433E87",
+  "lots": [
+    "mentionn",
+    "D46686"
+  ],
+  "manufacturer": "Laboratoires Leo (MED26/A006/B005)",
+  "medicine": "Innohep 2 500 UI anti-Xa/0,25 ml, solution injectable en seringue préremplie",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-02-02",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Innohep 2 500 UI anti-Xa/0,25 ml, solution injectable en seringue préremplie – Laboratoires Leo (MED26/A006/B005)"
+  },
+  "reason": "09/2028) Ce rappel fait suite à la mise en évidence d’une seringue d’Innohep 3 500 UI anti-Xa/0,35 ml dans une boîte d’Innohep 2 500 UI anti-Xa/0,25 ml.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/innohep-2-500-ui-anti-xa-0-25-ml-solution-injectable-en-seringue-preremplie-laboratoires-leo",
+  "warnings": [
+    "missing_cip"
+  ]
+}

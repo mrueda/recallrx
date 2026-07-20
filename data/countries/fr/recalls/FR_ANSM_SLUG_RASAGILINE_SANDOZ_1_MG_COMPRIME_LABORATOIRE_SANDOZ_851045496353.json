@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2022-06-21",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_RASAGILINE_SANDOZ_1_MG_COMPRIME_LABORATOIRE_SANDOZ_851045496353",
+  "local_id": "SLUG_RASAGILINE_SANDOZ_1_MG_COMPRIME_LABORATOIRE_SANDOZ_851045496353",
+  "lots": [
+    "mentionn"
+  ],
+  "manufacturer": null,
+  "medicine": "Rasagiline Sandoz 1 mg, comprimé - Laboratoire Sandoz (MED22/A017/B016)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-06-21",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Rasagiline Sandoz 1 mg, comprimé - Laboratoire Sandoz (MED22/A017/B016)"
+  },
+  "reason": "Ce rappel fait suite à la mise en évidence d’une impureté de type nitrosamine (N-nitroso-Rasagiline) à un taux supérieur à la limite acceptable dans le médicament.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/rasagiline-sandoz-1-mg-comprime-laboratoire-sandoz",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

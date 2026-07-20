@@ -1,0 +1,37 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé, circuit de distribution pharmaceutique. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à l",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-07-30",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ZOMIG_2_5_MG_COMPRIME_PELLICULE_LABORATOIRES_GRUNENTHAL_CE2A8C488F41",
+  "local_id": "SLUG_ZOMIG_2_5_MG_COMPRIME_PELLICULE_LABORATOIRES_GRUNENTHAL_CE2A8C488F41",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Zomig 2,5 mg comprimé pelliculé - Laboratoires Grünenthal (MED21/A025/B020)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400934453984"
+    },
+    {
+      "system": "CIP",
+      "value": "3400935443090"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-07-30",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Zomig 2,5 mg comprimé pelliculé - Laboratoires Grünenthal (MED21/A025/B020)"
+  },
+  "reason": "Zomig 2,5 mg comprimé pelliculé - Laboratoires Grünenthal (MED21/A025/B020) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 30/07/2021 A+ A- Les Laboratoires Grünenthal, procèdent, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la spécialité ZOMIG 2,5 mg comprimé pelliculé : ZOMIG 2,5 mg comprimé pelliculé boîte de 6 : CIP 3400934453984 Lot n°101P03 – Date de péremption : novembre 2021 Lot n°101P22 – Date de péremption : novembre 2021 Lot n°106P02 - Date de péremption : octobre 2022 Lot n°106R06 – Date de péremption : novembre 2023 ZOMIG 2,5 mg comprimé pelliculé boîte de 12 : CIP 3400935443090 Lot n°101P24 – Date de péremption : novembre 2021 Lot n°102P01– Date de péremption : février 2022 Lot n°102P07 - Date de péremption : février 2022 Lot n°1",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/zomig-2-5-mg-comprime-pellicule-laboratoires-grunenthal",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

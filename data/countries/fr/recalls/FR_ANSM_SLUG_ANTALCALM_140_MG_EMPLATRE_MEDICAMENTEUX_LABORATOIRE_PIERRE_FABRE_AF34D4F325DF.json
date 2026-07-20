@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-01-14",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ANTALCALM_140_MG_EMPLATRE_MEDICAMENTEUX_LABORATOIRE_PIERRE_FABRE_AF34D4F325DF",
+  "local_id": "SLUG_ANTALCALM_140_MG_EMPLATRE_MEDICAMENTEUX_LABORATOIRE_PIERRE_FABRE_AF34D4F325DF",
+  "lots": [
+    "mentionn",
+    "E05247"
+  ],
+  "manufacturer": "Laboratoire Pierre Fabre Médicament (MED26/A003)",
+  "medicine": "Antalcalm 140 mg, emplâtre médicamenteux",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-01-14",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Antalcalm 140 mg, emplâtre médicamenteux – Laboratoire Pierre Fabre Médicament (MED26/A003)"
+  },
+  "reason": "Antalcalm 140 mg, emplâtre médicamenteux – Laboratoire Pierre Fabre Médicament (MED26/A003) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 14/01/2026 A+ A- Niveau de rappel : officines et circuit de distribution pharmaceutique Le Laboratoire Pierre Fabre Médicament procède, en accord avec l’ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : Antalcalm 140 mg, emplâtre médicamenteux (CIP : 34009 276 206 2 1) Lot E05247 – (Péremption 04/2028) Ce rappel fait suite à la mise en évidence d’un manque d’adhésivité des emplâtres médicamenteux, pouvant rendre l’utilisation du produit impossible.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/antalcalm-140-mg-emplatre-medicamenteux-laboratoire-pierre-fabre-medicament",
+  "warnings": [
+    "missing_cip"
+  ]
+}

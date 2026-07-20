@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : Officines. Compte tenu du nombre réduit de destinataires, le rappel est effectué en direct auprès des destinataires du lot concerné (18 officines). Aucun numéro d'alerte n’a donc été attribué à ce retrait. Pour toute information, vous pouvez contacter",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-05-11",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_HUILE_ESSENTIELLE_DE_PRUCHE_BIOLOGIQUE_LABORATOIRE_ROSIER_DAVENN_12ABD8459967",
+  "local_id": "SLUG_HUILE_ESSENTIELLE_DE_PRUCHE_BIOLOGIQUE_LABORATOIRE_ROSIER_DAVENN_12ABD8459967",
+  "lots": [
+    "mentionn",
+    "287ZC004",
+    "concern"
+  ],
+  "manufacturer": null,
+  "medicine": "Huile essentielle de Pruche biologique - Laboratoire Rosier Davenne",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-05-11",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Huile essentielle de Pruche biologique - Laboratoire Rosier Davenne"
+  },
+  "reason": "Lot 287ZC004 (péremption 05/2022) Ce rappel fait suite à la mise en évidence d'un problème de qualité sur ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/huile-essentielle-de-pruche-biologique-laboratoire-rosier-davenne",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

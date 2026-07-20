@@ -1,0 +1,34 @@
+{
+  "actions": "Niveau de rappel : établissements de santé, circuit de distribution pharmaceutique, officines et patients",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-10-03",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ATROPINE_SULFATE_AGUETTANT_0_50_MG_1ML_SOLUTION_INJECTABLE_BOITE_585E4BDC0F65",
+  "local_id": "SLUG_ATROPINE_SULFATE_AGUETTANT_0_50_MG_1ML_SOLUTION_INJECTABLE_BOITE_585E4BDC0F65",
+  "lots": [
+    "mentionn",
+    "A0438A01",
+    "pour"
+  ],
+  "manufacturer": "Laboratoire Aguettant (MED23/A018/B017)",
+  "medicine": "Atropine (sulfate) Aguettant 0,50 mg/1ml, solution injectable, boites de 10 ampoules de 1ml",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400937013642"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-10-03",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Atropine (sulfate) Aguettant 0,50 mg/1ml, solution injectable, boites de 10 ampoules de 1ml – Laboratoire Aguettant (MED23/A018/B017)"
+  },
+  "reason": "Atropine (sulfate) Aguettant 0,50 mg/1ml, solution injectable, boites de 10 ampoules de 1ml – Laboratoire Aguettant (MED23/A018/B017) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 03/10/2023 A+ A- Niveau de rappel : établissements de santé, circuit de distribution pharmaceutique, officines et patients Le laboratoire Aguettant procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Atropine (sulfate) Aguettant 0,50 mg/1ml, solution injectable (en boite de 10 ampoules de 1ml – CIP 34009 370 136 4 2) Lot A0438A01 - Péremption 12/2025 Ce rappel fait suite à la détection de la présence dans une boîte d'atropine (sulfate) Aguettant 0,50 mg/1ml, solution injectable B/10 1 ml (lot A0438A01, per 12/2025), d'une ampoule de 1 ml de la spécialité morphine (chlorhydrate) ",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/atropine-sulfate-aguettant-0-50-mg-1ml-solution-injectable-boites-de-10-ampoules-de-1ml-laboratoire-aguettant",
+  "warnings": []
+}

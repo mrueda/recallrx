@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : circuit de distribution pharmaceutique et officines",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-05-06",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_BROMAZEPAM_ZYDUS_6_MG_COMPRIME_QUADRISECABLE_LABORATOIRE_ZYDUS_F_8B24EEC4EC5D",
+  "local_id": "SLUG_BROMAZEPAM_ZYDUS_6_MG_COMPRIME_QUADRISECABLE_LABORATOIRE_ZYDUS_F_8B24EEC4EC5D",
+  "lots": [
+    "M208620",
+    "M208621"
+  ],
+  "manufacturer": "Laboratoire Zydus France (MED24/A005)",
+  "medicine": "Bromazepam Zydus 6 mg, comprimé quadrisécable",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400934883675"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-05-06",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Bromazepam Zydus 6 mg, comprimé quadrisécable – Laboratoire Zydus France (MED24/A005)"
+  },
+  "reason": "Bromazepam Zydus 6 mg, comprimé quadrisécable – Laboratoire Zydus France (MED24/A005) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 06/05/2024 A+ A- Niveau de rappel : circuit de distribution pharmaceutique et officines Le laboratoire Zydus France procède, en accord avec l’ANSM, au rappel des lots mentionnés ci-dessous de la spécialité pharmaceutique dénommée : Bromazépam Zydus 6 mg, comprimé quadrisécable (CIP 34009 348 836 7 5) : Lot M208620 – EXP 06/2025 Lot M208621 – EXP 06/2025 Ce rappel fait suite à la mise en évidence de résultats hors spécification au niveau du dosage du principe actif lors des études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/bromazepam-zydus-6-mg-comprime-quadrisecable-laboratoire-zydus-france",
+  "warnings": []
+}

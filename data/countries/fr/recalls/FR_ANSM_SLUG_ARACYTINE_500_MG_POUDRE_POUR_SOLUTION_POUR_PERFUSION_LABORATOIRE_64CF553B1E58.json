@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : établissements de santé ayant reçu le lot 4D07632, Exp 04/2028",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-04-14",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ARACYTINE_500_MG_POUDRE_POUR_SOLUTION_POUR_PERFUSION_LABORATOIRE_64CF553B1E58",
+  "local_id": "SLUG_ARACYTINE_500_MG_POUDRE_POUR_SOLUTION_POUR_PERFUSION_LABORATOIRE_64CF553B1E58",
+  "lots": [
+    "4D07632",
+    "mentionn"
+  ],
+  "manufacturer": "Laboratoire Pfizer",
+  "medicine": "Aracytine 500 mg, poudre pour solution pour perfusion",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-04-14",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Aracytine 500 mg, poudre pour solution pour perfusion – Laboratoire Pfizer"
+  },
+  "reason": "Aracytine 500 mg, poudre pour solution pour perfusion – Laboratoire Pfizer RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 14/04/2025 A+ A- Niveau de rappel : établissements de santé ayant reçu le lot 4D07632, Exp 04/2028 Le laboratoire Pfizer procède, en accord avec l'ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : Aracytine 500 mg, poudre pour solution pour perfusion (code CIP : 34009 562 015 0 1) Lot 4D07632 (Exp 04/2028) Cette décision par précaution fait suite à une réclamation dans un autre pays concernant un flacon contenant une particule de verre.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/aracytine-500-mg-poudre-pour-solution-pour-perfusion-laboratoire-pfizer",
+  "warnings": [
+    "missing_cip"
+  ]
+}

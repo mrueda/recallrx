@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique. Service & appel gratuits - Information médicale et Pharmacovigilance : 0 800 455 799 touche 5 Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-06-29",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_TRIMEBUTINE_SANDOZ_200_MG_COMPRIME_PELLICULE_LABORATOIRE_SANDOZ_A842D7792F2A",
+  "local_id": "SLUG_TRIMEBUTINE_SANDOZ_200_MG_COMPRIME_PELLICULE_LABORATOIRE_SANDOZ_A842D7792F2A",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Trimébutine Sandoz 200 mg, comprimé pelliculé - Laboratoire Sandoz (MED 21/A018)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-06-29",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Trimébutine Sandoz 200 mg, comprimé pelliculé - Laboratoire Sandoz (MED 21/A018)"
+  },
+  "reason": "Trimébutine Sandoz 200 mg, comprimé pelliculé - Laboratoire Sandoz (MED 21/A018) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/06/2021 A+ A- Le laboratoire SANDOZ procède, en accord avec l’ANSM et par mesure de précaution, au rappel des lots de la spécialité mentionnés ci-dessous TRIMEBUTINE SANDOZ 200 mg, comprimé pelliculé CIP : 34009 391 846 0 9 Lots péremption - Juin 2021 AB1104 Lots péremption - Juillet 2021 AB1105 - AB1106 - AB1107- AB1108 Lots péremption - Septembre 2021 AB1109 - AB1110 - AB1111 - AB1112 - AB1113 Lots péremption - Février 2022 AB1114 - AB1115 Lots péremption - Mars 2022 AB1116 - AB1117 - AB 1118 Lots péremption - Août 2022 AB1119 - AB1120 - AB1121 - AB1122 - AB1123 - AB1124 Lots péremption - Septembre 2022 AB1125 - AB1126 - AB1127 - AB1128 Lots péremption - Janvier",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/trimebutine-sandoz-200-mg-comprime-pellicule-laboratoire-sandoz",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

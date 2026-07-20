@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique. Pour toute information médicale, vous pouvez contacter",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-06-19",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ANGI_SPRAY_MAL_DE_GORGE_CHLORHEXIDINE_LIDOCAINE_COLLUTOIRE_LABOR_3AD77B5D1CB0",
+  "local_id": "SLUG_ANGI_SPRAY_MAL_DE_GORGE_CHLORHEXIDINE_LIDOCAINE_COLLUTOIRE_LABOR_3AD77B5D1CB0",
+  "lots": [
+    "20105",
+    "20106"
+  ],
+  "manufacturer": null,
+  "medicine": "Angi-Spray Mal de gorge chlorhexidine/lidocaïne, collutoire - Laboratoire P&G Health France (MED 20/A011)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-06-19",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Angi-Spray Mal de gorge chlorhexidine/lidocaïne, collutoire - Laboratoire P&G Health France (MED 20/A011)"
+  },
+  "reason": "Angi-Spray Mal de gorge chlorhexidine/lidocaïne, collutoire - Laboratoire P&G Health France (MED 20/A011) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 19/06/2020 - MIS À JOUR LE 07/04/2021 A+ A- Le Laboratoire P&G Health France procède, en accord avec l’ANSM, au rappel des 2 lots mentionnés ci-dessous de la spécialité : Angi-Spray Mal de gorge chlorhexidine/lidocaïne, collutoire Lot 20105 - EXP 02/2023 Lot 20106 - EXP 02/2023 Ce rappel fait suite à la détection de cristaux de chlorhexidine dans quelques flacons des lots concernés.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/angi-spray-mal-de-gorge-chlorhexidine-lidocaine-collutoire-laboratoire-p-g-health-france",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

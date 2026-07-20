@@ -1,0 +1,59 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam estes lotes de medicamento em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes de medicamentos não devem interromper o tratamento. Logo que possível, devem contactar o médico para substituir por outro lote ou um medicamento alternativo. A Vogal do Conselho Diretivo (Erica Viegas) Anexo I Número de registo (AIM) Nome do medicamento Apresentação Lote Validade 8732230 Soro Glucosado Isotónico 100 ml 21021413 31/12/2023 5718549 Metronidazol Iv Braun 100 ml 21014412 31/12/2023 5718549 Metronidazol Iv Braun 100 ml 21057402 31/01/2024 2226785 Metronidazol Iv Braun 100 ml 21103403 29/02/2024 5718549 Metronidazol Iv Braun 100 ml 21104410 29/02/202",
+  "authority": "INFARMED",
+  "confidence": 0.9,
+  "country": "PT",
+  "date": "2023-08-10",
+  "expiry_dates": [
+    "31/12/2023",
+    "31/01/2024",
+    "29/02/2024",
+    "31/05/2024",
+    "31/08/2024",
+    "30/11/2023"
+  ],
+  "id": "PT_INFARMED_CI_079_CD_550_20_001_2023",
+  "local_id": "CI 079/CD/550.20.001",
+  "lots": [
+    "21021413",
+    "21014412",
+    "21057402",
+    "21103403",
+    "21104410",
+    "21235403",
+    "21386409",
+    "21512403"
+  ],
+  "manufacturer": "B. Braun Medical Unipessoal Lda",
+  "medicine": "Recolha voluntária dos medicamentos Soro Glucosado Isotónico, Metronidazol Iv Braun e Soro Fisiológico B Braun",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "8732230"
+    },
+    {
+      "system": "AIM",
+      "value": "5718549"
+    },
+    {
+      "system": "AIM",
+      "value": "2226785"
+    },
+    {
+      "system": "AIM",
+      "value": "8731901"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-08-02",
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária dos medicamentos Soro Glucosado Isotónico, Metronidazol Iv Braun e Soro Fisiológico B Braun"
+  },
+  "reason": "A empresa B. Braun Medical Unipessoal Lda irá proceder à recolha voluntária dos lotes constantes do anexo I que faz parte integrante da presente circular, dos medicamentos Soro Glucosado Isotónico – 8732230, Metronidazol Iv Braun – 5718549, Metronidazol Iv Braun – 5718549, Metronidazol Iv Braun – 2226785, Metronidazol Iv Braun – 5718549, Metronidazol Iv Braun -2226785, Metronidazol Iv Braun – 2226785, Soro Fisiológico B.Braun – 8731901, por ter sido detetado um defeito de qualidade referente a uma contaminação cruzada dos recipientes da embalagem primária de medicamentos para perfusão. Assim, o Infarmed determina a suspensão imediata da distribuição destes lotes. Face ao exposto:",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=9039907&_101_type=content&_101_urlTitle=recolha-voluntaria-dos-medicamentos-soro-glucosado-isotonico-metronidazol-iv-braun-e-soro-fisiologico-b-braun&inheritRedirect=false",
+  "warnings": []
+}

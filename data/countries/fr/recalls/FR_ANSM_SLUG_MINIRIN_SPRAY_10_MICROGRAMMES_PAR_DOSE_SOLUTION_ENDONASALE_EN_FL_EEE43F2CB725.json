@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : Officines, Circuit de distribution pharmaceutique, Etablissements de santé Pour toute information médicale, vous pouvez contacter",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-07-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_MINIRIN_SPRAY_10_MICROGRAMMES_PAR_DOSE_SOLUTION_ENDONASALE_EN_FL_EEE43F2CB725",
+  "local_id": "SLUG_MINIRIN_SPRAY_10_MICROGRAMMES_PAR_DOSE_SOLUTION_ENDONASALE_EN_FL_EEE43F2CB725",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Minirin Spray 10 microgrammes par dose, solution endonasale en flacon pulvérisateur - Laboratoire Ferring (MED 20/A016/B008)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400933055042"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-07-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Minirin Spray 10 microgrammes par dose, solution endonasale en flacon pulvérisateur - Laboratoire Ferring (MED 20/A016/B008)"
+  },
+  "reason": "Minirin Spray 10 microgrammes par dose, solution endonasale en flacon pulvérisateur - Laboratoire Ferring (MED 20/A016/B008) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 27/07/2020 - MIS À JOUR LE 07/04/2021 A+ A- Le Laboratoire Ferring SAS procède, en accord avec l’ANSM, au rappel de tous les lots de la spécialité MINIRIN SPRAY 10 microgrammes par dose, solution endonasale en flacon pulvérisateur (Code CIP 34009 330 550 4 2) : P10428C EXP.02/2021 P10428E EXP.02/2021 P11318A EXP.01/2021 P11328U EXP.02/2021 P12148E EXP.04/2021 P12148L EXP.04/2021 P13210C EXP.05/2021 P16565A EXP.09/2021 P16790C EXP.11/2021 P16790K EXP.11/2021 P16790L EXP.11/2021 R11524A EXP.03/2022 R12631F EXP.05/2022 R13638C EXP.06/2022 R14358A EXP.08/2022 R14670F EXP.09/2022 S10152C EXP.12/2022 S10152M EXP.12/2022 S10642A E",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/minirin-spray-10-microgrammes-par-dose-solution-endonasale-en-flacon-pulverisateur-laboratoire-ferring-rappel-de-lots",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

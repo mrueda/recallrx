@@ -1,0 +1,37 @@
+{
+  "actions": "Niveau de rappel : Officines et circuit de distribution pharmaceutique Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel des actes, décisions et avis Documents administratifs mis à la disposition du public ",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2020-12-03",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_GYNOPURA_L_P_150_MG_OVULE_A_LIBERATION_PROLONGEE_LABORATOIRES_BE_0428C2A9E11D",
+  "local_id": "SLUG_GYNOPURA_L_P_150_MG_OVULE_A_LIBERATION_PROLONGEE_LABORATOIRES_BE_0428C2A9E11D",
+  "lots": [
+    "211",
+    "212",
+    "213",
+    "214"
+  ],
+  "manufacturer": null,
+  "medicine": "Gynopura L.P. 150 mg, ovule à libération prolongée - Laboratoires Besins International (MED20/A029)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938007121"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-12-03",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Gynopura L.P. 150 mg, ovule à libération prolongée - Laboratoires Besins International (MED20/A029)"
+  },
+  "reason": "150 mg, ovule à libération prolongée, boîte de 2 ovules (CIP 3400938007121) : Lot 211 (péremption 10/2021) Lot 212 (péremption 10/2021) Lot 213 (péremption 09/2022) Lot 214 (péremption 09/2022) Ce rappel fait suite à la mise en évidence d’une erreur de libellé dans la partie posologie de la notice de ces lots.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/gynopura-l-p-150-mg-ovule-a-liberation-prolongee-laboratoires-besins-international-rappel-de-lots",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

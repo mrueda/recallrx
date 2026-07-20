@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : Officines, Etablissements de santé et Circuit de distribution pharmaceutique Pour tout complément d'information : merci de contacter l'information médicale en tapant le choix 2 au numéro 01 55 39 14 30 ou en écrivant à l'adresse : infomedfr@kyowakirin.com Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos ",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-08-10",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ABSTRAL_300_UG_COMPRIME_SUBLINGUAL_LABORATOIRE_KYOWA_KIRIN_PHARM_C547C67C87B0",
+  "local_id": "SLUG_ABSTRAL_300_UG_COMPRIME_SUBLINGUAL_LABORATOIRE_KYOWA_KIRIN_PHARM_C547C67C87B0",
+  "lots": [
+    "figurant",
+    "608827701"
+  ],
+  "manufacturer": null,
+  "medicine": "Abstral 300 µg, comprimé sublingual - Laboratoire Kyowa Kirin Pharma (MED20/A020/B012)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-08-10",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Abstral 300 µg, comprimé sublingual - Laboratoire Kyowa Kirin Pharma (MED20/A020/B012)"
+  },
+  "reason": "Abstral 300 µg, comprimé sublingual - Laboratoire Kyowa Kirin Pharma (MED20/A020/B012) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 10/08/2020 - MIS À JOUR LE 07/04/2021 A+ A- Le laboratoire Kyowa Kirin Pharma procède, en accord avec l'ANSM et par mesure de précaution, au rappel du lot figurant ci-après de la spécialité Abstral 300 µg, comprimé sublingual, boite de 10 comprimés (34009 391 046 4 5) Lot 608827701 (péremption 08/2021) Ce rappel fait suite à la présence potentielle d’un comprimé supplémentaire au niveau de quelques blisters.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/abstral-300-ug-comprime-sublingual-laboratoire-kyowa-kirin-pharma",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

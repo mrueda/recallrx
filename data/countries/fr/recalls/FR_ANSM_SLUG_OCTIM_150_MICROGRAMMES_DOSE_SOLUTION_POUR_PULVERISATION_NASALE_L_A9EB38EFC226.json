@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : Officines, Circuit de distribution pharmaceutique, Etablissements de santé Pour toute information médicale, vous pouvez contacter",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-07-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_OCTIM_150_MICROGRAMMES_DOSE_SOLUTION_POUR_PULVERISATION_NASALE_L_A9EB38EFC226",
+  "local_id": "SLUG_OCTIM_150_MICROGRAMMES_DOSE_SOLUTION_POUR_PULVERISATION_NASALE_L_A9EB38EFC226",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "OCTIM 150 microgrammes/dose, solution pour pulvérisation nasale - Laboratoire Ferring (MED 20/A017/B009)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400935473318"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-07-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "OCTIM 150 microgrammes/dose, solution pour pulvérisation nasale - Laboratoire Ferring (MED 20/A017/B009)"
+  },
+  "reason": "OCTIM 150 microgrammes/dose, solution pour pulvérisation nasale - Laboratoire Ferring (MED 20/A017/B009) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 27/07/2020 - MIS À JOUR LE 07/04/2021 A+ A- Le Laboratoire Ferring SAS procède, en accord avec l’ANSM, au rappel de tous les lots de la spécialité OCTIM 150 microgrammes/dose, solution pour pulvérisation nasale (code CIP 34009 354 733 1 8) Lots concernés : P13755C EXP.06/2021 P13756G EXP.08/2021 P17637E EXP.12/2021 R13271E EXP.04/2022 R13651F EXP.06/2022 R13651T EXP.06/2022 Ce rappel fait suite à la détection de certains flacons contenant un volume de produit inférieur aux spécifications, entrainant une teneur en desmopressine par pulvérisation supérieure aux spécifications.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/octim-150-microgrammes-dose-solution-pour-pulverisation-nasale-laboratoire-ferring-rappel-de-lots",
+  "warnings": [
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-07-07",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_IRBESARTAN_ACCORD_300_MG_COMPRIME_PELLICULE_LABORATOIRE_ACCORD_H_49EED0CE8703",
+  "local_id": "SLUG_IRBESARTAN_ACCORD_300_MG_COMPRIME_PELLICULE_LABORATOIRE_ACCORD_H_49EED0CE8703",
+  "lots": [
+    "mentionn",
+    "Y16032"
+  ],
+  "manufacturer": null,
+  "medicine": "Irbesartan Accord 300 mg, comprimé pelliculé - Laboratoire Accord Healthcare France SAS (MED 21/A021/B017)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400927384318"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-07-07",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Irbesartan Accord 300 mg, comprimé pelliculé - Laboratoire Accord Healthcare France SAS (MED 21/A021/B017)"
+  },
+  "reason": "Irbesartan Accord 300 mg, comprimé pelliculé - Laboratoire Accord Healthcare France SAS (MED 21/A021/B017) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 07/07/2021 A+ A- Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Accord Healthcare France SAS procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité : IRBESARTAN ACCORD 300 mg, comprimé pelliculé - boite de 30 CIP 34009 273 843 1 8 Lot Y16032 (Exp 08/2021) Ce rappel fait suite à la mise en évidence d’une impureté Azide tétrazole à des taux supérieurs aux limites acceptables dans la substance active entrant dans la composition de cette spécialité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/irbesartan-accord-300-mg-comprime-pellicule-laboratoire-accord-healthcare-france-sas",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

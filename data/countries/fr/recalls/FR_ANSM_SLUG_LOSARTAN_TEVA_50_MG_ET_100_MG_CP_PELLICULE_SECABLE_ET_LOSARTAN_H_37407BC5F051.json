@@ -1,0 +1,47 @@
+{
+  "actions": "Niveau de rappel : Officines, et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-10-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOSARTAN_TEVA_50_MG_ET_100_MG_CP_PELLICULE_SECABLE_ET_LOSARTAN_H_37407BC5F051",
+  "local_id": "SLUG_LOSARTAN_TEVA_50_MG_ET_100_MG_CP_PELLICULE_SECABLE_ET_LOSARTAN_H_37407BC5F051",
+  "lots": [
+    "1201218",
+    "1221218",
+    "1490719",
+    "1531020",
+    "1750319",
+    "1760319",
+    "0420419",
+    "0790619",
+    "0681118",
+    "0601020",
+    "0701219",
+    "0750121",
+    "0780221",
+    "0791118",
+    "3L5050",
+    "3060221",
+    "3240920",
+    "2010121"
+  ],
+  "manufacturer": null,
+  "medicine": "Losartan Téva 50 mg et 100 mg, cp pelliculé sécable et Losartan/ Hydrochlorothiazide Téva 100 mg/25 mg, 100 mg/12,5mg et 50 mg/12,5 mg, cp pelliculé sécable - Laboratoire Teva Santé (MED21/A030)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-10-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Losartan Téva 50 mg et 100 mg, cp pelliculé sécable et Losartan/ Hydrochlorothiazide Téva 100 mg/25 mg, 100 mg/12,5mg et 50 mg/12,5 mg, cp pelliculé sécable - Laboratoire Teva Santé (MED21/A030)"
+  },
+  "reason": "Le laboratoire TEVA Santé, procède en accord avec l'ANSM, et par mesure de précaution, au rappel de lots des spécialités mentionnées ci-dessous : LOSARTAN TEVA 100 mg, comprimé pelliculé sécable - boite de 30 (3400938301625) Lot 1201218 - 12/2021 Lot 1221218 - 12/2021 Lot 1490719 - 07/2022 Lot 1531020 - 10/2023 Lot 1750319 - 03/2022 LOSARTAN TEVA 100 mg, comprimé pelliculé sécable - boite de 90 (3400938302684) Lot 1221218 - 12/2021 Lot 1750319 - 03/2022 Lot 1760319 - 03/2022 LOSARTAN TEVA 50 mg, comprimé pelliculé sécable - boite de 30 (3400938298512) Lot 0420419 - 04/2022 Lot 0790619 - 06/2022 Lot 0681118 - 11/2021 LOSARTAN TEVA 50 mg, comprimé pelliculé sécable - boite de 90 (3400938299403) Lot 0601020 - 10/2023 Lot 0701219 - 12/2022 Lot 0750121 - 01/2024 Lot 0780221 - 02/2024 Lot 079061",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/losartan-teva-50-mg-et-100-mg-cp-pellicule-secable-et-losartan-hydrochlorothiazide-teva-100-mg-25-mg-100-mg-12-5mg-et-50-mg-12-5-mg-cp-pellicule-secable-laboratoire-teva-sante",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

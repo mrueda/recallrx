@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : établissements de santé Pour tout complément d’information, nous vous remercions de contacter le numéro vert 0800 10 10 34. Publié le 18/12/2020 - Mis à jour le 31/03/2021 L’antibiotique Zerbaxa (ceftolozane-tazobactam) n’est plus disponible en raison d’un arrêt temporaire de la production Surveillance Pharmacovigilance Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-12-18",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ZERBAXA_1_G_0_5_G_POUDRE_POUR_SOLUTION_A_DILUER_POUR_PERFUSION_M_B72F56736C5F",
+  "local_id": "SLUG_ZERBAXA_1_G_0_5_G_POUDRE_POUR_SOLUTION_A_DILUER_POUR_PERFUSION_M_B72F56736C5F",
+  "lots": [],
+  "manufacturer": null,
+  "medicine": "Zerbaxa 1 g/0,5 g, poudre pour solution à diluer pour perfusion - MSD France",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-12-18",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Zerbaxa 1 g/0,5 g, poudre pour solution à diluer pour perfusion - MSD France"
+  },
+  "reason": "Zerbaxa 1 g/0,5 g, poudre pour solution à diluer pour perfusion - MSD France RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 18/12/2020 - MIS À JOUR LE 07/04/2021 A+ A- Le laboratoire MSD France procède, en accord avec l'ANSM et par mesure de précaution, au rappel de tous les lots non périmés de la spécialité ZERBAXA 1 g/0,5 g, poudre pour solution à diluer pour perfusion, 10 flacons en verre (CIP : 34009 300 362 3 5) mentionnés ci-dessous : S034814 (péremption : 12/2021) S034827 (péremption : 12/2021) S036242 (péremption : 12/2021) S040484 (péremption : 12/2021) S041244 (péremption : 12/2021) T003091 (péremption : 02/2022) T003341 (péremption : 02/2022) T016906 (péremption : 04/2022) T020623 (péremption : 04/2022) T025184 (péremption : 06/2022) T036539 (péremption : 09/2022) Ce rappel fait su",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/zerbaxa-1-g-0-5-g-poudre-pour-solution-a-diluer-pour-perfusion-msd-france-rappel-de-lots",
+  "warnings": [
+    "missing_cip",
+    "missing_lot",
+    "missing_manufacturer"
+  ]
+}

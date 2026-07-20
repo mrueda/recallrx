@@ -1,0 +1,29 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des clients concernés",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-09-22",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ALBUMINE_HUMAINE_IODEE_125I_CIS_BIO_INTERNATIONAL_320_KBQ_SOLUTI_493E12FFB745",
+  "local_id": "SLUG_ALBUMINE_HUMAINE_IODEE_125I_CIS_BIO_INTERNATIONAL_320_KBQ_SOLUTI_493E12FFB745",
+  "lots": [
+    "mentionn"
+  ],
+  "manufacturer": "Laboratoire Cis Bio International",
+  "medicine": "Albumine humaine iodée (¹²⁵I) Cis bio international 320 kBq solution injectable [Réf : SERALB-125]",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-09-22",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Albumine humaine iodée (¹²⁵I) Cis bio international 320 kBq solution injectable [Réf : SERALB-125] – Laboratoire Cis Bio International"
+  },
+  "reason": "Albumine humaine iodée (¹²⁵I) Cis bio international 320 kBq solution injectable [Réf : SERALB-125] – Laboratoire Cis Bio International RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 22/09/2025 A+ A- Niveau de rappel : en direct auprès des clients concernés Le laboratoire Cis Bio international procède au rappel du lot mentionné ci-dessous de la spécialité : Albumine humaine iodée (¹²⁵I) Cis bio international 320 kBq solution injectable [Réf : SERALB-125] – CIP : 34009 564 445 2 6 Lot : W009 - péremption 16/10/2025 Ce rappel fait suite à la mise en évidence d'un défaut d'efficacité de ce lot.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/albumine-humaine-iodee-125i-cis-bio-international-320-kbq-solution-injectable-ref-seralb-125-laboratoire-cis-bio-international",
+  "warnings": [
+    "missing_cip"
+  ]
+}

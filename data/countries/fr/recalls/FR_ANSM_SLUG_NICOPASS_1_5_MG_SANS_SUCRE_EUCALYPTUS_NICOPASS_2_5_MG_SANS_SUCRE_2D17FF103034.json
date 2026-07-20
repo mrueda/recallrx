@@ -1,0 +1,34 @@
+{
+  "actions": "Niveau de rappel : Circuit de distribution pharmaceutique, Etablissements de santé, officines et patients.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2024-07-25",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_NICOPASS_1_5_MG_SANS_SUCRE_EUCALYPTUS_NICOPASS_2_5_MG_SANS_SUCRE_2D17FF103034",
+  "local_id": "SLUG_NICOPASS_1_5_MG_SANS_SUCRE_EUCALYPTUS_NICOPASS_2_5_MG_SANS_SUCRE_2D17FF103034",
+  "lots": [
+    "4N4RH"
+  ],
+  "manufacturer": null,
+  "medicine": "Nicopass 1.5 mg sans sucre Eucalyptus - Nicopass 2.5 mg sans sucre menthe fraîcheur, Pastille édulcorée à l’aspartam et à l’acésulfame potassique boite de 96 pastilles - Laboratoire Pierre Fabre Médicament (MED 24/A008/B004)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938730715"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2024-07-25",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Nicopass 1.5 mg sans sucre Eucalyptus - Nicopass 2.5 mg sans sucre menthe fraîcheur, Pastille édulcorée à l’aspartam et à l’acésulfame potassique boite de 96 pastilles - Laboratoire Pierre Fabre Médicament (MED 24/A008/B004)"
+  },
+  "reason": "Ce rappel fait suite à l’utilisation par erreur d’étuis de Nicopass 1.5 mg sans sucre eucalyptus lors du conditionnement du lot 4N4RH de Nicopass menthe fraîcheur 2,5 mg sans sucre (Code CIP 34009 387 307 1 5).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/nicopass-1-5-mg-sans-sucre-eucalyptus-nicopass-2-5-mg-sans-sucre-menthe-fraicheur-pastille-edulcoree-a-laspartam-et-a-lacesulfame-potassique-boite-de-96-pastilles-laboratoire-pierre-fabre-medicament",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

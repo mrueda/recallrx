@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-06-26",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CEFPODOXIME_TEVA_ENFANTS_ET_NOURRISSONS_40_MG_5_ML_POUDRE_POUR_S_A1FC198080C2",
+  "local_id": "SLUG_CEFPODOXIME_TEVA_ENFANTS_ET_NOURRISSONS_40_MG_5_ML_POUDRE_POUR_S_A1FC198080C2",
+  "lots": [
+    "mentionn",
+    "F305082"
+  ],
+  "manufacturer": "Laboratoire Téva Santé (MED25/A012/B012)",
+  "medicine": "Cefpodoxime Téva Enfants et Nourrissons 40 mg/ 5 ml, poudre pour suspension buvable",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-06-26",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Cefpodoxime Téva Enfants et Nourrissons 40 mg/ 5 ml, poudre pour suspension buvable – Laboratoire Téva Santé (MED25/A012/B012)"
+  },
+  "reason": "Cefpodoxime Téva Enfants et Nourrissons 40 mg/ 5 ml, poudre pour suspension buvable – Laboratoire Téva Santé (MED25/A012/B012) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 26/06/2025 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Teva Santé procède, en accord avec l'ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : Cefpodoxime Teva Enfants et nourrissons 40 mg/ 5 ml, poudre pour suspension buvable - flacon de 50ml (CIP: 3400938733327) Lot F305082 - péremption 07/2025 Ce rappel fait suite à la mise en évidence d'une possible perte d'intégrité de certains flacons.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/cefpodoxime-teva-enfants-et-nourrissons-40-mg-5-ml-poudre-pour-suspension-buvable-laboratoire-teva-sante",
+  "warnings": [
+    "missing_cip"
+  ]
+}

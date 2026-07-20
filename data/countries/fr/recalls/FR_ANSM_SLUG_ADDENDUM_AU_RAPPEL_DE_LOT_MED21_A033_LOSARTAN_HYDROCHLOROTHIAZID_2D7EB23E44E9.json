@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : Officines, circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-11-05",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ADDENDUM_AU_RAPPEL_DE_LOT_MED21_A033_LOSARTAN_HYDROCHLOROTHIAZID_2D7EB23E44E9",
+  "local_id": "SLUG_ADDENDUM_AU_RAPPEL_DE_LOT_MED21_A033_LOSARTAN_HYDROCHLOROTHIAZID_2D7EB23E44E9",
+  "lots": [
+    "MED21",
+    "mentionn",
+    "LC56782"
+  ],
+  "manufacturer": "Laboratoire Cristers (MED21/A040)",
+  "medicine": "Addendum au rappel de lot MED21/A033 : Losartan/Hydrochlorothiazide Cristers Pharma 50 mg/12,5 mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-11-05",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Addendum au rappel de lot MED21/A033 : Losartan/Hydrochlorothiazide Cristers Pharma 50 mg/12,5 mg, comprimé pelliculé – Laboratoire Cristers (MED21/A040)"
+  },
+  "reason": "Addendum au rappel de lot MED21/A033 : Losartan/Hydrochlorothiazide Cristers Pharma 50 mg/12,5 mg, comprimé pelliculé – Laboratoire Cristers (MED21/A040) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 05/11/2021 A+ A- Niveau de rappel : Officines, circuit de distribution pharmaceutique Le laboratoire Cristers procède, en accord avec l'ANSM et par mesure de précaution, au rappel du lot mentionné ci-dessous de la spécialité : LOSARTAN/HYDROCHLOROTHIAZIDE CRISTERS PHARMA 50 mg/12,5 mg, comprimé pelliculé (boîte de 90) – CIP : 3400930173992 Lot LC56782 (péremption juil-22) Ce rappel fait suite à la mise en évidence d'une impureté azide appelée « impureté azoturée de losartan » à des taux supérieurs aux limites acceptables dans la substance active entrant dans la composition de cette spécialité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/addendum-au-rappel-de-lot-med21-a033-losartan-hydrochlorothiazide-cristers-pharma-50-mg-12-5-mg-comprime-pellicule-laboratoire-cristers",
+  "warnings": [
+    "missing_cip"
+  ]
+}

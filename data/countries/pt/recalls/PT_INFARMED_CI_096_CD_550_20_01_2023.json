@@ -1,0 +1,35 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam este lote de medicamento em stock não o podem vender, dispensar ou administrar, devendo proceder à sua devolução. Os doentes que estejam a utilizar medicamentos pertencentes a este lote não devem interromper o tratamento. Logo que possível, devem contactar o médico para substituir por outro lote ou um medicamento alternativo. A Vogal do Conselho Diretivo (Erica Viegas)",
+  "authority": "INFARMED",
+  "confidence": 0.9,
+  "country": "PT",
+  "date": "2023-09-19",
+  "expiry_dates": [
+    "31/01/2027"
+  ],
+  "id": "PT_INFARMED_CI_096_CD_550_20_01_2023",
+  "local_id": "CI 096/CD/550.20.01",
+  "lots": [
+    "23A079"
+  ],
+  "manufacturer": "LABORATÓRIO EDOL, Produtos Farmacêuticos",
+  "medicine": "Bglau (brimonidina) 0.7 mg/0.35 ml, Colírio, solução unidose",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "5694203"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-09-18",
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária do medicamento Bglau (brimonidina) 0.7 mg/0.35 ml, Colírio, solução unidose"
+  },
+  "reason": "A empresa LABORATÓRIO EDOL, Produtos Farmacêuticos S.A, irá proceder à recolha voluntária do lote n.º 23A079, com a validade 31/01/2027, do medicamento Bglau (Brimonidina) 0.7 mg/0.35 ml, Colírio, solução em recipiente unidose, com o número de registo 5694203 - 60 recipientes unidose, por ter sido detetada uma contaminação com resíduos de outra substância ativa.",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=9250412&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-bglau-brimonidina-0-7-mg-0-35-ml-colirio-solucao-em-recipiente-unidose-lote-n-23a079-&inheritRedirect=false",
+  "warnings": []
+}

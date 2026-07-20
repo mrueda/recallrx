@@ -1,0 +1,35 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-12-09",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LUCENTIS_SOLUTION_INJECTABLE_EN_SERINGUE_PREREMPLIE_NOVARTIS_PHA_E9B38E896873",
+  "local_id": "SLUG_LUCENTIS_SOLUTION_INJECTABLE_EN_SERINGUE_PREREMPLIE_NOVARTIS_PHA_E9B38E896873",
+  "lots": [
+    "mentionn",
+    "21B15IB"
+  ],
+  "manufacturer": null,
+  "medicine": "Lucentis, solution injectable en seringue préremplie - Novartis Pharma S.A.S. (MED21/A049/B035)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400927671197"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-12-09",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Lucentis, solution injectable en seringue préremplie - Novartis Pharma S.A.S. (MED21/A049/B035)"
+  },
+  "reason": "procède, en accord avec l'ANSM, au rappel du lot mentionné ci dessous de la spécialité : LUCENTIS, solution injectable en seringue préremplie (CIP 34009 276 711 9 7) Lot 21B15IB - péremption 01/2024 Ce rappel fait suite à des difficultés rencontrées pour actionner le piston de certaines seringues.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/lucentis-solution-injectable-en-seringue-preremplie-novartis-pharma-s-a-s",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

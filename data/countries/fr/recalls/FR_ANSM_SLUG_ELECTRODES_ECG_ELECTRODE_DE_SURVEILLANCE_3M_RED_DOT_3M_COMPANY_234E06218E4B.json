@@ -1,0 +1,30 @@
+{
+  "actions": null,
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-10-15",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ELECTRODES_ECG_ELECTRODE_DE_SURVEILLANCE_3M_RED_DOT_3M_COMPANY_234E06218E4B",
+  "local_id": "SLUG_ELECTRODES_ECG_ELECTRODE_DE_SURVEILLANCE_3M_RED_DOT_3M_COMPANY_234E06218E4B",
+  "lots": [
+    "effectu"
+  ],
+  "manufacturer": null,
+  "medicine": "Electrodes ECG - Electrode de surveillance 3M Red Dot - 3M Company",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-10-15",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Electrodes ECG - Electrode de surveillance 3M Red Dot - 3M Company"
+  },
+  "reason": null,
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/electrodes-ecg-electrode-de-surveillance-3m-red-dot-3m-company",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

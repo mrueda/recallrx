@@ -1,0 +1,38 @@
+{
+  "actions": "Ce rappel fait suite au changement du dispositif d’administration : seringue doseuse de la spécialité FLUANXOL 4 POUR CENT, solution buvable, gouttes. Une nouvelle seringue de 1,25 mL graduée de 5 à 50 mg remplace l’ancienne seringue de 1,5 mL graduée de 5 à 60 mg. Ce rappel a pour objectif d’éviter que les deux seringues ne coexistent sur le marché et les risques de mésusages et d’erreurs médicamenteuses. Pour toute question, merci de contacter Lundbeck SAS (Paris La Défense - France) au 01 79 41 29 79. Niveaux de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique. RISQUES MEDICAMENTEUX Médicaments Publié le 08/02/2022 - Mis à jour le 14/02/2022 Changement de seringue de la spécialité Fluanxol 4 pour cent, solution buvable, gouttes (dichlorhydrate de flu",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-02-14",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_FLUANXOL_4_POUR_CENT_SOLUTION_BUVABLE_GOUTTES_LABORATOIRE_LUNDBE_EC17DCA84BEA",
+  "local_id": "SLUG_FLUANXOL_4_POUR_CENT_SOLUTION_BUVABLE_GOUTTES_LABORATOIRE_LUNDBE_EC17DCA84BEA",
+  "lots": [
+    "list",
+    "2690768",
+    "2696268",
+    "2704651",
+    "2710612"
+  ],
+  "manufacturer": null,
+  "medicine": "Fluanxol 4 Pour Cent, solution buvable, gouttes - Laboratoire Lundbeck SAS (MED 22/A007/B006)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400931655527"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-02-14",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Fluanxol 4 Pour Cent, solution buvable, gouttes - Laboratoire Lundbeck SAS (MED 22/A007/B006)"
+  },
+  "reason": "Le laboratoire Lundbeck SAS procède, en accord avec l'ANSM, au rappel des lot listés ci-dessous de la spécialité : FLUANXOL 4 POUR CENT, solution buvable, gouttes, flacon de 10 ml, CIP 3400931655527 Lot 2690768 - 02/2022 Lot 2696268 - 04/2022 Lot 2704651 - 05/2022 Lot 2710612 - 08/2022 Ce rappel fait suite au changement du dispositif d’administration : seringue doseuse de la spécialité FLUANXOL 4 POUR CENT, solution buvable, gouttes.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/fluanxol-4-pour-cent-solution-buvable-gouttes-laboratoire-lundbeck-sas-2",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

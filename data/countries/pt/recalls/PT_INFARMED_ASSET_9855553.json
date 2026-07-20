@@ -1,0 +1,40 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam estes lotes de medicamentos em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução. Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper ...\" 22/03/2024 recolha qualidade",
+  "authority": "INFARMED",
+  "confidence": 0.6,
+  "country": "PT",
+  "date": "2024-03-22",
+  "expiry_dates": [
+    "11/2026",
+    "12/2024",
+    "11/2025"
+  ],
+  "id": "PT_INFARMED_ASSET_9855553",
+  "local_id": "ASSET_9855553",
+  "lots": [
+    "22P851",
+    "20A651",
+    "21L921",
+    "22P852",
+    "22P853",
+    "22P854"
+  ],
+  "manufacturer": "Bluepharma Genéricos - Comércio de Medicamentos S",
+  "medicine": "Recolha de lotes do medicamento Montelucaste Bluepharma, Comprimido para mastigar, 4 mg e 5 mg",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2024-03-22",
+  "raw": {
+    "asset_id": "9855553",
+    "source": "pt_infarmed_search_result",
+    "title": "Recolha de lotes do medicamento Montelucaste Bluepharma, Comprimido para mastigar, 4 mg e 5 mg"
+  },
+  "reason": "\"Por terem sido detetadas duas impurezas desconhecidas com teor fora da especificação em análises durante os estudos de estabilidade, o Infarmed determina a recolha dos lotes do medicamento Montelucaste Bluepharma Comprimido para mastigar, embalagem 28 comprimidos, nas dosagens de 4 mg e 5 mg, constantes da tabela abaixo do titular de autorização de introdução no mercado Bluepharma Genéricos - Comércio de Medicamentos S.A. N.º registo | Medicamento | Lote | Validade 5258900 Montelucaste Bluepharma 4 mg Comprimido para mastigar, embalagem 28 comprimidos 22P851 11/2026 5258934 Montelucaste Bluepharma 5 mg Comprimido para mastigar, embalagem 28 comprimidos 20A651 12/2024 21L921 11/2025 22P852 11/2026 22P853 11/2026 22P854 11/2026 Face ao exposto: As entidades que possuam estes lotes de medicamentos em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução. Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper ...\"",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=9855553&_101_type=content&_101_urlTitle=recolha-de-lotes-do-medicamento-montelucaste-bluepharma-comprimido-para-mastigar-nas-dosagens-de-4-mg-e-5-mg&inheritRedirect=false",
+  "warnings": [
+    "source_detail_fallback",
+    "missing_registration_number"
+  ]
+}

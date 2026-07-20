@@ -1,0 +1,37 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam estes lotes de medicamento em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper o tratamento. Logo que possível, devem contactar o médico para substituir por outro lote deste medicamento ou um medicamento alternativo.\" 21/10/2020 recolha voluntária diplexil",
+  "authority": "INFARMED",
+  "confidence": 0.72,
+  "country": "PT",
+  "date": "2020-10-21",
+  "expiry_dates": [
+    "06/2021"
+  ],
+  "id": "PT_INFARMED_ASSET_4060023",
+  "local_id": "ASSET_4060023",
+  "lots": [
+    "0019003742"
+  ],
+  "manufacturer": "Tecnifar",
+  "medicine": "Recolha voluntária de um lote do medicamento Diplexil, 300 mg, cápsulas de libertação modificada",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "3906989"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-10-21",
+  "raw": {
+    "asset_id": "4060023",
+    "source": "pt_infarmed_search_result",
+    "title": "Recolha voluntária de um lote do medicamento Diplexil, 300 mg, cápsulas de libertação modificada"
+  },
+  "reason": "\"A empresa Tecnifar irá proceder à recolha voluntária do lote 0019003742, com validade até 06/2021, do medicamento Diplexil, 300 mg, cápsulas de libertação modificada, com o número de registo 3906989, por ter sido detetado, em ensaios de estabilidade, um desvio às especificações do ensaio de dissolução. É importante referir que este desvio não colocou em risco a saúde dos doentes que possam já ter tomado o referido medicamento. Lote Prazo de validade 0019003742 06/2021 Tendo em conta o supramencionado, o Infarmed determina a suspensão imediata da distribuição deste lote do medicamento. Face ao exposto: As entidades que possuam estes lotes de medicamento em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper o tratamento. Logo que possível, devem contactar o médico para substituir por outro lote deste medicamento ou um medicamento alternativo.\"",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4060023&_101_type=content&_101_urlTitle=recolha-voluntaria-de-um-lote-do-medicamento-diplexil-300-mg-capsulas-de-libertacao-modificada&inheritRedirect=false",
+  "warnings": [
+    "source_detail_fallback"
+  ]
+}

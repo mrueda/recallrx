@@ -1,0 +1,38 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-11-02",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOSARTAN_ZYDUS_50MG_COMPRIME_PELLICULE_SECABLE_LOSARTAN_ZYDUS_10_6DF13F1E10BD",
+  "local_id": "SLUG_LOSARTAN_ZYDUS_50MG_COMPRIME_PELLICULE_SECABLE_LOSARTAN_ZYDUS_10_6DF13F1E10BD",
+  "lots": [
+    "M006670",
+    "M010322",
+    "M006671",
+    "M010323",
+    "M006677",
+    "M006684",
+    "M016780",
+    "M010992",
+    "M010993"
+  ],
+  "manufacturer": null,
+  "medicine": "Losartan Zydus 50mg comprimé pelliculé sécable, Losartan Zydus 100mg comprimé pelliculé, Losartan/Hydrochlorothiazide Zydus 50mg /12.5mg et 100mg /25mg comprimé pelliculé - Laboratoire Zydus (MED21/A036)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-11-02",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Losartan Zydus 50mg comprimé pelliculé sécable, Losartan Zydus 100mg comprimé pelliculé, Losartan/Hydrochlorothiazide Zydus 50mg /12.5mg et 100mg /25mg comprimé pelliculé - Laboratoire Zydus (MED21/A036)"
+  },
+  "reason": "Le laboratoire Zydus France, procède en accord avec l'ANSM, et par mesure de précaution, au rappel de lots des spécialités mentionnées ci-dessous : LOSARTAN ZYDUS 100 mg Cpr pell Plq/30 (3400938529272) Lot M006670 - 05/2023 Lot M010322 - 07/2023 LOSARTAN ZYDUS 100 mg Cpr pell Plq/90 (3400938529562) Lot M006671 - 05/2023 Lot M010323 - 07/2023 LOSARTAN ZYDUS 50 mg Cpr pell séc Plq/90 (3400938528152) Lot M006677 - 05/2023 LOSARTAN/HYDROCHLOROTHIAZIDE ZYDUS 100 mg/25 mg Cpr pell Plq/30 (3400921938074) Lot M006684 - 06/2023 LOSARTAN/HYDROCHLOROTHIAZIDE ZYDUS 100 mg/25 mg Cpr pell Plq/90 (3400921938364) Lot M016780 - 11/2023 LOSARTAN/HYDROCHLOROTHIAZIDE ZYDUS 50 mg/12,5 mg Cpr pell Plq/30 (3400921938593) Lot M010992 - 07/2023 LOSARTAN/HYDROCHLOROTHIAZIDE ZYDUS 50 mg/12,5 mg Cpr pell Plq/90 (3400",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/losartan-zydus-50mg-comprime-pellicule-secable-losartan-zydus-100mg-comprime-pellicule-losartan-hydrochlorothiazide-zydus-50mg-12-5mg-et-100mg-25mg-comprime-pellicule-laboratoire-zydus",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

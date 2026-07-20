@@ -3,6 +3,31 @@
     "authority": "INFARMED",
     "confidence": 0.9,
     "country": "PT",
+    "date": "2026-07-17",
+    "id": "PT_INFARMED_CI_073_CD_550_20_001_2026",
+    "local_id": "CI 073/CD/550.20.001",
+    "lots": [
+      "1OX25010D"
+    ],
+    "manufacturer": "Generis Farmacêutica",
+    "medicine": "Oxaliplatina Generis, 5 mg/ml, concentrado para solução para perfusão",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5858048"
+      }
+    ],
+    "publication_date": "2026-07-16",
+    "reason": "A empresa Generis Farmacêutica S.A., irá proceder à recolha voluntária do lote n.º 1OX25010D com a validade 30/06/2027, do medicamento Oxaliplatina Generis, Oxaliplatina, 5 mg/ml, concentrado para solução para perfusão, com o número de registo 5858048 (apresentação de 1 frasco - 20 ml), por ter sido detetado um resultado fora de especificação.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13281501",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
     "date": "2026-06-03",
     "id": "PT_INFARMED_CI_054_CD_550_20_001_2026",
     "local_id": "CI 054/CD/550.20.001",
@@ -36,33 +61,51 @@
   },
   {
     "authority": "INFARMED",
-    "confidence": 0.78,
+    "confidence": 0.9,
     "country": "PT",
     "date": "2026-04-17",
     "id": "PT_INFARMED_CI_038_CD_550_20_001_2026",
     "local_id": "CI 038/CD/550.20.001",
-    "lots": [],
-    "manufacturer": "Bayer Portugal",
+    "lots": [
+      "MA04JLF",
+      "MA04MZ5",
+      "MA04REJ",
+      "MA04TL3",
+      "MA049BJ",
+      "MA04EDX",
+      "MA04VZU"
+    ],
+    "manufacturer": "Bayer Portugal, Lda.",
     "medicine": "Gastrografina, solução gastroentérica e Urografina, solução injetável",
     "pdf_url": null,
-    "product_codes": [],
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "8575902"
+      },
+      {
+        "system": "AIM",
+        "value": "8564732"
+      }
+    ],
     "publication_date": "2026-04-13",
     "reason": "A empresa Bayer Portugal, Lda. irá proceder à recolha voluntária dos lotes indicados na tabela seguinte referentes aos medicamentos Gastrografina, solução gastroentérica, 0.76 g/ml, 100 ml (n.º de registo 8575902) e Urografina, solução injetável, 76% 100 ml (n.º de registo 8564732) , por ter sido detetada uma impureza acima do limite aceitável.",
     "recall_class": null,
     "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12928032",
-    "warnings": [
-      "missing_registration_number",
-      "missing_lot"
-    ]
+    "warnings": []
   },
   {
     "authority": "INFARMED",
-    "confidence": 0.78,
+    "confidence": 0.9,
     "country": "PT",
     "date": "2026-04-02",
     "id": "PT_INFARMED_CI_036_CD_550_20_001_2026",
     "local_id": "CI 036/CD/550.20.001",
-    "lots": [],
+    "lots": [
+      "17244652",
+      "17303308",
+      "17277208"
+    ],
     "manufacturer": "Satis-Radioisótopos e Protecções Contra Sobretensões Eléctricas, Lda",
     "medicine": "Visipaque 320, Iodixanol e Omnipaque 350, Io-hexol",
     "pdf_url": null,
@@ -80,19 +123,19 @@
     "reason": "Por terem sido detetadas partículas nas embalagens de acondicionamento primário de polipropileno de 100 mL, o Infarmed ordena a recolha dos lotes n.º 17244652 (validade 26/07/2028) e n.º 17303308 (validade: 15/08/2028) do medicamento Visipaque 320, Iodixanol, 652 mg/mL, Solução injetável, com o número de registo 5850813, e dos lotes n.º 17277208 (validade: 25/07/2028) e n.º. 17340558 (validade: 30/11/2028) do medicamento Omnipaque 350, Io-hexol, 755 mg/mL, Solução injetável , com o número de registo 5850920, do titular de autorização de introdução no mercado Satis-Radioisótopos e Protecções Contra Sobretensões Eléctricas, Lda.",
     "recall_class": null,
     "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12667112",
-    "warnings": [
-      "missing_lot"
-    ]
+    "warnings": []
   },
   {
     "authority": "INFARMED",
-    "confidence": 0.78,
+    "confidence": 0.9,
     "country": "PT",
     "date": "2026-03-30",
     "id": "PT_INFARMED_CI_034_CD_550_20_001_2026",
     "local_id": "CI 034/CD/550.20.001",
-    "lots": [],
-    "manufacturer": "Chiesi Farmaceutici",
+    "lots": [
+      "1204472"
+    ],
+    "manufacturer": "Chiesi Farmaceutici, S.p.A.",
     "medicine": "Curosurf (Poractante alfa) - 120 mg-1.5 ml, suspensão para instilação endotraqueobrônquica",
     "pdf_url": null,
     "product_codes": [
@@ -105,9 +148,7 @@
     "reason": "A empresa Chiesi Farmaceutici, S.p.A. irá proceder à recolha voluntária, na sequência de ter sido identificado falhas no controlo ambiental da produção do medicamento. dos lotes n.º 1204472 (prazo de validade 04/2026) e n.º 1212392 (prazo de validade 07/2026), do medicamento Curosurf (Poractante alfa), 120 mg/1.5 ml, Suspensão para instalação endotraqueobrônquica, nº de registo 2139889 - 1 frasco para injetáveis 1,5 ml.",
     "recall_class": null,
     "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12659868",
-    "warnings": [
-      "missing_lot"
-    ]
+    "warnings": []
   },
   {
     "authority": "INFARMED",
@@ -120,13 +161,17 @@
     "manufacturer": "Santen Oy",
     "medicine": "Ikervis (Ciclosporina) 1 mg-ml (colírio, emulsão, Lote 4T92C)",
     "pdf_url": null,
-    "product_codes": [],
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5672266"
+      }
+    ],
     "publication_date": "2026-03-17",
     "reason": "Por terem sido detetados valores fora da especificação para a substância ativa ciclosporina, o Infarmed determina a recolha do lote 4T92C, prazo de validade 31/12/2026, do medicamento Ikervis (Ciclosporina), 1 mg/ml, colírio, emulsão n.º de registo 5672266, 30 unidades de recipiente, unidose de 0,3 ml, do titular de autorização de introdução no mercado Santen Oy.",
     "recall_class": null,
     "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12596631",
     "warnings": [
-      "missing_registration_number",
       "missing_lot"
     ]
   },
@@ -175,12 +220,14 @@
   },
   {
     "authority": "INFARMED",
-    "confidence": 0.78,
+    "confidence": 0.9,
     "country": "PT",
     "date": "2026-02-26",
     "id": "PT_INFARMED_CI_019_CD_550_20_001_2026",
     "local_id": "CI 019/CD/550.20.001",
-    "lots": [],
+    "lots": [
+      "313170B"
+    ],
     "manufacturer": "Faes Farma Portugal",
     "medicine": "Bilaxten (bilastina), 6 mg-ml, colírio",
     "pdf_url": null,
@@ -194,19 +241,20 @@
     "reason": "A empresa Faes Farma Portugal, S.A. irá proceder à recolha voluntária dos lotes n.º 313170B, com a validade 01/2027 e n.º 341790B, com a validade 01/2028 do medicamento Bilaxten (bilastina), 6 mg/ml, colírio, nº de registo 5843834 - frasco de 5 ml, por ter sido detetado partículas visíveis na solução dos respetivos colírios.",
     "recall_class": null,
     "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12542806",
-    "warnings": [
-      "missing_lot"
-    ]
+    "warnings": []
   },
   {
     "authority": "INFARMED",
-    "confidence": 0.78,
+    "confidence": 0.9,
     "country": "PT",
     "date": "2026-02-25",
     "id": "PT_INFARMED_CI_017_CD_550_20_001_2026",
     "local_id": "CI 017/CD/550.20.001",
-    "lots": [],
-    "manufacturer": null,
+    "lots": [
+      "295610A",
+      "341780A"
+    ],
+    "manufacturer": "A. Menarini Portugal Farmacêutica",
     "medicine": "Lergonix (bilastina), colírio, 6 mg-ml",
     "pdf_url": null,
     "product_codes": [
@@ -219,10 +267,7 @@
     "reason": "A empresa A. Menarini Portugal Farmacêutica, S.A. , irá proceder à recolha voluntária dos lotes n.º 295610A com a validade 06/2026 e nº 341780A com a validade 01/2028 , do medicamento Lergonix (bilastina), 6 mg/ml, colírio , com o número de registo 5843750, por ter sido detetado partículas visíveis na solução dos respetivos colírios.",
     "recall_class": null,
     "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12541960",
-    "warnings": [
-      "missing_lot",
-      "missing_manufacturer"
-    ]
+    "warnings": []
   },
   {
     "authority": "INFARMED",
@@ -234,7 +279,7 @@
     "lots": [
       "1218778"
     ],
-    "manufacturer": "Chiesi Farmaceutici",
+    "manufacturer": "Chiesi Farmaceutici, S.p.A",
     "medicine": "Lamzede (velmanase alfa), pó para solução para perfusão, 10 mg",
     "pdf_url": null,
     "product_codes": [],
@@ -253,7 +298,18 @@
     "date": "2026-01-23",
     "id": "PT_INFARMED_CI_008_CD_550_20_001_2026",
     "local_id": "CI 008/CD/550.20.001",
-    "lots": [],
+    "lots": [
+      "D20543C",
+      "D20543D",
+      "D50154A",
+      "D20542E",
+      "D20543B",
+      "D50151C",
+      "D50152C",
+      "D50154D",
+      "D50155A",
+      "D20551B"
+    ],
     "manufacturer": "Pharmanovia",
     "medicine": "Tenormin (atenolol), 50 e 100 mg, comprimidos revestidos por película",
     "pdf_url": null,
@@ -263,8 +319,7 @@
     "recall_class": null,
     "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12373861",
     "warnings": [
-      "missing_registration_number",
-      "missing_lot"
+      "missing_registration_number"
     ]
   },
   {
@@ -334,7 +389,9 @@
     "date": "2025-12-12",
     "id": "PT_INFARMED_CI_139_CD_550_20_001_2025",
     "local_id": "CI 139/CD/550.20.001",
-    "lots": [],
+    "lots": [
+      "231452"
+    ],
     "manufacturer": "Towa Pharmaceutical",
     "medicine": "Duloxetina toLife, 60mg, cápsula gastrorresistente",
     "pdf_url": null,
@@ -344,18 +401,19 @@
     "recall_class": null,
     "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12138669",
     "warnings": [
-      "missing_registration_number",
-      "missing_lot"
+      "missing_registration_number"
     ]
   },
   {
     "authority": "INFARMED",
-    "confidence": 0.78,
+    "confidence": 0.9,
     "country": "PT",
     "date": "2025-12-09",
     "id": "PT_INFARMED_CI_137_CD_550_20_001_2025",
     "local_id": "CI 137/CD/550.20.001",
-    "lots": [],
+    "lots": [
+      "H250475AA"
+    ],
     "manufacturer": "Medac Gesellschaft fur klinische Spezialpraparate mbH - Sucursal em Portugal",
     "medicine": "Metex PEN 17,5 mg-0,35ml, solução injetável caneta pré-cheia",
     "pdf_url": null,
@@ -369,9 +427,7 @@
     "reason": "A empresa Medac Gesellschaft fur klinische Spezialpraparate mbH - Sucursal em Portugal, irá proceder à recolha voluntária do lote n.º H250475AA, com a validade 07/2027, do medicamento Metex PEN (Metotrexato), Solução injetável em caneta pré-cheia, 17,5 mg/0,35ml, com o número de registo 5618715, por ter sido detetado um defeito na seringa que compromete a integridade e esterilidade do produto.",
     "recall_class": null,
     "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/12114093",
-    "warnings": [
-      "missing_lot"
-    ]
+    "warnings": []
   },
   {
     "authority": "INFARMED",
@@ -440,7 +496,9 @@
     "date": "2025-10-09",
     "id": "PT_INFARMED_CI_119_CD_550_20_001_2025",
     "local_id": "CI 119/CD/550.20.001",
-    "lots": [],
+    "lots": [
+      "243118081"
+    ],
     "manufacturer": "B",
     "medicine": "Lipoplus, Associação, emulsão para perfusão",
     "pdf_url": null,
@@ -450,19 +508,20 @@
     "recall_class": null,
     "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11750476",
     "warnings": [
-      "missing_registration_number",
-      "missing_lot"
+      "missing_registration_number"
     ]
   },
   {
     "authority": "INFARMED",
-    "confidence": 0.78,
+    "confidence": 0.9,
     "country": "PT",
     "date": "2025-10-08",
     "id": "PT_INFARMED_CI_118_CD_550_20_001_2025",
     "local_id": "CI 118/CD/550.20.001",
-    "lots": [],
-    "manufacturer": "Boehringer Ingelheim Portugal",
+    "lots": [
+      "R1335"
+    ],
+    "manufacturer": "Boehringer Ingelheim Portugal, Lda",
     "medicine": "Nolotil 2000 mg/5 ml, solução injetável",
     "pdf_url": null,
     "product_codes": [
@@ -475,9 +534,7 @@
     "reason": "A empresa Boehringer Ingelheim Portugal, Lda, irá proceder à recolha voluntária do lote n.º R1335 , com a validade 05/2028 , do medicamento Nolotil (Metamizol magnésico) 2000mg/5ml, solução injetável , com o número de registo 8512202, por ter sido detetada a presença de fragmentos de vidro de ampolas e pó na embalagem secundária do medicamento.",
     "recall_class": null,
     "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11744636",
-    "warnings": [
-      "missing_lot"
-    ]
+    "warnings": []
   },
   {
     "authority": "INFARMED",
@@ -682,12 +739,14 @@
   },
   {
     "authority": "INFARMED",
-    "confidence": 0.78,
+    "confidence": 0.9,
     "country": "PT",
     "date": "2025-08-04",
     "id": "PT_INFARMED_CI_092_CD_550_20_001_2025",
     "local_id": "CI 092/CD/550.20.001",
-    "lots": [],
+    "lots": [
+      "23KN163A"
+    ],
     "manufacturer": "Towa Pharmaceutical",
     "medicine": "Fluoxetina toLife (20 mg cápsulas)",
     "pdf_url": null,
@@ -701,31 +760,32 @@
     "reason": "A empresa Towa Pharmaceutical, S.A., irá proceder à recolha voluntária do lote n.º 23KN163A do medicamento Fluoxetina toLife 20 mg cápsulas, cápsula, 60 unidade(s) , com o número de registo 5223284, por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
     "recall_class": null,
     "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11534036",
-    "warnings": [
-      "missing_lot"
-    ]
+    "warnings": []
   },
   {
     "authority": "INFARMED",
-    "confidence": 0.78,
+    "confidence": 0.9,
     "country": "PT",
     "date": "2025-07-21",
     "id": "PT_INFARMED_CI_089_CD_550_20_001_2025",
     "local_id": "CI 089/CD/550.20.001",
-    "lots": [],
-    "manufacturer": null,
+    "lots": [
+      "E1314"
+    ],
+    "manufacturer": "Generis Farmacêutica",
     "medicine": "Recolha voluntária | Lorazepam Labesfal, 1 mg, comprimido, 60 unidades (lote n.º E1314)",
     "pdf_url": null,
-    "product_codes": [],
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5615927"
+      }
+    ],
     "publication_date": "2025-07-18",
     "reason": "A empresa Generis Farmacêutica S.A. irá proceder à recolha voluntária do lote n.º E1314 do medicamento Lorazepam Labesfal, 1 mg, comprimido, 60 unidades, n.º de registo 5615927 em virtude de ter sido detetado um resultado fora de especificação no parâmetro doseamento no âmbito de um estudo de estabilidade.",
     "recall_class": null,
-    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11476652",
-    "warnings": [
-      "missing_registration_number",
-      "missing_lot",
-      "missing_manufacturer"
-    ]
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11476656&_101_type=content&_101_urlTitle=recolha-voluntaria-do-lote-n-e1314-prazo-de-validade-03-2026-do-medicamento-lorazepam-labesfal-1-mg-comprimido-60-unidades&inheritRedirect=false",
+    "warnings": []
   },
   {
     "authority": "INFARMED",
@@ -735,7 +795,7 @@
     "id": "PT_INFARMED_CI_088_CD_550_20_001_2025",
     "local_id": "CI 088/CD/550.20.001",
     "lots": [],
-    "manufacturer": null,
+    "manufacturer": "Théa Portugal",
     "medicine": "Zaditen (cetotifeno), 0,25 mg/ml, colírio, solução (frasco 5 ml)",
     "pdf_url": null,
     "product_codes": [
@@ -747,11 +807,47 @@
     "publication_date": "2025-07-18",
     "reason": "A empresa Théa Portugal S.A. irá proceder à recolha voluntária do Lote nº 4V64, prazo de validade 30/09/2026 do medicamento Zaditen (cetotifeno), 0,25 mg/ml, colírio, solução (frasco 5 ml), nº de registo 3520186 - colírio, solução, frasco de 5 ml, por medida de precaução na sequência de ter sido detetado o risco de contaminação microbiana deste lote.",
     "recall_class": null,
-    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11472134",
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11472138&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-zaditen-cetotifeno-0-25-mg-ml-colirio-solucao-frasco-5-ml-lote-n-4v64-prazo-de-validade-30-09-2026-&inheritRedirect=false",
     "warnings": [
-      "missing_lot",
-      "missing_manufacturer"
+      "missing_lot"
     ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-07-18",
+    "id": "PT_INFARMED_CI_087_CD_550_20_001_2025",
+    "local_id": "CI 087/CD/550.20.001",
+    "lots": [
+      "4V14F",
+      "4V14C",
+      "4V30B",
+      "4V31B",
+      "5V18D"
+    ],
+    "manufacturer": "Dorcilfree, Dorzolamida, 20 mg/ml) Colírio, solução, Frasco 5 mL 5782065 4V14F 09/2027 Laboratório Edol - Produtos Farmacêuticos, S",
+    "medicine": "Recolha de vários lotes dos medicamentos Dorcilfree®, Demax® e Oftacilox® (colírios multidose)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5782065"
+      },
+      {
+        "system": "AIM",
+        "value": "5859731"
+      },
+      {
+        "system": "AIM",
+        "value": "3549185"
+      }
+    ],
+    "publication_date": "2025-07-18",
+    "reason": "Na sequência de ter sido detetado o risco de contaminação microbiana em lotes dos medicamentos Dorcilfree®, Demax® e Oftacilox® Colírios Multidose decorrente de inspeção realizada pela Agência Francesa (ANSM na sigla em inglês) ao fabricante dos mesmos, como medida de precaução, o Infarmed ordena a suspensão da comercialização e a recolha imediata dos lotes constantes na seguinte tabela:",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11472000&_101_type=content&_101_urlTitle=recolha-de-varios-lotes-dos-medicamentos-dorcilfree-demax-e-oftacilox-colirios-multidose&inheritRedirect=false",
+    "warnings": []
   },
   {
     "authority": "INFARMED",
@@ -763,7 +859,7 @@
     "lots": [
       "A001A"
     ],
-    "manufacturer": null,
+    "manufacturer": "Alter Genéricos – Comercialização de Produtos Genéricos Lda.",
     "medicine": "Recolha voluntária de lote do medicamento Telmisartan Alter Genéricos, 80 mg",
     "pdf_url": null,
     "product_codes": [
@@ -775,8 +871,1994 @@
     "publication_date": "2025-07-14",
     "reason": "A empresa Alter Genéricos – Comercialização de Produtos Genéricos Lda. irá proceder à recolha voluntária do Lote nº A001A, prazo de validade 02/2027 do medicamento Telmisartan Alter Genéricos, 80 mg, nº de registo 5439773- apresentação de 28 comprimidos, por terem sido detetados valores fora de especificação no ensaio de dissolução, durante os estudos de estabilidade.",
     "recall_class": null,
-    "source_url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11451662",
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11451666&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-telmisartan-alter-genericos-80-mg-comprimidos-lote-n-a001a-prazo-de-validade-02-20-1&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-06-20",
+    "id": "PT_INFARMED_CI_076_CD_550_20_001_2025",
+    "local_id": "CI 076/CD/550.20.001",
+    "lots": [
+      "31106B3",
+      "30017AV1",
+      "30587J2",
+      "30731K3",
+      "30733K1",
+      "31104B2",
+      "30636J2"
+    ],
+    "manufacturer": "Towa Pharmaceutical",
+    "medicine": "Bisoprolol toLife, 2,5mg comprimido e Bisoprolol toLife, 10mg, comprimido",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5828835"
+      },
+      {
+        "system": "AIM",
+        "value": "5725379"
+      },
+      {
+        "system": "AIM",
+        "value": "5725569"
+      }
+    ],
+    "publication_date": "2025-06-20",
+    "reason": "A empresa Towa Pharmaceutical, S.A. irá proceder à recolha voluntária dos lotes abaixo indicados dos medicamentos Bisoprolol toLife, 2,5mg comprimido e Bisoprolol toLife, 10mg, comprimido, por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11359990&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-dos-medicamentos-bisoprolol-tolife-2-5mg-comprimido-e-bisoprolol-tolife-10mg-comprimido&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-06-04",
+    "id": "PT_INFARMED_CI_070_CD_550_20_001_2025",
+    "local_id": "CI 070/CD/550.20.001",
+    "lots": [
+      "331670A"
+    ],
+    "manufacturer": "Faes Farma Portugal",
+    "medicine": "Retificação da circular informativa n.º 068/CD/550.20.001 de 03/06/2025 | Recolha voluntária do medicamento | Bilaxten (bilastina) | 6 mg ml, colírio, solução",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5843834"
+      }
+    ],
+    "publication_date": "2025-06-04",
+    "reason": "A empresa Faes Farma Portugal, S.A irá proceder à recolha voluntária do Lote nº 331670A, prazo de validade 08/2027 do medicamento Bilaxten (bilastina), 6 mg/ml, colírio, solução n.º de registo 5843834 - 1 frasco de 5 ml, por terem sido detetadas partículas visíveis.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11308841&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-bilaxten-bilastina-6-mg-ml-colirio-solucao-lote-n-331670a-prazo-de-validade-08-2027-&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-06-03",
+    "id": "PT_INFARMED_CI_067_CD_550_20_001_2025",
+    "local_id": "CI 067/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Menarini International Operations Luxembourg, S.A por intermédio do seu representante local Menarini Portugal - Farmacêutica",
+    "medicine": "Lergonix (bilastina), 6 mg/ml, colírio solução",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5843750"
+      }
+    ],
+    "publication_date": "2025-06-03",
+    "reason": "A empresa Menarini International Operations Luxembourg, S.A por intermédio do seu representante local Menarini Portugal - Farmacêutica, S.A irá proceder à recolha voluntária do lote 322950B, prazo de validade 31/05/2027 do medicamento Lergonix (bilastina), 6 mg/ml, colírio, solução nº de registo 5843750 - 1 frasco de 5 ml, por terem sido detetadas partículas visíveis.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11308739&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-lergonix-bilastina-6-mg-ml-colirio-solucao-lote-322950b-prazo-de-validade-31-05-2027-&inheritRedirect=false",
     "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-06-03",
+    "id": "PT_INFARMED_CI_066_CD_550_20_001_2025",
+    "local_id": "CI 066/CD/550.20.001",
+    "lots": [
+      "KT0T65P"
+    ],
+    "manufacturer": "Bayer",
+    "medicine": "Angeliq (Drospirenona + Estradiol), 1 mg + 2 mg, comprimido revestido por película",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "4761383"
+      }
+    ],
+    "publication_date": "2025-06-03",
+    "reason": "A empresa Bayer, irá proceder à recolha voluntária do lote n.º KT0T65P, do medicamento Angeliq (Drospirenona + Estradiol) 1 mg + 2 mg comprimido revestido por película, com o número de registo 4761383, por ter sido detetado que o folheto informativo não continha informação sobre como este medicamento pode afetar o modo de funcionamento do medicamento lamotrigina (para a epilepsia) quando tomado concomitantemente.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11308615&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-angeliq-1-mg-2-mg-comprimido-revestido-por-pelicula-lote-n-kt0t65p&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-04-30",
+    "id": "PT_INFARMED_CI_049_CD_550_20_001_2025",
+    "local_id": "CI 049/CD/550.20.001",
+    "lots": [
+      "221606",
+      "231995",
+      "240446",
+      "240332"
+    ],
+    "manufacturer": "Towa Pharmaceutical",
+    "medicine": "Recolha voluntária de lotes de medicamentos | Duloxetina toLife, cápsula gastrorresistente",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2025-04-28",
+    "reason": "A empresa Towa Pharmaceutical, S.A., irá proceder à recolha voluntária dos lotes abaixo indicados de medicamentos Duloxetina toLife, Duloxetina, cápsula gastrorresistente, nas dosagens de 30mg e 60mg por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11181845&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-de-medicamentos-duloxetina-tolife-duloxetina-capsula-gastrorresisten-2&inheritRedirect=false",
+    "warnings": [
+      "missing_registration_number"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-04-15",
+    "id": "PT_INFARMED_CI_045_CD_550_20_001_2025",
+    "local_id": "CI 045/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Towa Pharmaceutical",
+    "medicine": "Recolha voluntária de lotes de Paroxetina toLife 20 mg comprimido",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2025-04-15",
+    "reason": "A empresa Towa Pharmaceutical, S.A. irá proceder à recolha voluntária dos lotes indicados do medicamento Paroxetina toLife 20 mg Comprimidos, comprimido revestido por película, 60 unidade(s), por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11164377&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-do-medicamento-paroxetina-tolife-20-mg-comprimidos-comprimido-revestido-por-pelicu-1&inheritRedirect=false",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-04-07",
+    "id": "PT_INFARMED_CI_040_CD_550_20_001_2025",
+    "local_id": "CI 040/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Institut Georges Lopez SARL",
+    "medicine": "Celsior, associação, solução para conservação de órgãos",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5334859"
+      }
+    ],
+    "publication_date": "2025-04-07",
+    "reason": "Por terem sido detetados riscos de contaminação microbiológica, o Infarmed determina a recolha de todos os lotes do medicamento Celsior, associação, solução para conservação de órgãos, nº de registo 5334859, 4 sacos, do titular de autorização de introdução no mercado Institut Georges Lopez SARL.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11130867&_101_type=content&_101_urlTitle=recolha-do-medicamento-celsior-associacao-solucao-para-conservacao-de-orgaos-n-de-registo-5334859-4-sacos&inheritRedirect=false",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-04-07",
+    "id": "PT_INFARMED_CI_039_CD_550_20_001_2025",
+    "local_id": "CI 039/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Teva Pharma – Produtos Farmacêuticos, Lda",
+    "medicine": "Topiramato Teva, 200 mg, comprimido revestido por película",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5108576"
+      }
+    ],
+    "publication_date": "2025-04-07",
+    "reason": "Por terem sido detetados valores fora das especificações do parâmetro “Doseamento” da substância ativa, o Infarmed determina a recolha do Lote 16520123 do medicamento Topiramato Teva, 200 mg, comprimido revestido por película - nº de registo 5108576- 60 comprimidos, com o prazo de validade 09/2026 do titular de autorização de introdução no mercado Teva Pharma – Produtos Farmacêuticos, Lda.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11130772&_101_type=content&_101_urlTitle=recolha-do-medicamento-topiramato-teva-200-mg-comprimido-revestido-por-pelicula-n-de-registo-5108576-60-comprimidos-lote-16520123-prazo-de-validade--1&inheritRedirect=false",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-03-31",
+    "id": "PT_INFARMED_CI_034_CD_550_20_001_2025",
+    "local_id": "CI 034/CD/550.20.001",
+    "lots": [
+      "P2400049"
+    ],
+    "manufacturer": "Accord Healthcare, Unipessoal Lda, em representação do titular da AIM Accord Healthcare, S.L.U",
+    "medicine": "Recolha de lote de Azacitidina Accord 100 mg, pó para suspensão injetável",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5788500"
+      }
+    ],
+    "publication_date": "2025-03-28",
+    "reason": null,
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11111621&_101_type=content&_101_urlTitle=recolha-do-lote-n-p2400049-prazo-de-validade-31-12-202-azacitidina-accord-100-mg-po-para-suspensao-injetavel&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-03-28",
+    "id": "PT_INFARMED_CI_033_CD_550_20_001_2025",
+    "local_id": "CI 033/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Generis Farmacêutica",
+    "medicine": "Recolha voluntária de lotes de medicamento Fluoxetina Generis 20 mg cápsulas",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2025-03-28",
+    "reason": "A empresa Generis Farmacêutica, S.A. irá proceder à recolha voluntária dos lotes indicados em anexo do medicamento Fluoxetina Generis 20 mg Cápsulas por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11092096&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-de-medicamento-fluoxetina-generis-20-mg-capsulas&inheritRedirect=false",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-03-26",
+    "id": "PT_INFARMED_CI_031_CD_550_20_001_2025",
+    "local_id": "CI 031/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Towa Pharmaceutical",
+    "medicine": "Fluoxetina toLife (20 mg cápsulas)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5223284"
+      }
+    ],
+    "publication_date": "2025-03-26",
+    "reason": "A empresa Towa Pharmaceutical, S.A. irá proceder à recolha voluntária do lote abaixo indicado do medicamento Fluoxetina toLife 20 mg cápsulas, cápsula, 60 unidade(s) , por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11085644&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-do-medicamento-fluoxetina-tolife-20-mg-capsul-2&inheritRedirect=false",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2025-03-11",
+    "id": "PT_INFARMED_CI_021_CD_550_20_001_2025",
+    "local_id": "CI 021/CD/550.20.001",
+    "lots": [
+      "ABXE23AB"
+    ],
+    "manufacturer": "GlaxoSmithKline - Produtos Farmacêuticos, Lda.",
+    "medicine": "Recolha voluntária | Bexsero | Suspensão injetável (lote n.º ABXE23AB)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5552047"
+      }
+    ],
+    "publication_date": "2025-03-10",
+    "reason": "A empresa GlaxoSmithKline - Produtos Farmacêuticos, Lda., irá proceder à recolha voluntária do lote n.º ABXE23AB, com a validade 10-2027, do medicamento Bexsero Vacina contra o Meningococo Associação suspensão injetável, com o número de registo 5552047, por ter sido detetada uma discrepância entre o número de lote registado na embalagem de acondicionamento secundário e o número de lote registado no rótulo da seringa, não estando em causa a qualidade e segurança do medicamento. Assim, o Infarmed determina a suspensão imediata da comercialização deste lote.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=11057569&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-bexsero-vacina-contra-o-meningococo-associacao-suspensao-injetavel-lote-n-abxe23ab-validade-10-2027&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-02-18",
+    "id": "PT_INFARMED_CI_011_CD_550_20_001_2025",
+    "local_id": "CI 011/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Viatris Limited, IE",
+    "medicine": "Recolha de lote de Pomalidomida Viatris",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5869409"
+      }
+    ],
+    "publication_date": "2025-02-14",
+    "reason": "Por ter sido detetada a presença de pó nos alvéolos dos blisters, o Infarmed determina a recolha do lote 8190882 do medicamento Pomalidomida Viatris, 4mg, cápsulas, 21 unidades, n.º de registo 5869409, com a validade 05/2026, do titular de autorização de introdução no mercado Viatris Limited, IE.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=10958639&_101_type=content&_101_urlTitle=recolha-do-lote-n-8190882-prazo-de-validade-05-2026-do-medicamento-pomalidomida-viatris-4mg-capsulas-21-unidades&inheritRedirect=false",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2025-02-11",
+    "id": "PT_INFARMED_CI_005_CD_550_20_001_2025",
+    "local_id": "CI 005/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Hikma Farmacêutica (Portugal)",
+    "medicine": "Recolha voluntária de lote do medicamento Lacosamida Hikma, 10 mg ml, Solução para perfusão",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5867759"
+      }
+    ],
+    "publication_date": "2025-02-10",
+    "reason": "A empresa Hikma Farmacêutica (Portugal), S.A. irá proceder à recolha voluntária do lote 24020991, prazo de validade 04/2026, do medicamento Lacosamida Hikma, 10 mg/ml, solução para perfusão n.º de registo 5867759 - 1 frasco para injetáveis 20 ml, por terem sido detetadas partículas visíveis.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=10929268&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-lacosamida-hikma-10-mg-ml-solucao-para-perfusao-lote-24020991-prazo-de-validade-04-20-1&inheritRedirect=false",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2024-12-23",
+    "id": "PT_INFARMED_CI_108_CD_550_20_001_2024",
+    "local_id": "CI 108/CD/550.20.001",
+    "lots": [
+      "221556",
+      "230408",
+      "240672"
+    ],
+    "manufacturer": "Towa Pharmaceutical",
+    "medicine": "Recolha voluntária de lotes de medicamentos Duloxetina toLife, cápsula gastrorresistente, 30 e 60 mg",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5634670"
+      },
+      {
+        "system": "AIM",
+        "value": "5634738"
+      }
+    ],
+    "publication_date": "2024-12-19",
+    "reason": "A empresa Towa Pharmaceutical, S.A., irá proceder à recolha voluntária dos lotes abaixo indicados de medicamentos Duloxetina toLife, Duloxetina, cápsula gastrorresistente, nas dosagens de 30mg e 60mg por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=10694686&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-de-medicamentos-duloxetina-tolife-duloxetina-capsula-gastrorresistente-&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2024-11-05",
+    "id": "PT_INFARMED_CI_094_CD_550_20_001_2024",
+    "local_id": "CI 094/CD/550.20.001",
+    "lots": [
+      "22FN116A",
+      "22FN116B",
+      "22FN117A",
+      "23CN001A",
+      "23EN091A"
+    ],
+    "manufacturer": "Towa Pharmaceutical",
+    "medicine": "Fluoxetina toLife (20 mg cápsulas)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5223284"
+      }
+    ],
+    "publication_date": null,
+    "reason": "A empresa Towa Pharmaceutical, S.A. irá proceder à recolha voluntária dos lotes abaixo indicados, do medicamento Fluoxetina toLife 20 mg cápsulas, cápsula, 60 unidade(s), por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=10562108&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-do-medicamento-fluoxetina-tolife-20-mg-capsulas&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2024-10-10",
+    "id": "PT_INFARMED_CI_086_CD_550_20_001_2024",
+    "local_id": "CI 086/CD/550.20.001",
+    "lots": [
+      "23203V"
+    ],
+    "manufacturer": "LABORATORIO REIG JOFRE",
+    "medicine": "Sugamadex Orion, 100 mg ml, Solução injetável",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5856851"
+      }
+    ],
+    "publication_date": "2024-10-08",
+    "reason": "A empresa LABORATORIO REIG JOFRE, S.A. irá proceder à recolha voluntária do lote nº 23203V do medicamento Sugamadex Orion, 100 mg/ml, Solução injetável, 10 unidades – 2ml, nº de registo 5856851 em virtude de ter sido detetado um resultado fora de especificação por presença de partículas visíveis, correspondentes a fragmentos de silicone da tampa do frasco, em solução.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=10447391&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-sugamadex-orion-100-mg-ml-solucao-injetavel&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2024-09-12",
+    "id": "PT_INFARMED_CI_070_CD_550_20_001_2024",
+    "local_id": "CI 070/CD/550.20.001",
+    "lots": [
+      "23109"
+    ],
+    "manufacturer": "Generis Farmacêutica",
+    "medicine": "Recolha voluntária | Lorazepam Labesfal, 1 mg, comprimido, 60 unidades (lote n.º 23109)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5615927"
+      }
+    ],
+    "publication_date": "2024-09-06",
+    "reason": "A empresa Generis Farmacêutica S.A. irá proceder à recolha voluntária do lote nº 23109 do medicamento Lorazepam Labesfal, 1 mg, comprimido, 60 unidades, nº de registo 5615927 em virtude de ter sido detetado um resultado fora de especificação no parâmetro doseamento no âmbito de um estudo de estabilidade.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=10269806&_101_type=content&_101_urlTitle=recolha-voluntaria-do-lote-n-23109-prazo-de-validade-02-2025-do-medicamento-lorazepam-labesfal-1-mg-comprimido-60-unidades&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2024-06-25",
+    "id": "PT_INFARMED_CI_038_CD_550_20_001_2024",
+    "local_id": "CI 038/CD/550.20.001",
+    "lots": [
+      "221063",
+      "220524",
+      "211459",
+      "211789",
+      "220121",
+      "220995",
+      "221138",
+      "211439",
+      "220522",
+      "211438",
+      "211785",
+      "220086",
+      "220984",
+      "221288",
+      "230117",
+      "2301171",
+      "230833"
+    ],
+    "manufacturer": "Towa Pharmaceutical",
+    "medicine": "Recolha voluntária | Lotes de medicamentos Duloxetina toLife, cápsula gastrorresistente, 30 mg e 60 mg",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2024-06-21",
+    "reason": "A empresa Towa Pharmaceutical, S.A., irá proceder à recolha voluntária dos lotes abaixo indicados de medicamentos Duloxetina toLife, Duloxetina, cápsula gastrorresistente, nas dosagens de 30mg e 60mg por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=10122906&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-de-medicamentos-duloxetina-tolife-duloxetina-capsula-gastrorresistente&inheritRedirect=false",
+    "warnings": [
+      "missing_registration_number"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.6,
+    "country": "PT",
+    "date": "2024-03-22",
+    "id": "PT_INFARMED_ASSET_9855553",
+    "local_id": "ASSET_9855553",
+    "lots": [
+      "22P851",
+      "20A651",
+      "21L921",
+      "22P852",
+      "22P853",
+      "22P854"
+    ],
+    "manufacturer": "Bluepharma Genéricos - Comércio de Medicamentos S",
+    "medicine": "Recolha de lotes do medicamento Montelucaste Bluepharma, Comprimido para mastigar, 4 mg e 5 mg",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2024-03-22",
+    "reason": "\"Por terem sido detetadas duas impurezas desconhecidas com teor fora da especificação em análises durante os estudos de estabilidade, o Infarmed determina a recolha dos lotes do medicamento Montelucaste Bluepharma Comprimido para mastigar, embalagem 28 comprimidos, nas dosagens de 4 mg e 5 mg, constantes da tabela abaixo do titular de autorização de introdução no mercado Bluepharma Genéricos - Comércio de Medicamentos S.A. N.º registo | Medicamento | Lote | Validade 5258900 Montelucaste Bluepharma 4 mg Comprimido para mastigar, embalagem 28 comprimidos 22P851 11/2026 5258934 Montelucaste Bluepharma 5 mg Comprimido para mastigar, embalagem 28 comprimidos 20A651 12/2024 21L921 11/2025 22P852 11/2026 22P853 11/2026 22P854 11/2026 Face ao exposto: As entidades que possuam estes lotes de medicamentos em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução. Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper ...\"",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=9855553&_101_type=content&_101_urlTitle=recolha-de-lotes-do-medicamento-montelucaste-bluepharma-comprimido-para-mastigar-nas-dosagens-de-4-mg-e-5-mg&inheritRedirect=false",
+    "warnings": [
+      "source_detail_fallback",
+      "missing_registration_number"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2024-03-19",
+    "id": "PT_INFARMED_CI_016_CD_550_20_001_2024",
+    "local_id": "CI 016/CD/550.20.001",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Spiriva® Respimat Solution for Inhalation 2.5 ㎍ e Spiolto® Respimat Solution for Inhalation 2.5 ㎍ /2.5 ㎍",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5114111"
+      },
+      {
+        "system": "AIM",
+        "value": "5767314"
+      },
+      {
+        "system": "AIM",
+        "value": "5653019"
+      }
+    ],
+    "publication_date": "2024-03-08",
+    "reason": "Por ter sido detetado um defeito de qualidade no indicador de dose de alguns cartuchos dos medicamentos Spiriva® Respimat Solução para inalação por nebulização 2.5 μg, número de registo 5114111 (lotes E34980DA, validade 09/2025 e E63130, validade 12/2025) e número de registo 5767314 (lote E63130, validade 12/2025) e Spiolto® Respimat Solução para inalação 2.5 μg/2.5 μg, número de registo 5653019 (lote E56624, validade 11/2025), que deixa de funcionar após 10 utilizações, o Infarmed determina a recolha dos lotes supramencionados.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=9851523&_101_type=content&_101_urlTitle=recolha-de-lotes-dos-medicamentos-spiriva-respimat-solution-for-inhalation-2-5-mg-e-spiolto-respimat-solution-for-inhalation-2-5-mg-2-5-mg&inheritRedirect=false",
+    "warnings": [
+      "missing_lot",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2023-09-19",
+    "id": "PT_INFARMED_CI_096_CD_550_20_01_2023",
+    "local_id": "CI 096/CD/550.20.01",
+    "lots": [
+      "23A079"
+    ],
+    "manufacturer": "LABORATÓRIO EDOL, Produtos Farmacêuticos",
+    "medicine": "Bglau (brimonidina) 0.7 mg/0.35 ml, Colírio, solução unidose",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5694203"
+      }
+    ],
+    "publication_date": "2023-09-18",
+    "reason": "A empresa LABORATÓRIO EDOL, Produtos Farmacêuticos S.A, irá proceder à recolha voluntária do lote n.º 23A079, com a validade 31/01/2027, do medicamento Bglau (Brimonidina) 0.7 mg/0.35 ml, Colírio, solução em recipiente unidose, com o número de registo 5694203 - 60 recipientes unidose, por ter sido detetada uma contaminação com resíduos de outra substância ativa.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=9250412&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-bglau-brimonidina-0-7-mg-0-35-ml-colirio-solucao-em-recipiente-unidose-lote-n-23a079-&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2023-08-11",
+    "id": "PT_INFARMED_CI_082_CD_550_20_001_2023",
+    "local_id": "CI 082/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Generis Farmacêutica, S",
+    "medicine": "Retificação da Circular Informativa \"Recolha de lotes dos medicamentos Ramipril + Hidroclorotiazida Generis (2,5 mg + 12,5 mg e 5 mg + 25 mg)\", de 02/08/2023",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5778980"
+      },
+      {
+        "system": "AIM",
+        "value": "5779384"
+      }
+    ],
+    "publication_date": "2023-08-10",
+    "reason": "Por terem sido detetados valores fora de especificação nos parâmetros Doseamento e Impureza D, o Infarmed determina a recolha do lote 22AN092A do medicamento Ramipril + Hidroclorotiazida Generis 2,5 mg + 12,5 mg Comprimido - n.º de registo 5778980- 56 comprimidos, com a validade 31/01/2024 e do lote 21LN083A do medicamento e Ramipril + Hidroclorotiazida Generis 5 mg + 25 mg Comprimido- nº de registo 5779384- 56 comprimidos com a validade 31/12/2023 do titular de autorização de introdução no mercado Generis Farmacêutica, S.A..",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=9041295&_101_type=content&_101_urlTitle=retificacao-da-circular-informativa-n-078-cd-550-20-001-de-02-08-2023&inheritRedirect=false",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2023-08-10",
+    "id": "PT_INFARMED_CI_079_CD_550_20_001_2023",
+    "local_id": "CI 079/CD/550.20.001",
+    "lots": [
+      "21021413",
+      "21014412",
+      "21057402",
+      "21103403",
+      "21104410",
+      "21235403",
+      "21386409",
+      "21512403"
+    ],
+    "manufacturer": "B. Braun Medical Unipessoal Lda",
+    "medicine": "Recolha voluntária dos medicamentos Soro Glucosado Isotónico, Metronidazol Iv Braun e Soro Fisiológico B Braun",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "8732230"
+      },
+      {
+        "system": "AIM",
+        "value": "5718549"
+      },
+      {
+        "system": "AIM",
+        "value": "2226785"
+      },
+      {
+        "system": "AIM",
+        "value": "8731901"
+      }
+    ],
+    "publication_date": "2023-08-02",
+    "reason": "A empresa B. Braun Medical Unipessoal Lda irá proceder à recolha voluntária dos lotes constantes do anexo I que faz parte integrante da presente circular, dos medicamentos Soro Glucosado Isotónico – 8732230, Metronidazol Iv Braun – 5718549, Metronidazol Iv Braun – 5718549, Metronidazol Iv Braun – 2226785, Metronidazol Iv Braun – 5718549, Metronidazol Iv Braun -2226785, Metronidazol Iv Braun – 2226785, Soro Fisiológico B.Braun – 8731901, por ter sido detetado um defeito de qualidade referente a uma contaminação cruzada dos recipientes da embalagem primária de medicamentos para perfusão. Assim, o Infarmed determina a suspensão imediata da distribuição destes lotes. Face ao exposto:",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=9039907&_101_type=content&_101_urlTitle=recolha-voluntaria-dos-medicamentos-soro-glucosado-isotonico-metronidazol-iv-braun-e-soro-fisiologico-b-braun&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.6,
+    "country": "PT",
+    "date": "2023-08-07",
+    "id": "PT_INFARMED_ASSET_9027709",
+    "local_id": "ASSET_9027709",
+    "lots": [],
+    "manufacturer": "Generis Farmacêutica, S",
+    "medicine": "Ramipril + Hidroclorotiazida Generis (2,5 mg + 12,5 mg e 5 mg + 25 mg)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5778980"
+      },
+      {
+        "system": "AIM",
+        "value": "5779384"
+      }
+    ],
+    "publication_date": "2023-08-07",
+    "reason": "\"Por terem sido detetados valores fora de especificação nos parâmetros Doseamento e Impureza D, o Infarmed determina a recolha do lote 21LN083A do medicamento Ramipril + Hidroclorotiazida Generis 2,5 mg + 12,5 mg Comprimido - nº de registo 5778980- 56 comprimidos, com a validade 01/12/2023 e do lote 22AN092A do medicamento e Ramipril + Hidroclorotiazida Generis 5 mg + 25 mg Comprimido- nº de registo 5779384- 56 comprimidos com a validade 01/01/2024 do titular de autorização de introdução no mercado Generis Farmacêutica, S.A. Face ao exposto: As entidades que possuam estes lotes de medicamentos em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução. Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper o tratamento. Logo que possível, devem solicitar a substituição por outro lote ou pedir ao médico ou farmacêutico a indicação de um medicamento alternativo. A Vogal do Conselho Diretivo (Erica Viegas)\"",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=9027709&_101_type=content&_101_urlTitle=recolha-dos-medicamentos-ramipril-hidroclorotiazida-generis-2-5-mg-12-5-mg-comprimido-lote-21ln083a-pv-01-12-2023-e-ramipril-hidroclorotiazida-generis&inheritRedirect=false",
+    "warnings": [
+      "source_detail_fallback",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2023-08-02",
+    "id": "PT_INFARMED_CI_072_CD_550_20_001_2023",
+    "local_id": "CI 072/CD/550.20.001",
+    "lots": [
+      "TREP0775"
+    ],
+    "manufacturer": "Amomed Pharma GmbH",
+    "medicine": "Tresuvi, Treprostinilo (1 mg-ml, solução para perfusão, lote n.º TREP0775)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5781323"
+      }
+    ],
+    "publication_date": "2023-07-28",
+    "reason": "A empresa Amomed Pharma GmbH, irá proceder à recolha voluntária do lote n.º TREP0775, com a validade 12/2025 , do medicamento Tresuvi, Treprostinilo, 1 mg/ml, solução para perfusão, com o número de registo 5781323 , por ter sido detetado um resultado fora de especificação neste lote do medicamento.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=9023072&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-tresuvi-treprostinilo-1-mg-ml-solucao-para-perfusao-lote-n-trep0775-validade-12-2025&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2023-07-21",
+    "id": "PT_INFARMED_CI_071_CD_550_20_001_2023",
+    "local_id": "CI 071/CD/550.20.001",
+    "lots": [
+      "2986B",
+      "2992B",
+      "2006A"
+    ],
+    "manufacturer": "Sanofi - Produtos Farmacêuticos, Lda",
+    "medicine": "Sabril (Vigabatrina), 500 mg, comprimido revestido por película",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "8768812"
+      }
+    ],
+    "publication_date": "2023-07-21",
+    "reason": "A empresa Sanofi - Produtos Farmacêuticos, Lda , irá proceder à recolha voluntária dos lotes do medicamento Sabril (Vigabatrina), 500 mg, Comprimido revestido por película, nº de registo 8768812 - apresentação 60 comprimidos revestidos por película, por terem sido detetados resultados fora das especificações.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=8987408&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-sabril-vigabatrina-500-mg-comprimido-revestido-por-pelicula&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2023-07-17",
+    "id": "PT_INFARMED_CI_069_CD_550_20_001_2023",
+    "local_id": "CI 069/CD/550.20.001",
+    "lots": [
+      "KFP51",
+      "KHU57"
+    ],
+    "manufacturer": "Sandoz Farmacêutica Lda",
+    "medicine": "Recolha voluntária | Lotes do medicamento Sirdalud MR, Tizanidina, 6mg, cápsulas de libertação modificada",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "2055580"
+      }
+    ],
+    "publication_date": "2023-07-14",
+    "reason": "A empresa Sandoz Farmacêutica Lda irá proceder à recolha voluntária dos lotes n.º KFP51 (validade: 10/2024) e n.º KHU57 (validade: 04/2025) do medicamento Sirdalud MR, Tizanidina, 6mg, cápsulas de libertação modificada, número de registo 2055580, por terem sido detetados valores fora da especificação no ensaio de dissolução. Assim, o Infarmed determina a suspensão imediata da distribuição destes lotes. Face ao exposto:",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=8959006&_101_type=content&_101_urlTitle=recolha-voluntaria-dos-lotes-kfp51-validade-10-2024-e-khu57-validade-04-2025-do-medicamento-sirdalud-mr-tizanidina-6mg-capsulas-de-libertacao-modifica&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2023-07-17",
+    "id": "PT_INFARMED_CI_064_CD_550_20_001_2023",
+    "local_id": "CI 064/CD/550.20.001",
+    "lots": [
+      "21IN129A",
+      "21GN055A",
+      "21LN082A"
+    ],
+    "manufacturer": "Towa Pharmaceutical,SA irá proceder à recolha voluntária dos lotes abaixo referidos do medicamento Ramipril + Hidroclorotiazida toLife comprimidos nas dosagens de 2,5 mg + 12,5 mg e 5 mg + 25 mg, por terem sido detetados resultados fora das especificações durante os estudos de estabilidade on-going , para os parâmetros Doseamento e Substâncias Relacionadas",
+    "medicine": "Recolha voluntária | Ramipril + Hidroclorotiazida toLife, 2,5 mg + 12,5 mg e 5 mg + 25 mg, comprimidos (lotes n.º 21IN129A, 21GN055A e 21LN082A)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5022975"
+      },
+      {
+        "system": "AIM",
+        "value": "5023056"
+      }
+    ],
+    "publication_date": "2023-07-07",
+    "reason": "O Titular de AIM Towa Pharmaceutical,SA irá proceder à recolha voluntária dos lotes abaixo referidos do medicamento Ramipril + Hidroclorotiazida toLife comprimidos nas dosagens de 2,5 mg + 12,5 mg e 5 mg + 25 mg, por terem sido detetados resultados fora das especificações durante os estudos de estabilidade on-going , para os parâmetros Doseamento e Substâncias Relacionadas.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=8958849&_101_type=content&_101_urlTitle=recolha-voluntaria-dos-lotes-21in129a-21gn055a-e-21ln082a-do-medicamento-ramipril-hidroclorotiazida-tolife-comprimidos-nas-dosagens-de-2-5-mg-12-5-mg-&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2023-07-14",
+    "id": "PT_INFARMED_CI_067_CD_2023_2023",
+    "local_id": "CI 067/CD/2023",
+    "lots": [
+      "G220299AB"
+    ],
+    "manufacturer": "Medac Gesellschalft fur Klinische Spezialpraparatem GmbH",
+    "medicine": "Recolha voluntária | Dacarbazina Medac, dacarbazina, 500 mg, pó para solução para perfusão (lote n.º G220299AB)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "2626786"
+      }
+    ],
+    "publication_date": "2023-07-11",
+    "reason": "A empresa Medac Gesellschalft fur Klinische Spezialpraparatem GmbH irá proceder à recolha voluntária do lote n.º G220299AB (validade 2025/06/30), do medicamento Dacarbazina Medac, dacarbazina, 500 mg, pó para solução para perfusão, n.º de registo 2626786, por ter sido detetado alteração da coloração da solução após reconstituição.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=8954178&_101_type=content&_101_urlTitle=recolha-voluntaria-do-lote-n-g220299ab-validade-2025-06-30-do-medicamento-dacarbazina-medac-dacarbazina-500-mg-po-para-solucao-para-perfusao-n-de-regi&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2023-05-31",
+    "id": "PT_INFARMED_CI_049_CD_550_20_001_2023",
+    "local_id": "CI 049/CD/550.20.001",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Recolha voluntária do lote KDF58 do medicamento Sirdalud MR 6mg, cápsulas de libertação modificada",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "2055580"
+      }
+    ],
+    "publication_date": "2023-05-19",
+    "reason": "As empresas Novartis Farma – Produtos Farmacêuticos, S.A. e a Sandoz Farmacêutica Lda irão proceder à recolha voluntária do lote KDF58 do medicamento Sirdalud MR 6mg, tizanidina, cápsulas de libertação modificada, número de registo 2055580, por terem sido detetados valores fora da especificação num ensaio de dissolução.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=8793645&_101_type=content&_101_urlTitle=recolha-voluntaria-do-lote-kdf58-do-medicamento-sirdalud-mr-6mg-capsulas-de-libertacao-modificada&inheritRedirect=false",
+    "warnings": [
+      "missing_lot",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2023-05-15",
+    "id": "PT_INFARMED_CI_043_CD_550_20_001_2023",
+    "local_id": "CI 043/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Gasin II - Gases Industriais, Unipessoal Lda.",
+    "medicine": "Oxigénio Medicinal Gasin, 100%, gás medicinal comprimido",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5085303"
+      }
+    ],
+    "publication_date": "2023-05-12",
+    "reason": "A empresa Gasin II - Gases Industriais, Unipessoal Lda. irá proceder à recolha voluntária dos lotes constantes do anexo I que faz parte integrante da presente circular, do medicamento Oxigénio Medicinal Gasin, 100%, gás medicinal comprimido, nº de registo 5085303 - Cilindro de gás de 5 litros, por ter sido detetado um defeito de qualidade que afeta a integridade dos cilindros de 5 litros. Assim, o Infarmed determina a suspensão imediata da distribuição destes lotes. Face ao exposto:",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=8744621&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-oxigenio-medicinal-gasin-100-gas-medicinal-comprimido&inheritRedirect=false",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2023-03-28",
+    "id": "PT_INFARMED_CI_009_CD_550_20_001_2023",
+    "local_id": "CI 009/CD/550.20.001",
+    "lots": [
+      "211244",
+      "220632",
+      "220919"
+    ],
+    "manufacturer": "Laboratório Edol, Produtos Farmacêuticos",
+    "medicine": "Psodermil (Betametasona + Ácido salicílico) 0.5 mg g + 30 mg g, pomada",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "9774109"
+      }
+    ],
+    "publication_date": "2023-01-24",
+    "reason": "A empresa Laboratório Edol, Produtos Farmacêuticos S.A irá proceder à recolha voluntária dos lotes do medicamento Psodermil, (Betametasona + Ácido salicílico), 0.5 mg/g + 30 mg/g, pomada, n.º de registo 9774109- apresentação 30 g, por terem sido detetadas informações incorretas na embalagem secundária do referido medicamento.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=8574710&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-psodermil-betametasona-acido-salicilico-0-5-mg-g-30-mg-g-pomada&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2022-11-22",
+    "id": "PT_INFARMED_CI_135_CD_550_20_001_2022",
+    "local_id": "CI 135/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Towa Pharmaceutical, SA (anterior toLife Produtos Farmacêuticos, SA)",
+    "medicine": "Rasagilina toLife (1 mg, comprimido, lote T002)",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": null,
+    "reason": "A empresa Towa Pharmaceutical, SA (anterior toLife Produtos Farmacêuticos, SA), irá proceder à recolha voluntária do lote n.º T002 , com a validade 11/2024 , do medicamento Rasagilina toLife , 1 mg, comprimido, com os números de registo 5664750 e 5664768, por ter sido detetada uma impureza acima do limite aceitável.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=7748461&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-rasagilina-tolife-1-mg-comprimido-lote-t002-n-registo-5664750-e-5664768-&inheritRedirect=false",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.6,
+    "country": "PT",
+    "date": "2022-11-14",
+    "id": "PT_INFARMED_ASSET_7687225",
+    "local_id": "ASSET_7687225",
+    "lots": [
+      "1109712",
+      "1109713"
+    ],
+    "manufacturer": "ToLife - Produtos Farmacêuticos",
+    "medicine": "Recolha voluntária de lote de medicamentos da empresa ToLife -Produtos Farmacêuticos, S.A",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2022-11-14",
+    "reason": "\"A empresa ToLife - Produtos Farmacêuticos, S.A., irá proceder à recolha voluntária do lote n.º 1109712 (validade 31/07/2023) do medicamento Ácido Alendrónico + Colecalciferol toLife, ácido alendrónico + Colecalciferol, 70 mg + 2800 U.I, comprimido, n.º de registro 5788427 e do lote n.º 1109713 (validade 31/07/2023) do medicamento Ácido Alendrónico + Colecalciferol toLife, ácido alendrónico + Colecalciferol, 70 mg + 5600 U.I., comprimido, n.º de registro 5788435 por ter sido detetado um resultado fora das especificações, para o parâmetro doseamento do Colecalciferol. Assim, o Infarmed determina a suspensão imediata da comercialização destes lotes. Face ao exposto: As entidades que possuam estes lotes de medicamentos em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper o tratamento. Logo que possível, devem solicitar a substituição por outro lote ou pedir a...\"",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=7687225&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-acido-alendronico-colecalciferol-tolife-acido-alendronico-colecalciferol-70-mg-2800-u-i-comprimido-lote-n-1109712-va&inheritRedirect=false",
+    "warnings": [
+      "source_detail_fallback",
+      "missing_registration_number"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2022-09-29",
+    "id": "PT_INFARMED_CI_114_CD_550_20_001_2022",
+    "local_id": "CI 114/CD/550.20.001",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Recolha de todos os lotes de medicamentos Caspofungina Teva e Anidulafungina Fresenius Kabi",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2022-09-26",
+    "reason": "Na sequência de inspeção realizada pelas Autoridades Competentes da Dinamarca (DKMA) e de Portugal (INFARMED, I.P.) ao fabricante “Mefar Ilac Sanayii A.S.”, Ramazanoglu Mah.Ensar Cad. No. 20, Kurtkoey Pendik, 34906 Istanbul, Turquia, foram detetadas não conformidades às Boas Práticas de Fabrico de medicamentos de Uso Humano.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=7492606&_101_type=content&_101_urlTitle=recolha-de-todos-os-lotes-de-medicamentos-caspofungina-teva-e-anidulafungina-fresenius-kabi&inheritRedirect=false",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.6,
+    "country": "PT",
+    "date": "2022-09-09",
+    "id": "PT_INFARMED_ASSET_7305572",
+    "local_id": "ASSET_7305572",
+    "lots": [
+      "21032"
+    ],
+    "manufacturer": null,
+    "medicine": "Lorazepam Labesfal, 1mg, comprimido - lote n.º 21032, validade 01/2023",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2022-09-09",
+    "reason": null,
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=7305572&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-lorazepam-labesfal-1mg-comprimido-lote-n-21032-validade-01-2023&inheritRedirect=false",
+    "warnings": [
+      "source_detail_fallback",
+      "missing_registration_number",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2022-08-19",
+    "id": "PT_INFARMED_CI_099_CD_550_20_001_2022",
+    "local_id": "CI 099/CD/550.20.001",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Recolha voluntária dos lotes W24321C e W24322B do medicamento Cotrimoxazol Ratiopharm (800mg 160 mg, comprimido validade 10 2025)",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2022-08-18",
+    "reason": null,
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=7101817&_101_type=content&_101_urlTitle=recolha-voluntaria-dos-lotes-w24321c-e-w24322b-do-medicamento-cotrimoxazol-ratiopharm-800mg-160-mg-comprimido-validade-10-2025&inheritRedirect=false",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.6,
+    "country": "PT",
+    "date": "2022-08-17",
+    "id": "PT_INFARMED_ASSET_7087650",
+    "local_id": "ASSET_7087650",
+    "lots": [],
+    "manufacturer": "Ratiopharm GmbH, Grupo Teva",
+    "medicine": "Recolha voluntária dos lotes W24321C e W2422B do medicamento Cotrim forte (800-160mg comprimidos, val.10-2025)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "2663680"
+      }
+    ],
+    "publication_date": "2022-08-17",
+    "reason": "\"A empresa Ratiopharm GmbH, Grupo Teva, irá proceder à recolha voluntária dos lotes W24321C e W2422B do medicamento Cotrim forte (cotrimoxazole) 800/160mg comprimidos, validade 10/2025 com o número de registo 2663680, por terem sido detetados resultados fora da especificação durante os estudos de estabilidade. Assim, o Infarmed determina a suspensão imediata da comercialização destes lotes. Face ao exposto: As entidades que possuam estes lotes de medicamento em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a este lote não devem interromper o tratamento. Logo que possível, devem contactar o médico para substituir por outro lote ou um medicamento alternativo/solicitar a substituição por outro lote. A Vogal do Conselho Diretivo Erica Viegas\"",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=7087650&_101_type=content&_101_urlTitle=recolha-voluntaria-dos-lote-s-w24321c-e-w2422b-do-medicamento-cotrim-forte-800-160-mg-comprimidos-validade-10-2025&inheritRedirect=false",
+    "warnings": [
+      "source_detail_fallback",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2022-08-09",
+    "id": "PT_INFARMED_CI_089_CD_550_20_001_2022",
+    "local_id": "CI 089/CD/550.20.001",
+    "lots": [
+      "0464019C",
+      "1464001D",
+      "0463004V",
+      "1462001E"
+    ],
+    "manufacturer": "Aristo Pharma Iberia S.L.",
+    "medicine": "Recolha voluntária de lotes de medicamentos Tadalafil Aristo, Tadalafil (comprimido revestido por película)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5726500"
+      },
+      {
+        "system": "AIM",
+        "value": "5726518"
+      },
+      {
+        "system": "AIM",
+        "value": "5726526"
+      }
+    ],
+    "publication_date": "2022-08-01",
+    "reason": "A empresa Aristo Pharma Iberia S.L., irá proceder à recolha voluntária dos lotes abaixo indicados de medicamentos Tadalafil Aristo, Tadalafil, comprimido revestido por película, nas dosagens de 5mg, 10mg e 20mg por ter sido emitido um Relatório de Não Conformidade com as Boas Práticas de Fabrico ao fabricante dos medicamentos, pela autoridade do medicamento belga, dado terem sido detetadas falhas no cumprimento do Sistema das Boas Práticas de Fabrico de Medicamentos:",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=7065814&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-de-medicamentos-tadalafil-aristo-tadalafil-comprimido-revestido-por-pelicula&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2022-06-09",
+    "id": "PT_INFARMED_CI_060_CD_550_20_001_2022",
+    "local_id": "CI 060/CD/550.20.001",
+    "lots": [
+      "E89777"
+    ],
+    "manufacturer": "Allergan",
+    "medicine": "Recolha voluntária de lote do medicamento Celluvisc, Carmelose, colírio, solução, 4 mg-0.4 ml",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "2805489"
+      }
+    ],
+    "publication_date": "2022-06-08",
+    "reason": "A empresa Allergan S.A., irá proceder à recolha voluntária do lote abaixo indicado do medicamento Celluvisc, Carmelose, colírio, solução, 4 mg/0.4 ml, número de registo 2805489 , por terem sido detetados valores fora de especificação nos parâmetros doseamento de carboximetilcelulose e osmolalidade.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=6583149&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lote-do-medicamento-celluvisc-carmelose-colirio-solucao-4-mg-0-4-ml&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2022-05-04",
+    "id": "PT_INFARMED_CI_039_CD_550_20_001_2022",
+    "local_id": "CI 039/CD/550.20.001",
+    "lots": [
+      "1106052",
+      "1106669"
+    ],
+    "manufacturer": "Aristo Pharma GmbH",
+    "medicine": "Recolha voluntária de lotes de medicamentos: Ácido Alendrónico + Colecalciferol Aristo 70 mg +5600 U.I. comprimidos e Ácido Alendrónico + Colecalciferol Aristo 70 mg +2.800 U.I. comprimidos",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2022-04-26",
+    "reason": "A empresa Aristo Pharma GmbH irá proceder à recolha voluntária dos lotes dos medicamentos abaixo indicados Ácido Alendrónico + Colecalciferol Aristo 70 mg +5600 U.I. comprimidos e Ácido Alendrónico + Colecalciferol Aristo 70 mg +2.800 U.I. comprimidos, por terem sido detetados resultados fora das especificações (OOS) para a substância ativa Colecalciferol.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=6295610&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-de-medicamentos-acido-alendronico-colecalciferol-aristo-70-mg-5600-u-i-comprimidos-e-acido-alendronico-colecalciferol-aris&inheritRedirect=false",
+    "warnings": [
+      "missing_registration_number"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2022-03-15",
+    "id": "PT_INFARMED_CI_023_CD_550_20_001_2022",
+    "local_id": "CI 023/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "P&G Health Germany GmbH",
+    "medicine": "Vigantol, 0.5 mg-ml, solução oral",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "9881706"
+      }
+    ],
+    "publication_date": "2022-03-14",
+    "reason": "A empresa P&G Health Germany GmbH, irá proceder à recolha voluntária dos lotes do medicamento Vigantol, Colecalciferol, 0.5 mg/ml, Solução oral, frasco conta-gotas de 10 ml com o número de registo 9881706, listados em anexo, por terem sido detetados resultados fora das especificações (OOS) para a substância ativa Colecalciferol- Vitamina D3 (durante os testes de estabilidade).",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=5956741&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-vigantol-0-5-mg-ml-solucao-oral&inheritRedirect=false",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2022-03-09",
+    "id": "PT_INFARMED_CI_017_CD_8_1_7_2022",
+    "local_id": "CI 017/CD/8.1.7.",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Recolha voluntária do lote FT056 do medicamento Aprovel, 150 mg, Irbesartan, comprimido, validade 03-2023",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": null,
+    "reason": null,
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=5919264&_101_type=content&_101_urlTitle=recolha-voluntaria-do-lote-ft056-do-medicamento-aprovel-150-mg-irbesartan-comprimido-validade-03-2023&inheritRedirect=false",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2022-02-23",
+    "id": "PT_INFARMED_CI_016_CD_550_20_001_2022",
+    "local_id": "CI 016/CD/550.20.001",
+    "lots": [
+      "6108031"
+    ],
+    "manufacturer": null,
+    "medicine": "Buccolam 10 mg, midazolam, solução bucal, lote n.º 6108031, validade 05-2023",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5688452"
+      }
+    ],
+    "publication_date": "2022-02-16",
+    "reason": "A empresa NEURAXPHARM PORTUGAL, UNIPESSOAL LDA, comunicou a recolha voluntária do lote n.º 6108031 , com a validade 05/2023 , do medicamento Buccolam 10 mg, midazolam , solução bucal, com o número de registo 5688452 , do TAIM Laboratórios Lesvi, S.L., por ter sido detetado uma informação incorreta no rótulo do produto.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=5798246&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-buccolam-10-mg-midazolam-solucao-bucal-lote-n-6108031-validade-05-2023&inheritRedirect=false",
+    "warnings": [
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2022-02-02",
+    "id": "PT_INFARMED_CI_003_CD_550_20_001_2022",
+    "local_id": "CI 003/CD/550.20.001",
+    "lots": [
+      "NO205801"
+    ],
+    "manufacturer": "Laboratoire Pharmaceutique Pharmatoka",
+    "medicine": "Ellura, 195.7 - 216.9 mg, cápsula, lote n.º N0205801, validade 02/2024, n.º de registo 5810239",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5810239"
+      }
+    ],
+    "publication_date": "2022-01-12",
+    "reason": "A empresa Laboratoire Pharmaceutique Pharmatoka, irá proceder à recolha voluntária do lote n.º NO205801, com a validade 02/2024, do medicamento Ellura, 195.7 - 216.9 mg, cápsula, com o número de registo 5810239, por ter sido detetado um resultado analítico acima dos limites aceitáveis para uma impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=5588630&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-ellura-195-7-216-9-mg-capsula-lote-n-n0205801-validade-02-2024-n-de-registo-5810239-&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.6,
+    "country": "PT",
+    "date": "2021-11-25",
+    "id": "PT_INFARMED_ASSET_4965001",
+    "local_id": "ASSET_4965001",
+    "lots": [],
+    "manufacturer": "Guerbert",
+    "medicine": "Recolha voluntária de dois lotes do medicamento Dotarem",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "8787903"
+      }
+    ],
+    "publication_date": "2021-11-25",
+    "reason": "\"A empresa Guerbert irá proceder à recolha voluntária de dois lotes do medicamento Dotarem, frasco para injetáveis 1x10 ml, com o número de registo 8787903, na sequência de ter sido identificado um defeito de qualidade que coloca em risco a estanquicidade nalguns frascos dos lotes 21GD006A04 (validade:31/12/2023 ) e 21GD006B05 (validade: 31/12/2023). Assim, o Infarmed determina a suspensão imediata da comercialização dos lotes acima identificados deste medicamento. Face ao exposto, as entidades que possuam este lote de medicamento em stock não o podem vender, dispensar ou administrar, devendo proceder à sua devolução. O Conselho Diretivo\"",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4965001&_101_type=content&_101_urlTitle=recolha-voluntaria-de-dois-lotes-do-medicamento-dotarem&inheritRedirect=false",
+    "warnings": [
+      "source_detail_fallback",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2021-11-18",
+    "id": "PT_INFARMED_CI_122_CD_550_20_001_2021",
+    "local_id": "CI 122/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Logista Pharma, representante da Santen OY em Portugal",
+    "medicine": "Ikervis (lote 1N81J, validade 02-2023, 1mg-mL, ciclosporina, colírio, emulsão)",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2021-11-16",
+    "reason": "A empresa Logista Pharma, representante da Santen OY em Portugal, irá proceder à recolha voluntária do lote 1N81J, validade 02/2023, do medicamento Ikervis, 1 mg/mL, ciclosporina, colírio, emulsão, por terem sido detetadas partículas acima do limite aprovado.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4926553&_101_type=content&_101_urlTitle=recolha-voluntaria-do-lote-1n81j-validade-02-2023-do-medicamento-ikervis-1mg-ml-ciclosporina-colirio-emulsao&inheritRedirect=false",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2021-10-28",
+    "id": "PT_INFARMED_CI_113_CD_550_20_001_2021",
+    "local_id": "CI 113/CD/550.20.001",
+    "lots": [
+      "01931"
+    ],
+    "manufacturer": "ToLife - Produtos Farmacêuticos",
+    "medicine": "Ambroxol Fludoran 6 mg/ml Xarope",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5840798"
+      }
+    ],
+    "publication_date": null,
+    "reason": "A empresa ToLife - Produtos Farmacêuticos, S.A, irá proceder à recolha voluntária do lote n.º 01931, com a validade 11/2022, do medicamento Ambroxol Fludoran, ambroxol, Xarope, 6mg/ml, frasco de 200 ml com o número de registo 5840798, por terem sido detetados resultados fora das especificações (OOS) para os parâmetros pH e impureza individual desconhecida (durante os testes de estabilidade).",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4891973&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-ambroxol-fludoran-6-mg-ml-xarope&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2021-10-01",
+    "id": "PT_INFARMED_CI_109_CD_550_20_001_2021",
+    "local_id": "CI 109/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "ToLife - Produtos Farmacêuticos",
+    "medicine": "Ivabradina toLife, 5 mg",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5699426"
+      }
+    ],
+    "publication_date": "2021-09-30",
+    "reason": "A empresa ToLife - Produtos Farmacêuticos, S.A. irá proceder à recolha voluntária do lote n.º T001 , com a validade 11/2023 , do medicamento Ivabradina toLife, 5 mg, comprimido revestido por película, 56 unidades , com o número de registo 5699426 , por ter sido detetado um resultado fora de especificação num estudo de estabilidade ongoing, no parâmetro dissolução.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4858799&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-ivabradina-tolife-5-mg-comprimido-revestido-por-pelicula-56-unidades-lote-t001-validade-11-2023&inheritRedirect=false",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2021-10-01",
+    "id": "PT_INFARMED_CI_104_CD_550_20_001_2021",
+    "local_id": "CI 104/CD/550.20.001",
+    "lots": [
+      "00022509",
+      "00021871",
+      "00021975",
+      "00023335"
+    ],
+    "manufacturer": "Laboratórios Pfizer, Lda. informou que",
+    "medicine": "Champix",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5557301"
+      },
+      {
+        "system": "AIM",
+        "value": "5557319"
+      },
+      {
+        "system": "AIM",
+        "value": "5557327"
+      }
+    ],
+    "publication_date": "2021-09-24",
+    "reason": "A empresa Laboratórios Pfizer, Lda. informou que irá proceder à recolha voluntária dos seguintes lotes do medicamento Champix® (0,5 mg) + (1 mg), e Champix® 1 mg, comprimidos revestidos por película , por terem sido detetados valores elevados de uma impureza:",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4858406&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-champix&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2021-09-22",
+    "id": "PT_INFARMED_CI_103_CD_550_20_001_2021",
+    "local_id": "CI 103/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Sandoz Farmacêutica, Lda",
+    "medicine": "Recolha voluntária de lotes de medicamentos Losartan Sandoz",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5159462"
+      },
+      {
+        "system": "AIM",
+        "value": "5109319"
+      },
+      {
+        "system": "AIM",
+        "value": "5124565"
+      },
+      {
+        "system": "AIM",
+        "value": "5792395"
+      },
+      {
+        "system": "AIM",
+        "value": "5792197"
+      }
+    ],
+    "publication_date": "2021-09-21",
+    "reason": null,
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4821141&_101_type=content&_101_urlTitle=recolha-voluntaria-de-17-lotes-dos-medicamentos-losartan-sandoz&inheritRedirect=false",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2021-09-09",
+    "id": "PT_INFARMED_CI_101_CD_550_20_001_2021",
+    "local_id": "CI 101/CD/550.20.001",
+    "lots": [
+      "2010121",
+      "3050221",
+      "3060221"
+    ],
+    "manufacturer": "Losartan Mepha/Losartan Teva 50 mg, comprimido revestido por película, 56 unidades 5406012 0280520, 0310219, 0370520, 0701118, 0721219 Teva B",
+    "medicine": "Recolha voluntária de 34 lotes de medicamentos Losartan e Losartan/Hidroclorotiazida",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5406012"
+      },
+      {
+        "system": "AIM",
+        "value": "5089602"
+      },
+      {
+        "system": "AIM",
+        "value": "5409313"
+      },
+      {
+        "system": "AIM",
+        "value": "5089628"
+      },
+      {
+        "system": "AIM",
+        "value": "5100938"
+      },
+      {
+        "system": "AIM",
+        "value": "5100946"
+      },
+      {
+        "system": "AIM",
+        "value": "5410006"
+      },
+      {
+        "system": "AIM",
+        "value": "5410022"
+      },
+      {
+        "system": "AIM",
+        "value": "5410071"
+      },
+      {
+        "system": "AIM",
+        "value": "5163779"
+      }
+    ],
+    "publication_date": "2021-09-09",
+    "reason": null,
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4772375&_101_type=content&_101_urlTitle=recolha-voluntaria-de-34-lotes-dos-medicamentos-losartan-ratiopharm-50-mg-e-100-mg-losartan-mepha-teva-50-mg-e-100-mg-losartan-hidroclorotiazida-ratio&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2021-09-02",
+    "id": "PT_INFARMED_CI_099_CD_550_20_001_2021",
+    "local_id": "CI 099/CD/550.20.001",
+    "lots": [
+      "V08540B",
+      "W06660A",
+      "V08540C"
+    ],
+    "manufacturer": "Mepha - Investigação, Desenvolvimento e Fabricação Farmacêutica, Lda., na sequência da deteção de resultados fora das especificações (OOS) para os parâmetros Dissolução e Massa Média para o medicamento Alfuzosina Mepha 5 mg Comprimidos de libertação prolongada",
+    "medicine": "Alfuzosina Mepha 5 mg Comprimidos de libertação prolongada",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5340294"
+      },
+      {
+        "system": "AIM",
+        "value": "5340195"
+      }
+    ],
+    "publication_date": "2022-09-02",
+    "reason": "A empresa Mepha - Investigação, Desenvolvimento e Fabricação Farmacêutica, Lda., na sequência da deteção de resultados fora das especificações (OOS) para os parâmetros Dissolução e Massa Média para o medicamento Alfuzosina Mepha 5 mg Comprimidos de libertação prolongada, irá proceder à recolha voluntária do mercado, dos seguintes nºs de lote do referido medicamento:",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4736417&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-alfuzosina-mepha-5-mg-comprimidos-de-libertacao-prolongada&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2021-08-05",
+    "id": "PT_INFARMED_CI_092_CD_550_20_001_2021",
+    "local_id": "CI 092/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Hikma Farmacêutica (Portugal), S",
+    "medicine": "Recolha voluntária: Pantoprazol Hikma, 40 mg, pó para solução injetável",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2021-07-30",
+    "reason": "Na sequência de defeito de qualidade relativo à existência um frasco rotulado como “Aciclovir Hikma 250 mg” no acondicionamento secundário do medicamento Pantoprazol Hikma, 40 mg, pó para solução injetável , o titular de AIM Hikma Farmacêutica (Portugal), S.A. encontra-se a proceder à recolha voluntária do lote afetado deste medicamento.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4622010&_101_type=content&_101_urlTitle=recolha-voluntaria-pantoprazol-hikma-40-mg-po-para-solucao-injetavel&inheritRedirect=false",
+    "warnings": [
+      "missing_registration_number",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2021-08-05",
+    "id": "PT_INFARMED_CI_090_CD_550_20_001_2021",
+    "local_id": "CI 090/CD/550.20.001",
+    "lots": [
+      "AR0528"
+    ],
+    "manufacturer": "Zentiva Portugal Lda.",
+    "medicine": "Pantoprazol Zentiva, comprimido gastrorresistente, 40 mg, 56 unidades, Lote AR0528, validade 06-2023",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5101019"
+      }
+    ],
+    "publication_date": "2021-07-28",
+    "reason": "A empresa Zentiva Portugal Lda., irá proceder à recolha voluntária do lote n.º AR0528, com a validade 06/2023, do medicamento Pantoprazol Zentiva, Pantoprazol 40 mg, comprimido gastroresistente, com o número de registo 5101019 , por ter sido detetado, no decorrer de um estudo de estabilidade, um resultado fora de especificação para o parâmetro dissolução.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4621826&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-pantoprazol-zentiva-comprimido-gastrorresistente-40-mg-56-unidades-lote-ar0528-validade-06-2023&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2021-07-29",
+    "id": "PT_INFARMED_CI_088_CD_550_20_001_2021",
+    "local_id": "CI 088/CD/550.20.001",
+    "lots": [
+      "2002",
+      "2003"
+    ],
+    "manufacturer": "Kyowa Kirin Farmacêutica, Unipessoal Lda.",
+    "medicine": "Xomolix, Droperidol, 2,5 mg-ml, solução injetável, 10 ampolas de 1 ml",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5078845"
+      }
+    ],
+    "publication_date": "2021-07-22",
+    "reason": null,
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4584206&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-xomolix-droperidol-2-5-mg-ml-solucao-injetavel-10-ampolas-de-1-ml&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2021-07-16",
+    "id": "PT_INFARMED_CI_085_CD_550_20_001_2021",
+    "local_id": "CI 085/CD/550.20.001",
+    "lots": [
+      "0450820"
+    ],
+    "manufacturer": "Ratiopharm - Comércio e Indústria de Produtos Farmacêuticos, Lda.",
+    "medicine": "Recolha voluntária de lote do medicamento Losartan Ratiopharm, 50 mg",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5089602"
+      }
+    ],
+    "publication_date": "2021-07-13",
+    "reason": null,
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4528960&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-losartan-ratiopharm-50-mg-comprimido-revestido-por-pelicula-lote-0450820-validade-31-08-2023&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2021-06-25",
+    "id": "PT_INFARMED_CI_075_CD_550_20_001_2021",
+    "local_id": "CI 075/CD/550.20.001",
+    "lots": [
+      "00019064"
+    ],
+    "manufacturer": "Laboratórios Pfizer, Lda., informou que",
+    "medicine": "Recolha voluntária de dois lotes do medicamento Champix® (0,5 mg) + (1 mg), comprimidos revestidos por película",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5557301"
+      }
+    ],
+    "publication_date": "2021-06-22",
+    "reason": "A empresa Laboratórios Pfizer, Lda., informou que irá proceder à recolha voluntária dos lotes n.º 00019064 e n.º 00020016 , ambos com a validade 30/09/2021 , do medicamento Champix® (0,5 mg) + (1 mg), comprimido revestidos por película com o número de registo 5557301 , por terem sido detetados valores elevados de uma impureza. Os Laboratórios Pfizer, Lda. confirmaram que foi detetada a presença da impureza N-nitroso-vareniclina acima do limite de ingestão diária aceitável calculado pela Pfizer de 733 ng/dia. Assim, o Infarmed determina a suspensão imediata da comercialização destes lotes. Face ao exposto:",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4462762&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-champix-0-5-mg-1-mg-comprimidos-revestidos-por-pelicula-lote-n-00019064-e-n-00020016-ambos-com-a-validade-30-09-2021&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2021-04-15",
+    "id": "PT_INFARMED_CI_047_CD_550_20_001_2021",
+    "local_id": "CI 047/CD/550.20.001",
+    "lots": [
+      "18R4061"
+    ],
+    "manufacturer": "Generis Farmacêutica",
+    "medicine": "Nimesulida Labesfal, Nimesulida 100 mg, comprimido, lote 18R4061, validade 10-2021",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5782396"
+      }
+    ],
+    "publication_date": "2021-04-14",
+    "reason": "A empresa Generis Farmacêutica, S.A. irá proceder à recolha voluntária do lote n.º 18R4061 , com a validade 10/2021 , do medicamento Nimesulida Labesfal, Nimesulida 100 mg, comprimido , com o número de registo 5782396 , por ter sido detetado um resultado fora de especificação num estudo de estabilidade ongoing , no parâmetro dissolução.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4327814&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-nimesulida-labesfal-nimesulida-100-mg-comprimido-lote-18r4061-validade-10-2021&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2021-02-10",
+    "id": "PT_INFARMED_CI_016_CD_550_20_001_2021",
+    "local_id": "CI 016/CD/550.20.001",
+    "lots": [
+      "P100266784",
+      "P100258963",
+      "P100043497",
+      "P100079861",
+      "P100126451"
+    ],
+    "manufacturer": null,
+    "medicine": "Respreeza - Antitripsina alfa-1, 1000 mg-20 ml, Pó e solvente para solução para perfusão",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5761937"
+      }
+    ],
+    "publication_date": "2021-02-02",
+    "reason": "Na sequência de uma notificação de defeito de qualidade emitida pela Autoridade Europeia do Medicamento (EMA na sigla em inglês) relativamente aos medicamentos Respreeza (Antitripsina alfa-1), 1000 mg/20 ml, na forma farmacêutica - Pó e solvente para solução para perfusão, com o número de registo 5761937, a CSL Behring, Lda., irá proceder à recolha voluntária dos lotes do medicamento conforme tabela em baixo, por medida cautelar, na sequência de ter sido detetado uma falha na fase de enchimento dos frascos do medicamento, podendo conduzir a contaminação microbiológica do produto.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4213947&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-do-medicamento-respreeza-antitripsina-alfa-1-1000-mg-20-ml-po-e-solvente-para-solucao-para-perfusao&inheritRedirect=false",
+    "warnings": [
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2021-01-15",
+    "id": "PT_INFARMED_CI_004_CD_550_20_001_2021",
+    "local_id": "CI 004/CD/550.20.001",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Betamox, amoxicilina + ácido clavulânico, pó para solução para perfusão, 2000 mg + 200 mg",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "2879385"
+      }
+    ],
+    "publication_date": "2021-01-15",
+    "reason": "Na sequência da deteção de resultados fora da especificação no Ensaio de Esterilidade, decorrente de análises laboratoriais realizadas no laboratório do Infarmed no âmbito da monitorização do mercado, o Infarmed determinou a recolha do lote H004419H, com o prazo de validade 04/2021, do medicamento Betamox , amoxicilina + ácido clavulânico, pó para solução para perfusão, 2000 mg + 200 mg, com o número de registo 2879385.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4181058&_101_type=content&_101_urlTitle=recolha-do-medicamento-betamox-amoxicilina-acido-clavulanico-po-para-solucao-para-perfusao-2000-mg-200-mg&inheritRedirect=false",
+    "warnings": [
+      "missing_lot",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2020-12-18",
+    "id": "PT_INFARMED_CI_192_CD_550_20_001_2020",
+    "local_id": "CI 192/CD/550.20.001",
+    "lots": [
+      "T003099",
+      "T003958",
+      "T005031"
+    ],
+    "manufacturer": "Merck Sharp & Dohme B.V.",
+    "medicine": "Zerbaxa, 1 g + 0.5 g, Pó para concentrado para solução para perfusão",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5665005"
+      }
+    ],
+    "publication_date": null,
+    "reason": "Esta recolha ocorre por precaução, na sequência da deteção de resultados fora da especificação nos testes de esterilidade de lotes do medicamento fabricados com o mesmo equipamento dos lotes acima referidos",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4135977&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-zerbaxa-1-g-0-5-g-po-para-concentrado-para-solucao-para-perfusao&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.72,
+    "country": "PT",
+    "date": "2020-10-21",
+    "id": "PT_INFARMED_ASSET_4060023",
+    "local_id": "ASSET_4060023",
+    "lots": [
+      "0019003742"
+    ],
+    "manufacturer": "Tecnifar",
+    "medicine": "Recolha voluntária de um lote do medicamento Diplexil, 300 mg, cápsulas de libertação modificada",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "3906989"
+      }
+    ],
+    "publication_date": "2020-10-21",
+    "reason": "\"A empresa Tecnifar irá proceder à recolha voluntária do lote 0019003742, com validade até 06/2021, do medicamento Diplexil, 300 mg, cápsulas de libertação modificada, com o número de registo 3906989, por ter sido detetado, em ensaios de estabilidade, um desvio às especificações do ensaio de dissolução. É importante referir que este desvio não colocou em risco a saúde dos doentes que possam já ter tomado o referido medicamento. Lote Prazo de validade 0019003742 06/2021 Tendo em conta o supramencionado, o Infarmed determina a suspensão imediata da distribuição deste lote do medicamento. Face ao exposto: As entidades que possuam estes lotes de medicamento em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper o tratamento. Logo que possível, devem contactar o médico para substituir por outro lote deste medicamento ou um medicamento alternativo.\"",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4060023&_101_type=content&_101_urlTitle=recolha-voluntaria-de-um-lote-do-medicamento-diplexil-300-mg-capsulas-de-libertacao-modificada&inheritRedirect=false",
+    "warnings": [
+      "source_detail_fallback"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2020-08-11",
+    "id": "PT_INFARMED_CI_140_CD_550_20_001_2020",
+    "local_id": "CI 140/CD/550.20.001",
+    "lots": [],
+    "manufacturer": "Sandoz GmbH irá proceder à recolha voluntária do lote 2003020058 do medicamento Binocrit, epoetina alfa, 30000 U",
+    "medicine": "Recolha voluntária de lote do medicamento Binocrit",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5374228"
+      }
+    ],
+    "publication_date": "2020-08-11",
+    "reason": "O titular de AIM Sandoz GmbH irá proceder à recolha voluntária do lote 2003020058 do medicamento Binocrit, epoetina alfa, 30000 U.I./0.75 ml, solução injetável (6 seringas pré-cheias), com o número de registo 5374228 , por terem sido detetados resultados fora da especificação para um parâmetro de impureza.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=3997178&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lote-do-medicamento-binocrit&inheritRedirect=false",
+    "warnings": [
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.6,
+    "country": "PT",
+    "date": "2020-07-24",
+    "id": "PT_INFARMED_ASSET_3793837",
+    "local_id": "ASSET_3793837",
+    "lots": [],
+    "manufacturer": "Jaba Recordati",
+    "medicine": "Recolha voluntária dos lotes U04003B e U02007C do medicamento Reagila 1,5 mg, cápsula, embalagem de 28 unidades (n.º registo 5732474)",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5732474"
+      }
+    ],
+    "publication_date": "2020-07-24",
+    "reason": "\"A empresa Jaba Recordati, S.A. irá proceder à recolha voluntária dos lotes U04003B e U02007C do medicamento Reagila 1,5 mg, cápsula, embalagem de 28 unidades (n.º registo 5732474), por ter sido detetado um erro na impressão, em código braille, da dosagem do medicamento. O erro afeta apenas a impressão em código braille, pelo que as cápsulas contidas no interior destas embalagens possuem efetivamente a dosagem indicada graficamente no blister e na cartonagem (1,5 mg). As entidades que possuam estes lotes em stock não os poderão vender, dispensar ou administrar, devendo proceder à sua devolução.\"",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=3793837&_101_type=content&_101_urlTitle=recolha-voluntaria-dos-lotes-u04003b-e-u02007c-do-medicamento-reagila-1-5-mg-capsula-embalagem-de-28-unidades-n-registo-5732474-&inheritRedirect=false",
+    "warnings": [
+      "source_detail_fallback",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2020-07-13",
+    "id": "PT_INFARMED_CI_116_CD_550_20_001_2020",
+    "local_id": "CI 116/CD/550.20.001",
+    "lots": [
+      "F0251B53",
+      "F0255B02"
+    ],
+    "manufacturer": "Roche Farmacêutica Química, Lda.",
+    "medicine": "Tamiflu, oseltamivir, 75 mg, cápsula",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "4014882"
+      }
+    ],
+    "publication_date": "2020-07-10",
+    "reason": "A empresa Roche Farmacêutica Química, Lda. irá proceder à recolha voluntária dos lotes abaixo indicados do medicamento Tamiflu, oseltamivir, 75 mg, cápsula, com o número de registo 4014882, por ter sido detetada uma incorreção no folheto informativo, nas instruções de preparação da suspensão oral a partir das cápsulas.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=3741507&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-do-medicamento-tamiflu-oseltamivir-75-mg-capsula&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2020-06-09",
+    "id": "PT_INFARMED_CI_105_CD_550_20_001_2020",
+    "local_id": "CI 105/CD/550.20.001",
+    "lots": [
+      "B5C0211"
+    ],
+    "manufacturer": "Baxter Médico-Farmacêutica, Lda.",
+    "medicine": "Recolha voluntária de lote do medicamento Cetorolac Baxter, solução injetável, 30 mg/1 ml",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5640016"
+      }
+    ],
+    "publication_date": "2020-06-08",
+    "reason": "A empresa Baxter Médico-Farmacêutica, Lda. irá proceder à recolha voluntária do lote n.º B5C0211, com o prazo de validade 05/2021, do medicamento Cetorolac Baxter, solução injetável, 30 mg/1 ml, embalagens de 5 ampolas, com o número de registo 5640016 , por ter sido detetado um valor fora de especificação aprovada, referente ao parâmetro do conteúdo em álcool.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=3714603&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lote-do-medicamento-cetorolac-baxter-solucao-injetavel-30-mg-1-ml&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2020-06-04",
+    "id": "PT_INFARMED_CI_104_CD_550_20_001_2020",
+    "local_id": "CI 104/CD/550.20.001",
+    "lots": [
+      "T82478",
+      "X98666",
+      "AJ6628",
+      "CA6010",
+      "CH5465",
+      "CM2544"
+    ],
+    "manufacturer": "Pfizer Europe MA EEIG irá proceder à recolha voluntária dos lotes abaixo indicados do medicamento Duavive , bazedoxifeno + estrogénios conjugados, 20 mg + 0",
+    "medicine": "Duavive",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5633060"
+      }
+    ],
+    "publication_date": "2020-06-03",
+    "reason": "O titular de Autorização de Introdução no Mercado Pfizer Europe MA EEIG irá proceder à recolha voluntária dos lotes abaixo indicados do medicamento Duavive , bazedoxifeno + estrogénios conjugados, 20 mg + 0.45 mg, comprimido de libertação modificada, com o número de registo 5633060 , por terem sido detetados resultados fora da especificação relativamente à dissolução do bazedoxifeno.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=3711287&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lotes-do-medicamento-duavive&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2020-06-04",
+    "id": "PT_INFARMED_CI_103_CD_8_1_7_2020",
+    "local_id": "CI 103/CD/8.1.7.",
+    "lots": [
+      "1F3149",
+      "1F3148",
+      "1F8673"
+    ],
+    "manufacturer": "Generis Farmacêutica",
+    "medicine": "Recolha voluntária de três lotes do medicamento Ciclosporina Generis",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2020-06-03",
+    "reason": "A empresa Generis Farmacêutica S.A. irá proceder à recolha voluntária dos lotes 1F3149, 1F3148, e 1F8673 do medicamento Ciclosporina Generis capsulas moles , por terem sido detetados alguns lotes da dosagem de 100 mg embalados em cartonagem de 50 mg.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=3711453&_101_type=content&_101_urlTitle=recolha-voluntaria-de-3-lotes-do-medicamento-ciclosporina-generis&inheritRedirect=false",
+    "warnings": [
+      "missing_registration_number"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.72,
+    "country": "PT",
+    "date": "2020-05-20",
+    "id": "PT_INFARMED_ASSET_3691118",
+    "local_id": "ASSET_3691118",
+    "lots": [
+      "17204"
+    ],
+    "manufacturer": "Aristo Pharma Ibéria S.L. – Sucursal em Portugal",
+    "medicine": "Recolha voluntária de lote do medicamento Lisaspin 1000, pó para solução oral",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "9500421"
+      }
+    ],
+    "publication_date": "2020-05-20",
+    "reason": "\"A empresa Aristo Pharma Ibéria S.L. – Sucursal em Portugal irá proceder à recolha voluntária do lote n.º 17204, com a validade 07/2020, do medicamento Lisaspin 1000 (acetilsalicilato de lisina - 1800 mg/saqueta – correspondentes a 1000 mg de ácido acetilsalicílico), pó para solução oral, embalagem de 20 saquetas, com o número de registo 9500421, por terem sido detetados resultados fora das especificações no doseamento da substância ativa nos ensaios de estabilidade . Assim, o Infarmed determina a suspensão imediata da comercialização deste lote. Face ao exposto: As entidades que possuam este lote de medicamento em stock não o podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a este lote não devem interromper o tratamento. Tratando-se de um medicamento não sujeito a receita médica de venda exclusiva em farmácia, logo que possível, devem contactar o farmacêutico para indicação de um medicamento alternativ...\"",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=3691118&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lote-do-medicamento-lisaspin-1000-po-para-solucao-oral&inheritRedirect=false",
+    "warnings": [
+      "source_detail_fallback"
+    ]
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.9,
+    "country": "PT",
+    "date": "2020-02-18",
+    "id": "PT_INFARMED_CI_056_CD_550_20_001_2020",
+    "local_id": "CI 056/CD/550.20.001",
+    "lots": [
+      "T05140"
+    ],
+    "manufacturer": "toLife - Produtos Farmacêuticos",
+    "medicine": "Recolha voluntária do lote n.º T05140 do medicamento Montelucaste toLife 5 mg x 28 comprimido para mastigar",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5566344"
+      }
+    ],
+    "publication_date": "2020-02-17",
+    "reason": "A empresa toLife - Produtos Farmacêuticos, S.A., irá proceder à recolha voluntária do lote n.º T05140 , com o prazo de validade 05/2021 do medicamento Montelucaste (Montelucaste), 5 mg x 28 comprimido para mastigar , com o número de registo 5566344 , por ter sido detetada a existência de cartonagens nas quais constam dados incorretos.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=3556609&_101_type=content&_101_urlTitle=recolha-voluntaria-do-lote-n-t05140-do-medicamento-montelucaste-tolife-5-mg-x-28-comprimido-para-mastigar&inheritRedirect=false",
+    "warnings": []
+  },
+  {
+    "authority": "INFARMED",
+    "confidence": 0.78,
+    "country": "PT",
+    "date": "2020-01-03",
+    "id": "PT_INFARMED_CI_007_CD_550_20_001_2020",
+    "local_id": "CI 007/CD/550.20.001",
+    "lots": [],
+    "manufacturer": null,
+    "medicine": "Vancomicina Hikma, pó para concentrado para solução para perfusão, 500 mg",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "AIM",
+        "value": "5569900"
+      }
+    ],
+    "publication_date": "2020-01-03",
+    "reason": "Na sequência da deteção de resultados fora da especificação no parâmetro de doseamento microbiológico da substância ativa, o Infarmed determina a recolha do lote 1910061.1. com o prazo de validade 04/2021 , do medicamento Vancomicina Hikma, pó para concentrado para solução para perfusão, 500 mg, frasco para injetáveis - 10 unidade(s) - 10 ml, com o número de registo 5569900.",
+    "recall_class": null,
+    "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=3471547&_101_type=content&_101_urlTitle=recolha-de-lote-do-medicamento-vancomicina-hikma-po-para-concentrado-para-solucao-para-perfusao-500-mg&inheritRedirect=false",
+    "warnings": [
+      "missing_lot",
       "missing_manufacturer"
     ]
   }

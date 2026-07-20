@@ -1,0 +1,29 @@
+{
+  "actions": "Face ao exposto: Atendendo a que este medicamento é utilizado apenas em meio hospitalar, as entidades que deles disponham não os poderão vender ou administrar, devendo proceder à sua devolução. O Presidente Conselho Diretivo Rui dos Santos Ivo",
+  "authority": "INFARMED",
+  "confidence": 0.78,
+  "country": "PT",
+  "date": "2021-08-05",
+  "expiry_dates": [],
+  "id": "PT_INFARMED_CI_092_CD_550_20_001_2021",
+  "local_id": "CI 092/CD/550.20.001",
+  "lots": [],
+  "manufacturer": "Hikma Farmacêutica (Portugal), S",
+  "medicine": "Recolha voluntária: Pantoprazol Hikma, 40 mg, pó para solução injetável",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-07-30",
+  "raw": {
+    "alert_type": "med",
+    "source": "pt_infarmed",
+    "title": "Recolha voluntária: Pantoprazol Hikma, 40 mg, pó para solução injetável"
+  },
+  "reason": "Na sequência de defeito de qualidade relativo à existência um frasco rotulado como “Aciclovir Hikma 250 mg” no acondicionamento secundário do medicamento Pantoprazol Hikma, 40 mg, pó para solução injetável , o titular de AIM Hikma Farmacêutica (Portugal), S.A. encontra-se a proceder à recolha voluntária do lote afetado deste medicamento.",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=4622010&_101_type=content&_101_urlTitle=recolha-voluntaria-pantoprazol-hikma-40-mg-po-para-solucao-injetavel&inheritRedirect=false",
+  "warnings": [
+    "missing_registration_number",
+    "missing_lot"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "actions": "Ce rappel fait suite à la mise en évidence d'une impureté azide appelée \" impureté azoturée de losartan \" à des taux supérieurs aux limites acceptables dans la substance active entrant dans la composition de ces spécialités. Ce rappel concerne exclusivement les lots mentionnés ci-dessus et complète le rappel MED21/A038 du 03/11/2021. Le laboratoire ZENTIVA France précise qu'aucun cas de pharmacovigilance en relation avec ce défaut qualité n'a été rapporté à la date du rappel. RAPPEL DE PRODUIT Médicaments Publié le 03/11/2021 - Mis à jour le 05/11/2021 Losartan Zentiva Lab 100 mg et 50 mg, comprimé pelliculé, Losartan/Hydrochlorothiazide Zentiva Lab 100 mg/12,5 mg, 100 mg/25 mg et 50 mg/12,5 mg, comprimé pelliculé - laboratoire Zentiva France Niveaux de rappel : Officines et circuit de dis",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-11-05",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ADDENDUM_AU_RAPPEL_DE_LOTS_MED21_A038_LOSARTAN_HYDROCHLOROTHIAZI_84206109AEC5",
+  "local_id": "SLUG_ADDENDUM_AU_RAPPEL_DE_LOTS_MED21_A038_LOSARTAN_HYDROCHLOROTHIAZI_84206109AEC5",
+  "lots": [
+    "2310221",
+    "2070920",
+    "2090920"
+  ],
+  "manufacturer": null,
+  "medicine": "Addendum au rappel de lots MED21/A038 - Losartan/Hydrochlorothiazide Zentiva Lab 100 mg/12,5 mg et 50 mg/12,5 mg, comprimé pelliculé - Laboratoire Zentiva France (MED21/A041)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930146309"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930146347"
+    },
+    {
+      "system": "CIP",
+      "value": "3400930146361"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-11-05",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Addendum au rappel de lots MED21/A038 - Losartan/Hydrochlorothiazide Zentiva Lab 100 mg/12,5 mg et 50 mg/12,5 mg, comprimé pelliculé - Laboratoire Zentiva France (MED21/A041)"
+  },
+  "reason": "Le laboratoire ZENTIVA France, procède en accord avec l'ANSM, et par mesure de précaution, au rappel des trois lots mentionnés ci-dessous des spécialités : LOSARTAN/HYDROCHLOROTHIAZIDE ZENTIVA LAB 100 mg/12,5 mg, comprimé pelliculé (boite de 28) (CIP 3400930146309) : Lot 2310221 - 01/2023 LOSARTAN/HYDROCHLOROTHIAZIDE ZENTIVA LAB 50 mg/12,5 mg, comprimé pelliculé (boite de 28) (CIP 3400930146347) : Lot 2070920 - 08/2022 LOSARTAN/HYDROCHLOROTHIAZIDE ZENTIVA LAB 50 mg/12,5 mg, comprimé pelliculé (boite de 90) (CIP 3400930146361) : Lot 2090920 - 08/2022 Ce rappel fait suite à la mise en évidence d'une impureté azide appelée \" impureté azoturée de losartan \" à des taux supérieurs aux limites acceptables dans la substance active entrant dans la composition de ces spécialités.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/addendum-au-rappel-de-lots-med21-a038-losartan-hydrochlorothiazide-zentiva-lab-100-mg-12-5-mg-et-50-mg-12-5-mg-comprime-pellicule-laboratoire-zentiva-france",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

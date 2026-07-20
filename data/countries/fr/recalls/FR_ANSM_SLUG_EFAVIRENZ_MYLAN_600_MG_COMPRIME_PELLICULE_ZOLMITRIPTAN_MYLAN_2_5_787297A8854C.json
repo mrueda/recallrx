@@ -1,0 +1,48 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-01-05",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_EFAVIRENZ_MYLAN_600_MG_COMPRIME_PELLICULE_ZOLMITRIPTAN_MYLAN_2_5_787297A8854C",
+  "local_id": "SLUG_EFAVIRENZ_MYLAN_600_MG_COMPRIME_PELLICULE_ZOLMITRIPTAN_MYLAN_2_5_787297A8854C",
+  "lots": [
+    "Date"
+  ],
+  "manufacturer": "Laboratoire Viatris Sante (MED23/A001/B001)",
+  "medicine": "Efavirenz Mylan 600 mg, comprimé pelliculé & Zolmitriptan Mylan 2,5 mg, comprimé orodispersible et comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400927409653"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921974492"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921974782"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921982596"
+    },
+    {
+      "system": "CIP",
+      "value": "3400921982657"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-01-05",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Efavirenz Mylan 600 mg, comprimé pelliculé & Zolmitriptan Mylan 2,5 mg, comprimé orodispersible et comprimé pelliculé – Laboratoire Viatris Sante (MED23/A001/B001)"
+  },
+  "reason": "Le laboratoire Viatris Sante procède, en accord avec l'ANSM, au rappel de tous les lots actuellement sur le marché des spécialités mentionnées ci-dessous : Efavirenz Mylan 600 mg, comprimé pelliculé (boite de 30 comprimés - CIP 3400927409653) Lots Date péremption K0542 04/2023 D1586 11/2023 M1650 09/2024 C2545 09/2024 Zolmitriptan Mylan 2,5 mg, comprimé orodispersible (boite de 6 comprimés - CIP 3400921974492) Lot Date péremption 8123872 07/2023 8132598 01/2024 Zolmitriptan Mylan 2,5 mg, comprimé orodispersible (boite de 12 comprimés - CIP 3400921974782) Lot Date péremption 3130856 03/2023 3136860 07/2023 8123871 07/2023 3146231 01/2024 8132602 01/2024 3146232 01/2024 Zolmitriptan Mylan 2,5 mg, comprimé pelliculé (boite de 6 comprimés - CIP 3400921982596) Lot Date péremption 8126839 09/202",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/efavirenz-mylan-600-mg-comprime-pellicule-zolmitriptan-mylan-2-5-mg-comprime-orodispersible-et-comprime-pellicule-laboratoire-viatris-sante",
+  "warnings": []
+}

@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : Officines, établissements de santé et circuit de distribution pharmaceutique. Pour toute demande d’ordre médical ou pharmaceutique, veuillez contacter les Laboratoires Léo au numéro suivant : 01 30 14 40 00. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contac",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-07-24",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_FUCIDINE_250_MG_COMPRIME_PELLICULE_LABORATOIRES_LEO_E4EC7BECD5D9",
+  "local_id": "SLUG_FUCIDINE_250_MG_COMPRIME_PELLICULE_LABORATOIRES_LEO_E4EC7BECD5D9",
+  "lots": [
+    "mentionn",
+    "C97087"
+  ],
+  "manufacturer": "Laboratoires Léo (MED 25/A014/B014)",
+  "medicine": "Fucidine 250 mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-07-24",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Fucidine 250 mg, comprimé pelliculé – Laboratoires Léo (MED 25/A014/B014)"
+  },
+  "reason": "Fucidine 250 mg, comprimé pelliculé – Laboratoires Léo (MED 25/A014/B014) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 24/07/2025 A+ A- Rappel destiné aux officines, établissements de santé et circuit de distribution pharmaceutique Les Laboratoires Léo procèdent, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Fucidine 250 mg, comprimé pelliculé (CIP : 34009 367 663 7 2) Lot C97087 - péremption 01/2026 Ce rappel fait suite à la mise en évidence de résultats hors spécifications au cours des études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/fucidine-250-mg-comprime-pellicule-laboratoires-leo",
+  "warnings": [
+    "missing_cip"
+  ]
+}

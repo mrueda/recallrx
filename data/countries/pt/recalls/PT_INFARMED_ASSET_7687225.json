@@ -1,0 +1,34 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam estes lotes de medicamentos em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper o tratamento. Logo que possível, devem solicitar a substituição por outro lote ou pedir a...\" 14/11/2022 colecalciferol ácido alendrónico recolha de lotes",
+  "authority": "INFARMED",
+  "confidence": 0.6,
+  "country": "PT",
+  "date": "2022-11-14",
+  "expiry_dates": [
+    "31/07/2023"
+  ],
+  "id": "PT_INFARMED_ASSET_7687225",
+  "local_id": "ASSET_7687225",
+  "lots": [
+    "1109712",
+    "1109713"
+  ],
+  "manufacturer": "ToLife - Produtos Farmacêuticos",
+  "medicine": "Recolha voluntária de lote de medicamentos da empresa ToLife -Produtos Farmacêuticos, S.A",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2022-11-14",
+  "raw": {
+    "asset_id": "7687225",
+    "source": "pt_infarmed_search_result",
+    "title": "Recolha voluntária de lote de medicamentos da empresa ToLife -Produtos Farmacêuticos, S.A"
+  },
+  "reason": "\"A empresa ToLife - Produtos Farmacêuticos, S.A., irá proceder à recolha voluntária do lote n.º 1109712 (validade 31/07/2023) do medicamento Ácido Alendrónico + Colecalciferol toLife, ácido alendrónico + Colecalciferol, 70 mg + 2800 U.I, comprimido, n.º de registro 5788427 e do lote n.º 1109713 (validade 31/07/2023) do medicamento Ácido Alendrónico + Colecalciferol toLife, ácido alendrónico + Colecalciferol, 70 mg + 5600 U.I., comprimido, n.º de registro 5788435 por ter sido detetado um resultado fora das especificações, para o parâmetro doseamento do Colecalciferol. Assim, o Infarmed determina a suspensão imediata da comercialização destes lotes. Face ao exposto: As entidades que possuam estes lotes de medicamentos em stock não os podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a estes lotes não devem interromper o tratamento. Logo que possível, devem solicitar a substituição por outro lote ou pedir a...\"",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=7687225&_101_type=content&_101_urlTitle=recolha-voluntaria-do-medicamento-acido-alendronico-colecalciferol-tolife-acido-alendronico-colecalciferol-70-mg-2800-u-i-comprimido-lote-n-1109712-va&inheritRedirect=false",
+  "warnings": [
+    "source_detail_fallback",
+    "missing_registration_number"
+  ]
+}

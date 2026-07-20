@@ -1,0 +1,34 @@
+{
+  "actions": "Ce rappel de lots fait suite à la mise en évidence de la présence de particules lors des études de stabilité. Le laboratoire précise qu'aucun événement indésirable ou réclamation qualité en lien avec ce défaut n'ont été rapportés à ce jour. Pour toute information complémentaire, vous pouvez contacter : Laboratoire Hikma, Service Information médicale Tél : 01.87.69.98.43 E-mail : francequalite@Hikma.com Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médi",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2025-01-31",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LACOSAMIDE_HIKMA_10_MG_ML_SOLUTION_POUR_PERFUSION_LABORATOIRE_HI_608F165192D1",
+  "local_id": "SLUG_LACOSAMIDE_HIKMA_10_MG_ML_SOLUTION_POUR_PERFUSION_LABORATOIRE_HI_608F165192D1",
+  "lots": [
+    "2302205.1",
+    "2302206.1",
+    "2302207.1"
+  ],
+  "manufacturer": "Laboratoire Hikma (MED25/B004)",
+  "medicine": "Lacosamide Hikma 10 mg/mL, solution pour perfusion",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930274484"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-01-31",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Lacosamide Hikma 10 mg/mL, solution pour perfusion – Laboratoire Hikma (MED25/B004)"
+  },
+  "reason": "Lacosamide Hikma 10 mg/mL, solution pour perfusion – Laboratoire Hikma (MED25/B004) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 31/01/2025 A+ A- Niveau du rappel : établissements de santé Le laboratoire Hikma France procède, en accord avec l'ANSM, au retrait des lots mentionnés ci-dessous de la spécialité pharmaceutique : Lacosamide Hikma 10 mg/mL, solution pour perfusion – boite de 1 flacon de 20 mL (CIP 34009 302 744 8 4) : Lot 2302205.1 - EXP : 11/2025 Lot 2302206.1 - EXP : 11/2025 Lot 2302207.1 - EXP : 11/2025 Ce rappel de lots fait suite à la mise en évidence de la présence de particules lors des études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/lacosamide-hikma-10-mg-ml-solution-pour-perfusion-laboratoire-hikma",
+  "warnings": []
+}

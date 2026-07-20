@@ -1,0 +1,39 @@
+{
+  "actions": "Ce rappel fait suite à la mise en évidence de l’apparition au cours du temps de micro-particules de principe actif (ciclosporine) dans le collyre. Le laboratoire précise qu’aucun cas grave de pharmacovigilance, en relation avec ce défaut, n’a été signalé à ce jour. Ce rappel fait suite au rappel de lots d’Ikervis du 7 septembre 2021. Pour tout renseignement complémentaire, merci de contacter le laboratoire SANTEN au 01.70.75.26.84, ou medinfo@santen.fr . RAPPEL DE PRODUIT Médicaments Publié le 07/09/2021 - Mis à jour le 21/04/2022 Ikervis 1 mg/ml, collyre en émulsion - Laboratoire Santen Niveau de retrait : Etablissements de santé RAPPEL DE PRODUIT Médicaments Publié le 21/04/2022 Ikervis et Verkazia 1 mg/ml, collyres en émulsion - Laboratoire Santen Niveau de retrait : Etablissements de s",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2021-11-17",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_IKERVIS_1_MG_ML_COLLYRE_EN_EMULSION_LABORATOIRE_SANTEN_1_4ABDD5F4C655",
+  "local_id": "SLUG_IKERVIS_1_MG_ML_COLLYRE_EN_EMULSION_LABORATOIRE_SANTEN_1_4ABDD5F4C655",
+  "lots": [
+    "1L14R",
+    "4L41E",
+    "6L03C",
+    "8L28D",
+    "8L29F",
+    "4N78D"
+  ],
+  "manufacturer": null,
+  "medicine": "Ikervis 1 mg/ml, collyre en émulsion - Laboratoire Santen (MED21/B030)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930010648"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2021-11-17",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Ikervis 1 mg/ml, collyre en émulsion - Laboratoire Santen (MED21/B030)"
+  },
+  "reason": "Ce rappel fait suite à la mise en évidence de l’apparition au cours du temps de micro-particules de principe actif (ciclosporine) dans le collyre.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/ikervis-1-mg-ml-collyre-en-emulsion-laboratoire-santen-1",
+  "warnings": [
+    "missing_manufacturer"
+  ]
+}

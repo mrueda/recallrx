@@ -1,0 +1,31 @@
+{
+  "actions": "Niveau de rappel : rappel en direct auprès des établissements concernés",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-01-13",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LAMZEDE_10_MG_POUDRE_POUR_SOLUTION_POUR_PERFUSION_CHIESI_SAS_5AB1DEE617B9",
+  "local_id": "SLUG_LAMZEDE_10_MG_POUDRE_POUR_SOLUTION_POUR_PERFUSION_CHIESI_SAS_5AB1DEE617B9",
+  "lots": [
+    "1218778",
+    "1218778A"
+  ],
+  "manufacturer": null,
+  "medicine": "Lamzede 10 mg, poudre pour solution pour perfusion - Chiesi SAS",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-01-13",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Lamzede 10 mg, poudre pour solution pour perfusion - Chiesi SAS"
+  },
+  "reason": "03/2026) Ce rappel fait suite à la mise en évidence lors des études de stabilité d’un résultat d’analyse à un taux supérieur aux limites définies pour le produit fini.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/lamzede-10-mg-poudre-pour-solution-pour-perfusion-chiesi-sas",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

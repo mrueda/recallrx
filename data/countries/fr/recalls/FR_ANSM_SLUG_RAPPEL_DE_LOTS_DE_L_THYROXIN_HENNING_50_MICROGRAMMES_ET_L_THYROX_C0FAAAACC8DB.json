@@ -1,0 +1,28 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé, circuit de distribution pharmaceutique et patients",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2025-01-23",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_RAPPEL_DE_LOTS_DE_L_THYROXIN_HENNING_50_MICROGRAMMES_ET_L_THYROX_C0FAAAACC8DB",
+  "local_id": "SLUG_RAPPEL_DE_LOTS_DE_L_THYROXIN_HENNING_50_MICROGRAMMES_ET_L_THYROX_C0FAAAACC8DB",
+  "lots": [],
+  "manufacturer": "Sanofi Winthrop Industrie (MED25/A003/B003)",
+  "medicine": "Rappel de lots de L-Thyroxin Henning 50 microgrammes, et L-Thyroxin Henning 75 microgrammes, comprimé sécable",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2025-01-23",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Rappel de lots de L-Thyroxin Henning 50 microgrammes, et L-Thyroxin Henning 75 microgrammes, comprimé sécable – Sanofi Winthrop Industrie (MED25/A003/B003)"
+  },
+  "reason": "Rappel de lots de L-Thyroxin Henning 50 microgrammes, et L-Thyroxin Henning 75 microgrammes, comprimé sécable – Sanofi Winthrop Industrie (MED25/A003/B003) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 23/01/2025 A+ A- Niveau de rappel : officines, établissements de santé, circuit de distribution pharmaceutique et patients Le laboratoire Sanofi Winthrop Industrie procède par mesure de précaution, à la demande de l’ANSM, au rappel des lots mentionnés ci-dessous des spécialités pharmaceutiques dénommées L-Thyroxin Henning 50 microgrammes, comprimé sécable et L-Thyroxin Henning 75 microgrammes, comprimé sécable : L-Thyroxin Henning 50 microgrammes, comprimé sécable – CIP : 34009 301 197 7 8 Lot : 3R11V - péremption : 05/2025 Lot : 3R1PJ - péremption : 06/2025 L-Thyroxin Henning 75 microgrammes,",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/rappel-de-lots-de-l-thyroxin-henning-50-microgrammes-et-l-thyroxin-henning-75-microgrammes-comprime-secable-sanofi-winthrop-industrie",
+  "warnings": [
+    "missing_cip",
+    "missing_lot"
+  ]
+}

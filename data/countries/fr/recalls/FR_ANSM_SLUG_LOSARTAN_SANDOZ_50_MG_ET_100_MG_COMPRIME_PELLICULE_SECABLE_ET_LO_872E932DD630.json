@@ -1,0 +1,28 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-10-28",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_LOSARTAN_SANDOZ_50_MG_ET_100_MG_COMPRIME_PELLICULE_SECABLE_ET_LO_872E932DD630",
+  "local_id": "SLUG_LOSARTAN_SANDOZ_50_MG_ET_100_MG_COMPRIME_PELLICULE_SECABLE_ET_LO_872E932DD630",
+  "lots": [],
+  "manufacturer": "Laboratoire Sandoz (MED 21/A031/B026)",
+  "medicine": "Losartan Sandoz 50 mg et 100 mg, comprimé pelliculé sécable et Losartan/Hydrochlorothiazide Sandoz 50 mg/12,5 mg et 100 mg/25 mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-10-28",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Losartan Sandoz 50 mg et 100 mg, comprimé pelliculé sécable et Losartan/Hydrochlorothiazide Sandoz 50 mg/12,5 mg et 100 mg/25 mg, comprimé pelliculé – Laboratoire Sandoz (MED 21/A031/B026)"
+  },
+  "reason": "Le laboratoire SANDOZ procède, en accord avec l’ANSM et par mesure de précaution, au rappel de tous les lots non périmés sur le marché des spécialités mentionnées ci-dessous : LOSARTAN SANDOZ 50 mg, comprimé pelliculé sécable (bte 30) - CIP : 34009 388 764 75 HR9729 - oct-2021 JA5538 - févr-2022 JD2565 - févr-2022 JC1886 - avr-2022 JK0467 - juil-2022 KA7270 - mai-2023 KE8201 - sept-2023 KE8202 - sept-2023 KJ9852 - oct-2023 KN2296 - oct-2023 KS4546 - févr-2024 KU9696 - févr-2024 KU9383 - mars-2024 KY1957 - août-2024 KY1958 - août-2024 LOSARTAN SANDOZ 50 mg, comprimé pelliculé sécable (bte 90) - CIP : 34009 396 529 31 HW9474 - déc-2021 HX7797 - janv-2022 JD2554 - févr-2022 JD0972 - mai-2022 JK0505 - juil-2022 JK0507 - juil-2022 JY4023 - mars-2023 KA8874 - juin-2023 KD7310 - août-2023 KE8207 ",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/losartan-sandoz-50-mg-et-100-mg-comprime-pellicule-secable-et-losartan-hydrochlorothiazide-sandoz-50-mg-12-5-mg-et-100-mg-25-mg-comprime-pellicule-laboratoire-sandoz",
+  "warnings": [
+    "missing_cip",
+    "missing_lot"
+  ]
+}

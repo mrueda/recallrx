@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : Etablissements de santé.",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2022-06-30",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_ANGUSTA_25_MICROGRAMMES_COMPRIME_NORGINE_SAS_50187682C2A3",
+  "local_id": "SLUG_ANGUSTA_25_MICROGRAMMES_COMPRIME_NORGINE_SAS_50187682C2A3",
+  "lots": [
+    "B27185",
+    "B27489"
+  ],
+  "manufacturer": "Norgine SAS (MED22/B017)",
+  "medicine": "Angusta 25 microgrammes, comprimé",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400955049531"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2022-06-30",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Angusta 25 microgrammes, comprimé – Norgine SAS (MED22/B017)"
+  },
+  "reason": "Lot B27185 - 09/2023 Lot B27489 - 09/2023 Ce rappel fait suite à la mise en évidence d’une impureté inconnue lors des études de stabilité.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/angusta-25-microgrammes-comprime-norgine-sas",
+  "warnings": []
+}

@@ -595,6 +595,7 @@
       missing_registration_number: "Sin registro",
       missing_lot: "Sin lote",
       missing_manufacturer: "Sin laboratorio",
+      source_detail_fallback: "Resumen oficial",
     };
     return labels[warning] || warning.replace(/_/g, " ");
   }
@@ -606,6 +607,7 @@
       missing_registration_number: "No se encontró número de registro/AIM en la fuente portuguesa. El registro sigue indexado; verifica la fuente oficial para identificación por código.",
       missing_lot: "No se pudo extraer un lote estructurado. El aviso puede seguir siendo válido; revisa la fuente oficial antes de actuar.",
       missing_manufacturer: "No se pudo extraer el laboratorio o titular. Revisa la fuente oficial para confirmar el responsable.",
+      source_detail_fallback: "La página de detalle no respondió durante la exportación. El registro se extrajo del resultado oficial de búsqueda de INFARMED y debe confirmarse en la fuente.",
     };
     return explanations[warning] || `Aviso del parser: ${warning}. Revisa la fuente oficial.`;
   }

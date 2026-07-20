@@ -1,0 +1,35 @@
+{
+  "actions": "Face ao exposto: As entidades que possuam este lote de medicamento em stock não o podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a este lote não devem interromper o tratamento. Tratando-se de um medicamento não sujeito a receita médica de venda exclusiva em farmácia, logo que possível, devem contactar o farmacêutico para indicação de um medicamento alternativ...\" 20/05/2020 recolha voluntária aristo pharma ibéria s.l. lisaspin",
+  "authority": "INFARMED",
+  "confidence": 0.72,
+  "country": "PT",
+  "date": "2020-05-20",
+  "expiry_dates": [],
+  "id": "PT_INFARMED_ASSET_3691118",
+  "local_id": "ASSET_3691118",
+  "lots": [
+    "17204"
+  ],
+  "manufacturer": "Aristo Pharma Ibéria S.L. – Sucursal em Portugal",
+  "medicine": "Recolha voluntária de lote do medicamento Lisaspin 1000, pó para solução oral",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "AIM",
+      "value": "9500421"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2020-05-20",
+  "raw": {
+    "asset_id": "3691118",
+    "source": "pt_infarmed_search_result",
+    "title": "Recolha voluntária de lote do medicamento Lisaspin 1000, pó para solução oral"
+  },
+  "reason": "\"A empresa Aristo Pharma Ibéria S.L. – Sucursal em Portugal irá proceder à recolha voluntária do lote n.º 17204, com a validade 07/2020, do medicamento Lisaspin 1000 (acetilsalicilato de lisina - 1800 mg/saqueta – correspondentes a 1000 mg de ácido acetilsalicílico), pó para solução oral, embalagem de 20 saquetas, com o número de registo 9500421, por terem sido detetados resultados fora das especificações no doseamento da substância ativa nos ensaios de estabilidade . Assim, o Infarmed determina a suspensão imediata da comercialização deste lote. Face ao exposto: As entidades que possuam este lote de medicamento em stock não o podem vender, dispensar ou administrar, devendo proceder à sua devolução; Os doentes que estejam a utilizar medicamentos pertencentes a este lote não devem interromper o tratamento. Tratando-se de um medicamento não sujeito a receita médica de venda exclusiva em farmácia, logo que possível, devem contactar o farmacêutico para indicação de um medicamento alternativ...\"",
+  "recall_class": null,
+  "source_url": "https://www.infarmed.pt/web/infarmed/alertas-de-seguranca?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=3691118&_101_type=content&_101_urlTitle=recolha-voluntaria-de-lote-do-medicamento-lisaspin-1000-po-para-solucao-oral&inheritRedirect=false",
+  "warnings": [
+    "source_detail_fallback"
+  ]
+}

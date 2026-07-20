@@ -1,0 +1,34 @@
+{
+  "actions": "Niveau de rappel : Etablissements de santé et circuit de distribution pharmaceutique Pour toute information complémentaire, vous pouvez contacter",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2025-12-02",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_KETAMINE_PANPHARMA_10_MG_ML_SOLUTION_INJECTABLE_I_V_I_M_LABORATO_D20C058A5A1F",
+  "local_id": "SLUG_KETAMINE_PANPHARMA_10_MG_ML_SOLUTION_INJECTABLE_I_V_I_M_LABORATO_D20C058A5A1F",
+  "lots": [
+    "destin",
+    "mentionn",
+    "40708"
+  ],
+  "manufacturer": "Laboratoire Panpharma (MED 25/B023)",
+  "medicine": "Ketamine Panpharma 10 mg/mL, solution injectable (I.V-I.M)",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400958397998"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-12-02",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Ketamine Panpharma 10 mg/mL, solution injectable (I.V-I.M) – Laboratoire Panpharma (MED 25/B023)"
+  },
+  "reason": "Ketamine Panpharma 10 mg/mL, solution injectable (I.V-I.M) – Laboratoire Panpharma (MED 25/B023) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 02/12/2025 A+ A- Rappel de lot destiné aux établissements de santé et circuit de distribution pharmaceutique Le laboratoire Panpharma procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité pharmaceutique : Ketamine Panpharma 10 mg/mL, solution injectable (I.V-I.M) – boite de 5 ampoules de 5 mL (CIP 34009 583 979 98) Lot 40708 (Exp 12/2027) Ce rappel fait suite à la mise en évidence d’une possible perte d’intégrité de certaines ampoules en verre.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/ketamine-panpharma-10-mg-ml-solution-injectable-i-v-i-m-laboratoire-panpharma-1",
+  "warnings": []
+}

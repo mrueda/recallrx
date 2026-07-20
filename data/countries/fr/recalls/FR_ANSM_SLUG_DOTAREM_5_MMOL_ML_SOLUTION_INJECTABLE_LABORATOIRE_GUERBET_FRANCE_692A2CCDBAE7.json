@@ -1,0 +1,32 @@
+{
+  "actions": "Niveau de rappel : établissements de santé, pharmacies d’officine et circuit de distribution pharmaceutique.",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2021-11-24",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_DOTAREM_5_MMOL_ML_SOLUTION_INJECTABLE_LABORATOIRE_GUERBET_FRANCE_692A2CCDBAE7",
+  "local_id": "SLUG_DOTAREM_5_MMOL_ML_SOLUTION_INJECTABLE_LABORATOIRE_GUERBET_FRANCE_692A2CCDBAE7",
+  "lots": [
+    "20GD087A01",
+    "20GD087A04",
+    "20GD087B03"
+  ],
+  "manufacturer": null,
+  "medicine": "Dotarem 5 mmol/ml, solution injectable - Laboratoire Guerbet France (MED21/A046/B033)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2021-11-24",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Dotarem 5 mmol/ml, solution injectable - Laboratoire Guerbet France (MED21/A046/B033)"
+  },
+  "reason": "Lot 20GD087A01 – EXP 09/2023 Lot 20GD087A04 – EXP 09/2023 Lot 20GD087B03 – EXP 09/2023 Ce rappel fait suite à la détection de quelques flacons défectueux, ce qui pourrait remettre en cause la stérilité de ces flacons.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/dotarem-5-mmol-ml-solution-injectable-laboratoire-guerbet-france",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

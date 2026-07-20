@@ -1,0 +1,34 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des officines et des établissements de santé",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2025-06-04",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_QUVIVIQ_50_MG_DARIDOREXANT_FILMTABLETTEN_LABORATOIRE_IDORSIA_PHA_AD56CCF4B4F1",
+  "local_id": "SLUG_QUVIVIQ_50_MG_DARIDOREXANT_FILMTABLETTEN_LABORATOIRE_IDORSIA_PHA_AD56CCF4B4F1",
+  "lots": [
+    "mentionn",
+    "LY9096",
+    "destin"
+  ],
+  "manufacturer": "Laboratoire Idorsia Pharmaceuticals",
+  "medicine": "Quviviq 50 mg (Daridorexant), Filmtabletten",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400930250426"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2025-06-04",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Quviviq 50 mg (Daridorexant), Filmtabletten – Laboratoire Idorsia Pharmaceuticals"
+  },
+  "reason": "Quviviq 50 mg (Daridorexant), Filmtabletten – Laboratoire Idorsia Pharmaceuticals RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 04/06/2025 A+ A- Niveau de rappel : en direct auprès des officines et des établissements de santé Le Laboratoire Idorsia Pharmaceuticals France SAS procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Quviviq 50 mg Filmtabletten (Daridorexant) – 30 Filmtabletten Lot LY9096 – péremption 08/2028 Ce rappel fait suite à la détection sur le marché français de boîtes d’un lot destiné au marché allemand.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/quviviq-50-mg-daridorexant-filmtabletten-laboratoire-idorsia-pharmaceuticals",
+  "warnings": []
+}

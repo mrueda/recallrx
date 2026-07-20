@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : officines, circuit de distribution pharmaceutique Les Laboratoires Grünenthal, procèdent, en accord avec l'ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Inexium 10 mg, granulés gastro-résistants pour suspension buvable en sachet, boite de 28 (CIP 3400938673081) Lot n° BAXC. Date de péremption : 08/2025 Ce rappel fait suite à la mise en évidence d'une quantité moindre en excipients dans les sachets. La quantité de substance active dans le sachet est conforme. Ce défaut qualité, bien que pouvant modifier l'aspect des granulés, ne remet pas en cause l'efficacité et la tolérance du produit. Seul le lot BAXC est concerné par ce rappel. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers th",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2023-01-27",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_INEXIUM_10_MG_GRANULES_GASTRO_RESISTANTS_POUR_SUSPENSION_BUVABLE_17D49509FFF6",
+  "local_id": "SLUG_INEXIUM_10_MG_GRANULES_GASTRO_RESISTANTS_POUR_SUSPENSION_BUVABLE_17D49509FFF6",
+  "lots": [
+    "mentionn",
+    "BAXC"
+  ],
+  "manufacturer": "Laboratoires Grünenthal (MED23/A007)",
+  "medicine": "Inexium 10 mg, granulés gastro-résistants pour suspension buvable en sachet",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400938673081"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2023-01-27",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Inexium 10 mg, granulés gastro-résistants pour suspension buvable en sachet – Laboratoires Grünenthal (MED23/A007)"
+  },
+  "reason": "Date de péremption : 08/2025 Ce rappel fait suite à la mise en évidence d'une quantité moindre en excipients dans les sachets.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/inexium-10-mg-granules-gastro-resistants-pour-suspension-buvable-en-sachet-laboratoires-grunenthal",
+  "warnings": []
+}

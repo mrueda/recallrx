@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique. Pour toute question merci de contacter le Service Client Biogaran au 0811 907 917. Qui sommes-nous ? Actualités Disponibilités des produits de santé Documents de référence Informations de sécurité Dossiers thématiques Lancer une alerte Déclarer un effet indésirable Vos démarches - Industriel - Organisme notifié - Professionnel de santé - Patient - Chercheur Data ANSM Répertoire des essais cliniques de médicaments Répertoire des médicaments Base de données publique des médicaments Archives ANSM Glossaire Restez informés - S'inscrire à la veille personnalisée - Recevoir notre newsletter - Consulter nos newsle t ters - S'inscrire à nos flux RSS Contactez-nous Contact presse Rejoignez -nous Notre agenda Bulletin officiel d",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2020-12-21",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_DESLORATADINE_BIOGARAN_0_5_MG_ML_SOLUTION_BUVABLE_FLACON_DE_150_929B6EB290A5",
+  "local_id": "SLUG_DESLORATADINE_BIOGARAN_0_5_MG_ML_SOLUTION_BUVABLE_FLACON_DE_150_929B6EB290A5",
+  "lots": [
+    "mentionn"
+  ],
+  "manufacturer": null,
+  "medicine": "Desloratadine Biogaran 0,5 mg/ml solution buvable flacon de 150 ml, laboratoire Biogaran (MED20/A030)",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2020-12-21",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Desloratadine Biogaran 0,5 mg/ml solution buvable flacon de 150 ml, laboratoire Biogaran (MED20/A030)"
+  },
+  "reason": "CIP : 3400941963940 Lot 5, péremption 06/2023 Ce rappel fait suite à la mise en évidence sur un nombre restreint d’unités d’une erreur d’étiquette sur le flacon contenant une solution placebo (solution sans principe actif).",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/desloratadine-biogaran-0-5-mg-ml-solution-buvable-flacon-de-150-ml-laboratoire-biogaran-rappel-de-lot",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}
