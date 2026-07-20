@@ -29,6 +29,7 @@
   "recall_class": "1",
   "source_url": "https://www.aemps.gob.es/informa/solucion-cardioplejica-varias-presentaciones/",
   "warnings": [
-    "missing_cn"
+    "missing_cn",
+    "pdf_fallback_checked"
   ]
 }

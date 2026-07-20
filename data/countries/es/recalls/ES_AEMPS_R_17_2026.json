@@ -28,6 +28,7 @@
   "recall_class": "2",
   "source_url": "https://www.aemps.gob.es/informa/allergovit-123-parietaria-100-suspension-inyectable-en-su-formato-de-mantenimiento-de-2-viales-concentracion-b-10-000-ut-ml/",
   "warnings": [
-    "missing_cn"
+    "missing_cn",
+    "pdf_fallback_checked"
   ]
 }

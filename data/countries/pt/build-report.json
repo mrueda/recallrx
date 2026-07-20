@@ -1,14 +1,19 @@
 {
   "reports": [
     {
-      "accepted": 27,
-      "candidates": 37,
+      "accepted": 25,
+      "candidates": 36,
       "country": "pt",
       "discovery": "recent_alerts",
       "fallback_records": 0,
       "mode": "incremental",
       "pages": 7,
       "rejected": [
+        {
+          "reason": "not_human_medicine_recall",
+          "title": "Recolha voluntária de lote | Oxaliplatina Generis, 5 mg/ml, concentrado para solução para perfusão",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13281501"
+        },
         {
           "reason": "not_human_medicine_recall",
           "title": "Suspensão imediata da comercialização e retirada do mercado nacional | Perfect Skin. 50 FPS - Protetor Solar",
