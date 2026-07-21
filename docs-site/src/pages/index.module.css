@@ -102,11 +102,9 @@
 }
 
 .logo {
-  width: 62px;
-  height: 62px;
-  padding: 0.35rem;
-  border-radius: 8px;
-  background: rgba(255, 255, 255, 0.94);
+  width: 64px;
+  height: 64px;
+  border-radius: 12px;
   filter: drop-shadow(0 12px 22px rgba(0, 0, 0, 0.24));
 }
 

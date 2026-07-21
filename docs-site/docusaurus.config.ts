@@ -9,6 +9,7 @@ const config: Config = {
   tagline: 'Static, country-extensible medicine recall search',
   url: 'https://mrueda.github.io',
   baseUrl: '/recallrx/',
+  favicon: 'img/recallrx-logo.svg',
   organizationName: 'mrueda',
   projectName: 'recallrx',
   onBrokenLinks: 'warn',
@@ -51,7 +52,7 @@ const config: Config = {
       ]
     : [],
   themeConfig: {
-    image: 'img/recallrx-social.svg',
+    image: 'img/recallrx-social.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },

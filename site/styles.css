@@ -45,6 +45,20 @@ h1 {
   font-weight: 700;
 }
 
+.brand-block {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.brand-logo {
+  flex: 0 0 auto;
+  width: 58px;
+  height: 58px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+}
+
 .brand-subtitle,
 .dataset-status {
   margin: 4px 0 0;
