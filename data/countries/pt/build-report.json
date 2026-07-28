@@ -1,13 +1,13 @@
 {
   "reports": [
     {
-      "accepted": 25,
-      "candidates": 36,
+      "accepted": 20,
+      "candidates": 30,
       "country": "pt",
       "discovery": "recent_alerts",
       "fallback_records": 0,
       "mode": "incremental",
-      "pages": 7,
+      "pages": 6,
       "rejected": [
         {
           "reason": "not_human_medicine_recall",
@@ -58,11 +58,6 @@
           "reason": "not_human_medicine_recall",
           "title": "Suspensão e recolha voluntária do lote de seringas Cardio Natur (Jiangsu Kanghua Medical Equipment Co., Ltd.)",
           "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11842146"
-        },
-        {
-          "reason": "not_human_medicine_recall",
-          "title": "Recolha de lotes do sistema de peróxido a 3% para a desinfeção de lentes de contacto (DISOP, S.A.)",
-          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11546421"
         }
       ],
       "semantic_retries": 0,

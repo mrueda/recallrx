@@ -1,6 +1,29 @@
 [
   {
     "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-07-27",
+    "id": "FR_ANSM_SLUG_DULOXETINE_ZYDUS_30_MG_GELULE_GASTRO_RESISTANTE_LABORATOIRE_ZYDU_DE2946172D34",
+    "local_id": "SLUG_DULOXETINE_ZYDUS_30_MG_GELULE_GASTRO_RESISTANTE_LABORATOIRE_ZYDU_DE2946172D34",
+    "lots": [
+      "M405432",
+      "M409124"
+    ],
+    "manufacturer": "Laboratoire Zydus France (MED26/A016)",
+    "medicine": "Duloxétine Zydus 30 mg, gélule gastro-résistante",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-07-27",
+    "reason": "06/2027) Ce rappel fait suite à l'observation, lors des études de stabilité du produit fini, de la présence d'une impureté à un taux supérieur à la limite acceptable.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/duloxetine-zydus-30-mg-gelule-gastro-resistante-laboratoire-zydus-france",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
     "confidence": 0.9,
     "country": "FR",
     "date": "2026-07-10",
