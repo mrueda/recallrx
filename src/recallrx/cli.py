@@ -6,6 +6,7 @@ import sys
 from pathlib import Path
 
 from recallrx.build import build_dataset
+from recallrx.report import render_build_summary
 from recallrx.validate import validate_dataset
 
 
@@ -32,6 +33,9 @@ def main(argv: list[str] | None = None) -> None:
     dist_parser.add_argument("--data", type=Path, default=Path("data"))
     dist_parser.add_argument("--output", type=Path, default=Path("dist"))
 
+    summary_parser = subparsers.add_parser("summary", help="Render a Markdown collection summary")
+    summary_parser.add_argument("root", type=Path)
+
     args = parser.parse_args(argv)
     if args.command == "build":
         metadata = build_dataset(args.output, sources=args.sources, config_path=args.config, mode=args.mode)
@@ -46,6 +50,8 @@ def main(argv: list[str] | None = None) -> None:
     elif args.command == "dist":
         build_dist(args.site, args.data, args.output)
         print(f"Built {args.output}")
+    elif args.command == "summary":
+        print(render_build_summary(args.root))
 
 
 def build_dist(site: Path, data: Path, output: Path) -> None:

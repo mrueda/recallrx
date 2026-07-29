@@ -22,7 +22,8 @@ country datasets.
 - Source links: direct links back to the official page and PDF when available.
 - Warnings: extraction notes that mean a human should verify the source record.
 - Class and parser badges: hover or focus them to see short explanations.
-- Export date: the latest daily static export for the selected country.
+- Export status and date: the latest daily static export for the selected
+  country, with a visible warning when it is delayed or stale.
 
 ## Date Browsing
 
@@ -31,6 +32,11 @@ The app searches the indexed dataset only, so a missing result means no matching
 record was found in the current RecallRx data.
 
 ## Color and Badge Cues
+
+The header freshness indicator is teal when the latest export is less than 48
+hours old, amber from 48 through 72 hours, and red after 72 hours or when the
+timestamp is unavailable. Its hover text includes the exact export time and
+selected authority.
 
 The left card accent shows recall class only when the source publishes one:
 

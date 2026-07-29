@@ -168,7 +168,9 @@ Daily GitHub Pages deployments collect recent entries, merge them into retained
 history, validate the result, and publish the static app. Substantive record
 changes are committed by the workflow so entries remain available after they
 leave an authority's recent feed. A manual workflow run can select either
-collection mode.
+collection mode. The app marks exports as delayed after 48 hours and stale
+after 72 hours, while the workflow summary reports collection and retention
+counts for each country.
 
 ## Development
 

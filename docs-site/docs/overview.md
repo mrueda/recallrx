@@ -23,8 +23,9 @@ changing how users search.
 - Use the hover text on badges and chips to understand class, match, and parser
   status.
 - Treat extraction warnings as a prompt to verify the original record.
-- Read "Exportación diaria" as the timestamp of the latest generated static
-  export for the selected country.
+- Use the freshness indicator beside the export timestamp: teal means the
+  selected country was exported less than 48 hours ago, amber means 48 to 72
+  hours, and red means more than 72 hours or an unavailable timestamp.
 
 RecallRx is an index. It does not replace advice from health authorities,
 clinicians, pharmacists, or official product notices.

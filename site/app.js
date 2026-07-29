@@ -7,6 +7,7 @@
     search: null,
     metadata: null,
     authority: "AEMPS",
+    generatedAt: null,
   };
 
   const els = {
@@ -24,6 +25,8 @@
     exactOnly: document.getElementById("exactOnly"),
     showWarnings: document.getElementById("showWarnings"),
     count: document.getElementById("resultCount"),
+    freshness: document.getElementById("freshnessStatus"),
+    freshnessLabel: document.getElementById("freshnessLabel"),
     headerLastUpdate: document.getElementById("headerLastUpdate"),
     lastUpdate: document.getElementById("lastUpdate"),
     authority: document.getElementById("sourceAuthority"),
@@ -42,6 +45,7 @@
     } catch (error) {
       showError("No se pudieron cargar los datos estáticos.");
       els.status.textContent = "Datos no disponibles";
+      updateFreshness(null, state.authority);
     }
   }
 
@@ -145,12 +149,14 @@
     state.records = records;
     state.search = createSearch(records);
     state.authority = countryMetadata.authority || countryMetadata.name || country.toUpperCase();
+    state.generatedAt = countryMetadata.generated_at || null;
     renderFacets(records);
     renderYearFilters(records);
-    els.headerLastUpdate.textContent = formatDateTime(countryMetadata.generated_at);
-    els.lastUpdate.textContent = formatDateTime(countryMetadata.generated_at);
+    els.headerLastUpdate.textContent = formatDateTime(state.generatedAt);
+    els.lastUpdate.textContent = formatDateTime(state.generatedAt);
     els.authority.textContent = state.authority;
     els.status.textContent = `${records.length} retiradas indexadas`;
+    updateFreshness(state.generatedAt, state.authority);
     updateCountryButtons();
     render();
   }
@@ -650,7 +656,43 @@
     if (!value) {
       return "-";
     }
-    return new Intl.DateTimeFormat("es-ES", { dateStyle: "medium", timeStyle: "short" }).format(new Date(value));
+    const date = new Date(value);
+    if (Number.isNaN(date.getTime())) {
+      return "-";
+    }
+    return new Intl.DateTimeFormat("es-ES", { dateStyle: "medium", timeStyle: "short" }).format(date);
+  }
+
+  function updateFreshness(generatedAt, authority) {
+    const freshness = window.RecallRxFreshness.classifyFreshness(generatedAt);
+    const copy = freshness.ageHours === null
+      ? {
+          label: "Datos no actualizados",
+          message: "No se pudo determinar la fecha de la última exportación.",
+        }
+      : {
+          current: {
+            label: "Actualizado",
+            message: "La exportación diaria está al día.",
+          },
+          delayed: {
+            label: "Actualización retrasada",
+            message: "La última exportación tiene entre 48 y 72 horas.",
+          },
+          stale: {
+            label: "Datos desactualizados",
+            message: "La última exportación tiene más de 72 horas.",
+          },
+        }[freshness.state];
+    const exportedAt = formatDateTime(generatedAt);
+    const details = `${copy.message} Última exportación: ${exportedAt}. Fuente: ${authority || "-"}.`;
+
+    els.freshness.classList.remove("freshness--current", "freshness--delayed", "freshness--stale");
+    els.freshness.classList.add(`freshness--${freshness.state}`);
+    els.freshness.dataset.state = freshness.state;
+    els.freshnessLabel.textContent = copy.label;
+    els.freshness.title = details;
+    els.freshness.setAttribute("aria-label", details);
   }
 
   async function fetchJson(url) {

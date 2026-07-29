@@ -55,6 +55,15 @@ jobs:
       - name: Validate recall data
         run: python -m recallrx validate data
 
+      - name: Write collection summary
+        run: python -m recallrx summary data >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Test freshness indicator
+        run: |
+          node --check site/app.js
+          node --check site/freshness.js
+          node tests/test_freshness.js
+
       - name: Detect substantive data changes
         id: data_changes
         shell: bash

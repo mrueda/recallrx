@@ -26,6 +26,16 @@ python3 -m recallrx validate data
 Validation checks required fields, country-scoped ids, detail records, summary
 records, indexes, and that PDFs were not committed.
 
+## Summarize collection
+
+```bash
+python3 -m recallrx summary data
+```
+
+This renders the Markdown table used in the GitHub Actions job summary,
+including collected, accepted, rejected, warning, retained, and net counts by
+country.
+
 ## Build static app
 
 ```bash

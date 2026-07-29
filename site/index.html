@@ -22,8 +22,8 @@
           <a class="nav-link" href="https://mrueda.github.io/recallrx/docs/overview" title="Abrir la documentación de RecallRx">Docs</a>
         </nav>
         <div class="topbar-actions">
-          <div class="freshness" aria-label="Exportación diaria de datos" title="RecallRx genera y publica una exportación estática diaria por país">
-            <span>Exportación diaria</span>
+          <div id="freshnessStatus" class="freshness" aria-label="Exportación diaria de datos" aria-live="polite" title="RecallRx genera y publica una exportación estática diaria por país">
+            <span id="freshnessLabel">Exportación diaria</span>
             <strong id="headerLastUpdate">-</strong>
           </div>
           <div class="country-picker" aria-label="Cambiar país" title="Cambiar entre países con datos activos">
@@ -124,6 +124,7 @@
     </template>
 
     <script src="vendor/minisearch.js"></script>
+    <script src="freshness.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

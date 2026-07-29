@@ -19,6 +19,14 @@ retains records after they leave an authority's recent listing. A daily run with
 no substantive record changes still publishes a current export timestamp but
 does not create a data commit.
 
+Each run writes a Markdown job summary with collected, accepted, rejected,
+warning, retained, and net record counts for every updated country. Generate
+the same summary locally with:
+
+```bash
+python -m recallrx summary data
+```
+
 ## Historical backfill
 
 Historical collection is an explicit operator action, not a daily task:
@@ -44,7 +52,9 @@ results, parse HTML, and fall back to PDFs when needed.
 The live app is embedded into the Docusaurus site at `/app/`. The docs build
 runs `python -m recallrx dist --output docs-site/static/app`, then builds the
 site. The timestamp shown as "Exportación diaria" comes from the generated
-country metadata.
+country metadata. The app marks exports as delayed after 48 hours and stale
+after 72 hours, so a failed update remains visible while the previous static
+dataset stays available.
 
 ## Manual checks
 

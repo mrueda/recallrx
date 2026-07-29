@@ -9,6 +9,7 @@ def test_dist_copies_site_and_data(tmp_path):
     build_dist(Path("site"), Path("data"), output)
 
     assert (output / "index.html").exists()
+    assert (output / "freshness.js").exists()
     assert (output / "recallrx-logo.svg").exists()
     assert (output / "data" / "metadata.json").exists()
 

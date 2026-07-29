@@ -43,7 +43,12 @@ jobs:
         run: python -m recallrx validate data
 
       - name: Check frontend JavaScript
-        run: node --check site/app.js
+        run: |
+          node --check site/app.js
+          node --check site/freshness.js
+
+      - name: Test frontend freshness logic
+        run: node tests/test_freshness.js
 
       - name: Build static app
         run: python -m recallrx dist
