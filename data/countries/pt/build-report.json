@@ -1,8 +1,8 @@
 {
   "reports": [
     {
-      "accepted": 20,
-      "candidates": 30,
+      "accepted": 19,
+      "candidates": 29,
       "country": "pt",
       "discovery": "recent_alerts",
       "fallback_records": 0,

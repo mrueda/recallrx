@@ -3,6 +3,29 @@
     "authority": "ANSM",
     "confidence": 0.78,
     "country": "FR",
+    "date": "2026-07-29",
+    "id": "FR_ANSM_SLUG_MOVICOL_POUDRE_POUR_SOLUTION_BUVABLE_EN_SACHET_LABORATOIRE_NORGI_28A1A26A789D",
+    "local_id": "SLUG_MOVICOL_POUDRE_POUR_SOLUTION_BUVABLE_EN_SACHET_LABORATOIRE_NORGI_28A1A26A789D",
+    "lots": [
+      "454702",
+      "472732"
+    ],
+    "manufacturer": "Laboratoire Norgine SAS (MED26/A017/B016)",
+    "medicine": "Movicol, poudre pour solution buvable en sachet",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-07-29",
+    "reason": "Movicol, poudre pour solution buvable en sachet – Laboratoire Norgine SAS (MED26/A017/B016) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 29/07/2026 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Norgine SAS procède, en accord avec l’ANSM, au rappel des 2 lots mentionnés ci-dessous de la spécialité Movicol, poudre pour solution buvable en sachet (CIP : 34009 340 010 2 4) : Lot 454702 – 09/2027 Lot 472732 – 07/2028 Ce rappel fait suite à la mise en évidence de certains sachets ne contenant pas d'électrolytes.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/movicol-poudre-pour-solution-buvable-en-sachet-laboratoire-norgine-sas",
+    "warnings": [
+      "missing_cip"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
     "date": "2026-07-27",
     "id": "FR_ANSM_SLUG_DULOXETINE_ZYDUS_30_MG_GELULE_GASTRO_RESISTANTE_LABORATOIRE_ZYDU_DE2946172D34",
     "local_id": "SLUG_DULOXETINE_ZYDUS_30_MG_GELULE_GASTRO_RESISTANTE_LABORATOIRE_ZYDU_DE2946172D34",
