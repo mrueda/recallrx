@@ -3,6 +3,36 @@
     "authority": "ANSM",
     "confidence": 0.78,
     "country": "FR",
+    "date": "2026-08-04",
+    "id": "FR_ANSM_SLUG_POMALIDOMIDE_STRAGEN_1_MG_2_MG_3_MG_4_MG_GELULE_STRAGEN_FRANCE_70850F1F0E20",
+    "local_id": "SLUG_POMALIDOMIDE_STRAGEN_1_MG_2_MG_3_MG_4_MG_GELULE_STRAGEN_FRANCE_70850F1F0E20",
+    "lots": [
+      "PMLAC01A",
+      "PMLAB01A",
+      "PMLBC01A",
+      "PMLBB01A",
+      "PMLCC01A",
+      "PMLCB01A",
+      "PMLDC01A",
+      "PMLDB01A"
+    ],
+    "manufacturer": null,
+    "medicine": "Pomalidomide Stragen 1 mg, 2 mg, 3 mg, 4 mg, gélule - Stragen France",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-08-04",
+    "reason": "Ce rappel fait suite à la mise en évidence de deux défauts : Présence de poudre hors des gélules dans un très faible nombre d’alvéoles Absence des mentions permettant d’identifier le produit (nom, dosage, date de péremption) sur l’aluminium d’un emplacement du blister prédécoupé.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/pomalidomide-stragen-1-mg-2-mg-3-mg-4-mg-gelule-stragen-france",
+    "warnings": [
+      "missing_cip",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
     "date": "2026-07-29",
     "id": "FR_ANSM_SLUG_MOVICOL_POUDRE_POUR_SOLUTION_BUVABLE_EN_SACHET_LABORATOIRE_NORGI_28A1A26A789D",
     "local_id": "SLUG_MOVICOL_POUDRE_POUR_SOLUTION_BUVABLE_EN_SACHET_LABORATOIRE_NORGI_28A1A26A789D",
