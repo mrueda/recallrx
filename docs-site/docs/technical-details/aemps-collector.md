@@ -1,32 +1,36 @@
-# AEMPS Collector
+# Spain (AEMPS) Collector
 
-The Spain adapter discovers candidate posts through the public AEMPS search
-endpoint:
+The Spain collector first asks the public AEMPS search service for pages that
+might be medicine recalls. These possible matches are called candidates. It
+then opens each candidate and rejects pages that are not relevant.
+
+The search endpoint is:
 
 ```text
 https://www.aemps.gob.es/wp-json/aemps-search/v1/search
 ```
 
-It uses broad query variants such as `Nº alerta`, `Retirada medicamento lote`,
-and `defecto calidad medicamento`, plus year-qualified query variants. The
-collector pages through results with `page=N`, removes obvious non-human
-medicine candidates, and filters again after parsing the detail page.
+## Finding Candidates
 
-## Filtering
+The collector uses several Spanish search phrases, including `Nº alerta`,
+`Retirada medicamento lote`, and `defecto calidad medicamento`. Full builds add
+the year to these searches and move through every result page with `page=N`.
 
-The MVP accepts human-medicine recall ids like:
+Search results can include unrelated material. The collector removes obvious
+veterinary, cosmetic, product-safety, and general news pages before and after
+reading the detail page.
+
+An accepted human-medicine alert normally has an identifier such as:
 
 ```text
 R_21/2026
 ```
 
-It rejects veterinary alerts such as `VDC`, cosmetics, product-safety notices,
-and general AEMPS news posts.
+Veterinary identifiers such as `VDC` are rejected.
 
-## Parsing strategy
+## Reading a Notice
 
-The parser uses AEMPS HTML as the primary source because current recall detail
-pages expose labels such as:
+AEMPS detail pages normally provide labeled fields such as:
 
 - `Nº alerta`
 - `Fecha`
@@ -37,10 +41,13 @@ pages expose labels such as:
 - `Clasificación de los defectos`
 - `Descripción del defecto`
 
-When HTML misses required fields, the adapter may download the linked PDF to
-temporary storage and inspect it with `pdfplumber`. PDFs are not committed.
+HTML is the first choice because it is faster to download and easier to parse.
+If required fields are missing and AEMPS links a PDF, the collector can inspect
+that PDF with `pdfplumber`. The PDF is stored only in temporary space and is not
+committed to the repository.
 
-## Known risks
+## Maintenance Risk
 
-AEMPS page templates and labels can change. Keep parser fixtures compact and
-add new label variants only when real pages require them.
+AEMPS can change page templates, labels, and search behavior. When a real page
+introduces a new format, add a small fixture that reproduces it and update the
+adapter test before broadening the parser.

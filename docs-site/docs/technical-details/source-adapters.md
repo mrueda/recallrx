@@ -1,54 +1,51 @@
-# Source Adapters
+# Country Collectors
 
-Source adapters isolate country-specific discovery and parsing from the shared
-dataset writer.
+A source adapter is the Python code that collects and reads notices from one
+medicines authority. Keeping authority-specific code in separate adapters lets
+RecallRx add countries without changing the shared data writer or search app.
 
-Active adapters are:
+The active adapters are:
 
-- `es_aemps`
-- `pt_infarmed`
-- `fr_ansm`
+| Adapter | Country | Authority |
+| --- | --- | --- |
+| `es_aemps` | Spain | AEMPS |
+| `pt_infarmed` | Portugal | INFARMED |
+| `fr_ansm` | France | ANSM |
 
-## Adapter contract
+## Shared Contract
 
-An adapter provides:
+Every adapter declares its `country` and `authority` and provides a `build()`
+method. That method returns RecallRx records plus a report describing accepted,
+rejected, and incomplete results.
 
-- `country`
-- `authority`
-- `build()`
+An adapter can organize its work as needed, but most follow four steps:
+discovery, download, parsing, and conversion to the shared record format.
 
-The `build()` method returns normalized recall records and a build report.
-Internally, adapters may split this into discovery, fetch, parse, and normalize
-steps.
+All active adapters support the shared collection mode and
+`backfill_start_year` setting.
 
-Every active adapter accepts the shared collection mode and
-`backfill_start_year`. Incremental discovery is deliberately bounded to recent
-or current-year records. Full discovery uses authority-specific historical
-searches:
+## How Discovery Differs by Country
 
-- AEMPS: current-year or multi-year WordPress/API discovery.
-- INFARMED: recent Alertas pages or the human-medicine historical search, with
-  content/PDF result deduplication. If an older detail route fails, a lower-
-  confidence record is retained from the official search summary and marked
-  for review; year-organized archived circulars are the corroboration source.
-- ANSM: filtered medicine product-recall listings, queried by year.
+- AEMPS uses its public search service. Incremental mode searches the current
+  year; full mode searches the configured range of years.
+- INFARMED uses recent Alertas pages for daily updates and its historical
+  human-medicine search for full builds. Duplicate content and PDF results are
+  merged. If an older detail page fails, the official search summary can be
+  retained with a warning and lower confidence.
+- ANSM uses its medicine product-recall listings and filters them by year.
 
-## Adding a country
+These differences stay inside the adapters. The generated files use the same
+paths and fields for every country.
 
-To add a new source:
+## Add a Country
 
-1. Create a new adapter under `src/recallrx/adapters/`.
-2. Normalize records into the shared `RecallRecord` model.
-3. Add the adapter to the source registry.
-4. Add fixtures and tests for source-specific parsing.
-5. Add country metadata and UI labels only if the country should be enabled in
+1. Create an adapter under `src/recallrx/adapters/`.
+2. Convert its results to the shared `RecallRecord` model.
+3. Register the adapter in the source registry.
+4. Add small, representative source fixtures and parser tests.
+5. Add country metadata and user-interface text when the source is ready for
    the public app.
 
-The shared JSON paths are already country-aware:
-
-```text
-data/countries/es/
-data/countries/pt/
-data/countries/fr/
-data/countries/ad/
-```
+Do not enable a country based only on a successful one-off scrape. Confirm that
+the source supports repeatable discovery, stable links, historical coverage,
+and enough detail to identify affected medicines or lots.

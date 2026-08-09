@@ -6,7 +6,7 @@ const isProduction = process.env.NODE_ENV === 'production';
 
 const config: Config = {
   title: 'RecallRx Docs',
-  tagline: 'Static, country-extensible medicine recall search',
+  tagline: 'Search official medicine recall notices',
   url: 'https://mrueda.github.io',
   baseUrl: '/recallrx/',
   favicon: 'img/recallrx-logo.svg',
@@ -72,7 +72,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'docsSidebar',
           position: 'left',
-          label: 'Docs',
+          label: 'About RecallRx',
         },
         {
           to: '/docs/usage/quickstart',
@@ -101,7 +101,7 @@ const config: Config = {
               to: '/docs/usage/quickstart',
             },
             {
-              label: 'Safety Language',
+              label: 'Limits and Safety',
               to: '/docs/usage/safety-language',
             },
           ],
@@ -114,7 +114,7 @@ const config: Config = {
               to: '/docs/technical-details/architecture',
             },
             {
-              label: 'Source Adapters',
+              label: 'Country Collectors',
               to: '/docs/technical-details/source-adapters',
             },
             {

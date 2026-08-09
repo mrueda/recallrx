@@ -1,7 +1,7 @@
 # Use the App
 
-RecallRx is meant to start with the live search app. It is a static browser
-search over daily exported medicine recall data from official sources:
+Start with the live search. You do not need an account and there is nothing to
+install.
 
 <div className="button-row">
   <a className="button button--primary button--lg" href="https://mrueda.github.io/recallrx/app/">
@@ -9,47 +9,66 @@ search over daily exported medicine recall data from official sources:
   </a>
 </div>
 
-Use the search box to look for a medicine name, product code, lot, alert id, or
-date. Use the country flags at the top of the app to switch between active
-country datasets.
+## Search for a Notice
 
-## What to Check
+First choose a country using the buttons at the top of the app. Each country
+has its own medicines authority and its own set of notices.
 
-- Result title: medicine or recall title extracted from the official record.
-- Product codes, lots, and manufacturer: normalized fields when the source
-  provides them.
-- Alert id and date: official reference information used for filtering.
-- Source links: direct links back to the official page and PDF when available.
-- Warnings: extraction notes that mean a human should verify the source record.
-- Class and parser badges: hover or focus them to see short explanations.
-- Export status and date: the latest daily static export for the selected
-  country, with a visible warning when it is delayed or stale.
+You can search for:
 
-## Date Browsing
+- a medicine or product name;
+- a lot or batch number;
+- an alert or recall number;
+- a national product code, such as CN in Spain, AIM in Portugal, or CIP in
+  France; or
+- a year or date range.
 
-Use year chips for broad browsing and the date range fields for narrower review.
-The app searches the indexed dataset only, so a missing result means no matching
-record was found in the current RecallRx data.
+You can combine a search term with the year and date filters. Clear the filters
+when you want to return to all indexed notices for that country.
 
-## Color and Badge Cues
+## Read a Result
 
-The header freshness indicator is teal when the latest export is less than 48
-hours old, amber from 48 through 72 hours, and red after 72 hours or when the
-timestamp is unavailable. Its hover text includes the exact export time and
-selected authority.
+A result may include the medicine name, notice date, alert number, affected
+lots, product code, company, reason for the recall, and recall class. Authorities
+do not always publish every field, so some results contain less detail than
+others.
 
-The left card accent shows recall class only when the source publishes one:
+Use the source link on the result to open the original notice. A PDF link is
+also shown when the authority provides one. The original notice is the record
+to use when checking affected products or lots.
 
-- Red: class 1.
-- Amber: class 2.
-- Teal: class 3.
-- Grey: no normalized class was published by the source.
+## Understand Labels and Colors
 
-Compact labels such as `Completo`, `Revisar`, `Sin CIP`, or match labels have
-mouse-over and keyboard-focus explanations. These labels describe extraction
-quality and search behavior; they are not medical advice.
+Small labels summarize information in the result. Hover over a label with a
+mouse, or move keyboard focus to it, to read a short explanation.
 
-## Developer Setup
+- `Completo` means the expected details were found in the source.
+- `Revisar` means some details were missing or could not be read reliably.
+- `Sin CIP` means no French CIP product code was found in that notice.
 
-Developer commands, local builds, and GitHub Actions are documented under
-[For Developers](/docs/technical-details/architecture).
+When an authority publishes a recall class, the result uses a colored left
+edge: red for class 1, amber for class 2, and teal for class 3. The class number
+comes from the authority. RecallRx does not calculate it. A gray edge means no
+class was available in the indexed notice.
+
+## Check the Update Date
+
+The top of the app shows when data for the selected country was last updated:
+
+- `Actualizado`: updated less than 48 hours ago;
+- `Actualización retrasada`: between 48 and 72 hours old;
+- `Datos desactualizados`: more than 72 hours old; or
+- `Datos no actualizados`: no valid update date is available.
+
+Hover over the update status to see the exact time and authority. If the data
+is delayed or out of date, check the authority's website for newer notices.
+
+## If You Find No Match
+
+Try the medicine name without the strength or package size, check the spelling
+of the lot or product code, remove date filters, and confirm that the correct
+country is selected.
+
+No match means only that the current RecallRx data contains no matching indexed
+notice. See [Limits and Safety](./safety-language.md) before drawing a conclusion
+from an empty search.

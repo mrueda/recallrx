@@ -1,26 +1,39 @@
-# Safety Language
+# Limits and Safety
 
-RecallRx must not tell users that a medicine is safe.
+RecallRx helps you find published recall notices. It cannot tell you whether a
+medicine is safe for you, whether your package is affected, or what treatment
+decision you should make.
 
-The correct empty-result wording in the public app is:
+## If You Find a Matching Notice
 
-> No se encontró ninguna retirada coincidente en los registros indexados de la fuente seleccionada.
+Open the official source and compare the product name, strength, package,
+product code, and lot number carefully. A similar name alone does not show that
+your medicine is affected.
 
-This means only that the indexed dataset did not contain a matching recall. It
-does not mean the product is safe, unaffected, genuine, available, or suitable
-for use.
+Do not start, stop, or change a medicine based only on a RecallRx result. Ask a
+pharmacist or doctor if you need help interpreting a notice or deciding what to
+do.
 
-## Result pages
+## If You Find No Match
 
-Every result should make the source visible:
+An empty search means that RecallRx found no matching notice in the data it has
+indexed. It does not mean that the medicine:
 
-- Official authority source page link.
-- PDF link when available.
-- Latest daily export timestamp.
-- Search confidence or match type.
-- Parser warnings and extraction status when relevant.
+- is safe or suitable for use;
+- has never been recalled;
+- is unaffected in every country or lot; or
+- has been checked by RecallRx.
 
-## Documentation language
+Check that you selected the correct country and removed unnecessary date
+filters. Then consult the relevant medicines authority if you need a definitive
+answer.
 
-Use terms such as "indexed records", "official source", and "matching recall".
-Avoid terms such as "safe", "cleared", "not recalled", or "verified safe".
+## Why the Official Source Matters
+
+RecallRx copies useful details from public notices so they can be searched.
+Source pages can change, and some notices do not provide every detail in a
+consistent format. A result marked `Revisar`, or one with missing fields, needs
+particular care.
+
+Every result links to the official page and, when available, the original PDF.
+Those sources take precedence over the text shown in RecallRx.

@@ -5,7 +5,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'doc',
       id: 'overview',
-      label: 'Overview',
+      label: 'Start Here',
     },
     {
       type: 'category',
@@ -19,12 +19,12 @@ const sidebars: SidebarsConfig = {
         {
           type: 'doc',
           id: 'usage/safety-language',
-          label: 'Safety Language',
+          label: 'Limits and Safety',
         },
         {
           type: 'doc',
           id: 'usage/troubleshooting',
-          label: 'Troubleshooting',
+          label: 'Help with the App',
         },
       ],
     },
@@ -40,27 +40,27 @@ const sidebars: SidebarsConfig = {
         {
           type: 'doc',
           id: 'technical-details/data-schema',
-          label: 'Data Schema',
+          label: 'Data Format',
         },
         {
           type: 'doc',
           id: 'technical-details/source-adapters',
-          label: 'Source Adapters',
+          label: 'Country Collectors',
         },
         {
           type: 'doc',
           id: 'technical-details/aemps-collector',
-          label: 'AEMPS Collector',
+          label: 'Spain (AEMPS)',
         },
         {
           type: 'doc',
           id: 'reference/cli',
-          label: 'CLI',
+          label: 'Command Line',
         },
         {
           type: 'doc',
           id: 'usage/operations',
-          label: 'Operations',
+          label: 'Updates and Deployment',
         },
       ],
     },

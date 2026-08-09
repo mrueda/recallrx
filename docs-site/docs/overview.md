@@ -1,55 +1,49 @@
-# Overview
+# Start Here
 
-RecallRx is a static search app for medicine recalls indexed from official
-public regulatory sources. Start with the app, then use these docs when you
-need to understand the results, data freshness, parser warnings, or developer
-workflow.
+RecallRx helps you find medicine recall notices published by national medicines
+authorities. It brings notices from Spain, Portugal, and France into one search
+app and links each result back to the authority that published it.
 
 <div className="button-row">
   <a className="button button--primary button--lg" href="https://mrueda.github.io/recallrx/app/">
-    Open the live recall search app
+    Open the live search
   </a>
 </div>
 
-The active sources are Spain/AEMPS, Portugal/INFARMED, and France/ANSM. The app
-and data model are country-aware, so additional authorities can be added without
-changing how users search.
+## What You Can Do
 
-## For Users
+1. Choose Spain, Portugal, or France at the top of the app.
+2. Search for a medicine name, product code, lot number, alert number, year, or
+   date range.
+3. Open a result to check the notice on the authority's website.
 
-- Search by medicine name, product code, lot, alert id, year, or date range.
-- Switch countries from the app header.
-- Open official source pages and PDFs from every result when available.
-- Use the hover text on badges and chips to understand class, match, and parser
-  status.
-- Treat extraction warnings as a prompt to verify the original record.
-- Use the freshness indicator beside the export timestamp: teal means the
-  selected country was exported less than 48 hours ago, amber means 48 to 72
-  hours, and red means more than 72 hours or an unavailable timestamp.
+RecallRx currently uses notices from AEMPS in Spain, INFARMED in Portugal, and
+ANSM in France. The data is normally refreshed once a day. The app shows the
+date and status of the latest update for the country you selected.
 
-RecallRx is an index. It does not replace advice from health authorities,
-clinicians, pharmacists, or official product notices.
+## Before You Rely on a Result
 
-## For Developers
+RecallRx is an index of published notices, not a medical advice service. A
+search with no results means only that RecallRx did not find a match in its
+current data. It does not prove that a medicine is safe or unaffected.
 
-- Python collectors for official country authority pages.
-- HTML-first parsing with transient PDF fallback when required fields are
-  missing.
-- Country-aware normalized recall schema.
-- Static JSON output for GitHub Pages.
-- Static browser app over medicine name, product code, lot, recall id, reason,
-  and dates.
-- Manual test workflow and a daily documentation/data export workflow.
+Check the official source linked from the result before making a decision. If
+you need advice about a medicine you are using, speak to a pharmacist, doctor,
+or the relevant medicines authority.
 
-## Non-goals
+## Choose the Right Guide
 
-- Safety certification or product safety claims.
-- User accounts, authentication, or an admin panel.
-- Server-side APIs or hosted databases.
-- Safety scoring, product recommendations, or user-submitted medical advice.
+- [Use the App](./usage/quickstart.md) explains searches, filters, labels, and
+  update dates.
+- [Limits and Safety](./usage/safety-language.md) explains what a result can and
+  cannot tell you.
+- [Help with the App](./usage/troubleshooting.md) covers missing results, stale
+  data, and display problems.
+- [Architecture](./technical-details/architecture.md) is the starting point for
+  developers and maintainers.
 
-## Trust model
+## What RecallRx Does Not Do
 
-RecallRx indexes official records. Every result must link back to the
-original source page and PDF when available. A missing result only means no
-matching record was found in the indexed dataset.
+RecallRx does not provide medical advice, certify product safety, rank the
+seriousness of a notice, or accept user-submitted recall reports. It does not
+replace the original notice published by an authority.

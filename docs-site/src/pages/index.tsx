@@ -5,20 +5,20 @@ import styles from './index.module.css';
 const userLinks = [
   {
     label: 'Search',
-    title: 'Open the recall search app',
-    text: 'Search official recall exports by medicine name, product code, lot, alert id, year, or date range.',
+    title: 'Search medicine recalls',
+    text: 'Choose a country and search by medicine name, product code, lot, alert number, year, or date.',
     url: 'https://mrueda.github.io/recallrx/app/',
   },
   {
     label: 'Understand',
-    title: 'Read the user guide',
-    text: 'Learn what badges, warnings, source links, country switching, and daily export dates mean.',
+    title: 'Understand a result',
+    text: 'See what the dates, coloured labels, update status, and official source links mean.',
     url: '/recallrx/docs/usage/quickstart',
   },
   {
     label: 'Safety',
-    title: 'Safety language',
-    text: 'Use official source links for decisions and treat RecallRx as an index, not medical advice.',
+    title: 'Know the limits',
+    text: 'Learn why a search result is a starting point and when to check the original notice or ask a professional.',
     url: '/recallrx/docs/usage/safety-language',
   },
 ];
@@ -26,29 +26,29 @@ const userLinks = [
 const developerLinks = [
   {
     label: 'Architecture',
-    title: 'How it works',
-    text: 'Review the static app, daily export pipeline, country-aware datasets, and source adapter boundaries.',
+    title: 'How RecallRx is built',
+    text: 'Follow the path from an official notice to the daily data files and the public search app.',
     url: '/recallrx/docs/technical-details/architecture',
   },
   {
-    label: 'Schema',
-    title: 'Normalized data model',
-    text: 'Inspect the recall record contract used by the frontend and active country sources.',
+    label: 'Data',
+    title: 'Data files and fields',
+    text: 'See the common JSON format used for notices from each country.',
     url: '/recallrx/docs/technical-details/data-schema',
   },
   {
     label: 'Extend',
     title: 'Add another country',
-    text: 'Implement a new source adapter while keeping the browser app contract stable.',
+    text: 'Build and test a collector for another medicines authority.',
     url: '/recallrx/docs/technical-details/source-adapters',
   },
 ];
 
 const rows = [
-  ['ES', 'AEMPS', 'R_21/2026', 'CN 755215'],
-  ['PT', 'INFARMED', 'CI 054/CD', 'AIM 2621696'],
-  ['FR', 'ANSM', 'Rappel produit', 'CIP 3400955062400'],
-  ['AD', 'Salut', 'planned', 'source needed'],
+  ['Country', 'Authority'],
+  ['Spain', 'AEMPS'],
+  ['Portugal', 'INFARMED'],
+  ['France', 'ANSM'],
 ];
 
 export default function Home() {
@@ -63,11 +63,11 @@ export default function Home() {
           <div className={styles.heroGrid}>
             <div className={styles.copy}>
               <p className={styles.kicker}>RecallRx</p>
-              <h1>Find medicine recalls from official public sources.</h1>
+              <h1>Find medicine recall notices from official sources.</h1>
               <p className={styles.lede}>
-                RecallRx publishes daily static exports from active regulatory
-                sources in Spain, Portugal, and France. The docs explain how to
-                interpret results and how to maintain or extend the collectors.
+                RecallRx brings together public recall notices from medicines
+                authorities in Spain, Portugal, and France. It updates each day
+                and links every result to the original source.
               </p>
               <div className={styles.actions}>
                 <a className="button button--primary button--lg" href="https://mrueda.github.io/recallrx/app/">
@@ -85,7 +85,7 @@ export default function Home() {
             <div className={styles.indexPanel} aria-label="RecallRx country index preview">
               <a className={styles.identity} href="https://mrueda.github.io/recallrx/app/">
                 <img className={styles.logo} src={logoUrl} alt="RecallRx logo" />
-                <span>Live recall index</span>
+                <span>Available countries</span>
               </a>
               <div className={styles.tablePreview} aria-hidden="true">
                 {rows.map((row) => (
@@ -97,9 +97,9 @@ export default function Home() {
                 ))}
               </div>
               <div className={styles.statusRow}>
-                <span className={styles.source}>official source</span>
-                <span className={styles.static}>static JSON</span>
-                <span className={styles.safe}>no safety claims</span>
+                <span className={styles.source}>official notices</span>
+                <span className={styles.static}>daily updates</span>
+                <span className={styles.safe}>source links</span>
               </div>
             </div>
           </div>
@@ -108,7 +108,7 @@ export default function Home() {
         <section className={styles.sections} id="user-docs" aria-labelledby="user-heading">
           <div className={styles.sectionHeader}>
             <p>User docs</p>
-            <h2 id="user-heading">Use the app first.</h2>
+            <h2 id="user-heading">Help with searching and reading results.</h2>
           </div>
           <div className={styles.grid}>
             {userLinks.map((feature) => (
@@ -124,7 +124,7 @@ export default function Home() {
         <section className={styles.sections} id="developer-docs" aria-labelledby="developer-heading">
           <div className={styles.sectionHeader}>
             <p>Developer docs</p>
-            <h2 id="developer-heading">Maintain and extend RecallRx.</h2>
+            <h2 id="developer-heading">For maintainers and contributors.</h2>
           </div>
           <div className={styles.grid}>
             {developerLinks.map((feature) => (

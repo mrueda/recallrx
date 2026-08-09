@@ -1,0 +1,138 @@
+name: Deploy docs and app
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/deploy.yml"
+      - "data/**"
+      - "docs-site/**"
+      - "site/**"
+      - "src/recallrx/**"
+      - "pyproject.toml"
+      - "recallrx.config.json"
+  workflow_dispatch:
+    inputs:
+      collection_mode:
+        description: Data collection mode
+        required: true
+        default: incremental
+        type: choice
+        options:
+          - incremental
+          - full
+  schedule:
+    - cron: "17 4 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  COLLECTION_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.collection_mode || 'incremental' }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python package
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -e .
+
+      - name: Collect recall data
+        if: github.event_name != 'push'
+        run: python -m recallrx build --output data --config recallrx.config.json --mode "$COLLECTION_MODE"
+
+      - name: Validate recall data
+        run: python -m recallrx validate data
+
+      - name: Write collection summary
+        if: github.event_name != 'push'
+        run: python -m recallrx summary data >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Test freshness indicator
+        run: |
+          node --check site/app.js
+          node --check site/freshness.js
+          node tests/test_freshness.js
+
+      - name: Detect substantive data changes
+        if: github.event_name != 'push'
+        id: data_changes
+        shell: bash
+        run: |
+          changes="$(git status --porcelain --untracked-files=all -- ':(glob)data/countries/*/recalls-summary.json' ':(glob)data/countries/*/recalls/*.json')"
+          if [ -z "$changes" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Persist updated recall records
+        if: github.event_name != 'push' && steps.data_changes.outputs.changed == 'true'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Update recall data ($(date -u +%F))"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Build live search app for docs site
+        run: python -m recallrx dist --output docs-site/static/app
+
+      - name: Install docs dependencies
+        working-directory: docs-site
+        run: npm ci
+
+      - name: Typecheck docs
+        working-directory: docs-site
+        run: npm run typecheck
+
+      - name: Build Docusaurus site
+        working-directory: docs-site
+        run: npm run build
+
+      - name: Verify search index
+        working-directory: docs-site
+        run: test -s build/search-index.json
+
+      - name: Verify embedded search app
+        working-directory: docs-site
+        run: test -s build/app/index.html
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs-site/build
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
