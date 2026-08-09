@@ -64,7 +64,7 @@ one GitHub Pages site.
 Keeping the source directories separate allows the app, data generation, and
 documentation to be tested independently.
 
-Only `.github/workflows/documentation.yml` deploys Pages. It uploads the whole
+Only `.github/workflows/deploy.yml` deploys Pages. It uploads the whole
 `docs-site/build` directory as one artifact. This ensures that the docs and app
 always come from the same build, even though CI tests can run in a separate
 workflow.

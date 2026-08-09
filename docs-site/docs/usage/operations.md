@@ -7,7 +7,7 @@ Pages artifact, so the live docs and app always come from the same release.
 
 ## Daily Update
 
-The documentation workflow runs once a day in incremental mode. It:
+The deployment workflow runs once a day in incremental mode. It:
 
 1. checks the recent or current-year listings for every enabled authority;
 2. adds new notices and updates existing ones while keeping older records;
