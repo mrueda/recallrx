@@ -11,8 +11,7 @@
 official public sources.**
 
 [![Build](https://github.com/mrueda/recallrx/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/mrueda/recallrx/actions/workflows/build-and-test.yml)
-[![Documentation Build](https://github.com/mrueda/recallrx/actions/workflows/documentation.yml/badge.svg)](https://github.com/mrueda/recallrx/actions/workflows/documentation.yml)
-[![Deployment Status](https://github.com/mrueda/recallrx/actions/workflows/deploy.yml/badge.svg)](https://github.com/mrueda/recallrx/actions/workflows/deploy.yml)
+[![Documentation Status](https://github.com/mrueda/recallrx/actions/workflows/documentation.yml/badge.svg)](https://github.com/mrueda/recallrx/actions/workflows/documentation.yml)
 [![Documentation](https://img.shields.io/badge/docs-online-blue)](https://mrueda.github.io/recallrx/)
 [![Python](https://img.shields.io/badge/python-%3E%3D3.10-blue)](pyproject.toml)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)

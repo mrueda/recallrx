@@ -1,20 +1,13 @@
 # Updates and Deployment
 
-This page is for maintainers. RecallRx has two independent documentation-related
-GitHub Actions workflows:
-
-- `documentation.yml` is a manual validation workflow. It type-checks and
-  builds the docs and embedded app, but it cannot deploy Pages.
-- `deploy.yml` builds and publishes both the documentation and the app. It is
-  the only workflow with Pages permissions.
-
-Neither workflow calls or waits for the other. Every deployment still uploads
-the docs and app together as one artifact, so one cannot replace the other on
-the live site.
+This page is for maintainers. RecallRx uses one GitHub Actions workflow to
+refresh the data, validate and build the documentation and embedded app, and
+deploy them together. The complete Docusaurus build is uploaded as one GitHub
+Pages artifact, so the live docs and app always come from the same release.
 
 ## Daily Update
 
-The deployment workflow runs once a day in incremental mode. It:
+The documentation workflow runs once a day in incremental mode. It:
 
 1. checks the recent or current-year listings for every enabled authority;
 2. adds new notices and updates existing ones while keeping older records;
