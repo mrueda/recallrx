@@ -34,7 +34,7 @@
       "product_code_systems": [
         "CIP"
       ],
-      "records": 291,
+      "records": 292,
       "status": "active"
     },
     {
@@ -49,8 +49,8 @@
     }
   ],
   "default_country": "es",
-  "generated_at": "2026-08-05T06:40:41+00:00",
-  "record_count": 552,
+  "generated_at": "2026-08-11T05:31:07+00:00",
+  "record_count": 553,
   "sources": [
     "es_aemps",
     "pt_infarmed",
