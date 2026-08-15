@@ -1,6 +1,35 @@
 [
   {
     "authority": "ANSM",
+    "confidence": 0.9,
+    "country": "FR",
+    "date": "2026-08-14",
+    "id": "FR_ANSM_SLUG_TEMOZOLOMIDE_ACCORD_250_MG_GELULE_LABORATOIRE_ACCORD_HEALTCARE_F_12363F980870",
+    "local_id": "SLUG_TEMOZOLOMIDE_ACCORD_250_MG_GELULE_LABORATOIRE_ACCORD_HEALTCARE_F_12363F980870",
+    "lots": [
+      "mentionn",
+      "P2600019",
+      "fait",
+      "concern",
+      "rappel"
+    ],
+    "manufacturer": "Laboratoire Accord Healtcare France SAS",
+    "medicine": "Témozolomide Accord 250 mg, gélule",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400930024065"
+      }
+    ],
+    "publication_date": "2026-08-14",
+    "reason": "Témozolomide Accord 250 mg, gélule – Laboratoire Accord Healtcare France SAS RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 14/08/2026 A+ A- Niveau de rappel : En direct auprès des établissements de santé concernés et des patients Le laboratoire Accord Healtcare France SAS procède, en accord avec l’ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Temozolomide Accord 250 mg, gélule - boîte de 5 sachets (CIP 34009 300 240 6 5) : Lot P2600019 (péremption 09/2027) Ce rappel de lot fait suite à la découverte d’un sachet contenant deux gélules de témozolomide 250 mg, alors qu’il ne devrait en contenir qu’une seule.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/temozolomide-accord-250-mg-gelule-laboratoire-accord-healtcare-france-sas",
+    "warnings": []
+  },
+  {
+    "authority": "ANSM",
     "confidence": 0.78,
     "country": "FR",
     "date": "2026-08-10",
