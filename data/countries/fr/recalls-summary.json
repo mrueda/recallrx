@@ -3,6 +3,47 @@
     "authority": "ANSM",
     "confidence": 0.9,
     "country": "FR",
+    "date": "2026-08-19",
+    "id": "FR_ANSM_SLUG_TAVNEOS_10_MG_GELULE_LABORATOIRE_VIFOR_FRANCE_198C35B295C0",
+    "local_id": "SLUG_TAVNEOS_10_MG_GELULE_LABORATOIRE_VIFOR_FRANCE_198C35B295C0",
+    "lots": [
+      "NAB87201",
+      "NAC76902",
+      "NAC87803",
+      "NAD74701",
+      "NAE08401",
+      "NAB57003",
+      "NAB71702",
+      "NAC69501",
+      "NAC89101",
+      "NAC93101",
+      "NAD30601",
+      "NAD58701",
+      "NAD74802"
+    ],
+    "manufacturer": "Laboratoire Vifor France (MED26/A019/B018)",
+    "medicine": "Tavneos 10 mg, gélule",
+    "pdf_url": null,
+    "product_codes": [
+      {
+        "system": "CIP",
+        "value": "3400930270387"
+      },
+      {
+        "system": "CIP",
+        "value": "3400930246948"
+      }
+    ],
+    "publication_date": "2026-08-19",
+    "reason": "Tavneos 10 mg, gélule – Laboratoire Vifor France (MED26/A019/B018) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 19/08/2026 A+ A- Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique Le laboratoire Vifor France procède, en accord avec l'ANSM, au rappel des lots mentionnés ci-dessous de la spécialité pharmaceutique Tavneos 10mg, gélule : Tavneos 10 mg, gélule - boite de 30 gélules (CIP 3400930270387) : Lot NAB87201 – Exp : 02/2027 Lot NAC76902 – Exp : 07/2028 Lot NAC87803 – Exp : 08/2028 Lot NAD74701 – Exp : 02/2029 Lot NAE08401 – Exp : 02/2029 Tavneos 10 mg, gélule - boite de 180 gélules (CIP 3400930246948) : Lot NAB57003 – Exp : 11/2026 Lot NAB71702 – Exp : 01/2027 Lot NAC69501 – Exp : 07/2028 Lot NAC89101 – Exp : 07/2028 Lot NAC93101 – Exp : 07/20",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/tavneos-10-mg-gelule-laboratoire-vifor-france",
+    "warnings": []
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.9,
+    "country": "FR",
     "date": "2026-08-14",
     "id": "FR_ANSM_SLUG_TEMOZOLOMIDE_ACCORD_250_MG_GELULE_LABORATOIRE_ACCORD_HEALTCARE_F_12363F980870",
     "local_id": "SLUG_TEMOZOLOMIDE_ACCORD_250_MG_GELULE_LABORATOIRE_ACCORD_HEALTCARE_F_12363F980870",
