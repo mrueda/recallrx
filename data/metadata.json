@@ -22,7 +22,7 @@
       "product_code_systems": [
         "AIM"
       ],
-      "records": 104,
+      "records": 105,
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "product_code_systems": [
         "CIP"
       ],
-      "records": 294,
+      "records": 295,
       "status": "active"
     },
     {
@@ -49,8 +49,8 @@
     }
   ],
   "default_country": "es",
-  "generated_at": "2026-08-20T04:55:00+00:00",
-  "record_count": 555,
+  "generated_at": "2026-09-09T08:59:41+00:00",
+  "record_count": 557,
   "sources": [
     "es_aemps",
     "pt_infarmed",

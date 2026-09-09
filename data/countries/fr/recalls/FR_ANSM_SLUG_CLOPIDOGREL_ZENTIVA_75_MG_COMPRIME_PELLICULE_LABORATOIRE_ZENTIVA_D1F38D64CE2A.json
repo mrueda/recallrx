@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : officines et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-09-08",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_CLOPIDOGREL_ZENTIVA_75_MG_COMPRIME_PELLICULE_LABORATOIRE_ZENTIVA_D1F38D64CE2A",
+  "local_id": "SLUG_CLOPIDOGREL_ZENTIVA_75_MG_COMPRIME_PELLICULE_LABORATOIRE_ZENTIVA_D1F38D64CE2A",
+  "lots": [
+    "4P0202A",
+    "4P0201A"
+  ],
+  "manufacturer": "Laboratoire Zentiva France (MED26/A020)",
+  "medicine": "Clopidogrel Zentiva 75 mg, comprimé pelliculé",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-09-08",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Clopidogrel Zentiva 75 mg, comprimé pelliculé – Laboratoire Zentiva France (MED26/A020)"
+  },
+  "reason": "12/2026) Ce rappel fait suite à la mise en évidence de plusieurs non-conformités aux bonnes pratiques de fabrication de l’intermédiaire de la substance active.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/clopidogrel-zentiva-75-mg-comprime-pellicule-laboratoire-zentiva-france",
+  "warnings": [
+    "missing_cip"
+  ]
+}
