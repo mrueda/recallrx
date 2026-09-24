@@ -1,0 +1,30 @@
+{
+  "actions": null,
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-09-24",
+  "expiry_dates": [],
+  "id": "FR_ANSM_R2625881",
+  "local_id": "R2625881",
+  "lots": [
+    "effectu"
+  ],
+  "manufacturer": null,
+  "medicine": "Prothèses vasculaires Intergard Synergy Knitted et Intergard Standard Knitted - Getinge",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-09-24",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Prothèses vasculaires Intergard Synergy Knitted et Intergard Standard Knitted - Getinge"
+  },
+  "reason": null,
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/protheses-vasculaires-intergard-synergy-knitted-et-intergard-standard-knitted-getinge",
+  "warnings": [
+    "missing_cip",
+    "missing_manufacturer"
+  ]
+}

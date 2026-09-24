@@ -1,13 +1,13 @@
 {
   "reports": [
     {
-      "accepted": 19,
-      "candidates": 30,
+      "accepted": 22,
+      "candidates": 33,
       "country": "pt",
       "discovery": "recent_alerts",
       "fallback_records": 0,
       "mode": "incremental",
-      "pages": 6,
+      "pages": 7,
       "rejected": [
         {
           "reason": "not_human_medicine_recall",
