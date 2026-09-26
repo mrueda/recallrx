@@ -3,6 +3,27 @@
     "authority": "ANSM",
     "confidence": 0.78,
     "country": "FR",
+    "date": "2026-09-25",
+    "id": "FR_ANSM_R2628224",
+    "local_id": "R2628224",
+    "lots": [],
+    "manufacturer": "Medtronic",
+    "medicine": "Sonde de défibrillation OmniaSecure MRI SureScan 3930M Lead",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-09-25",
+    "reason": null,
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/sonde-de-defibrillation-omniasecure-mri-surescan-3930m-lead-medtronic",
+    "warnings": [
+      "missing_cip",
+      "missing_lot"
+    ]
+  },
+  {
+    "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
     "date": "2026-09-24",
     "id": "FR_ANSM_R2625881",
     "local_id": "R2625881",
