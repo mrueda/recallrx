@@ -1,8 +1,8 @@
 {
   "reports": [
     {
-      "accepted": 19,
-      "candidates": 30,
+      "accepted": 18,
+      "candidates": 29,
       "country": "pt",
       "discovery": "recent_alerts",
       "fallback_records": 0,
@@ -11,13 +11,13 @@
       "rejected": [
         {
           "reason": "not_human_medicine_recall",
-          "title": "Suspensão de fabrico e recolha: soluções estéreis do fabricante Sterisets Manufacturing, S.A.",
-          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13524229"
+          "title": "Recolha do medicamento Salofalk, Messalazina 3000 mg, granulado gastrorresistente de libertação prolongada",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13517026"
         },
         {
           "reason": "not_human_medicine_recall",
-          "title": "Recolha do medicamento Salofalk, Messalazina 3000 mg, granulado gastrorresistente de libertação prolongada",
-          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13517026"
+          "title": "Recolha do medicamento Meropenem Aurovitas 500mg, Pó para solução injetável ou para perfusão",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13514580"
         },
         {
           "reason": "not_human_medicine_recall",
