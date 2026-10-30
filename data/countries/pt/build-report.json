@@ -1,8 +1,8 @@
 {
   "reports": [
     {
-      "accepted": 18,
-      "candidates": 29,
+      "accepted": 17,
+      "candidates": 27,
       "country": "pt",
       "discovery": "recent_alerts",
       "fallback_records": 0,
@@ -11,13 +11,13 @@
       "rejected": [
         {
           "reason": "not_human_medicine_recall",
-          "title": "Recolha do medicamento Meropenem Aurovitas 500mg, Pó para solução injetável ou para perfusão",
-          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13514580"
+          "title": "Recolha do medicamento Salofalk, Messalazina 3000 mg, granulado gastrorresistente de libertação prolongada",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13517026"
         },
         {
           "reason": "not_human_medicine_recall",
-          "title": "Recolha voluntária de lote | Oxaliplatina Generis, 5 mg/ml, concentrado para solução para perfusão",
-          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13281501"
+          "title": "Recolha do medicamento Meropenem Aurovitas 500mg, Pó para solução injetável ou para perfusão",
+          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/13514580"
         },
         {
           "reason": "not_human_medicine_recall",
@@ -58,17 +58,12 @@
           "reason": "not_human_medicine_recall",
           "title": "Suspensão da Comercialização e Retirada do Mercado | Carpi Cosméticos / SeiBellaBrasil",
           "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11968041"
-        },
-        {
-          "reason": "not_human_medicine_recall",
-          "title": "Suspensão e recolha voluntária do lote de seringas Cardio Natur (Jiangsu Kanghua Medical Equipment Co., Ltd.)",
-          "url": "https://www.infarmed.pt/web/infarmed/alertas/-/journal_content/56/15786/11842146"
         }
       ],
       "semantic_retries": 0,
       "source": "pt_infarmed",
       "stored_after": 106,
-      "stored_before": 105,
+      "stored_before": 106,
       "warnings": []
     }
   ]
