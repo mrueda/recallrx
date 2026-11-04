@@ -1,15 +1,15 @@
 {
   "reports": [
     {
-      "accepted": 45,
-      "candidates": 45,
+      "accepted": 46,
+      "candidates": 46,
       "country": "fr",
       "mode": "incremental",
       "pages": 3,
       "rejected": [],
       "source": "fr_ansm",
-      "stored_after": 300,
-      "stored_before": 299,
+      "stored_after": 301,
+      "stored_before": 300,
       "warnings": []
     }
   ]
