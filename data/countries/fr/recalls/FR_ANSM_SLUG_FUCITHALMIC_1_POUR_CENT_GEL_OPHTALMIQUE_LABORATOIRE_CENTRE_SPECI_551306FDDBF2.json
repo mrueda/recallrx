@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : officines, établissements de santé et circuit de distribution pharmaceutique",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-11-10",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_FUCITHALMIC_1_POUR_CENT_GEL_OPHTALMIQUE_LABORATOIRE_CENTRE_SPECI_551306FDDBF2",
+  "local_id": "SLUG_FUCITHALMIC_1_POUR_CENT_GEL_OPHTALMIQUE_LABORATOIRE_CENTRE_SPECI_551306FDDBF2",
+  "lots": [
+    "mentionn",
+    "L49511"
+  ],
+  "manufacturer": "Laboratoire Centre Spécialités Pharmaceutiques (MED26/A023/B021)",
+  "medicine": "Fucithalmic 1 pour cent, gel ophtalmique",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-11-10",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Fucithalmic 1 pour cent, gel ophtalmique – Laboratoire Centre Spécialités Pharmaceutiques (MED26/A023/B021)"
+  },
+  "reason": "31/05/2029) Ce rappel fait suite à la mise en évidence de résultats non conformes observés lors d'un essai de simulation de procédé aseptique, ne permettant pas d’exclure à ce jour un risque de contamination microbiologique du médicament.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/fucithalmic-1-pour-cent-gel-ophtalmique-laboratoire-centre-specialites-pharmaceutiques",
+  "warnings": [
+    "missing_cip"
+  ]
+}
