@@ -1,0 +1,33 @@
+{
+  "actions": "Niveau de rappel : établissements de santé Les Laboratoires Majorelle procèdent, en accord avec l'ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Mapakna LP 20 mg, comprimé à libération prolongée (CIP 34009 550 924 1 4) Lot 008825 (Exp 10/2027) Ce rappel fait suite à la mise en évidence de résultats de dissolution non conformes, constatés par les laboratoires de contrôle de l’ANSM et confirmés par",
+  "authority": "ANSM",
+  "confidence": 0.9,
+  "country": "FR",
+  "date": "2026-11-18",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_MAPAKNA_LP_20_MG_COMPRIME_A_LIBERATION_PROLONGEE_LABORATOIRES_MA_6F59904C09AA",
+  "local_id": "SLUG_MAPAKNA_LP_20_MG_COMPRIME_A_LIBERATION_PROLONGEE_LABORATOIRES_MA_6F59904C09AA",
+  "lots": [
+    "mentionn",
+    "008825"
+  ],
+  "manufacturer": "Laboratoires Majorelle (MED26/B022)",
+  "medicine": "Mapakna LP 20 mg, comprimé à libération prolongée",
+  "pdf_url": null,
+  "product_codes": [
+    {
+      "system": "CIP",
+      "value": "3400955092414"
+    }
+  ],
+  "product_type": "medicine",
+  "publication_date": "2026-11-18",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Mapakna LP 20 mg, comprimé à libération prolongée – Laboratoires Majorelle (MED26/B022)"
+  },
+  "reason": "Mapakna LP 20 mg, comprimé à libération prolongée – Laboratoires Majorelle (MED26/B022) RAPPEL DE PRODUIT - Médicaments - PUBLIÉ LE 18/11/2026 A+ A- Niveau de rappel : établissements de santé Les Laboratoires Majorelle procèdent, en accord avec l'ANSM, au rappel du lot mentionné ci-dessous de la spécialité : Mapakna LP 20 mg, comprimé à libération prolongée (CIP 34009 550 924 1 4) Lot 008825 (Exp 10/2027) Ce rappel fait suite à la mise en évidence de résultats de dissolution non conformes, constatés par les laboratoires de contrôle de l’ANSM et confirmés par le laboratoire.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/mapakna-lp-20-mg-comprime-a-liberation-prolongee-laboratoires-majorelle",
+  "warnings": []
+}
