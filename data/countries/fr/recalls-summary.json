@@ -1,6 +1,29 @@
 [
   {
     "authority": "ANSM",
+    "confidence": 0.78,
+    "country": "FR",
+    "date": "2026-11-24",
+    "id": "FR_ANSM_SLUG_ALBUMINE_HUMAINE_IODEE_125I_CIS_BIO_INTERNATIONAL_SOLUTION_INJEC_D20A05C94027",
+    "local_id": "SLUG_ALBUMINE_HUMAINE_IODEE_125I_CIS_BIO_INTERNATIONAL_SOLUTION_INJEC_D20A05C94027",
+    "lots": [
+      "mentionn"
+    ],
+    "manufacturer": null,
+    "medicine": "Albumine humaine iodée [125I], Cis bio international, solution injectable. [Réf : SERALB-125] - Laboratoire Cis Bio International",
+    "pdf_url": null,
+    "product_codes": [],
+    "publication_date": "2026-11-24",
+    "reason": "[Réf : SERALB-125] (CIP : 34009 564 445 2 6) Lot : Z011 (péremption : 17/12/2026) Ce rappel fait suite à la mise en évidence d'un défaut de sertissage au niveau de la capsule aluminium de certains flacons de ce lot.",
+    "recall_class": null,
+    "source_url": "https://ansm.sante.fr/informations-de-securite/albumine-humaine-iodee-125i-cis-bio-international-solution-injectable-ref-seralb-125-laboratoire-cis-bio-international",
+    "warnings": [
+      "missing_cip",
+      "missing_manufacturer"
+    ]
+  },
+  {
+    "authority": "ANSM",
     "confidence": 0.9,
     "country": "FR",
     "date": "2026-11-18",
