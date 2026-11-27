@@ -1,0 +1,30 @@
+{
+  "actions": "Niveau de rappel : en direct auprès des officines ayant reçu les lots rappelés. Aucun numéro d’alerte n’est donc attribué. Les Laboratoires Urgo Healthcare procèdent, en accord avec l’ANSM et par mesure de précaution, au rappel des lots mentionnés ci-dessous de la spécialité : Humexlib état grippal paracétamol/vitamine C/ohéniramine 500 mg/200 mg/25 mg, poudre pour solution buvable en sachet - boîte de 8 sachets (CIP : 3400927827396) Lot 1316 (péremption : 05/2029) ; Lot 1317 (péremption : 06/2029). Ce rappel fait suite à la mise en évidence sur les étuis des lots concernés, d’une erreur dans la transcription en braille de la dénomination de la spécialité qui stipule la mention « sans sucre » alors que cette spécialité en contient. Les Laboratoires Urgo Healthcare précisent qu’aucun cas de",
+  "authority": "ANSM",
+  "confidence": 0.78,
+  "country": "FR",
+  "date": "2026-11-26",
+  "expiry_dates": [],
+  "id": "FR_ANSM_SLUG_HUMEXLIB_ETAT_GRIPPAL_PARACETAMOL_VITAMINE_C_PHENIRAMINE_500_MG_EF7E6EBD9B71",
+  "local_id": "SLUG_HUMEXLIB_ETAT_GRIPPAL_PARACETAMOL_VITAMINE_C_PHENIRAMINE_500_MG_EF7E6EBD9B71",
+  "lots": [
+    "1316",
+    "1317"
+  ],
+  "manufacturer": "Laboratoires Urgo Healthcare",
+  "medicine": "Humexlib Etat Grippal paracetamol/vitamine C/pheniramine 500 mg/200 mg/25 mg, poudre pour solution buvable en sachet",
+  "pdf_url": null,
+  "product_codes": [],
+  "product_type": "medicine",
+  "publication_date": "2026-11-26",
+  "raw": {
+    "source": "fr_ansm",
+    "title": "Humexlib Etat Grippal paracetamol/vitamine C/pheniramine 500 mg/200 mg/25 mg, poudre pour solution buvable en sachet – Laboratoires Urgo Healthcare"
+  },
+  "reason": "Ce rappel fait suite à la mise en évidence sur les étuis des lots concernés, d’une erreur dans la transcription en braille de la dénomination de la spécialité qui stipule la mention « sans sucre » alors que cette spécialité en contient.",
+  "recall_class": null,
+  "source_url": "https://ansm.sante.fr/informations-de-securite/humexlib-etat-grippal-paracetamol-vitamine-c-pheniramine-500-mg-200-mg-25-mg-poudre-pour-solution-buvable-en-sachet-laboratoires-urgo-healthcare",
+  "warnings": [
+    "missing_cip"
+  ]
+}
